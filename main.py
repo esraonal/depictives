@@ -45,7 +45,9 @@ def read_connlu(treebank):
             if str(columns[1]).lower() != str(prev_columns[1].lower()) and str(columns[4]) == 'Adj' and \
                     str(next_columns[4]) == 'Verb' and str(next_columns[2]) != 'ol' and \
                      str(next_columns[2]) != 'bul' and str(next_columns[2]) != 'et' \
-                    and str(next_columns[2]) != 'görün':
+                    and str(next_columns[2]) != 'görün' and str(columns[1]).lower() != 'iyi' \
+                    and str(next_columns[2]) != 'say' and str(columns[1]).lower() != 'ilk' \
+                    and str(columns[1]).lower() != 'çok':
                 var = True
                 w += 1
                 whole_text += sentence + '\n' + treebank[i] + '\n' + treebank[i+1] + '\n'
@@ -62,17 +64,17 @@ def read_connlu(treebank):
         except IndexError:
             pass
 
-        debups = open("bare_adj.txt", "a+")
-        redup_mods = open("bare_adj_modifiers.txt", "a+")
+    debups = open("bare_adj.txt", "a+")
+    redup_mods = open("bare_adj_modifiers.txt", "a+")
 
-        for i in range(1):
-            debups.write('Number of instances: ' + str(w) + '\n\n')
-            debups.write(whole_text)
-            debups.close()
+    for i in range(1):
+        debups.write('Number of instances: ' + str(w) + '\n\n')
+        debups.write(whole_text)
+        debups.close()
 
-            redup_mods.write('Number of pairs: ' + str(w2) + '\n\n')
-            redup_mods.write(adjectives)
-            redup_mods.close()
+        redup_mods.write('Number of pairs: ' + str(w2) + '\n\n')
+        redup_mods.write(adjectives)
+        redup_mods.close()
 
 
     #     try:
