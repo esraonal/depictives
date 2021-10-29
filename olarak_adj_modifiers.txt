@@ -1,0 +1,917 @@
+Number of pairs: 24
+
+çarpık	ol
+farklı	ol
+engel	ol
+ciddi	ol
+ölü	ol
+düzenli	ol
+doğal	ol
+kesin	ol
+hareketsiz	ol
+gönüllü	ol
+eksiksiz	ol
+kesintisiz	ol
+bireysel	ol
+eş	ol
+tam	ol
+razı	ol
+son	ol
+dörtlü	ol
+yok	ol
+cansız	ol
+açık	ol
+uygun	ol
+ilk	ol
+geçici	ol
+Number of pairs: 1
+
+davetli	ol
+Number of pairs: 4
+
+mevcutlu	ol
+diğer	ol
+normal	ol
+yemi	ol
+Number of pairs: 6
+
+zorunlu	ol
+dönük	ol
+doğal	ol
+sır	ol
+ücretli	ol
+uygun	ol
+Number of pairs: 2
+
+kesin	ol
+açık	ol
+Number of pairs: 5
+
+genel	ol
+pişman	ol
+i̇lk	ol
+düzenli	ol
+doğal	ol
+Number of pairs: 7
+
+kronolojik	ol
+farklı	ol
+i̇lk	ol
+serbest	ol
+devamlı	ol
+gerçek	ol
+aralıksız	ol
+Number of pairs: 2
+
+sarih	ol
+kesin	ol
+Number of pairs: 10
+
+bütün	ol
+emin	ol
+ümidi	ol
+gizli	ol
+damgalı	ol
+haklı	ol
+son	ol
+artist	ol
+mevcut	ol
+diyagonal	ol
+Number of pairs: 6
+
+görevli	ol
+farklı	ol
+gerçek	ol
+bağlı	ol
+haklı	ol
+ilk	ol
+Number of pairs: 2
+
+kesin	ol
+son	ol
+Number of pairs: 12
+
+tabii	ol
+kısa	ol
+kıpkırmızı	ol
+haklı	ol
+dolu	ol
+gizli	ol
+açık	ol
+ani	ol
+canlı	ol
+bağlı	ol
+tabi	ol
+vazıh	ol
+Number of pairs: 1
+
+ilk	ol
+Number of pairs: 5
+
+dimdik	ol
+haklı	ol
+emin	ol
+mümeyyiz	ol
+karmakarışık	ol
+Number of pairs: 28
+
+doğal	ol
+bilinçli	ol
+kusursuz	ol
+özel	ol
+doğru	ol
+ilk	ol
+kesin	ol
+sendromlu	ol
+zorunlu	ol
+geleneksel	ol
+psikolojik	ol
+farklı	ol
+bütün	ol
+kaçınılmaz	ol
+eksiksiz	ol
+hakli	ol
+etik	ol
+içgüdüsel	ol
+geçici	ol
+taraflı	ol
+yaklaşık	ol
+fiilî	ol
+yatay	ol
+bağımsız	ol
+dönük	ol
+zanlı	ol
+yoğun	ol
+haklı	ol
+Number of pairs: 3
+
+mülazımıevvel	ol
+i̇lk	ol
+son	ol
+Number of pairs: 4
+
+tabii	ol
+dolu	ol
+kapalı	ol
+garip	ol
+Number of pairs: 2
+
+haksız	ol
+uygun	ol
+Number of pairs: 16
+
+i̇lk	ol
+ilk	ol
+türk	ol
+ciddî	ol
+son	ol
+haksız	ol
+yatılı	ol
+canlı	ol
+kılavuz	ol
+açık	ol
+garip	ol
+tabiî	ol
+sıcak	ol
+gönüllü	ol
+kansız	ol
+yazılı	ol
+Number of pairs: 1
+
+rahat	ol
+Number of pairs: 19
+
+açık	ol
+gizli	ol
+yanlış	ol
+geceli	ol
+temelli	ol
+garip	ol
+gündüzlü	ol
+misal	ol
+aksi	ol
+ânî	ol
+kültürel	ol
+ilk	ol
+gönüllü	ol
+bütün	ol
+tam	ol
+geçici	ol
+haklı	ol
+sağ	ol
+dolu	ol
+Number of pairs: 5
+
+yoğun	ol
+karı	ol
+görsel	ol
+haklı	ol
+tarihsel	ol
+Number of pairs: 4
+
+engel	ol
+haklı	ol
+doğal	ol
+özel	ol
+Number of pairs: 3
+
+soluk	ol
+kapalı	ol
+soyut	ol
+Number of pairs: 4
+
+gelin	ol
+haklı	ol
+âşık	ol
+genel	ol
+Number of pairs: 6
+
+son	ol
+açık	ol
+erkeksiz	ol
+ilk	ol
+kuramsal	ol
+haklı	ol
+Number of pairs: 3
+
+ani	ol
+ciddi	ol
+rahatsız	ol
+Number of pairs: 16
+
+yaygın	ol
+aykırı	ol
+ilk	ol
+sarılı	ol
+son	ol
+bağlı	ol
+uygun	ol
+eğimli	ol
+acısız	ol
+gizli	ol
+kapalı	ol
+safdil	ol
+asılı	ol
+farklı	ol
+güçlü	ol
+emin	ol
+Number of pairs: 5
+
+ilk	ol
+i̇lk	ol
+altın	ol
+son	ol
+deli	ol
+Number of pairs: 2
+
+tam	ol
+zorunlu	ol
+Number of pairs: 4
+
+ilk	ol
+i̇lk	ol
+özel	ol
+ölü	ol
+Number of pairs: 3
+
+farklı	ol
+üstün	ol
+kesin	ol
+Number of pairs: 18
+
+bütün	ol
+taraflı	ol
+paralel	ol
+ters	ol
+bilinçli	ol
+i̇çgüdüsel	ol
+içgüdüsel	ol
+i̇lk	ol
+sanlı	ol
+doğal	ol
+tatlı	ol
+zorunlu	ol
+parasal	ol
+geçici	ol
+özel	ol
+gönüllü	ol
+uygun	ol
+kaçınılmaz	ol
+Number of pairs: 8
+
+geçici	ol
+uygun	ol
+haklı	ol
+topsuz	ol
+genel	ol
+silahsız	ol
+kesin	ol
+tutuklu	ol
+Number of pairs: 7
+
+ingilizce	ol
+özel	ol
+farklı	ol
+haklı	ol
+karşılıklı	ol
+bağlı	ol
+devrimci	ol
+Number of pairs: 0
+
+Number of pairs: 15
+
+gerçek	ol
+son	ol
+i̇lk	ol
+uygun	ol
+farklı	ol
+kesin	ol
+kanatlı	ol
+gönüllü	ol
+çiğ	ol
+ilk	ol
+taze	ol
+sağ	ol
+özel	ol
+esas	ol
+veri	ol
+Number of pairs: 3
+
+i̇lk	ol
+ilk	ol
+eşit	ol
+Number of pairs: 7
+
+sahte	ol
+yaratık	ol
+haksız	ol
+psikolojik	ol
+gönüllü	ol
+mantıklı	ol
+izmaritçi	ol
+Number of pairs: 9
+
+farklı	ol
+muhafız	ol
+askeri	ol
+sır	ol
+son	ol
+kasıtlı	ol
+dönük	ol
+özel	ol
+tam	ol
+Number of pairs: 14
+
+gönüllü	ol
+doğal	ol
+uygun	ol
+paralel	ol
+yükümlü	ol
+son	ol
+uyanık	ol
+tek	ol
+zorunlu	ol
+emniyetli	ol
+tam	ol
+razı	ol
+dolu	ol
+denk	ol
+Number of pairs: 2
+
+uyanık	ol
+gönlü	ol
+Number of pairs: 2
+
+son	ol
+ilk	ol
+Number of pairs: 7
+
+ilk	ol
+somut	ol
+özel	ol
+devamlı	ol
+türk	ol
+haklı	ol
+son	ol
+Number of pairs: 7
+
+pişman	ol
+haklı	ol
+sarılı	ol
+dönük	ol
+kesin	ol
+silahsız	ol
+geçici	ol
+Number of pairs: 1
+
+davetli	ol
+Number of pairs: 8
+
+canlı	ol
+düzenli	ol
+hafızı	ol
+hafız	ol
+tabiî	ol
+genel	ol
+geçici	ol
+ait	ol
+Number of pairs: 6
+
+kartsız	ol
+vekil	ol
+yavaş	ol
+süslü	ol
+çarşaflı	ol
+kesin	ol
+Number of pairs: 20
+
+ilk	ol
+yoğun	ol
+sarılı	ol
+genel	ol
+kişisel	ol
+doğal	ol
+suçlu	ol
+teorik	ol
+irk	ol
+uygun	ol
+dolaylı	ol
+resmi	ol
+çıpasız	ol
+paralel	ol
+son	ol
+bağımsız	ol
+gönüllü	ol
+görevli	ol
+farklı	ol
+asker	ol
+Number of pairs: 9
+
+açık	ol
+doğru	ol
+yaygın	ol
+teselli	ol
+genel	ol
+toplumsal	ol
+uygun	ol
+bağlı	ol
+simgesel	ol
+Number of pairs: 16
+
+kapalı	ol
+kıpkırmızı	ol
+esas	ol
+ilk	ol
+ani	ol
+tabii	ol
+sıkı	ol
+dolu	ol
+dönük	ol
+ahengi	ol
+ciddi	ol
+yayan	ol
+bağlı	ol
+akıllı	ol
+hızlı	ol
+aynı	ol
+Number of pairs: 4
+
+tabii	ol
+özel	ol
+ani	ol
+uzak	ol
+Number of pairs: 20
+
+haklı	ol
+dolu	ol
+askeri	ol
+ayrı	ol
+zorunlu	ol
+son	ol
+açık	ol
+huzursuz	ol
+ilk	ol
+karışık	ol
+düzenli	ol
+ticari	ol
+eşit	ol
+bireysel	ol
+genel	ol
+kasıtlı	ol
+özel	ol
+tıkaç	ol
+kişisel	ol
+köylü	ol
+Number of pairs: 12
+
+ölü	ol
+sağ	ol
+zorunlu	ol
+aynı	ol
+parasal	ol
+memnun	ol
+karşılıklı	ol
+bağlı	ol
+razı	ol
+yoğun	ol
+kesin	ol
+düzenli	ol
+Number of pairs: 8
+
+tatlı	ol
+haklı	ol
+bütün	ol
+genel	ol
+özel	ol
+kapalı	ol
+teorik	ol
+i̇deolojik	ol
+Number of pairs: 7
+
+kesin	ol
+köylü	ol
+geçici	ol
+küfür	ol
+dikili	ol
+canlı	ol
+zanlı	ol
+Number of pairs: 5
+
+incelikli	ol
+son	ol
+yazılı	ol
+kesin	ol
+doğal	ol
+Number of pairs: 13
+
+güzel	ol
+baygın	ol
+kuvvetsiz	ol
+kapalı	ol
+ciddi	ol
+bol	ol
+kocaman	ol
+tesirli	ol
+i̇lk	ol
+tabii	ol
+tabi	ol
+genel	ol
+ilk	ol
+Number of pairs: 8
+
+ayrı	ol
+sadık	ol
+aynı	ol
+nişanlı	ol
+gizli	ol
+dargın	ol
+ani	ol
+muvazi	ol
+Number of pairs: 0
+
+Number of pairs: 8
+
+pratik	ol
+vakitsiz	ol
+dönük	ol
+dolu	ol
+meşk	ol
+memnun	ol
+emin	ol
+haklı	ol
+Number of pairs: 5
+
+imzasız	ol
+haklı	ol
+yeni	ol
+ayrı	ol
+dikkatli	ol
+Number of pairs: 6
+
+esas	ol
+mensup	ol
+tabiî	ol
+tek	ol
+garip	ol
+doğru	ol
+Number of pairs: 30
+
+yakın	ol
+tam	ol
+emin	ol
+açık	ol
+yazılı	ol
+haklı	ol
+belirgin	ol
+üçümüz	ol
+özel	ol
+genel	ol
+doğal	ol
+vezir	ol
+kültürel	ol
+geçici	ol
+farklı	ol
+eksiksiz	ol
+kronolojik	ol
+salim	ol
+tarafsız	ol
+yoğun	ol
+bilinçli	ol
+aralıksız	ol
+paralel	ol
+zanlı	ol
+düzenli	ol
+aptal	ol
+objektif	ol
+karşılıklı	ol
+yasal	ol
+kesin	ol
+Number of pairs: 6
+
+yatılı	ol
+ehemmiyetli	ol
+rahat	ol
+misal	ol
+koca	ol
+memnun	ol
+Number of pairs: 18
+
+farklı	ol
+sağ	ol
+yaygın	ol
+özel	ol
+uygun	ol
+kuramsal	ol
+kesin	ol
+emir	ol
+son	ol
+yoğun	ol
+dönük	ol
+ayrı	ol
+geçici	ol
+bağlı	ol
+düşünsel	ol
+yazılı	ol
+yaklaşık	ol
+geleneksel	ol
+Number of pairs: 7
+
+i̇lk	ol
+doğal	ol
+ilk	ol
+haklı	ol
+yanlışsız	ol
+farklı	ol
+genç	ol
+Number of pairs: 3
+
+dönük	ol
+acil	ol
+konuk	ol
+Number of pairs: 25
+
+düzenli	ol
+eksiksiz	ol
+kaçınılmaz	ol
+gönüllü	ol
+ciddi	ol
+aksaksız	ol
+zanlı	ol
+karşılıklı	ol
+doğal	ol
+bedensel	ol
+uygun	ol
+kesin	ol
+gizli	ol
+bağlı	ol
+yoğun	ol
+sorumlu	ol
+tam	ol
+düşünsel	ol
+son	ol
+dönük	ol
+eş	ol
+farklı	ol
+sır	ol
+tanık	ol
+geçici	ol
+Number of pairs: 10
+
+özel	ol
+gönüllü	ol
+içerik	ol
+bilinçli	ol
+sağır	ol
+işlevsel	ol
+süs	ol
+gorevlılen	ol
+haklı	ol
+kırk	ol
+Number of pairs: 20
+
+yoksun	ol
+ilk	ol
+paralel	ol
+ödevli	ol
+geniş	ol
+dışlı	ol
+bütün	ol
+yazılı	ol
+dogmatik	ol
+yok	ol
+bilinçli	ol
+i̇lk	ol
+politik	ol
+nesir	ol
+bilimsel	ol
+somut	ol
+teknik	ol
+sorumlu	ol
+üsteğmen	ol
+haklı	ol
+Number of pairs: 19
+
+teselli	ol
+tutarlı	ol
+nakşi	ol
+son	ol
+aykırı	ol
+ilk	ol
+rastlantısal	ol
+âşık	ol
+resmi	ol
+hırsız	ol
+özel	ol
+uygun	ol
+haklı	ol
+boş	ol
+geçici	ol
+salik	ol
+ölü	ol
+yüzeysel	ol
+kara	ol
+Number of pairs: 18
+
+mutlu	ol
+geçici	ol
+açık	ol
+doğal	ol
+kesin	ol
+yakın	ol
+resmi	ol
+oyuncak	ol
+uzak	ol
+haklı	ol
+asıl	ol
+deşik	ol
+memnun	ol
+mesut	ol
+ciddi	ol
+tabii	ol
+deli	ol
+ilk	ol
+Number of pairs: 2
+
+i̇lk	ol
+ilk	ol
+Number of pairs: 1
+
+ilk	ol
+Number of pairs: 12
+
+manken	ol
+bütün	ol
+ciddi	ol
+ölü	ol
+kesin	ol
+seri	ol
+pullu	ol
+ayrı	ol
+yazılı	ol
+ulysses	ol
+uygun	ol
+taze	ol
+Number of pairs: 16
+
+yatılı	ol
+içgüdüsel	ol
+uygun	ol
+devrimel	ol
+âşık	ol
+son	ol
+geçici	ol
+haklı	ol
+gönüllü	ol
+özel	ol
+arkadaşın	ol
+görevli	ol
+ilk	ol
+doğal	ol
+asker	ol
+elektronik	ol
+Number of pairs: 19
+
+karşılıksız	ol
+genel	ol
+özel	ol
+haklı	ol
+toplumsal	ol
+ilk	ol
+teselli	ol
+pişman	ol
+ritüeli	ol
+cinsel	ol
+fiziksel	ol
+son	ol
+düzenli	ol
+seyrek	ol
+zengin	ol
+kesin	ol
+bütün	ol
+eksiksiz	ol
+uygun	ol
+Number of pairs: 4
+
+düzenli	ol
+kırmızı	ol
+duygusal	ol
+haklı	ol
+Number of pairs: 2
+
+misal	ol
+geçici	ol
+Number of pairs: 12
+
+amaçlı	ol
+yüzeysel	ol
+habersiz	ol
+tabii	ol
+çift	ol
+yanlış	ol
+tabi	ol
+zengin	ol
+ayrı	ol
+yakın	ol
+emin	ol
+teferruatlı	ol
+Number of pairs: 1
+
+özel	ol
+Number of pairs: 7
+
+ilk	ol
+yermeli	ol
+dolu	ol
+geçici	ol
+uygulamalı	ol
+dolaylı	ol
+tabiî	ol
+Number of pairs: 2
+
+özel	ol
+son	ol
+Number of pairs: 15
+
+amaçlı	ol
+farklı	ol
+uygun	ol
+seçik	ol
+kalfa	ol
+aralıksız	ol
+bilinçli	ol
+özel	ol
+kaçınılmaz	ol
+bitişik	ol
+zamanlı	ol
+bağlı	ol
+basit	ol
+kasıtlı	ol
+haklı	ol
+Number of pairs: 6
+
+suz	ol
+tabii	ol
+uygun	ol
+mahzuz	ol
+tanık	ol
+bilimsel	ol
+Number of pairs: 18
+
+utanç	ol
+i̇lk	ol
+istatistiksel	ol
+ciddi	ol
+uygun	ol
+özel	ol
+kişisel	ol
+haklı	ol
+ilk	ol
+açık	ol
+ahlaksız	ol
+doğru	ol
+son	ol
+tutarlı	ol
+içgüdüsel	ol
+teselli	ol
+kaçınılmaz	ol
+model	ol

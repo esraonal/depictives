@@ -1,0 +1,6619 @@
+Number of pairs: 74
+
+tatlı	tatlı	ış
+ağır	ağır	keşfet
+iyisin	iyisin          -del
+derin	derin   nefes çek
+ters	ters	bak
+sinirli	sinirli	gül
+derin	derin	bak
+anlamlı	anlamlı	gülümse
+harıl	harıl	çalış   -del
+derin	derin	inle
+tatlı	tatlı	burk
+ağır	ağır	sön
+kırış	kırış	ol      -del
+geri	geri	git     -del
+uzun	uzun
+kesik	kesik           -del
+ağır	ağır	aydınlan
+boğuk	boğuk	gel
+anlamlı	anlamlı süz
+tatlı	tatlı	çınla
+derin	derin	iç çek
+ağır	ağır    çevir
+soğuk	soğuk	bakan
+sifli	sifli	dolaş
+ciddi	ciddi	kork    -del
+tabii	Tabii           -del
+tatlı	tatlı	gülümse
+rahat	rahat   çalış
+tek tek	süz             -del
+hızlı	hızlı   hareket et
+yok	Yok                 -del
+kolay	kolay	kurtul
+iri	iri	aç
+ağır	ağır	ilerle
+tek	tek	yakala
+dalgın	dalgın  seyret
+çifter	çifter      -del
+karış	karış	ara
+teker	teker	uyar
+keyifli	keyifli	dik
+teker	teker	uyan
+tek	tek	yokla
+kötü	kötü	bak
+dalgın	dalgın	kıpırda
+pişkin	pişkin	sırı
+acı	acı	gülümse
+yavaş	yavaş	konuş
+korka	korka	ye
+dik	dik	bak
+güzel	güzel	konuş
+ekşi	ekşi
+teker	teker	sık
+kolay	kolay
+sinirli	sinirli
+ağır	ağır	salla
+dik	Dik
+ağır	ağır	kuru
+kara	kara	düşün
+teker	teker	kutla
+ayrı	ayrı
+teker	teker
+zangır	zangır	titre
+sakin	sakin	anlat
+uzun	uzun	bak
+Number of pairs: 102
+
+suçlu	suçlu	gül
+ayrı	ayrı	bak
+pırıl	pırıl	kıpırda
+parazitli	parazitli	yay
+sinirli	sinirli	çırp
+kırmızı	kırmızı	yan
+boğuk	boğuk	öksür
+mavi	mavi	gül
+deli	deli	ağla
+uzun	uzun	anlat
+uzun	uzun	bak
+kıvır	kıvır
+küme	küme
+başka	başka	İstanbul
+küçük	küçük
+suçlu	suçlu	bakan
+kötü	kötü	çat
+paslı	paslı	gıcırda
+cıvıl	cıvıl
+bol	bol
+uzun	uzun	gül
+sinirli	sinirli	yürü
+hafif	hafif	vur
+anlayışlı	anlayışlı	salla
+büyük	büyük	aç
+vıcık	vıcık
+kıs	kıs	gül
+sinirli	Sinirli
+yavaş	yavaş
+sesli	sesli	esne
+ağır	ağır	yürü
+ağır	ağır	gel
+tek	tek	at
+beyaz	beyaz	ağar
+hızlı	hızlı	vur
+sarı	sarı	çık
+dertli	dertli	çek
+uzun	uzun
+ağır	Ağır
+tatsız	tatsız	gül
+dalgın	dalgın	bak
+fırıl	fırıl	dön
+yeni	yeni
+sinirli	sinirli	gir
+dertli	dertli
+sakin	sakin	bak
+tembel	tembel
+ekşi	ekşi	kok
+ite	ite
+tembel	tembel	gerin
+uzun	uzun	öt
+yavaş	yavaş	yürü
+iri	iri	konuş
+sesli	Sesli
+hızlı	hızlı	çarp
+renk	renk
+pis	pis
+azgın	Azgın
+dikkatli	dikkatli	bak
+yavaş	yavaş	gevşe
+kurumlu	kurumlu	geç
+dolu	dolu
+telaşlı	telaşlı
+keyifli	keyifli	gül
+uzun	uzun	yık
+teker	teker	vedalaş
+kötü	kötü
+diyar	diyar
+uzun	uzun	dinle
+zırıl	zırıl
+dertli	dertli	salla
+ağır	ağır	in
+hırslı	hırslı	bağır
+koca	koca
+dalgın	dalgın	iç
+çeşit	çeşit
+kırış	kırış
+ağır	ağır	gir
+teker	teker
+ağır	ağır	geçer
+melil	melil
+kara	kara
+ağır	ağır	çık
+acı	Acı
+ağır	ağır	geç
+büyük	Büyük
+Number of pairs: 32
+
+teker	teker
+renk	renk
+model	model
+yavaş	yavaş	dağıl
+teker	teker	süz
+zırıl	zırıl	terle
+kala	Kala
+küt	küt	at
+derin	derin	düşün
+boy	Boy
+rahat	rahat
+gürül	gürül
+şarıl	şarıl
+çifter	çifter	çık
+sıfır	sıfır
+sapır	sapır	titre
+ağır	Ağır
+yok	yok
+kuvvetli	kuvvetli	konuş
+yavaş	yavaş
+tombul	tombul
+kıtık	Kıtık
+alaylı	alaylı	bak
+kütür	kütür
+cıvıl	cıvıl
+ışıl	ışıl	ol
+dağ	dağ
+tıkış	tıkış
+sert	sert	süzer
+kolay	kolay	sal
+bol	bol
+Number of pairs: 26
+
+bol	bol
+gizli	gizli
+kötü	kötü
+ters	ters	bak
+gürül	gürül	yan
+ağır	ağır	yürü
+ayrı	ayrı	bin
+anlamlı	anlamlı	gülümse
+bol	bol	oku
+dolu	dolu	ol
+kâmil	kâmil
+sessiz	sessiz	ağla
+tek	tek	ara
+kolay	kolay	salıver
+tek	tek
+uzun	uzun	düşün
+geri	geri	git
+ayrı	ayrı	ver
+uzun	uzun	konuş
+uzun	uzun
+derin	Derin
+aylak	aylak	dolaş
+sütun	sütun	böl
+sinsi	sinsi	gül
+Number of pairs: 20
+
+ağır	ağır	yürü
+ağır	ağır
+ayrı	ayrı
+ağır	ağır	konuş
+türlü	türlü
+kısa	Kısa
+başka	başka
+uzun	uzun
+hafif	hafif	yürü
+bütün	bütün	kaybet
+ağır	ağır	in
+yok	Yok
+şarıl	şarıl	ak
+uzun	uzun	konuş
+bol	bol	harca
+rahat	rahat
+açık	Açık
+­	­
+Number of pairs: 11
+
+gürül	gürül	çağla
+uzun	uzun
+domur	domur	terle
+mutlu	mutlu	uyu
+çıplak	çıplak
+yavaş	yavaş
+tatlı	tatlı	anlat
+uzun	uzun	susa
+sapır	sapır	dök
+ağır	ağır	göster
+bol	bol
+Number of pairs: 16
+
+yeni	Yeni
+yarım	yarım	söyle
+tek	tek	dokun
+tek	tek	topla
+koca	koca
+renk	renk
+sıkı	sıkı
+pırıl	pırıl
+tek	tek
+kıpır	kıpır
+yavaş	yavaş
+bol	bol
+ağır	ağır	yala
+terli	terli
+yumuk	Yumuk
+taksit	taksit	yaşa
+Number of pairs: 220
+
+uzun	uzun
+ufacık	ufacık
+pence	Pence
+acık	acık
+vıcık	vıcık
+uzun	uzun	oyna
+kahırlı	kahırlı
+pırıl	pırıl
+ağır	ağır	yurur
+ağır	ağır
+renk	renk
+hart	hart	kası
+uzun	uzun	bak
+akıl	Akıl
+ağır	ağır	yur
+anlayıslı	anlayıslı	bakıs
+cıvıl	cıvıl
+gav	gav
+sıkı	sıkı	sar
+tatlı	tatlı
+kırıs	Kırıs
+uslu	uslu	git
+uzak	uzak	gitmis
+kırıs	kırıs	gul
+buyuk	Buyuk
+sinirli	sinirli	don
+sert	sert	bak
+uzun	uzun	izle
+yas	yas	parla
+hızlı	hızlı	at
+kocaman	kocaman	ciz
+cesit	cesit
+harıl	harıl	calıs
+yeni	yeni	ağar
+hop	hop	hopla
+tatlı	tatlı	yak
+tatlı	tatlı	gerin
+bol	bol
+acık	acık	de
+uzun	uzun	ic
+kocaman	kocaman
+ağır	ağır	kalk
+ağır	ağır	salla
+sıkı	sıkı	yumar
+uzun	uzun	dusun
+ağır	ağır	al
+ağır	ağır	gotur
+ağır	ağır	ufle
+uzun	uzun	kal
+ağır	ağır	konust
+sırıl	sırıl	ak
+mırıl	mırıl	mırılda
+sinirli	sinirli	temizle
+suclu	suclu
+ağır	ağır	gel
+manalı	manalı
+anlamlı	anlamlı	salla
+uzun	uzun	anlat
+sinirli	sinirli	atla
+sinirli	sinirli	gul
+dalgın	dalgın	al
+guzel	guzel	avratla
+uzun	uzun	ovala
+telaslı	telaslı	gel
+ağır	ağır	yavasla
+iri	iri	anlat
+ağır	ağır	dola
+ağır	ağır	dolasır
+kara	kara
+kotu	kotu
+baska	Baska
+renk	renk	nakısla
+ters	ters	bak
+sıkı	sıkı
+ağır	ağır	yuru
+kara	kara	dusun
+pis	pis	bak
+sinirli	sinirli
+vazgec	Vazgec
+kotu	kotu	yak
+sinirli	sinirli	yudumla
+yorgun	yorgun
+bol	bol	yiyecek
+kıvır	kıvır	dolan
+kıkır	kıkır	gul
+acık	acık	konusmus
+deli	deli	don
+kıvıl	kıvıl
+ayrı	ayrı
+ağır	ağır	vur
+dertli	dertli	basla
+uzun	uzun	bakıs
+hırslı	hırslı	git
+ağır	ağır	otur
+kucuk	kucuk
+tıkır	tıkır	say
+aptal	aptal	bak
+uzun	uzun	oksur
+tatlı	tatlı	don
+canlı	canlı	davran
+derin	derin	hırla
+tatlı	tatlı	gec
+tatlı	tatlı	avun
+hırslı	hırslı
+derin	derin	horla
+boyuk	boyuk
+kolay	kolay	inan
+kara	kara	bak
+uzun	uzun	tara
+deli	deli	gel
+tatlı	tatlı	dinle
+tabi	Tabi
+dumanlı	dumanlı
+yeni	Yeni
+yeni	yeni	bil
+rahat	rahat	dusun
+sinirli	sinirli	ser
+dusunceli	dusunceli	bak
+ağır	ağır	basla
+yavas	yavas	unut
+yok	Yok
+goz	goz
+deli	deli	soyle
+ağır	ağır	ic
+tek	tek	anlat
+acık	acık	anlat
+zangır	zangır	titre
+tiril	tiril	titre
+sinirli	sinirli	tekrarle
+sinirli	sinirli	dola
+iri	iri	soyle
+huylu	huylu	bak
+git	Git
+teker	teker	say
+kaygılı	kaygılı	dusun
+guzel	guzel	ver
+ayrı	ayrı	dinle
+yesil	yesil
+kolay	kolay
+kahırlı	kahırlı	cık
+dolu	dolu	ol
+kıs	kıs	gul
+tatlı	tatlı	gıcıkla
+uzun	uzun	gul
+bol	bol	yey
+keyifli	keyifli	gul
+patlak	patlak
+sivey	sivey	git
+sinirli	sinirli	cık
+cıvıl	cıvıl	bak
+uzun	uzun	seyret
+dertli	dertli	gul
+tenbel	tenbel	esne
+kolay	kolay	bulun
+uzun	uzun	dinle
+hırslı	hırslı	cık
+tıpıs	tıpıs	gider
+kolay	kolay	ver
+cala	Cala
+anlamlı	anlamlı
+kotu	kotu	cat
+ciğ	ciğ	yer
+dargın	Dargın
+uzun	uzun	vur
+kolay	kolay	ol
+kalın	kalın	ot
+uzun	uzun	kokla
+bol	bol	pudrala
+ısıl	ısıl
+sinirli	sinirli	bak
+ılık	ılık
+ağır	ağır	gec
+sinirli	sinirli	terket
+dertli	dertli
+kotu	kotu	sars
+tatlı	tatlı	cal
+sinirli	sinirli	dik
+dalgın	dalgın	bak
+dusunceli	dusunceli	git
+cok	cok
+tutun	Tutun
+acık	acık	soylemis
+mavi	mavi	aydınlat
+sarı	sarı	parla
+guclu	guclu	kır
+var	Var
+bucak	bucak	sakla
+doğru	Doğru
+yas	yas	bak
+gururlu	gururlu	vur
+sarı	Sarı
+dusunceli	dusunceli
+uzun	uzun	ağla
+Number of pairs: 89
+
+teker	teker	say
+ayrı	ayrı
+dalgın	dalgın
+kolay	kolay
+tane	Tane
+yavaş	yavaş
+yavaş	yavaş	dağıl
+cıvıl	cıvıl
+yavaş	yavaş	başla
+yavaş	yavaş	yık
+yavaş	yavaş	in
+teker	teker	çık
+yumuk	yumuk	gül
+yeni	yeni
+ağır	ağır
+korka	korka
+zarf	zarf
+ayrı	ayrı	bil
+yavaş	yavaş	boz
+uzun	uzun	süz
+dik	dik	bak
+yavaş	yavaş	alış
+münasebetsiz	münasebetsiz	konuş
+yavaş	yavaş	konuş
+tatlı	tatlı	gülümse
+zangır	zangır	titre
+teker	teker	anlat
+şaşkın	Şaşkın
+ayrı	ayrı	bağla
+parıl	parıl	parla
+yavaş	yavaş	kabar
+yavaş	yavaş	geç
+uzun	uzun	sıvazla
+yavaş	yavaş	yap
+yavaş	yavaş	sil
+terbiyeli	terbiyeli	otur
+telâşlı	telâşlı	vakle
+tembel	tembel
+arsız	arsız	bağır
+pis	pis	düşün
+ayrı	ayrı	anlat
+diş	diş
+yavaş	yavaş	sıkıl
+ayrı	ayrı	çalış
+saygısız	saygısız	sırı
+aptal	Aptal
+tatlı	tatlı	düşün
+yanık	yanık	oku
+kayıtsız	kayıtsız	bak
+rahat	rahat
+mahzun	mahzun	dön
+dalgın	dalgın	bak
+yumuk	yumuk
+teker	teker
+uzun	uzun	bak
+parça	parça
+bol	bol	düşün
+yavaş	yavaş	gezin
+sabırlı	sabırlı
+yavaş	yavaş	uyan
+yavaş	yavaş	düzel
+aksi	Aksi
+büyük	büyük
+aka	aka
+parıl	parıl	Selma
+yavaş	yavaş	boğul
+tatlı	tatlı	didiş
+kolay	kolay	düşman
+bol	bol
+ciddî	ciddî	bak
+bütün	bütün	ye
+vıcık	vıcık
+hayasız	hayasız	gül
+şirin	şirin	gül
+ayrı	ayrı	dur
+acemi	acemi	sark
+ince	ince	gülümse
+sütun	Sütun
+türlü	türlü
+ciddî	ciddî
+yavaş	yavaş	değiş
+Number of pairs: 58
+
+yavaş	yavaş	uzak
+yavaş	yavaş
+türlü	türlü
+bön	bön
+dikkatli	dikkatli
+yavaş	yavaş	köylü
+tatlı	tatlı	okşa
+şiddetli	şiddetli	çarp
+tok	tok	vur
+yavaş	yavaş	alış
+vakit	Vakit
+hızlı	hızlı	çarp
+sert	sert	bak
+sessiz	sessiz	ağla
+ters	ters	bak
+zari	zari	ağla
+hüngür	hüngür	ağla
+manalı	manalı	sırı
+tatlı	tatlı
+teker	teker
+ağır	Ağır
+cıyak	cıyak	bağır
+hop	hop	hopla
+böğür	böğür	ağla
+tak	tak
+dalgın	Dalgın
+uzun	uzun	sıvazla
+şaşkın	Şaşkın
+ayrı	ayrı
+telaşlı	Telaşlı
+parıl	parıl
+tatlı	tatlı	gidiş
+sessiz	sessiz
+şaşkın	şaşkın	bak
+teker	teker	düş
+polatlı	Polatlı
+sıcak	sıcak
+yavaş	yavaş	in
+parıl	parıl	par
+sıcak	sıcak	kap
+dik	dik
+kara	kara	düşünür
+haylaz	haylaz	dur
+ayrı	ayrı	oku
+ağır	ağır	geç
+parıl	parıl	ol
+kesik	kesik	solu
+yavaş	yavaş	çevir
+kesik	Kesik
+ürkek	ürkek
+yavaş	yavaş	konuş
+parça	parça
+başka	başka	yorumla
+bol	bol
+Number of pairs: 44
+
+küt	küt	vur
+boy	boy
+yayık	yayık
+iri	iri
+şıpır	şıpır	ak
+koca	koca
+uzun	uzun	bak
+uzun	uzun
+kakır	kakır	gül
+dik	dik	bak
+ağır	ağır	soyun
+bol	Bol
+yavaş	yavaş	yüksel
+kabuk	kabuk	kalk
+ağır	ağır
+ağır	ağır	in
+küçük	küçük	yırt
+tatlı	tatlı	bak
+vızır	vızır	geç
+dolu	dolu
+trak	trak
+ağır	ağır	kalk
+kırgın	kırgın	bak
+geri	geri	çek
+boş	boş	kal
+ıslak	ıslak
+deli	deli
+ayrı	ayrı	önem
+katı	Katı
+yavaş	yavaş	söner
+ağır	ağır	gerile
+pis	pis
+kıs	kıs	gül
+ters	ters	bak
+gizli	gizli
+kıpır	kıpır	görün
+derin	derin	solu
+şakır	şakır
+kesik	Kesik
+uzun	uzun	anlat
+uslu	uslu	otur
+kesik	kesik	anlat
+yavaş	yavaş
+Number of pairs: 88
+
+ıslak	ıslak	sivr
+hafif	hafif
+yavaş	Yavaş
+mışıl	mışıl	uyur
+şaşkın	şaşkın	bak
+sessiz	sessiz	ağla
+yavaş	yavaş	soğu
+hafif	hafif	salla
+ağır	ağır	çek
+ağır	ağır
+ağır	ağır	geç
+uzun	uzun	çekiş
+pırıl	pırıl	parla
+ağır	ağır	salla
+yağlı	yağlı	parla
+uzun	uzun	bak
+derin	derin
+yavaş	yavaş	alış
+sessiz	sessiz
+hızlı	hızlı	vur
+sessiz	sessiz	iç
+uzun	uzun	düşün
+dalgın	dalgın	bak
+uslu	uslu	dur
+kibar	kibar
+koşa	koşa	in
+uzun	uzun	söyle
+kötü	kötü	bak
+şıpır	şıpır
+şakır	Şakır
+hızlı	hızlı	git
+yan	yan
+uzun	uzun
+dalgın	dalgın	bekle
+hızlı	hızlı
+tatlı	tatlı	konuş
+dalgın	dalgın
+başka	başka
+zonk	zonk	at
+komşu	komşu	dolaş
+sert	sert
+ince	ince
+uslu	uslu	otur
+sinirli	sinirli	oyna
+ağır	ağır	yürü
+derin	derin	düşün
+hızlı	hızlı	yürü
+serbest	serbest
+teker	teker	tanı
+hırslı	hırslı
+ağır	ağır	sür
+tiril	tiril	titre
+dik	dik	bak
+yeni	yeni	çık
+ağır	ağır	ilerle
+türlü	türlü
+sıkı	sıkı
+aptal	aptal
+yavaş	yavaş	yürü
+uzun	uzun	seyret
+kesik	kesik
+yığın	yığın	topla
+mışıl	mışıl	uy
+yavaş	yavaş	anla
+yeni	yeni
+yavaş	yavaş	azal
+manalı	manalı	gül
+şaşkın	Şaşkın
+teker	teker	dök
+hızlı	hızlı	in
+çeşit	çeşit
+ağır	ağır	yan
+hızlı	hızlı	sol
+yavaş	yavaş	kaybol
+ağır	ağır	doğrul
+pırıl	pırıl	yan
+Number of pairs: 61
+
+çok	Çok
+kıpır	kıpır	et
+uzun	Uzun
+şaşkın	şaşkın	bakış
+ağır	ağır
+yavaş	yavaş
+kocaman	kocaman
+küçük	küçük
+ağır	ağır	çek
+yavaş	yavaş	alış
+renk	renk	uç
+kocaman	kocaman	gözükür
+türlü	türlü
+renk	renk
+aç	aç
+bol	bol
+usul	usul	ilerle
+ağır	ağır	sür
+yan	yan	uç
+yan	Yan
+çalı	çalı	dolaş
+kırmızı	kırmızı
+başka	başka
+derin	derin
+yavaş	yavaş	aç
+ağır	ağır	in
+renk	renk	ışıla
+tek	tek	dolaş
+beşer	Beşer
+teker	teker
+yazık	Yazık
+top	top
+teker	teker	kucakla
+teker	teker	sat
+zangır	zangır	titre
+uzun	uzun	kokla
+yavaş	yavaş	iç
+ağır	ağır	iç
+parıl	parıl	et
+küçük	küçük	mumla
+güzel	güzel
+yarabbi	Yarabbi
+kolay	kolay	bit
+gürül	gürül
+akın	akın
+rahat	rahat
+yok	Yok
+uzun	uzun	konuş
+uzun	uzun	düşün
+kuzu	kuzu
+yavaş	yavaş	toparla
+yığın	yığın
+ağır	ağır	gel
+ana	Ana
+bak	bak
+kolay	kolay
+tek	tek	bak
+yavaş	yavaş	iyi
+uzun	uzun	diz
+Number of pairs: 91
+
+ince	ince	haykır
+ağır	ağır	iri
+yavaş	yavaş	ağar
+ince	ince	sızla
+uzun	uzun	düşün
+yavaş	yavaş
+uslu	uslu	otur
+ağır	ağır
+ağır	ağır	ezberle
+manalı	manalı	gül
+kala	Kala
+açık	açık
+arsız	arsız	sırnaşmak
+ayrı	ayrı	oyna
+ağır	ağır	yaz
+uzun	uzun	bak
+uzun	uzun	dolaş
+sürü	sürü
+hışır	hışır
+kötü	kötü
+ağır	ağır	in
+kesik	kesik	ulu
+kırmızı	kırmızı
+derin	Derin
+koşa	koşa
+sıkı	sıkı
+ağır	ağır	geç
+küçük	küçük
+koyu	koyu	düşün
+derin	derin	sızla
+hızlı	hızlı
+hızlı	hızlı	uzak
+dalgın	dalgın	düşün
+acık	acık	anlat
+tatlı	tatlı	söyle
+ağır	ağır	ıslan
+ağır	ağır	dolaş
+uzun	uzun
+ağır	ağır	yürü
+koca	Koca
+ağır	ağır	gez
+uslu	uslu	yürü
+tatlı	tatlı	konuş
+tomar	tomar
+dalgın	dalgın
+avaz	avaz
+türlü	türlü	al
+yavaş	yavaş	kaldır
+yanık	yanık
+çifter	çifter
+renk	renk
+hızlı	hızlı	yürü
+iri	iri
+ağır	ağır	yüksel
+yavaş	yavaş	aç
+çıngır	çıngır
+ince	ince	kes
+mazlum	mazlum	yat
+hafif	hafif	salla
+ince	ince
+parıl	parıl	yan
+uzun	uzun	salla
+iri	iri	aç
+ufak	ufak
+korka	korka	yap
+yavaş	yavaş	gevşet
+hafif	hafif
+sinirli	sinirli
+dolu	dolu
+hızlı	hızlı	kaç
+hızlı	hızlı	çarp
+derin	derin	uğraş
+telâşlı	telâşlı
+yavaş	yavaş	kes
+uzun	uzun	anlat
+yavaş	yavaş	anlat
+yavaş	yavaş	tut
+yavaş	yavaş	aydınlan
+türlü	türlü
+çeşit	çeşit
+ikişer	ikişer
+açık	açık	anlat
+kalın	kalın	gül
+dolu	dolu	öksür
+kısa	kısa
+türlü	türlü	düşünce
+Number of pairs: 76
+
+uzun	uzun	anlat
+tıkır	tıkır	yürü
+uzun	uzun	düşün
+kötü	kötü	kokan
+kolay	kolay
+ağır	ağır	piş
+yok	Yok
+derin	derin
+tatlı	tatlı	ısıt
+tatlı	tatlı
+dik	dik
+tek	Tek
+sinirli	sinirli	gül
+kötü	kötü	konuş
+pişkin	pişkin	sırı
+tövbe	Tövbe
+dolu	dolu	ol
+kös	kös
+tatlı	tatlı	çınla
+mışıl	mışıl	uy
+bol	Bol
+güzel	güzel
+boş	boş	bak
+lıkır	lıkır	iç
+çeşit	çeşit
+renk	renk
+ters	Ters
+boş	boş
+derin	derin	bak
+yavaş	Yavaş
+ağır	ağır
+pist	Pist
+tatlı	tatlı	azarla
+tembel	tembel	esne
+kötü	kötü
+ince	ince
+renk	renk	etek
+tatlı	tatlı	gül
+ağır	ağır	yudumla
+yılışık	yılışık	sırı
+iri	iri
+ağır	ağır	konuş
+uzun	uzun	bak
+tatlı	tatlı	es
+iri	iri	aç
+ters	ters	bak
+boş	boş	otur
+hızlı	hızlı
+kolay	kolay	dur
+dik	dik	bak
+rahat	rahat
+ağır	ağır	salın
+kötü	kötü	gül
+koşa	koşa	gel
+dolu	dolu
+ateşli	ateşli
+tek	tek	say
+ufak	ufak	söğüşle
+pis	pis	gülümse
+acı	acı	gülümse
+uzun	uzun	yanıtla
+tek	tek	göster
+Number of pairs: 109
+
+ağır	ağır	dön
+sarı	sarı	as
+kocaman	kocaman	aç
+yavaş	yavaş
+şakır	şakır
+ağır	ağır
+uzun	uzun
+başka	başka	gözükür
+iri	iri
+uzun	uzun	sıvazla
+renk	renk
+derin	derin
+pırıl	pırıl
+çok	Çok
+tek	tek
+zangır	zangır	titre
+ağır	ağır	git
+gıcır	gıcır
+çuval	çuval
+uzun	uzun	sarıka
+gürül	gürül	yan
+pırıl	pırıl	ol
+uzun	uzun	gez
+kolay	kolay
+küçücük	küçücük
+teker	teker
+kuzu	kuzu	git
+kuzu	kuzu
+buğulu	buğulu	aç
+tıkır	tıkır	işle
+pampal	pampal	aç
+uzun	uzun	sürün
+koca	koca
+uzun	uzun	öt
+küçük	küçük
+küt	küt	at
+yavaş	yavaş	uzak
+yavaş	yavaş	git
+ürkek	ürkek
+ağır	ağır	kalk
+mırıl	mırıl	et
+uzun	uzun	kokla
+vığıl	vığıl	et
+kıvıl	kıvıl	kaynaş
+kıvıl	kıvıl	et
+ığıl	ığıl	çürü
+top	top
+renk	renk	dur
+uzun	uzun	kılavla
+sapır	sapır
+tas	tas	içer
+sapır	sapır	dök
+ağır	ağır	çek
+ışıl	ışıl
+cayır	cayır	yak
+koşar	Koşar
+renk	renk	kıvılcımla
+uzun	uzun	gerin
+zangır	zangır	titret
+domur	domur	ol
+kıçın	kıçın
+takır	takır
+takır	takır	vur
+ağır	ağır	gel
+yavaş	yavaş	değiş
+yapın	Yapın
+cıvıl	cıvıl
+cıvıl	cıvıl	ol
+başka	başka
+yavaş	yavaş	ağar
+tek	tek	ol
+ağır	ağır	kaldır
+vızır	vızır
+açık	açık
+vızır	vızır	geç
+teker	teker	ara
+kolay	kolay	dön
+yan	yan
+uzun	uzun	bak
+yeni	yeni
+yavaş	yavaş	aç
+ağır	ağır	çık
+yavaş	yavaş	çek
+yavaş	yavaş	sil
+uzun	uzun	anlat
+uzun	uzun	seyret
+kolay	kolay	aç
+şaşkın	şaşkın	bak
+bol	bol	konuş
+türlü	türlü
+kara	kara
+uzun	uzun	düşün
+uzun	uzun	oyna
+ığıl	ığıl	boşa
+kızmaz	Kızmaz
+ağır	ağır	konuş
+Number of pairs: 33
+
+yavaş	yavaş	yaklaş
+yavaş	yavaş
+bar	bar	bağır
+parıl	parıl	yan
+bütün	bütün
+uzun	uzun	anlat
+sert	sert	bak
+uzun	uzun
+rahat	rahat
+yavaş	yavaş	salla
+derin	derin	düşün
+hafif	hafif	vur
+derin	derin	inle
+tabii	Tabii
+uzun	uzun	hış
+fırıl	fırıl	dön
+ağır	ağır
+türlü	türlü
+uzun	uzun	konuş
+teker	teker	gör
+ayrı	ayrı	titre
+yavaş	yavaş	gel
+geri	geri	git
+gizli	Gizli
+uzun	uzun	dinle
+yavaş	yavaş	dön
+ayrı	ayrı
+yavaş	yavaş	vücut
+yavaş	yavaş	don
+Number of pairs: 163
+
+ağır	ağır	gezin
+serin	serin	es
+çirkin	çirkin	gülüş
+ağır	ağır	yürü
+suçlu	suçlu
+hızlı	hızlı	oku
+boş	boş
+derin	derin
+hızlı	hızlı	at
+hızlı	hızlı	geçer
+fısır	fısır
+dalgın	dalgın
+ağır	ağır	çıkar
+horul	horul	uyu
+küçük	küçük
+şaşkın	şaşkın
+ağır	ağır	iç
+kocaman	kocaman	yaz
+uzun	uzun
+ciddi	ciddi
+aptal	aptal	heyecan
+fısır	fısır	konuş
+fısır	fısır	edt
+rahat	rahat	düşün
+sinirli	sinirli	bak
+ağır	ağır	gel
+pis	pis	sık
+ağır	ağır	yaklaş
+teker	Teker
+ciddi	ciddi	bil
+boş	boş	dur
+rahat	Rahat
+boş	boş	konuş
+ıslak	ıslak	otur
+ağır	Ağır
+ağır	ağır	gider
+uslu	uslu	otur
+boş	boş	bak
+küstah	küstah	bak
+rahat	rahat	bak
+hızlı	hızlı	yürü
+kıpır	kıpır	kıpırda
+ağır	ağır	yüksel
+dalgın	dalgın	çiz
+kötü	kötü	bak
+boş	boş	dinle
+ağır	ağır	arala
+teker	teker	anlat
+yavaş	yavaş	sür
+aptal	aptal
+ağır	ağır	geç
+tıkır	tıkır
+uzun	uzun	yürür
+tembel	tembel	otur
+koşa	koşa
+hızlı	hızlı	vur
+mışıl	mışıl	uyur
+yavaş	yavaş	gir
+hızlı	hızlı	karış
+sakin	Sakin
+hızlı	hızlı	dol
+uslu	uslu	yaz
+uzun	uzun	anlat
+dalgın	dalgın	bak
+hafif	hafif
+ağır	ağır	yok
+ağır	ağır	kıpırda
+küçük	küçük	oyna
+uzun	uzun	git
+yavaş	yavaş
+güzel	güzel
+aptal	aptal	kuru
+ağır	ağır	kalk
+ağır	ağır	çiğne
+hızlı	hızlı	geç
+ağır	ağır	salla
+aptal	aptal	bak
+aptal	aptal	bekle
+boş	boş	çık
+ağır	ağır	bırak
+teker	teker	avla
+kararlı	kararlı	yürü
+ağır	ağır	yayla
+ağır	ağır	kaybol
+kıpır	kıpır	kıpırdan
+koşa	koşa	git
+koca	koca
+hızlı	Hızlı
+aylak	aylak	yürü
+uslu	uslu	oyala
+tek	tek
+ağır	ağır	çık
+aptal	aptal	oku
+sinirli	sinirli	gezin
+ağır	ağır	zehirle
+ağır	ağır	git
+sinirli	Sinirli
+hızlı	hızlı	söyle
+hızlı	hızlı	ekle
+pis	pis	sırı
+fitil	fitil	getir
+ağır	ağır	uzak
+hızlı	hızlı	koş
+güzel	güzel	yaşa
+rahat	rahat	iç
+aptal	aptal	dur
+boş	boş	gezin
+rahat	rahat	koş
+hızlı	hızlı	kıpırda
+yavaş	yavaş	gerçek
+sinirli	sinirli	yelpazele
+ağır	ağır	anlat
+geri	geri
+hafif	hafif	kıpırda
+ağır	ağır	in
+şaşkın	şaşkın	bak
+suçlu	suçlu	bak
+hışır	hışır
+dalgın	dalgın	oku
+suçlu	suçlu	fışkır
+uslu	uslu	gir
+dalgın	dalgın	yürü
+dalgın	dalgın	katla
+kıpır	kıpır
+telâşlı	telâşlı
+rahat	rahat	sapla
+Number of pairs: 37
+
+başka	başka
+bütün	bütün	değiş
+yavaş	yavaş	tırman
+yavaş	yavaş	tanı
+yavaş	yavaş	azal
+tarta	tarta	söyla
+derin	derin	düşün
+bütün	bütün
+yavaş	yavaş	yürü
+yavaş	Yavaş
+garip	garip
+yavaş	yavaş	çık
+tatlı	tatlı	gülümse
+sert	sert
+gırç	gırç
+yavaş	yavaş	beyazlaş
+başka	başka	örnek
+yavaş	yavaş	konuş
+yavaş	yavaş	sür
+kös	kös	gel
+sessiz	sessiz
+ayrı	ayrı
+gizli	gizli	konuş
+uzun	uzun	konuş
+uzun	uzun
+uzun	uzun	tartış
+sakin	sakin	konuş
+uzun	uzun	dur
+yavaş	yavaş	kazan
+uzun	uzun	anlat
+şaşkın	şaşkın	bak
+basa	basa
+ciddî	ciddî	konuş
+yığın	yığın
+Number of pairs: 42
+
+derin	derin
+yürekli	yürekli	gül
+yavaş	yavaş
+hafif	Hafif
+mahzun	mahzun	gülümse
+dalgın	dalgın
+ağır	ağır	geç
+ayrı	ayrı
+yavaş	yavaş	heyecan
+ağır	Ağır
+ağır	ağır	git
+kös	kös
+yavaş	yavaş	alış
+ayrı	ayrı	düşün
+bütün	bütün
+gizli	gizli
+açık	açık	söyla
+güzel	güzel	konuş
+uzun	uzun	konuş
+uzun	uzun	düşün
+yavaş	yavaş	aşın
+gizli	gizli	ağla
+şaşkın	şaşkın	çarpış
+ayrı	ayrı	anlat
+çeşit	çeşit
+türlü	türlü
+uzun	uzun	bak
+yan	yan
+ters	ters
+dalgın	dalgın	düşün
+dik	dik
+yığın	yığın
+pişkin	pişkin	eğlen
+dolu	dolu	öksür
+iri	iri	aç
+dalgın	dalgın	gülümse
+sakin	sakin	söyle
+terbiyesiz	terbiyesiz	eğlen
+yavaş	yavaş	kaybol
+ağır	ağır	yürü
+kuru	kuru	ağla
+Number of pairs: 40
+
+başka	başka
+tatlı	tatlı
+teker	teker	okşa
+aptal	aptal	dolaş
+şaşkın	şaşkın	bakan
+rahat	rahat	seyret
+ağır	ağır	gel
+hafif	hafif	salla
+sıkı	sıkı
+sinirli	sinirli
+renk	renk
+vahşî	vahşî	uluma
+ağır	ağır	yürü
+yavaş	yavaş	sön
+yavaş	yavaş
+gizli	gizli	oyna
+uzun	uzun	çek
+uzun	uzun	vızla
+pırıl	pırıl	yan
+gizli	gizli
+türlü	türlü
+uzun	uzun	anlat
+sessiz	sessiz	ağla
+ayrı	ayrı
+şaşkın	şaşkın	koşuş
+sinirli	sinirli	gül
+yavaş	yavaş	anla
+korka	korka
+uzun	uzun	konuş
+tatlı	tatlı	anlat
+yan	yan	ilerle
+hiddetli	hiddetli
+ağır	ağır
+karış	karış	dolaş
+parça	parça
+amin	amin
+harıl	harıl	oku
+Number of pairs: 62
+
+dalgın	dalgın
+dalgın	dalgın	karış
+bol	bol
+kolay	kolay	kurtul
+püfür	püfür
+rahat	rahat	soluy
+aptal	aptal	bak
+uzun	uzun	konuş
+sinirli	sinirli
+tek	tek	gez
+ağır	ağır
+hafif	hafif	kıpırda
+korka	korka
+boş	boş	otur
+tek	tek	hatırla
+boş	boş	bak
+kuzu	kuzu	otur
+yavaş	yavaş	yitir
+yeni	yeni	öğren
+tıkır	tıkır
+yavaş	yavaş
+hızlı	hızlı
+saf	saf	söyle
+tek	tek	dokun
+soğuk	soğuk
+teker	teker
+uslu	uslu
+pırıl	pırıl	parla
+ağır	ağır	terle
+tatlı	tatlı	uyu
+ağır	ağır	oyna
+güzel	güzel	kullan
+boş	boş
+kıpır	kıpır	dol
+renk	renk
+fısır	fısır	konuş
+yavaş	yavaş	gerile
+tembel	tembel	pinekle
+şaşkın	şaşkın	hesapla
+tek	tek	göster
+ateşli	ateşli	salla
+tek	tek	say
+şaşkın	Şaşkın
+yavaş	yavaş	art
+hantal	hantal	kıpırda
+hızlı	hızlı	yürü
+kıpır	kıpır
+ağır	ağır	ilerle
+ağır	ağır	aktar
+ağır	ağır	geç
+ışıl	ışıl	aydınlat
+ağır	ağır	diz
+yeni	yeni	yaygın
+uzun	uzun
+dalgın	dalgın	bak
+Number of pairs: 70
+
+hışır	hışır	gir
+vıcık	vıcık
+melül	melül	dur
+teker	teker
+uzun	uzun
+kıpır	kıpır
+kuru	kuru	öğür
+aylak	aylak
+aptal	Aptal
+deli	deli	konuş
+hızlı	hızlı	uzaklaş
+geri	geri
+kesik	kesik
+şaşkın	şaşkın
+kolay	kolay
+uslu	uslu	ak
+ağır	ağır	ak
+gümbür	gümbür	vur
+teker	teker	vur
+teker	teker	çık
+yavaş	yavaş	demle
+yanık	yanık
+yan	yan
+hafif	hafif
+tek	tek
+uzun	uzun	kokla
+kızgın	kızgın
+yara	yara	gel
+yavaş	yavaş
+yavaş	yavaş	göm
+ıslak	ıslak
+korka	korka
+uzun	uzun	bak
+şırıl	şırıl	ak
+kara	kara	düşün
+takır	takır
+sakin	sakin
+hızlı	hızlı
+gürül	gürül	yan
+gök	gök	bak
+türlü	türlü
+uykulu	uykulu
+yavaş	yavaş	öder
+sıkı	sıkı
+kıs	kıs	gül
+hızlı	hızlı	yürü
+heyecanlı	heyecanlı
+çifter	çifter	yat
+hızlı	hızlı	yürür
+yavaş	yavaş	it
+teker	teker	tara
+bol	bol
+teker	teker	çöz
+yavaş	yavaş	çık
+uzun	uzun	gerin
+geri	geri	git
+sinirli	sinirli
+durun	durun
+yok	Yok
+yavaş	yavaş	dağıl
+ağır	ağır	kay
+ağır	ağır	süz
+ağır	ağır
+yavaş	yavaş	uzaklaş
+telaşlı	telaşlı	dolaş
+çeşit	çeşit
+hüngür	hüngür	ağla
+ağır	ağır	ilerle
+Number of pairs: 44
+
+ağır	ağır
+incecik	incecik
+yavaş	yavaş
+hafif	hafif	salla
+ciddi	ciddi	seviş
+uzun	uzun
+solgun	solgun
+rahat	rahat
+tatlı	tatlı	gülümse
+ağır	ağır	yudumla
+uzak	uzak
+bol	bol
+uslu	uslu	otur
+ıslak	ıslak	dön
+tatlı	tatlı	gülüş
+dikkatli	dikkatli	bak
+ağır	ağır	çöz
+tek	tek	değ
+kesik	kesik	çınla
+kesik	kesik	çal
+küçük	küçük	solukla
+sevimli	sevimli	salla
+ince	ince	terle
+tek	tek	okşan
+hafif	hafif	sür
+ince	ince	karıncala
+ağır	ağır	yatış
+yavaş	yavaş	in
+büyük	büyük	kopar
+kirli	kirli	ak
+küçük	küçük	dişle
+boğuk	boğuk
+hafif	hafif	dişle
+gamlı	gamlı
+ağır	ağır	solu
+ağır	ağır	sön
+çeşit	Çeşit
+tek	tek	öp
+ayrı	ayrı
+uzun	uzun	okşa
+küskün	küskün
+küçük	küçük	kınla
+pırıl	Pırıl
+ağır	ağır	çek
+Number of pairs: 40
+
+ışıl	ışıl	parla
+pırıl	pırıl
+ağır	ağır	yay
+ağır	ağır	çöz
+kova	kova
+ağır	ağır	düzel
+uzun	uzun	bak
+uzun	uzun	seviş
+uzun	uzun
+takır	takır
+yavaş	yavaş	değiş
+ağır	ağır	aç
+ağır	ağır
+uzun	uzun	konuş
+çeşit	çeşit
+ağır	ağır	çörekle
+çın	çın
+teker	teker
+sakin	sakin
+güzel	güzel
+yavaş	yavaş
+ikişer	ikişer
+tek	tek
+aça	aça
+ağır	ağır	yüksel
+yeni	yeni	alış
+ağır	ağır	yürü
+renk	renk
+tek	tek	dağıt
+gizli	Gizli
+hızlı	hızlı	geç
+yavaş	yavaş	kaybet
+rahat	rahat	yap
+uzun	uzun	yürü
+dalgın	dalgın	geç
+vızır	vızır	işle
+tek	tek	öt
+dükkân	dükkân	gez
+gürül	gürül	ak
+yavaş	yavaş	kazı
+Number of pairs: 112
+
+uzun	uzun	koş
+derin	derin
+ince	ince
+uzun	Uzun
+ağır	ağır	geç
+tok	tok
+renk	renk
+tek	tek
+hızlı	hızlı	yürü
+ayrık	ayrık
+ışıl	ışıl	ol
+tek	tek	seç
+hızlı	hızlı	salla
+yavaş	yavaş	dur
+kolay	kolay	bula
+al	al	ol
+akın	akın	çık
+gizli	gizli
+çekinik	çekinik	gülümse
+ufak	ufak	öksür
+anlamlı	anlamlı	gülümse
+bol	bol	öv
+anlayışlı	anlayışlı
+yeni	Yeni
+ıslak	ıslak
+ağır	ağır	ilerle
+yan	yan
+ters	ters	bak
+vıcık	vıcık
+rahat	rahat	hazırla
+ürkek	ürkek	bakın
+ağır	ağır	kay
+tek	tek	düş
+minicik	minicik
+köpük	Köpük
+yavaş	yavaş
+uzun	uzun	dem
+bol	bol
+döve	döve	öl
+dalgın	dalgın	bak
+teker	teker	topla
+dalgın	dalgın	düzel
+dumanlı	dumanlı
+kolay	Kolay
+korka	Korka
+teker	teker
+uzun	uzun	yıka
+derin	derin	solukla
+rahat	rahat	yap
+usul	Usul
+alaylı	alaylı	gül
+sessiz	sessiz	ağla
+çağıl	çağıl	ak
+genç	genç
+uzun	uzun	bak
+isteksiz	isteksiz	dök
+küçük	küçük
+yılışık	yılışık	sırı
+kötü	kötü	bakıo
+küstah	küstah	söyle
+kocaman	kocaman
+sıkı	sıkı	sar
+minik	minik
+tembel	tembel
+sıkı	sıkı	yum
+eşşek	eşşek
+yapış	Yapış
+rahat	rahat	gir
+koşa	koşa
+çeşit	çeşit
+ân	ân
+lak	lak
+uzun	uzun	sözet
+yaldız	yaldız
+dikkatli	dikkatli	bak
+tek	tek	uğraş
+bol	bol	cimnastik
+yavaş	yavaş	git
+yavaş	yavaş	gevş
+kederli	kederli	otur
+hızlı	hızlı
+kesik	Kesik
+ciddi	ciddi
+bol	bol	damla
+kıs	kıs	gül
+yeni	yeni	kat
+rahat	rahat
+ağır	ağır
+sinirli	sinirli
+kurumlu	kurumlu	otur
+teker	teker	vur
+sakin	Sakin
+gizli	gizli	gir
+ince	ince	kıy
+bol	bol	göster
+yeni	yeni	seç
+kabarık	Kabarık
+açık	açık	söyle
+kıkır	kıkır	gül
+ince	ince	kes
+aptal	aptal	tınla
+çekinik	çekinik	sor
+tak	tak	yürü
+isteksiz	isteksiz	salla
+rahat	rahat	çiğne
+tek	tek	sön
+Number of pairs: 82
+
+uzun	uzun	söğ
+renk	renk
+yan	yan	yürü
+ters	ters
+zangır	zangır	titre
+hızlı	hızlı	yürü
+koca	koca
+harıl	harıl	çalış
+uzun	uzun
+beyaz	beyaz
+sarı	sarı
+teker	teker	dolaş
+kocaman	kocaman
+ağır	ağır	yürü
+hararetli	hararetli	konuş
+uzun	uzun	sür
+sakin	sakin	dinle
+ters	ters	bak
+uzun	uzun	seyret
+ağır	ağır	başla
+sinirli	sinirli	yaz
+hızlı	hızlı	gel
+sıcak	sıcak	tüt
+sinirli	sinirli	çık
+uzun	uzun	gül
+küskün	küskün	bakan
+sarı	sarı	ak
+yeter	Yeter
+sessiz	sessiz	gül
+halsiz	halsiz
+tatlı	tatlı	gerin
+uzun	uzun	bak
+büzük	büzük
+hafif	hafif	salla
+ağır	ağır	salla
+ağır	ağır	kalk
+dik	dik
+kıvır	Kıvır
+ağır	ağır	geç
+ıslak	ıslak	bak
+bol	bol	sabunla
+vıcık	vıcık
+kana	kana
+tadsız	tadsız	gül
+sessiz	sessiz	iç
+şaşkın	şaşkın	bak
+yavaş	yavaş	sil
+arsız	arsız	gül
+suçlu	suçlu	çık
+tatlı	tatlı	duy
+uzun	uzun	düşün
+sarı	sarı	parla
+teker	teker	say
+ağır	ağır	dolaş
+bar	bar	bağır
+koş	koş
+ürkek	ürkek	çık
+sinirli	sinirli
+sinirli	sinirli	dik
+yavaş	yavaş	karar
+uzun	uzun	otur
+suçlu	suçlu	in
+kolay	kolay
+uzun	uzun	bakış
+kara	kara	bak
+yavaş	yavaş	parla
+kara	kara	düşün
+küskün	küskün	bak
+pırıl	pırıl
+uzun	uzun	anlat
+kırış	Kırış
+marş	marş
+ağır	ağır	gel
+sessiz	sessiz	ağla
+hafif	hafif	dalga
+Number of pairs: 72
+
+kolay	kolay
+kesik	kesik	öksür
+tek	tek	incele
+yavaş	yavaş
+akın	akın
+ayrı	ayrı	vurgula
+şıkır	şıkır
+ayrı	ayrı
+tek	Tek
+teker	teker	incele
+sıkı	sıkı	sar
+tomar	tomar
+yedire	yedire	sürü
+bütün	bütün
+öbek	öbek
+kesik	Kesik
+sürü	sürü
+yavaş	yavaş	çık
+tek	tek	yokla
+harıl	harıl
+gizli	gizli	akıt
+çeşit	çeşit
+renk	renk
+uzun	uzun
+tek	tek	anlat
+uzun	uzun	anlat
+derin	derin
+tek	tek	mırılda
+farklı	farklı
+uzun	uzun	hesapla
+uzun	uzun	konuş
+gizli	gizli	oku
+açık	açık	gül
+derin	derin	inle
+gizli	gizli	bak
+çizik	çizik	et
+sandık	sandık
+teker	teker
+hızlı	hızlı	çevir
+kalın	kalın
+büyük	büyük
+bol	bol	seyret
+gizli	gizli
+yavaş	yavaş	sıkış
+yığın	Yığın
+teker	teker	ver
+gizli	gizli	yap
+gürül	gürül	ak
+uzun	uzun	tartış
+canlı	canlı
+çok	çok
+gizli	gizli	sok
+ağır	ağır
+teker	teker	selamla
+korka	korka	aç
+türlü	türlü
+yeni	yeni	yaz
+yok	Yok
+yeni	yeni	gör
+uzun	uzun	bahset
+yavaş	yavaş	büyü
+tomar	tomar	et
+tıkır	tıkır	işle
+yeni	yeni
+ayrı	ayrı	çöz
+Number of pairs: 176
+
+pırıl	pırıl
+ağır	ağır	yürü
+sarı	sarı	parla
+domur	domur	ol
+kalka	kalka
+kocaman	kocaman	aç
+koygun	koygun	uğul
+sert	sert	vur
+çalı	çalı	bil
+güzel	güzel
+hayıflı	hayıflı
+teker	teker
+yok	yok
+uzun	uzun	gül
+türlü	türlü
+anlamlı	anlamlı	bak
+uzun	uzun
+ağır	ağır
+korkar	Korkar
+ayrı	ayrı
+şaşkın	şaşkın
+uzun	uzun	bak
+renk	renk
+hızlı	hızlı	vur
+pırıl	pırıl	parla
+kırmızı	kırmızı	çak
+ağır	ağır	çiğne
+uzun	uzun	yankıla
+teker	teker	say
+uzun	uzun	kişne
+yavaş	yavaş
+şaşkın	şaşkın	bak
+zort	zort	gezin
+teker	teker	dolaş
+yavaş	yavaş	gel
+uzun	uzun	incele
+teker	teker	dur
+derin	derin
+dingin	dingin
+yavaş	yavaş	kır
+ağır	ağır	doğrul
+kıpır	kıpır
+iri	iri
+sinirli	sinirli	oyna
+hızlı	hızlı	yürü
+ağır	ağır	in
+ağır	ağır	yüksel
+başka	başka	çal
+koygun	koygun	gel
+yarım	yarım
+kolay	kolay
+pırıl	pırıl	yan
+şimşek	şimşek	yansı
+ince	ince
+mutlu	mutlu	söyle
+uzun	uzun	dinle
+zangır	zangır	titre
+sarı	sarı
+taksit	taksit	öde
+şakır	şakır
+çağıl	çağıl
+yığın	yığın
+teker	teker	al
+küçücük	Küçücük
+ipil	ipil
+ağır	ağır	sek
+ufacık	ufacık
+yılkı	yılkı
+gıcır	gıcır
+sert	sert	bak
+oluk	oluk	terle
+hızlı	hızlı	çek
+çifter	çifter	doğur
+kıpır	kıpır	et
+uzun	uzun	kokla
+tuta	tuta
+zırıl	zırıl
+hüngür	hüngür	ağla
+fitil	fitil
+bol	bol
+yalp	yalp	et
+kolay	kolay	giril
+sıcak	sıcak
+ışıl	ışıl
+tatlı	tatlı	gül
+kocaman	kocaman
+güm	güm	at
+gizli	gizli	konuş
+gizli	gizli
+çabuk	çabuk
+çentik	çentik
+renk	renk	giyin
+geniş	geniş	aç
+kolay	kolay	öl
+teker	teker	öl
+yavaş	yavaş	yatış
+teker	teker	arat
+çentik	çentik	ol
+acı	acı	gül
+derin	derin	sol
+şıkır	şıkır	işle
+dobra	dobra
+anlamlı	anlamlı	gül
+hızlı	hızlı
+hızlı	hızlı	at
+yavaş	yavaş	soy
+gort	gort	dolaş
+fısır	fısır	konuş
+sessiz	sessiz	dinle
+zangır	zangır	et
+yavaş	yavaş	don
+yavaş	yavaş	kurula
+kolay	kolay	aç
+keyifli	keyifli	ye
+uzun	uzun	gerin
+aval	aval
+ağır	ağır	anlat
+çok	çok
+ağır	ağır	çık
+gönülsüz	gönülsüz	ye
+yalım	yalım
+sürü	Sürü
+oyum	oyum	oyna
+teker	teker	anlat
+tek	tek	göster
+teker	teker	söyle
+rahat	rahat	ye
+teker	teker	kucakla
+yeni	yeni	aç
+sapır	sapır	dök
+açık	açık	konuş
+kıpır	kıpır	dua
+büyük	büyük
+sandık	sandık
+ağır	ağır	yüz
+ince	ince	kırış
+domur	domur	kabar
+delik	delik	kaç
+taş	taş
+uzun	uzun	çöv
+küt	küt	döv
+ağır	ağır	çek
+top	top
+rahat	rahat
+ev	ev	dolaş
+başka	başka
+sapır	sapır
+aç	Aç
+diri	Diri
+Number of pairs: 47
+
+ağır	Ağır
+yeni	Yeni
+pırıl	pırıl	yan
+yumuk	yumuk
+acı	acı	uğun
+yumuk	yumuk	dur
+uzun	uzun
+alev	alev	yan
+tatlı	tatlı	anlat
+renk	renk
+uzun	uzun	seyret
+korka	korka	yürü
+yavaş	Yavaş
+uzun	uzun	bak
+dalgın	dalgın
+fısıl	fısıl	konuş
+tek	Tek
+yavaş	yavaş	tanı
+çipil	çipil	parla
+sinirli	sinirli
+tıkır	tıkır
+garip	garip	kok
+uzun	uzun	hesapla
+kara	kara
+sıkı	sıkı	tut
+ağır	ağır	konuş
+ağır	ağır	iç
+kesik	kesik	anlat
+ilik	ilik	çöz
+çipil	çipil
+geniş	geniş	gül
+uzun	uzun	düşün
+şaşkın	şaşkın	bak
+sıkı	sıkı	yapış
+güm	güm	vur
+koşa	koşa
+sert	sert	bak
+pis	pis	gül
+yan	yan	bas
+dik	dik	bak
+teker	teker
+hafif	hafif
+ağır	ağır	dön
+çiğ	çiğ	aydınlat
+utangaç	Utangaç
+Number of pairs: 190
+
+ışıl	ışıl
+renk	Renk
+ağır	ağır
+kıvıl	kıvıl
+uzun	uzun	Memedin
+kesik	kesik
+sokar	sokar	çık
+fırt	fırt
+top	top
+tek	Tek
+çın	çın	öt
+kara	kara
+güzel	güzel	yiyor
+kova	kova
+uzun	uzun	tartış
+yavaş	yavaş	ışı
+dos	dos
+pırıl	pırıl
+sorul	sorul	akıt
+zırıl	zırıl	terle
+zırıl	zırıl	dur
+çalı	çalı
+delik	delik	ara
+yavaş	yavaş	aç
+dolu	dolu	konuş
+uzun	Uzun
+çatal	çatal	ol
+ağır	ağır	in
+rahat	rahat
+uzun	uzun	gül
+çağıl	çağıl
+sorul	sorul
+ağır	ağır	yüksel
+tatlı	tatlı
+uzun	uzun	kokla
+yavaş	yavaş
+uzun	uzun	bak
+uç	Uç
+uzun	uzun	konuş
+bol	bol
+türlü	türlü
+kolay	kolay
+fincan	fincan
+uzun	uzun	incele
+dolaş	dolaş
+güm	güm	öt
+ağır	ağır	çık
+kıpır	kıpır
+kıpır	kıpır	et
+şık	şık
+şıkır	şıkır	kayna
+yepyeni	yepyeni	at
+teker	teker
+hızlı	hızlı	kaşıkla
+yalım	yalım
+ağaç	Ağaç
+geri	geri	git
+kırış	kırış
+uzun	uzun	çalış
+ağır	ağır	açıkla
+başka	başka
+yavaş	yavaş	topla
+zangır	zangır	titre
+geniş	geniş	aç
+küçük	küçük
+uzun	uzun	seviş
+uzun	uzun	kişne
+ağır	ağır	salla
+teker	teker	aç
+ayrı	ayrı
+kütür	kütür
+ağır	ağır	ilerle
+uzun	uzun	araştır
+teker	teker	yalvar
+yalp	yalp	yan
+dükkan	dükkan
+kurnaz	Kurnaz
+çok	çok
+ters	ters	bak
+dolu	dolu
+yeni	yeni	anla
+gert	gert	gerin
+küçücük	küçücük
+açık	açık	Kaymakama
+zırıl	zırıl
+ağır	ağır	konuş
+yavaş	yavaş	titre
+gürül	gürül	oku
+şorul	şorul	akı
+açık	açık	konuş
+hayıflı	hayıflı
+ışıl	ışıl	et
+teker	teker	bak
+gümbür	Gümbür
+harıl	harıl	çalış
+ikişer	ikişer	çık
+açık	açık
+teker	teker	dolaş
+iri	iri
+yavaş	yavaş	kabar
+yavaş	yavaş	kızar
+oylum	oylum	dalgala
+pel	pel	bak
+telaşlı	telaşlı
+yavaş	yavaş	bileyle
+kocaman	kocaman	aç
+şıkır	şıkır
+çuval	çuval
+gürül	gürül
+uzun	uzun	seyreyle
+teker	teker	al
+çamurlu	çamurlu	kopar
+ağır	ağır	salın
+arka	arka	yürü
+dalga	dalga	dol
+mavi	mavi	balkı
+aval	aval	bak
+derin	derin
+kolay	kolay	del
+şaşkın	şaşkın
+vızır	vızır
+vızır	vızır	geç
+kurnaz	kurnaz	gül
+dik	dik	söyle
+ışıl	ışıl	yan
+uzun	uzun	anlat
+uzun	uzun	vur
+zangır	zangır	et
+yavaş	yavaş	sapta
+doğru	doğru
+ağır	ağır	kaldır
+pel	pel
+renk	renk	yaz
+uzun	uzun	sarmaş
+ağır	ağır	çek
+topak	topak
+sürü	Sürü
+ağır	ağır	çevir
+yavaş	yavaş	dağıl
+yedişer	yedişer	diz
+uzun	uzun	gerin
+sinirli	sinirli
+tas	tas
+kıvıl	kıvıl	et
+kuzu	kuzu	gel
+kaşık	kaşık
+ağır	ağır	çök
+arka	arka	git
+delik	delik	arat
+hart	hart	kaşın
+yağlı	yağlı	parla
+kıra	kıra
+zıngır	zıngır	öt
+paytak	paytak	yürü
+hızlı	hızlı	sür
+uzun	uzun	çiğne
+teker	teker	helallaş
+uzun	uzun	okşa
+uzun	uzun	işe
+uysal	uysal	gel
+teker	teker	kucaklaş
+ağır	ağır	ak
+Number of pairs: 130
+
+uzun	uzun	dur
+ağır	ağır	salla
+sert	sert	vur
+kalın	kalın	sor
+uzun	uzun
+koca	koca
+kocaman	kocaman
+rahat	rahat
+gıcır	gıcır
+bol	bol	ver
+yağlı	yağlı	parla
+uykulu	uykulu
+ağır	ağır	sok
+dolu	dolu
+tabii	Tabii
+bol	bol
+kolay	kolay	bula
+sıkı	sıkı	tembihle
+deli	deli
+yılışık	yılışık	sor
+kes	Kes
+uzun	uzun	dinle
+ciddi	ciddi	sor
+sapır	sapır	titreş
+sinirli	sinirli	gül
+cıvıl	cıvıl
+ufacık	ufacık
+uzun	uzun	gül
+ağır	ağır	iç
+yan	yan	sok
+uzun	uzun	anlat
+sert	sert	at
+bol	bol	dinle
+şapşal	şapşal
+kolay	kolay	çek
+ciddi	ciddi
+iri	iri	söyle
+kolay	kolay
+soğuk	soğuk	sor
+tatlı	tatlı	düşünürle
+uzun	uzun	bekle
+ağır	ağır	din
+uzun	uzun	bak
+keyifli	keyifli	parla
+mavi	mavi
+bulgur	bulgur	terle
+pis	pis	kok
+yavaş	yavaş
+ağır	ağır	yaklaş
+kalın	kalın
+uzun	uzun	düşün
+kaygılı	kaygılı	bak
+beyaz	beyaz	yüz
+püskül	püskül
+bucak	bucak	kaç
+uzun	uzun	incele
+küskün	küskün
+hızlı	hızlı
+harıl	harıl
+hızlı	hızlı	git
+anlamlı	anlamlı	salla
+harıl	harıl	çalış
+ışıl	ışıl
+azgın	azgın	bak
+cahil	cahil
+vak	vak
+keyifli	keyifli
+öfkeli	öfkeli	dolaş
+kıs	kıs	gül
+renk	renk
+tatlı	tatlı
+ağır	ağır	anlat
+geri	Geri
+bol	bol	düdük
+pırıl	pırıl
+uzun	uzun	seyret
+kötü	kötü
+güzel	güzel
+kötü	kötü	gıcırda
+deli	deli	bak
+sert	sert
+dertli	dertli	salla
+kırış	kırış
+uykulu	uykulu	bak
+beyaz	Beyaz
+ter	ter	tepin
+yaş	yaş	parlat
+tarta	tarta
+ıslak	ıslak	kaşı
+uzun	uzun	dövün
+uykulu	uykulu	söyle
+uzun	uzun	bakış
+uzun	uzun	öt
+uzun	uzun	çal
+devir	devir	ol
+çipil	çipil	kırpış
+sesli	sesli	ağla
+uzun	uzun	süz
+sinirli	sinirli	dolaş
+suçlu	suçlu	bak
+ağır	ağır
+sinirli	sinirli
+ağır	ağır	vur
+pırıl	pırıl	sır
+köpük	köpük	çalkala
+yiye	yiye
+marş	marş
+yok	Yok
+uzun	uzun	veriş
+cart	cart
+kalın	kalın	öt
+açık	açık	de
+ağır	ağır	yürü
+battal	battal	yürü
+yorgun	yorgun	çevir
+kah	kah
+yeşil	yeşil
+zangır	zangır	titre
+Number of pairs: 53
+
+bol	bol	oku
+dolu	dolu
+yavaş	yavaş	alış
+cıvıl	cıvıl
+güzel	güzel	yaz
+kıpır	Kıpır
+uzun	uzun	gül
+tek	tek
+yavaş	yavaş	dol
+renk	renk
+bol	bol
+pırıl	pırıl	yan
+geri	geri
+açık	açık	konuş
+tek	tek	kucak
+yavaş	yavaş	kavra
+yavaş	yavaş
+yok	Yok
+uzun	uzun	düşün
+dolu	dolu	ol
+yavaş	yavaş	aşa
+mışıl	mışıl	uy
+açık	açık	söyle
+çeşit	çeşit
+tek	tek	aç
+tek	tek	dolaş
+ayrı	ayrı	otur
+tek	tek	yaz
+açık	açık
+tek	tek	al
+tek	tek	kucakla
+sakin	sakin	dinle
+gizli	gizli
+tatlı	tatlı	çınla
+geri	geri	git
+pırıl	Pırıl
+yüksek	Yüksek
+aşrı	Aşrı
+öbek	öbek
+derin	derin	sol
+derin	Derin
+küçük	küçük	doğra
+uzun	Uzun
+çift	çift	ol
+ayrı	ayrı	konuş
+uzun	uzun	araştır
+geri	geri	götür
+yavaş	yavaş	fark
+zangır	zangır	titre
+karış	karış	gez
+Number of pairs: 135
+
+kısa	kısa	gül
+derin	derin	çek
+yavaş	yavaş	bük
+yavaş	yavaş
+yavaş	yavaş	kapa
+uslu	uslu	yat
+bol	bol	ver
+dargın	dargın	bak
+takır	takır
+şüpheli	şüpheli	bak
+türlü	türlü
+yavaş	yavaş	yabancı
+ağır	ağır
+yavaş	yavaş	dağıl
+yavaş	yavaş	dön
+fırıl	fırıl	ara
+şaşkın	şaşkın	bak
+sinirli	sinirli	gül
+dargın	dargın	şarkı
+hızlı	hızlı	yürü
+var	Var
+ağır	ağır	aç
+tak	Tak
+küçük	küçük
+şaşkın	şaşkın
+yavaş	yavaş	azgın
+yavaş	yavaş	değiş
+teker	teker	seç
+derin	derin
+bel	bel
+sakin	sakin	sor
+kıs	kıs	gül
+gümbür	gümbür
+gönülsüz	gönülsüz	anlat
+fısıl	fısıl
+vızır	Vızır
+sinirli	sinirli	vur
+ağır	ağır	salla
+ürkek	ürkek	bak
+sert	sert	geçir
+tatlı	tatlı
+derin	derin	solukla
+derin	derin	aktar
+çapkın	çapkın	gülümse
+dalgın	dalgın	ara
+kızgın	kızgın	sırı
+kopuk	kopuk
+sert	sert	sil
+kocaman	kocaman	öt
+ıslak	ıslak	hışır
+gümbür	gümbür	döv
+kara	kara	ış
+yavaş	yavaş	durgun
+gönülsüz	gönülsüz	esne
+yavaş	yavaş	aç
+dalgın	dalgın
+yavaş	yavaş	çık
+aptal	aptal	dolaş
+yavaş	yavaş	yürü
+yorgun	yorgun	gülümse
+ayrı	ayrı
+koca	koca
+yavaş	yavaş	yitir
+bel	bel	bak
+harıl	harıl
+tek	tek	bul
+tek	tek
+teker	teker	bul
+gönülsüz	gönülsüz	gül
+bol	bol
+aç	aç	yutkun
+kızgın	kızgın	sol
+kesik	kesik	solu
+umutsuz	umutsuz	araştır
+arka	arka	yürü
+hafif	hafif	vur
+kesik	kesik	sol
+açık	açık	anlat
+yavaş	yavaş	yen(II)
+arka	arka	çık
+şaşkın	şaşkın	koy
+yavaş	yavaş	dayan
+sert	sert
+yavaş	yavaş	uza
+dik	dik	bak
+yorgun	yorgun	salla
+ağır	ağır	temizle
+nazlı	nazlı	seslen
+yavaş	yavaş	yırtar
+yaralı	yaralı
+akıllı	akıllı
+ağır	ağır	yırt
+kuzu	Kuzu
+şakır	Şakır
+sinirli	Sinirli
+keyifli	keyifli
+dalgın	dalgın	say
+isteksiz	isteksiz	gülümse
+bar	bar	bağır
+teker	teker
+dalgın	dalgın	gülümse
+kızgın	kızgın	tokurdat
+umutsuz	umutsuz
+dalgın	dalgın	otur
+Number of pairs: 29
+
+ürkek	ürkek	gezin
+ağır	ağır	delir
+kolay	kolay	konuş
+tek	tek
+şaşkın	şaşkın
+ters	ters	bak
+dik	dik	bak
+yavaş	yavaş
+sakin	sakin
+ciddi	ciddi	kork
+derin	derin	solukla
+sakin	sakin	ak
+iri	iri	aç
+parsel	parsel	böl
+harıl	harıl	çalış
+ağır	ağır	ilerle
+sessiz	sessiz	ağla
+hüngür	hüngür	ağla
+ters	ters	bakan
+uzun	uzun	tartış
+bol	bol
+cayır	cayır	yan
+tatlı	tatlı	fokur
+renk	Renk
+mışıl	mışıl	uy
+teker	teker
+Number of pairs: 44
+
+ince	ince
+hafif	hafif
+dalgın	Dalgın
+güzel	güzel	otur
+güzel	güzel	çalış
+yavaş	yavaş
+isteksiz	isteksiz	söyle
+ağır	ağır
+sakin	Sakin
+kesik	kesik	söyle
+uzun	uzun	methet
+uzun	uzun
+mahzun	mahzun
+bucak	bucak	kaç
+yavaş	yavaş	mahzun
+uzun	uzun	bahset
+kesik	kesik	ulu
+yavaş	yavaş	anla
+hızlı	hızlı	vur
+uzun	uzun	konuş
+kesik	kesik	öksür
+tatsız	tatsız	söyle
+fıkır	fıkır	gül
+dalgın	dalgın	dinle
+halsiz	halsiz	sürükle
+dalgın	dalgın	düşün
+açık	açık	söyle
+güzel	güzel
+hiddetli	hiddetli	dolaş
+hızlı	hızlı	yürü
+yavaş	yavaş	titiz
+şaşkın	şaşkın
+gizli	gizli
+sütun	sütun
+yavaş	yavaş	aç
+yavaş	yavaş	iyileş
+hızlı	hızlı
+yüreksiz	Yüreksiz
+ters	ters
+ters	ters	bak
+tembel	tembel
+hafif	hafif	salla
+çirkin	çirkin	gül
+Number of pairs: 53
+
+kolay	kolay
+uzun	uzun	düşün
+yavaş	yavaş
+yavaş	yavaş	at
+tak	tak	et
+yavaş	yavaş	uzak
+kat	kat
+ağır	ağır	yürü
+gürül	gürül	yan
+uzun	uzun	çal
+tiril	tiril
+tek	tek	gez
+boğuk	boğuk	öt
+uzun	uzun	söyleş
+yavaş	yavaş	büyü
+koş	Koş
+uzun	uzun	iç
+ince	ince
+mırıl	mırıl	söyleş
+kıkır	kıkır	gül
+tatlı	tatlı
+yavaş	yavaş	götür
+kötü	kötü	gül
+sinirli	sinirli	gül
+uzun	uzun	seyret
+uzun	uzun	anlat
+yavaş	yavaş	sil
+uzun	uzun	çiz
+uzun	uzun
+suçlu	suçlu
+yavaş	yavaş	sön
+ağır	ağır	in
+başka	başka
+yavaş	yavaş	birleş
+yavaş	yavaş	ol
+pis	pis	gül
+ağır	ağır	giyin
+yavaş	yavaş	soyun
+yavaş	yavaş	doğur
+yavaş	yavaş	yürü
+yavaş	yavaş	uza
+ters	ters	bak
+yavaş	yavaş	aç
+uzun	uzun	seviş
+kötü	kötü	bak
+Number of pairs: 226
+
+yavaş	yavaş
+iri	iri
+hışır	hışır	et
+sesli	sesli	konuş
+ıslak	ıslak
+ekşi	Ekşi
+ağır	ağır
+korka	korka	kaldır
+pel	pel	bak
+kolay	kolay	bulun
+telaşlı	telaşlı
+uykulu	Uykulu
+tatlı	tatlı
+kocaman	kocaman	aç
+korka	korka
+tiril	tiril	yan
+derin	Derin
+teker	teker	dur
+uzun	uzun	dur
+kesik	kesik	inle
+uzun	uzun	düşün
+ipil	ipil	et
+teker	teker
+parıl	parıl	et
+yanık	Yanık
+uzun	uzun
+uzun	uzun	bak
+yavaş	yavaş	kaldır
+küçücük	küçücük
+suçlu	suçlu	somur
+kolay	kolay	alış
+renk	renk
+karış	karış	yırt
+isteksiz	isteksiz	aç
+boş	boş
+küçük	küçük
+ayrı	ayrı
+dolu	dolu
+hayıflı	hayıflı
+yorgun	yorgun
+kolay	kolay	kız
+renk	renk	şekerle
+boş	boş	bak
+kötü	kötü	düşünürle
+hızlı	hızlı	yürü
+korka	korka	in
+türlü	türlü
+şaşkın	şaşkın	dur
+sıcak	sıcak
+geri	geri	git
+yavaş	yavaş	çık
+kesik	kesik	bit
+kesik	kesik
+sessiz	sessiz
+parıl	parıl
+uzun	uzun	sus
+yeşil	yeşil
+beyaz	beyaz	parla
+kolay	kolay
+yavaş	yavaş	söyl
+sert	sert	sars
+uzun	uzun	öt
+yavaş	yavaş	kızar
+kocaman	Kocaman
+ciddi	ciddi
+usul	usul	çisele
+yavaş	yavaş	canla
+yavaş	yavaş	bas
+geri	geri	çek
+usul	usul	vur
+püskül	püskül
+efkarlı	efkarlı	salla
+deli	deli	söyle
+açık	açık
+türlü	türlü	ol
+horul	horul	uyu
+yavaş	yavaş	aydınlan
+dolu	dolu	ol
+şaşkın	şaşkın
+soyun	soyun
+kırmızı	Kırmızı
+yavaş	yavaş	git
+yapış	yapış
+ıslak	ıslak	parla
+mahzun	mahzun
+hafif	hafif
+sessiz	sessiz	ağlaş
+ağır	ağır	kalk
+teker	teker	bak
+şiddetli	şiddetli
+sessiz	sessiz	ağla
+pis	Pis
+saf	saf
+pırıl	pırıl
+sarhoş	sarhoş	yaz
+ipil	ipil
+ıslak	ıslak	kok
+hızlı	Hızlı
+yarpuz	yarpuz	kok
+mışıl	mışıl	uy
+teker	teker	vur
+yatın	Yatın
+büyük	büyük
+vın	vın	öt
+geri	geri
+renk	renk	uçuş
+mavi	Mavi
+kızgın	kızgın	bak
+kolay	kolay	karar
+yavaş	yavaş	yaklaş
+teker	teker	çık
+fitil	fitil	getir
+şarıl	şarıl	ak
+ışıl	ışıl
+fitil	fitil	gel
+koşa	koşa	gel
+kara	kara	ış
+hafif	hafif	buğula
+ağır	ağır	gel
+uzun	uzun	konuş
+yok	yok
+bezgin	bezgin
+kahırlı	kahırlı
+hızlı	hızlı	çal
+umutsuz	Umutsuz
+uzun	uzun	havla
+gizli	gizli	gül
+sıcak	sıcak	tüt
+kıyık	kıyık	kıy
+deli	deli
+uzun	uzun	bur
+isteksiz	isteksiz
+garip	garip	kal
+yavaş	yavaş	uyan
+çiğ	Çiğ
+yeni	yeni
+bucak	bucak	kaç
+gürül	gürül	yan
+uykulu	uykulu	salla
+karış	karış
+hafif	hafif	inle
+gönülsüz	gönülsüz
+fırıl	fırıl	dön
+yavaş	yavaş	sön
+hışır	Hışır
+yalp	yalp	et
+kütür	kütür	at
+oy	Oy
+mavi	mavi	tüt
+ipil	ipil	yan
+karanlık	karanlık	tüt
+gürül	gürül
+sinirli	sinirli	dur
+gür	gür	yan
+tiril	tiril	titre
+dalgın	dalgın
+suçlu	suçlu	söyle
+suçlu	suçlu
+tatlı	tatlı	yala
+kıvrım	kıvrım
+ağır	ağır	ye
+başka	Başka
+dik	dik
+par	par	et
+koygun	Koygun
+efil	efil
+renk	renk	giyin
+yorgun	yorgun	sürükle
+kesik	kesik	sol
+yağlı	yağlı	ış
+ağır	ağır	yürü
+fellik	fellik	ara
+kolay	kolay	bula
+yavaş	yavaş	sök
+yavaş	yavaş	dağıl
+yavaş	yavaş	kalk
+topal	topal
+uzun	uzun	anlat
+domur	domur	ol
+kötü	kötü
+ağır	ağır	kaldır
+git	git
+şaşkın	şaşkın	uyan
+ağır	ağır	büz
+ağır	ağır	kımılda
+soğuk	soğuk
+sert	Sert
+kederli	kederli
+ağır	ağır	çiğne
+ufak	ufak	sepele
+sessiz	sessiz	sürün
+bezgin	bezgin	sor
+kara	kara
+yumuşacık	yumuşacık
+ters	ters	bak
+sağ	sağ	yiyeceks
+sağ	sağ	öl
+hüngür	hüngür	ağla
+yavaş	yavaş	iyi
+aval	aval
+oyum	oyum	oynat
+kötü	kötü	düşün
+dolaş	dolaş
+kıpır	kıpır	et
+kıpır	kıpır
+baka	baka
+tombul	tombul	büyü
+ağır	ağır	uza
+uzun	uzun	kucak
+ağır	ağır	sür
+Number of pairs: 75
+
+ayrı	ayrı
+bar	bar	bağır
+yan	yan	bak
+ürkek	Ürkek
+anlamlı	anlamlı
+kalın	kalın
+koca	koca
+zırıl	zırıl	ağla
+sinirli	sinirli
+açık	açık	sor
+alaylı	alaylı
+başka	başka	yap
+çizik	çizik
+başka	başka
+köpür	köpür	köpür
+geri	geri	çek
+gümbür	gümbür	gümbür
+güzel	güzel
+nazik	Nazik
+zırıl	zırıl	terle
+çın	çın	yankıla
+tiki	tiki
+soluklu	soluklu
+renkli	renkli
+kıkır	kıkır	gül
+geniş	geniş
+uzun	uzun	çek
+boğuk	boğuk
+yavaş	Yavaş
+soka	soka
+küt	küt	at
+hızlı	hızlı	vur
+kara	kara	düşün
+…	…
+güzel	güzel	yürü
+yok	yok
+vızır	vızır
+vıcır	vıcır
+tıkır	tıkır	yaz
+aptal	aptal	bak
+fırt	fırt	öt
+çok	çok
+saf	saf
+yavaş	yavaş	işkillen
+ayrı	ayrı	çağrıl
+hızlı	hızlı	uzak
+sıcak	sıcak
+renk	renk
+pırıl	pırıl	ol
+sert	sert	öksür
+yeni	yeni
+hop	hop	hopla
+cık	cık
+kıs	kıs
+yumruk	yumruk	şiş
+kıs	kıs	gül
+uzun	uzun	anlat
+yavaş	yavaş	kaldır
+türlü	türlü
+yavaş	yavaş	aç
+çatal	Çatal
+cıvıl	cıvıl
+akın	akın	geç
+dargın	dargın	konuş
+gümbür	gümbür	yay
+gümbür	gümbür	öt
+yavaş	yavaş	öde
+dik	dik	bağır
+vızır	vızır	gel
+Number of pairs: 50
+
+uzun	uzun	bahset
+tek	tek	oku
+çeşit	çeşit
+uzun	uzun	anlat
+öbek	Öbek
+zar	zar
+yok	Yok
+yavaş	yavaş
+gürül	gürül
+hüngür	hüngür	ağla
+tek	tek	yen
+koşa	Koşa
+dik	dik
+doğru	doğru
+nazlı	nazlı	ak
+tek	tek
+yavaş	yavaş	unut
+yavaş	yavaş	alış
+hafif	hafif
+çizik	çizik	et
+yeni	yeni
+tıkır	tıkır	işle
+fitil	fitil	getir
+ayrı	ayrı	ceza
+kolay	kolay	dön
+ciddi	ciddi
+uzun	uzun
+yeni	yeni	düzen
+saf	saf	ilerle
+testi	testi
+canlı	canlı
+uzun	uzun	düşün
+yavaş	yavaş	değiş
+yegân	yegân	uğun
+çak	çak	vur
+yanık	yanık	oku
+ağır	ağır
+arkın	arkın
+uzun	uzun	seyret
+yavaş	yavaş	hatırla
+uzun	uzun	bak
+gizli	gizli	süz
+gizli	gizli	ağla
+kolay	kolay
+yavaş	yavaş	uzak
+şaşkın	şaşkın	bak
+geri	geri
+tek	tek	okşa
+Number of pairs: 153
+
+teker	teker
+ağır	ağır
+ayrı	ayrı	ak
+ağır	ağır	düş
+ayrı	ayrı	yaşa
+ciddi	ciddi	zamanla
+ciddi	ciddi	konuş
+yavaş	yavaş	özetle
+büyük	büyük	dayı
+derin	derin	uy
+hararetli	hararetli
+cıvıl	Cıvıl
+şaşkın	şaşkın	dolaş
+hafif	hafif	oynaş
+ağır	ağır	yeşer
+şaşkın	şaşkın
+ağır	ağır	yan
+kuzu	kuzu
+tatlı	tatlı	gülümse
+tıkır	tıkır
+uzun	uzun	izle
+neşeli	neşeli
+kesik	kesik	havla
+kolay	kolay	geç
+uzun	uzun	anlat
+bütün	bütün	vazgeç
+bütün	bütün
+cayır	cayır	yak
+türlü	türlü
+uzun	uzun	bak
+ayrı	ayrı	tertip
+ağır	ağır	salın
+tatlı	tatlı	anlat
+sakin	sakin	uza
+tak	Tak
+ayrı	ayrı
+renk	renk
+boy	boy
+uzun	uzun	gez
+uzun	uzun	seyret
+tembel	tembel	uyukla
+gümbür	gümbür	at
+kara	kara
+içli	içli
+şırıl	şırıl	ak
+sakin	Sakin
+geri	geri	git
+ayrı	ayrı	sat
+ters	ters	söyle
+ağır	ağır	yalpala
+kolay	kolay
+çifter	çifter	yürü
+dalgın	dalgın
+ağır	ağır	tırman
+ağır	ağır	dön
+sıkı	sıkı	tut
+dalgın	dalgın	de
+gülcemal	Gülcemal
+içli	içli	salla
+ağır	ağır	anlat
+yavaş	yavaş	kavra
+hızlı	hızlı	vur
+kangal	kangal
+yavaş	yavaş	sıyrıl
+yanık	yanık	söyla
+uzun	uzun
+sakin	sakin	süz
+ağır	ağır	döv
+ağır	ağır	dök
+tek	tek
+iri	iri	yaz
+ağır	ağır	oku
+yavaş	yavaş
+nazlı	nazlı	ak
+hızlı	hızlı	dön
+hızlı	hızlı	yürü
+ayrı	ayrı	bak
+yavaş	yavaş	tırman
+çok	çok
+zangır	zangır	titre
+kesik	kesik	sırala
+iri	iri	aç
+ağır	ağır	ilerle
+korka	korka
+avaz	avaz
+ağır	ağır	yürü
+ağır	ağır	karış
+tek	tek	oku
+ağır	ağır	kay
+gürül	gürül
+kırgın	kırgın	bak
+ayrı	ayrı	kur
+büyük	büyük
+ağır	ağır	savrul
+bütün	bütün	kayıp
+tatlı	tatlı
+mışıl	mışıl	uyu
+gürül	gürül	ak
+kopuk	kopuk
+ağır	ağır	git
+vıcık	vıcık
+ağır	ağır	kıpırda
+kirpik	kirpik
+ağır	ağır	geç
+ağır	ağır	kalk
+tek	tek	hatırla
+ağır	ağır	parla
+ters	ters	bak
+tatlı	tatlı	parla
+ağır	ağır	aç
+yavaş	yavaş	uzak
+soka	soka
+tek	tek	ov
+hüngür	hüngür	ağla
+tek	tek	al
+yok	Yok
+harıl	harıl	çalış
+bütün	bütün	değiş
+gerçek	gerçek
+kıpır	kıpır	ayrıl
+uzun	uzun	konuş
+keyifli	keyifli
+çıkar	Çıkar
+top	top
+ağır	ağır	seyret
+tek	tek	bak
+başka	başka
+ağır	ağır	mırılda
+Number of pairs: 86
+
+hafif	hafif
+ağır	ağır
+ağır	ağır	gel
+yavaş	yavaş
+bütün	bütün	gel
+yavaş	yavaş	uzak
+koşa	koşa
+yavaş	yavaş	sön
+korka	korka
+ince	ince	ör
+şaşkın	şaşkın	yat
+derin	derin	düşün
+deli	deli
+renk	renk
+arsız	arsız
+tatlı	tatlı
+şaşkın	şaşkın
+uzun	uzun	ağla
+türlü	türlü
+bol	bol	uyur
+çok	çok
+bucak	bucak	kaç
+ayrı	ayrı
+çeşit	çeşit
+ufak	ufak
+yeni	yeni
+vıcık	vıcık
+kolay	kolay
+yüzsüz	yüzsüz	sırı
+yavaş	yavaş	kızar
+derin	derin
+uzun	uzun
+göz	göz
+yavaş	yavaş	uyan
+yavaş	yavaş	boz
+zırıl	zırıl
+miskin	miskin
+koyu	koyu	düşün
+koca	koca
+tatlı	tatlı	dinlen
+sakin	sakin	bak
+kara	kara	düşün
+uzun	uzun	düşün
+hoş	hoş	bak
+derin	derin	acı
+yavaş	yavaş	düz
+uzun	uzun	dinle
+hafif	hafif	oyna
+mırıl	mırıl
+yavaş	yavaş	uyuş
+serbest	serbest
+ter	ter	tepin
+edepsiz	edepsiz	bağır
+güzel	güzel
+fena	fena	sırı
+güzel	güzel	eğlen
+afal	afal	dinle
+gıcır	gıcır	yıka
+arsız	arsız	sırı
+ıslak	ıslak
+mışıl	mışıl	uyu
+yavaş	yavaş	tenhalaş
+ağır	ağır	yokla
+ayrı	ayrı	gör
+çın	çın	öt
+gizli	gizli	gözet
+devir	devir	yokla
+hop	hop	sıçra
+baygın	baygın	bak
+horul	horul	uyur
+güzel	güzel	yaşa
+yavaş	yavaş	aç
+yavaş	yavaş	canla
+kesik	kesik	gül
+dalgın	dalgın	düşün
+sakin	sakin	konuş
+ağır	ağır	büyü
+derin	derin	inle
+sinirli	sinirli
+arsız	arsız	konuş
+Number of pairs: 82
+
+kolay	kolay	ayır
+ağır	ağır	git
+püskül	püskül
+ağır	ağır	dur
+domur	domur	yar
+yıldız	yıldız	yan
+ağır	ağır
+ak	ak
+kıpır	kıpır	et
+yok	Yok
+uzun	uzun
+teker	teker
+donuk	donuk	parla
+ölgün	ölgün	çal
+yalp	yalp	et
+uzun	uzun	uğraş
+ince	ince	oy
+zangır	zangır	titre
+kocaman	kocaman
+par	par	et
+ter	ter	tepin
+usul	Usul
+yılkı	yılkı
+uzun	uzun	çöz
+koca	Koca
+ağır	ağır	yerleş
+uzun	uzun	gürle
+domur	domur	kabar
+dolu	dolu
+renk	renk
+tatlı	Tatlı
+çıkın	Çıkın
+torba	torba
+çuval	çuval
+uzak	uzak
+yalım	yalım	kalk
+mavi	mavi	tüt
+hızlı	hızlı
+don	don
+akın	Akın
+parıl	parıl	et
+ışıl	ışıl	yan
+tiril	tiril	titre
+sıcak	Sıcak
+yapış	yapış
+ağır	ağır	bit
+uzun	uzun	bak
+küt	küt	at
+yavaş	yavaş
+yağlı	yağlı
+yavaş	yavaş	kır
+yara	yara
+domur	domur	ter
+uzun	uzun	süz
+gümbür	gümbür	kon
+ılgıt	ılgıt
+kocaman	kocaman	aç
+derin	derin
+türlü	türlü
+bölük	bölük	topla
+cıvıl	cıvıl	uyan
+canlı	canlı	parla
+geri	geri	çek
+kolay	kolay	yakala
+mırıl	Mırıl
+şıkır	şıkır
+kök	kök
+çalı	çalı	ara
+aval	aval
+yavaş	yavaş	seyrek
+uzun	uzun	dalgala
+incele	incele	koş
+uzun	uzun	say
+tek	tek
+teker	teker	öl
+kıvıl	kıvıl
+sinirli	sinirli
+belli	belli
+derin	derin	bak
+Number of pairs: 87
+
+ayrı	ayrı	yer
+soluk	soluk	gülümse
+güzel	güzel
+koca	koca
+üyk	üyk
+tek	tek	yaşa
+saf	saf
+sürt	sürt	aşın
+vur	vur	kır
+yavaş	yavaş	dağıl
+kıs	kıs	gül
+kıkır	kıkır	gül
+kocaman	kocaman	yaz
+aptal	aptal	otur
+tak	Tak
+parça	parça
+ağır	ağır
+yan	yan
+ucun	ucun
+ışıl	ışıl
+tek	tek	say
+küçücük	küçücük
+ciddî	ciddî	düşün
+soğuk	soğuk	dur
+bol	bol
+bol	bol	et
+çıngıl	Çıngıl
+gizli	gizli
+tezel	Tezel
+cıvıl	cıvıl
+tek	tek
+tek	tek	anla
+tek	tek	seç
+yavaş	yavaş	öders
+fıs	Fıs
+çıngıl	çıngıl	kat
+zırıl	zırıl	ağla
+ayrı	ayrı
+ciddî	ciddî	sula
+tek	tek	bil
+ayrı	ayrı	gel
+ters	ters	bak
+hızlı	hızlı	salla
+al	al	ol
+harıl	harıl
+uzun	uzun	kokla
+kopa	Kopa
+koya	koya
+bütün	bütün
+uzun	uzun	cincinat
+yeni	yeni
+yara	yara	gel
+kıçın	kıçın	geç
+derin	derin
+geri	geri	çek
+kala	Kala
+gizli	gizli	iç
+korka	korka
+kara	kara	düşün
+pırıl	Pırıl
+şaşkın	şaşkın	bak
+mıncık	mıncık	et
+dolu	dolu
+çekingen	çekingen	arala
+küçük	Küçük
+tek	tek	düşün
+mülk	Mülk
+yok	Yok
+ciddî	ciddî	sor
+uzun	uzun
+tek	tek	oku
+yavaş	Yavaş
+kolay	kolay
+yılışık	yılışık	yaklaş
+bol	bol	sun
+marş	marş
+ova	ova	sabunla
+teker	teker	dön
+kıvıl	Kıvıl
+kolay	kolay	sız
+tek	tek	öp
+Number of pairs: 186
+
+boğuk	boğuk	sor
+derin	derin	kokla
+şaşkın	şaşkın	bakın
+yavaş	yavaş	kıs
+sert	sert	sol
+kuşkulu	kuşkulu	bak
+kuşkulu	kuşkulu	araştır
+şaşkın	şaşkın	bak
+yavaş	Yavaş
+başka	başka	vur
+güm	güm	döven
+uzun	uzun	böğür
+sinirli	sinirli	gül
+derin	derin
+fısıl	fısıl
+hırıl	hırıl	soluy
+kötü	kötü	yalan
+gümbür	gümbür
+kızgın	kızgın	çarp
+şaşkın	şaşkın
+kısa	kısa	gül
+yavaş	yavaş	aç
+katı	katı	kas
+ters	ters	bak
+hızlı	hızlı	yürü
+yavaş	yavaş	çöz
+derin	derin	yır
+ağır	ağır	konuş
+tek	tek	ara
+gizli	gizli	ağla
+fısıl	fısıl	tekrarla
+hırıl	hırıl	inle
+dargın	dargın	sor
+yavaş	yavaş	gevş
+sessiz	sessiz	ağla
+ayrı	ayrı	selamla
+dargın	dargın
+kas	kas
+ağır	ağır	gel
+sert	sert	bak
+renk	renk
+ayrı	ayrı	uğraş
+ağır	ağır	yatış
+ayrı	ayrı	süz
+dargın	dargın	konuş
+çeşit	çeşit	kalkan
+nazlı	nazlı	yalvar
+rahat	rahat
+tek	tek	konuş
+boğuk	boğuk	yalvar
+kervan	kervan
+bel	bel
+küt	küt	vur
+aralık	aralık	başla
+kolay	kolay
+bel	bel	bakın
+hırıl	hırıl	sol
+kara	kara	düşünür
+hışır	hışır	yutkun
+derin	derin	solu
+yavaş	yavaş	gevşe
+yavaş	yavaş	öde
+yavaş	yavaş	doğrul
+yavaş	yavaş	dik
+arka	arka	çık
+fıkır	fıkır	gül
+yavaş	yavaş	in
+ürkek	ürkek	bak
+şıkır	şıkır
+tek	tek
+vıcır	vıcır	bak
+ayrı	ayrı	bak
+bel	bel	bak
+hırıl	hırıl	kalk
+kanlı	kanlı
+kesik	kesik	anlat
+yavaş	yavaş	ağla
+yavaş	yavaş	değiş
+şaşkın	şaşkın	kırpış
+yeni	yeni
+ciddi	ciddi	konuş
+kabarık	kabarık	yürü
+teker	teker	konuş
+yavaş	yavaş	topla
+ürkek	ürkek	bakan
+kocaman	kocaman	aç
+teker	teker	bağır
+hırıl	hırıl	solu
+ağır	ağır	geç
+ayrı	ayrı
+yan	yan	bak
+keskin	keskin	çınla
+ıslak	ıslak	öt
+yeni	yeni	kız
+derin	derin	düşün
+geniş	geniş	dolaş
+çeşit	çeşit
+nice	nice
+bar	bar	bağır
+diri	diri	yüz
+ağır	ağır
+hıkır	hıkır
+ağır	ağır	yürü
+sakin	sakin	sor
+yavaş	yavaş	gel
+yavaş	yavaş	geç
+çapkın	çapkın	gülümse
+gıcır	gıcır	kum
+kurnaz	kurnaz	gülümse
+vıcır	vıcır	gör
+keyifli	keyifli	gül
+dalgın	dalgın	gülümse
+kıçın	kıçın	savuş
+kıra	kıra
+canlı	canlı	kap
+fısıl	fısıl	anlat
+uslu	uslu	dur
+yavaş	yavaş	çıkar
+sert	sert	vur
+gönülsüz	gönülsüz	gül
+yayvan	yayvan	çiğne
+kötü	kötü	gülümse
+kötü	kötü	gül
+derin	derin	solut
+yavaş	yavaş	bük
+arka	arka	git
+cayır	cayır	yak
+git	Git
+hışır	hışır
+baygın	baygın	sırı
+umutsuz	umutsuz	bak
+yavaş	yavaş	akıt
+şaşkın	şaşkın	bakak
+yavaş	yavaş	inan
+kesik	kesik
+yavaş	yavaş	dön
+sert	sert	sür
+canlı	canlı	yüz
+yavaş	yavaş	yüksel
+yavaş	yavaş	arala
+yavaş	yavaş	it
+teker	teker	saldır
+uzun	uzun	yankıla
+kesik	kesik	gül
+koca	koca
+derin	derin	soluy
+yavaş	yavaş	kes
+dargın	dargın	söyle
+Number of pairs: 102
+
+suçlu	suçlu	gül
+ayrı	ayrı	bak
+pırıl	pırıl	kıpırda
+parazitli	parazitli	yay
+sinirli	sinirli	çırp
+kırmızı	kırmızı	yan
+boğuk	boğuk	öksür
+mavi	mavi	gül
+deli	deli	ağla
+uzun	uzun	anlat
+uzun	uzun	bak
+kıvır	kıvır
+küme	küme
+başka	başka	İstanbul
+küçük	küçük
+suçlu	suçlu	bakan
+kötü	kötü	çat
+paslı	paslı	gıcırda
+cıvıl	cıvıl
+bol	bol
+uzun	uzun	gül
+sinirli	sinirli	yürü
+hafif	hafif	vur
+anlayışlı	anlayışlı	salla
+büyük	büyük	aç
+vıcık	vıcık
+kıs	kıs	gül
+sinirli	Sinirli
+yavaş	yavaş
+sesli	sesli	esne
+ağır	ağır	yürü
+ağır	ağır	gel
+tek	tek	at
+beyaz	beyaz	ağar
+hızlı	hızlı	vur
+sarı	sarı	çık
+dertli	dertli	çek
+uzun	uzun
+ağır	Ağır
+tatsız	tatsız	gül
+dalgın	dalgın	bak
+fırıl	fırıl	dön
+yeni	yeni
+sinirli	sinirli	gir
+dertli	dertli
+sakin	sakin	bak
+tembel	tembel
+ekşi	ekşi	kok
+ite	ite
+tembel	tembel	gerin
+uzun	uzun	öt
+yavaş	yavaş	yürü
+iri	iri	konuş
+sesli	Sesli
+hızlı	hızlı	çarp
+renk	renk
+pis	pis
+azgın	Azgın
+dikkatli	dikkatli	bak
+yavaş	yavaş	gevşe
+kurumlu	kurumlu	geç
+dolu	dolu
+telaşlı	telaşlı
+keyifli	keyifli	gül
+uzun	uzun	yık
+teker	teker	vedalaş
+kötü	kötü
+diyar	diyar
+uzun	uzun	dinle
+zırıl	zırıl
+dertli	dertli	salla
+ağır	ağır	in
+hırslı	hırslı	bağır
+koca	koca
+dalgın	dalgın	iç
+çeşit	çeşit
+kırış	kırış
+ağır	ağır	gir
+teker	teker
+ağır	ağır	geçer
+melil	melil
+kara	kara
+ağır	ağır	çık
+acı	Acı
+ağır	ağır	geç
+büyük	Büyük
+Number of pairs: 112
+
+ağır	ağır	salla
+başka	başka
+yavaş	yavaş
+bütün	bütün	kapa
+tatlı	tatlı	gül
+ağır	ağır	kalk
+hafif	hafif
+uzun	uzun
+aptal	aptal	dön
+tek	tek
+sert	sert	bak
+geri	geri	git
+ağır	Ağır
+gümbür	gümbür	at
+parıl	parıl	yan
+yan	yan
+bütün	bütün	köpür
+yavaş	yavaş	içer
+sert	sert	sor
+bütün	bütün
+uzun	uzun	konuş
+tembel	tembel	dolaş
+küfe	Küfe
+kötü	Kötü
+başka	başka	konuş
+çiğ	çiğ
+yanık	yanık	bak
+dalgın	dalgın	okşa
+tembel	tembel
+ağır	ağır	çiğn
+derin	derin
+uzak	uzak
+başka	başka	Yaşar
+soğuk	soğuk	es
+tatlı	tatlı	sızla
+hızlı	hızlı	yürü
+bütün	bütün	yumuşa
+yavaş	yavaş	hırla
+dalgın	dalgın
+boğuk	boğuk	inle
+uzun	uzun	uyu
+hiddetli	hiddetli	süz
+mânâsız	mânâsız	gül
+mânâsız	mânâsız
+mânâlı	mânâlı
+garip	garip	bak
+bütün	bütün	göm
+dalgın	dalgın	düşünür
+kesik	kesik	çık
+sürü	sürü
+ayrı	ayrı	gül
+küçük	küçük
+yavaş	yavaş	kalk
+dalgın	dalgın	çözer
+sessiz	sessiz	otur
+neşeli	neşeli
+uzun	uzun	esner
+azametli	azametli
+şevkli	şevkli	konuş
+çok	çok
+sıkı	sıkı	tut
+tembel	tembel	yüzüş
+azgın	azgın	ak
+renk	renk
+bol	bol
+sinirli	sinirli
+hafif	hafif	belir
+yavaş	yavaş	gir
+hafif	hafif	şakır
+yavaş	yavaş	yüksel
+sıkı	sıkı	temizle
+uzun	uzun	anlat
+ağır	ağır	in
+yavaş	yavaş	sile
+yok	Yok
+kıs	kıs	gül
+tembel	tembel	seyret
+sinirli	sinirli	salla
+çekişe	çekişe
+keyifli	keyifli	gül
+bol	bol	konuş
+hafif	hafif	salla
+yavaş	yavaş	ilerle
+tatlı	tatlı
+ağır	ağır	dalga
+tek	tek	bil
+yavaş	yavaş	salla
+ağır	ağır	oyna
+ağır	ağır	kımılda
+yavaş	yavaş	alçala
+ciyak	Ciyak
+rahat	rahat
+tek	tek	çık
+sıkı	sıkı
+gürül	gürül	yan
+Number of pairs: 145
+
+uslu	uslu
+yavaş	yavaş
+garip	garip
+büyük	büyük
+fırıl	fırıl	çevir
+ağır	ağır
+güzel	güzel	okşa
+gizli	gizli
+kös	kös
+hafif	hafif
+iri	iri	aç
+kucak	kucak
+şaşkın	Şaşkın
+arsız	arsız	gül
+dikkatli	dikkatli
+gevşek	Gevşek
+zangır	zangır	titre
+koşa	koşa
+renk	renk
+şaşkın	şaşkın	bak
+kıs	kıs	gül
+yavaş	yavaş	eri
+aptal	aptal
+bol	bol
+dolu	dolu
+yavaş	yavaş	in
+hızlı	hızlı	yürü
+kesik	kesik	ul
+yavaş	yavaş	salla
+hızlı	hızlı	sol
+uslu	uslu	başla
+hızlı	hızlı	çarp
+manalı	manalı	gül
+geri	geri	yürü
+yorgun	yorgun
+ağır	ağır	sol
+uzun	uzun
+keyifli	keyifli	gül
+yavaş	yavaş	kaybet
+fiske	fiske	kabar
+dikkatli	dikkatli	bak
+kesik	kesik	lakır
+aksi	aksi
+türlü	türlü
+fıkır	fıkır
+iri	iri	konuş
+kolay	kolay
+dargın	dargın
+kıkır	kıkır	gül
+ince	ince	sız
+derin	derin
+dik	dik
+donuk	donuk	parla
+gizli	gizli	söyleş
+derin	derin	yokla
+gizli	gizli	eğlen
+yavaş	yavaş	çek
+yavaş	yavaş	alış
+çıngır	çıngır	öt
+taze	taze
+yavaş	yavaş	sön
+yavaş	yavaş	canla
+fena	fena	bak
+korka	korka	bak
+manalı	manalı
+aptal	aptal	bak
+dolu	dolu	öksür
+tatlı	tatlı	sırı
+tatlı	tatlı	gülümse
+dalgın	dalgın
+yavaş	yavaş	ağla
+sakin	sakin	ağla
+bön	bön	bak
+yan	yan
+ayrı	ayrı	yürü
+derin	derin	düşün
+mahmur	mahmur
+dik	dik	bak
+neşeli	neşeli
+ter	ter	tepin
+yavaş	yavaş	söyle
+sinirli	Sinirli
+ince	ince
+yavaş	yavaş	yay
+mahzun	mahzun	gülümse
+dalgın	dalgın	düşün
+yavaş	yavaş	sarar
+hızlı	hızlı
+hafif	hafif	titre
+derin	derin	inle
+hafif	hafif	es
+hüngür	hüngür	ağla
+güzel	güzel
+ince	ince	başla
+uslu	uslu	otur
+pırıl	pırıl	parla
+güzel	güzel	geçin
+ince	ince	tüt
+halsiz	halsiz
+derin	derin	yaşa
+nazik	nazik	konuş
+küçük	küçük
+yavaş	yavaş	uyu
+yumuk	yumuk
+ayrı	ayrı
+mahzun	mahzun
+gizli	gizli	konuş
+tatlı	tatlı	gül
+derin	derin	sev
+yavaş	yavaş	sil
+dalgın	dalgın	gülümse
+korka	korka
+sert	sert
+beyaz	beyaz
+ağır	ağır	dolaş
+kesik	kesik
+yavaş	yavaş	düzele
+açık	açık	konuş
+açık	açık
+çeşit	Çeşit
+uzun	uzun	seyret
+sakin	sakin	konu
+yavaş	yavaş	aç
+gizli	gizli	üz
+uzun	uzun	okşa
+mahzun	mahzun	düşün
+ciyak	ciyak	bağır
+rahat	rahat	öl
+uzun	uzun	ağla
+fırıl	fırıl	dön
+Number of pairs: 75
+
+bol	bol
+cırt	cırt	yan
+geniş	geniş	gülümse
+kara	kara
+hızlı	hızlı
+pis	pis
+sarı	sarı	ışılda
+garip	garip	bak
+geniş	geniş	sırı
+geniş	geniş	gül
+acı	acı	gülümse
+kıs	kıs	gül
+sakin	sakin
+dolu	dolu	yaşam
+yavaş	yavaş
+dalgın	dalgın	yürü
+sinirli	sinirli	salla
+derin	derin
+geri	geri	git
+geri	geri	gider
+hafif	hafif	başla
+şaşkın	şaşkın	bak
+yavaş	yavaş	gir
+derin	derin	uyu
+yavaş	yavaş	giyin
+dolu	dolu
+ağır	ağır
+ayrı	ayrı	incele
+ayrı	ayrı
+uzun	uzun	bak
+dalgın	dalgın	dolaş
+tek	tek	görüş
+rahat	Rahat
+dalgın	Dalgın
+tek	tek	arar
+gürül	gürül	ak
+tek	tek
+ağır	ağır	büyü
+uzun	uzun
+ışıl	ışıl	aydınlat
+tek	tek	vedalaş
+dalgın	dalgın	bak
+kırmızı	kırmızı	yan
+yavaş	yavaş	boşal
+uykulu	uykulu	dik
+derin	derin	düşün
+uzun	uzun	anlat
+teker	teker
+kolay	kolay
+tatlı	tatlı	anlat
+yavaş	yavaş	çevir
+çapkın	Çapkın
+cıvıl	cıvıl
+ters	ters	bak
+ağır	ağır	sür
+yavaş	yavaş	uzak
+tatlı	tatlı	gülümse
+açık	açık
+tek	tek	bak
+uzun	uzun	düşün
+pırıl	pırıl	parla
+uzun	uzun	çal
+bol	bol	yet
+diri	diri	göm
+uzun	uzun	gerin
+tıkır	tıkır	işle
+tatlı	tatlı	kayna
+sıkı	sıkı
+bol	bol	uyu
+tek	tek	hatırla
+Number of pairs: 145
+
+pırıl	pırıl	parlat
+tek	tek	çevir
+tek	tek	oku
+tek	tek
+ağır	ağır	aç
+yavaş	Yavaş
+ağır	ağır
+hızlı	hızlı	yürü
+hafif	hafif	titreş
+uzun	uzun
+hafif	hafif	çalkala
+uzun	uzun	bak
+fosur	fosur
+hızlı	hızlı	at
+ağır	ağır	yürü
+tatlı	tatlı	bak
+hızlı	hızlı
+ışıl	ışıl
+hafif	hafif	salın
+uslu	uslu
+dolu	dolu	serp
+hafif	hafif	dalgala
+yavaş	yavaş	çek
+uzun	uzun	yürü
+ağır	ağır	yay
+ağır	ağır	titre
+uykulu	uykulu	tıkman
+gür	gür
+sinirli	sinirli	silke
+dalgın	dalgın	otur
+hafif	hafif	salla
+mışıl	mışıl	uyu
+tomar	tomar
+pırıl	pırıl
+ağır	ağır	geç
+tatlı	tatlı	kay
+kıpır	kıpır
+kararlı	kararlı	ilerle
+tatlı	tatlı	yoğun
+tatlı	tatlı	salın
+ağır	ağır	yaklaş
+uzun	uzun	tartış
+tek	tek	gör
+tek	tek	hatırla
+dalgın	dalgın	bak
+şakır	Şakır
+tatlı	tatlı	gülümse
+ağır	ağır	kuru
+ağır	ağır	kıpırda
+uzun	uzun	anlat
+ağır	ağır	salın
+tek	tek	konuş
+teker	teker	hisset
+hızlı	hızlı	iç
+gıcır	gıcır
+bol	bol	gör
+uzun	uzun	seyret
+sinirli	sinirli	yelpazele
+yavaş	yavaş	farket
+tek	tek	çiz
+bütün	Bütün
+gizli	gizli	topla
+telaşlı	telaşlı	ilerle
+pırıl	pırıl	yansı
+hızlı	hızlı	çevir
+uzun	uzun	incele
+ağır	ağır	çiğne
+hafif	hafif	çisele
+şaşkın	şaşkın	bak
+sakin	sakin	bitir
+tek	tek	kapa
+renk	renk	dök
+vak	vak
+tatlı	tatlı	konuş
+yakın	yakın	yürü
+hızlı	hızlı	çalış
+ağır	ağır	tüken
+ateşli	ateşli
+tembel	tembel	yalan
+şaşkın	şaşkın
+tatlı	tatlı	dön
+tek	tek	aç
+tek	tek	göster
+cıvıl	cıvıl
+güzel	güzel	ol
+hışır	hışır
+hızlı	hızlı	git
+sıcak	sıcak
+dikkatli	dikkatli	ısır
+dalgın	dalgın	eşele
+cik	cik
+ışıl	ışıl	gözük
+sessiz	sessiz
+dalgın	dalgın	seyret
+kederli	kederli	inle
+yan	yan	yaklaş
+tıkır	tıkır	yap
+tatlı	tatlı	gülümsa
+hırslı	hırslı	solu
+ağır	ağır	sürükle
+şaşkın	şaşkın	düşün
+ağır	ağır	yalan
+şıkır	şıkır
+tek	tek	kaç
+ağır	ağır	kıvrıl
+yok	Yok
+suçlu	suçlu	bak
+mışıl	mışıl	çek
+haldır	haldır	koş
+Number of pairs: 73
+
+kolay	kolay	yaz
+ağır	ağır	dolaş
+ağır	ağır	mırılda
+yavaş	yavaş
+ağır	ağır
+zangır	zangır	titre
+ağır	ağır	yürü
+çeşit	çeşit
+yeni	yeni
+türlü	türlü
+sessiz	sessiz
+hızlı	hızlı	yürü
+ayrı	ayrı
+uzun	uzun	konuş
+teker	teker
+uzun	uzun
+uzun	uzun	bakış
+harıl	harıl
+sinirli	sinirli	kırpış
+yavaş	yavaş	sislen
+teker	teker	sön
+hafif	hafif
+şaşkın	şaşkın
+ağır	ağır	doğrul
+vıcık	vıcık
+garip	garip	bekle
+yavaş	yavaş	gel
+ağır	ağır	başla
+uzun	uzun	anlat
+yavaş	yavaş	yürü
+hafif	hafif	fıkırda
+korka	korka
+avaz	avaz	bağır
+derin	derin
+uzun	uzun	süz
+yavaş	yavaş	sok
+sert	sert
+kesik	kesik
+ıslak	ıslak	yapış
+sinirli	sinirli	oyna
+teker	teker	sor
+yorgun	yorgun
+garip	garip	seyret
+kibar	kibar	iç
+uzun	uzun	alkışla
+kıkır	kıkır	gül
+şaşkın	şaşkın	bakın
+bol	bol
+uzun	uzun	araştır
+fırıl	fırıl	dön
+boğuk	boğuk	sor
+uzun	uzun	bak
+şaşkın	şaşkın	dinle
+teker	teker	duy
+yavaş	yavaş	mırılda
+ağır	ağır	anlat
+ciddi	ciddi
+dalgın	dalgın	yürü
+ağır	ağır	kım
+pırıl	pırıl
+yavaş	yavaş	giyin
+uzun	uzun	dert
+teker	teker	yaşa
+Number of pairs: 37
+
+bütün	bütün	başkalaş
+bütün	bütün	bulutla
+yok	yok
+büyük	büyük
+bütün	bütün
+hararetli	hararetli
+hızlı	hızlı	konuş
+yavaş	Yavaş
+gel	Gel
+yavaş	yavaş	ilerle
+ayrı	ayrı
+yavaş	yavaş	fısılda
+tatlı	tatlı	söyle
+uzun	uzun
+uzun	uzun	gül
+bütün	bütün	sık
+yığın	yığın
+yavaş	yavaş	ısın
+yavaş	yavaş	öl
+bütün	bütün	kıs
+hızlı	hızlı	yürü
+uzun	uzun	dal
+boğuk	boğuk	çık
+uzun	uzun	düşün
+yavaş	yavaş	gezin
+uzun	uzun	oku
+bol	bol	ver
+parıl	parıl	otur
+yavaş	yavaş	kaybet
+uzun	uzun	inle
+uzun	uzun	ağla
+hafif	hafif	söyle
+tatlı	tatlı	gül
+sıkı	sıkı	sar
+uzun	uzun	bak
+bütün	bütün	buruş
+Number of pairs: 133
+
+tek	tek
+uslu	uslu	dur
+ağır	ağır
+uzun	uzun	ağla
+ağır	ağır	yürü
+tek	tek	topla
+uzun	uzun
+bol	bol
+tek	tek	seç
+ağır	ağır	kes
+tek	tek	kes
+yavaş	yavaş	tütsüle
+cıvıl	cıvıl
+yeni	yeni	dol
+renk	renk
+kötü	kötü	gül
+yavaş	yavaş	yerleş
+dalgın	dalgın	yürü
+yavaş	Yavaş
+ağır	ağır	yüksel
+yeni	yeni	alış
+tek	tek	dağıt
+rahat	rahat
+ağır	ağır	ilerle
+fitil	fitil
+hızlı	hızlı	anlat
+rahat	rahat	konuş
+manalı	manalı	bakan
+uzun	uzun	seyre
+geri	geri
+suçlu	suçlu
+uzun	uzun	bakar
+çeşit	çeşit
+tek	tek	katla
+kürek	kürek
+dalgın	dalgın	oku
+aptal	aptal	öl
+vızır	vızır	ak
+tek	tek	tıkla
+uzun	uzun	bak
+hızlı	hızlı	at
+ayrı	ayrı	dön
+ağır	ağır	yaz
+uzun	uzun	tekrarla
+tek	tek	yaz
+mışıl	mışıl	uyur
+mışıl	mışıl	uyu
+manalı	manalı	bak
+tek	tek	öpüş
+dik	dik	bak
+uzun	uzun	çek
+pırıl	pırıl
+rahat	rahat	çık
+ağır	ağır	çıkar
+tatlı	tatlı	konuş
+tek	tek	geç
+gizli	Gizli
+yavaş	yavaş	çek
+püfür	püfür	otur
+kös	kös
+küt	küt	at
+uzun	uzun	yürü
+ev	ev
+tek	tek	birik
+yavaş	yavaş	yay
+dalgın	dalgın
+yavaş	yavaş	gider
+kıkır	kıkır	gül
+benek	benek
+yavaş	yavaş	yaşlan
+uzun	uzun	anlat
+yavaş	yavaş	kapa
+kara	kara	düşün
+hızlı	hızlı	yürü
+kıpır	kıpır
+uzun	uzun	haşla
+ağır	ağır	kıpırda
+tek	tek	bil
+boş	boş	bak
+tıkır	tıkır	işle
+uzun	uzun	uyu
+boş	boş	gezin
+boş	boş	yürü
+ağır	ağır	yaklaş
+tomar	tomar
+tatlı	tatlı
+canlı	canlı
+uzun	uzun	konuş
+gel	gel	gel
+uzun	uzun	düşün
+yavaş	yavaş	anla
+yavaş	yavaş	büyü
+kıvrım	kıvrım	kıvra
+vızır	vızır	çalış
+ince	ince
+sıcak	sıcak
+hafif	hafif
+dertli	dertli
+ince	ince	geliş
+yavaş	yavaş	art
+ince	ince	hesapla
+fıkır	fıkır	konuş
+fısır	fısır	konuş
+dalgın	dalgın	bak
+uzun	uzun	kucak
+yavaş	yavaş	ilerle
+ayrı	ayrı	düzenle
+korka	korka	gir
+korka	korka
+Number of pairs: 47
+
+ağır	ağır
+ağır	ağır	yaklaş
+boğuk	boğuk
+yavaş	yavaş
+kopuk	kopuk
+hafif	hafif
+gürül	gürül	yan
+ağır	ağır	öl
+kötü	kötü
+acı	acı	gülümse
+kuzu	kuzu	ver
+ılık	ılık	gülümse
+ağır	ağır	iç
+suçlu	suçlu
+kolay	kolay	vazgeç
+derin	derin
+saf	saf
+kesik	kesik
+yok	Yok
+yavaş	yavaş	ilerle
+kara	kara	düşün
+ters	ters
+anlamlı	anlamlı
+kötü	kötü	sırı
+saf	saf	sor
+ayrı	ayrı
+dolu	dolu	çek
+mışıl	mışıl	uy
+anlamlı	anlamlı	süz
+dik	dik	bak
+kolay	kolay	kurtul
+uzun	uzun
+ağır	ağır	kıpırda
+tek	tek	dolaş
+kolay	kolay
+kötü	kötü	bak
+sinirli	sinirli	gül
+yavaş	yavaş	anlat
+kolay	kolay	gül
+hafif	hafif	ısır
+tıkır	tıkır	işle
+anlamlı	anlamlı	gülümse
+uslu	uslu
+Number of pairs: 219
+
+ağır	ağır	yalan
+hafif	hafif	salla
+ağır	ağır	oku
+cayır	cayır	yan
+teker	teker	aç
+sinirli	sinirli	yürü
+ağır	ağır
+gürül	gürül	ak
+sinirli	sinirli
+ateşli	ateşli	konuş
+tatlı	tatlı	salla
+kıpır	kıpır	kıpırda
+sinirli	sinirli	gül
+yapış	yapış
+kolay	kolay	bırak
+teker	teker
+hızlı	hızlı	at
+rahat	rahat	yayla
+sert	sert	bak
+sinirli	sinirli	salla
+boş	boş
+uyuşuk	uyuşuk	yat
+ağır	ağır	yüksel
+hızlı	hızlı	konuş
+sarhoş	sarhoş
+tabii	tabii	kalk
+hızlı	hızlı
+ağır	ağır	yaklaş
+güzel	güzel
+ağır	ağır	in
+hafif	hafif
+bol	bol
+bol	bol	bulun
+derin	derin	soluy
+ağır	ağır	konuş
+bol	bol	yaşa
+gürül	gürül
+rahat	rahat	gülümse
+yok	yok
+sakin	sakin
+hızlı	hızlı	yürü
+yeni	yeni
+uzun	uzun
+dalgın	dalgın	bak
+ciddi	ciddi	konuş
+suçlu	suçlu
+küçük	küçük	kes
+tek	tek	tart
+yavaş	yavaş	yürü
+ciddi	ciddi	yaşa
+uzun	uzun	anlat
+teker	teker	düşün
+boş	boş	bak
+ağır	ağır	yık
+ışıl	ışıl
+kötü	kötü	öksür
+sert	sert
+geri	geri
+yavaş	yavaş
+derin	Derin
+derin	derin	sol
+boş	boş	otur
+hafif	hafif	art
+hızlı	hızlı	oyna
+ayrı	ayrı	otur
+ağır	ağır	sok
+ağır	ağır	çık
+güzel	güzel	içer
+sessiz	sessiz	hıçkır
+hızlı	hızlı	topla
+ciddi	ciddi	oku
+hızlı	hızlı	iç
+koşa	koşa	çık
+kolay	kolay	yap
+uyuşuk	uyuşuk	bak
+sıkı	sıkı	giyin
+tek	tek
+ciddi	ciddi
+kötü	Kötü
+yavaş	yavaş	oyna
+yavaş	yavaş	dön
+tıkır	tıkır
+teker	teker	bak
+gizli	gizli	övün
+sert	sert	ekle
+bol	bol	konuş
+ışıl	ışıl	parla
+bol	bol	uyay
+rahat	rahat	uyur
+gizli	gizli	seyret
+ağır	ağır	yürü
+pırıl	pırıl
+tek	tek	gel
+uzun	uzun	düşün
+uzun	uzun	bak
+rahat	rahat	gezin
+ağır	ağır	çürü
+uzun	uzun	sabunla
+ayrı	ayrı
+küçük	küçük	hıçkır
+uzun	uzun	köpür
+ağır	ağır	vur
+yavaş	yavaş	dağıl
+rahat	rahat
+bol	bol	yiyor
+ateşli	Ateşli
+derin	derin	solut
+saf	saf	dur
+sinirli	sinirli	kıpırda
+saf	saf	gülümse
+ağır	ağır	tırman
+uslu	uslu	otur
+yavaş	yavaş	bağla
+ağır	ağır	dolan
+sıkı	sıkı	tutun
+yavaş	yavaş	değiş
+uzun	uzun	dur
+hızlı	hızlı	yaz
+tek	tek	düşünür
+ağır	ağır	yürür
+yorgun	yorgun	çal
+uslu	uslu
+dalgın	dalgın
+yavaş	yavaş	öğren
+dalgın	dalgın	dinle
+ağır	ağır	bekle
+uzun	uzun	incele
+aylak	aylak	yürü
+tatlı	tatlı	dalga
+teker	teker	okşu
+teker	teker	geç
+teker	teker	say
+hafif	hafif	gül
+sert	sert	vur
+uzun	uzun	özetle
+aptal	aptal	gülümse
+açık	açık
+hızlı	hızlı	ak
+ağır	ağır	yok
+kıpır	kıpır
+tabii	tabii
+sıcak	sıcak	otur
+kolay	kolay	neşe
+rahat	rahat	esne
+düşünceli	Düşünceli
+güzel	güzel	konuş
+dolu	dolu	yaşa
+tek	tek	bak
+lıkır	lıkır	iç
+ciddi	ciddi	tartış
+teker	teker	kurtar
+sinirli	sinirli	bekle
+yavaş	yavaş	iç
+sinirli	sinirli	oyna
+uzun	uzun	yaz
+uzun	uzun	açıkla
+sinirli	sinirli	bak
+bol	bol	yaz
+kös	kös	otur
+uzun	uzun	hatırla
+delik	delik
+güzel	güzel	çalış
+hızlı	hızlı	sor
+tatlı	Tatlı
+tıkış	tıkış	sıkış
+koşa	Koşa
+suçlu	suçlu	gül
+sinirli	sinirli	vur
+ağır	ağır	git
+uzun	uzun	gül
+ciddi	ciddi	yaz
+açık	açık	anlat
+kötü	kötü	bak
+dalgın	dalgın	oku
+koca	koca
+Number of pairs: 148
+
+kıs	kıs	gül
+yavaş	yavaş	kavra
+gönülsüz	gönülsüz	dinle
+türlü	türlü
+sinirli	Sinirli
+kolay	kolay	dön
+yavaş	yavaş	gülümse
+güzel	güzel
+keyifli	keyifli	vur
+şaşkın	şaşkın
+derin	Derin
+tembel	tembel	ürü
+ağır	ağır
+yavaş	yavaş
+kurnaz	Kurnaz
+ters	ters	bak
+yavaş	yavaş	kas
+ıslak	ıslak	yutkun
+isteksiz	isteksiz	gül
+pis	pis	yılış
+yavaş	yavaş	vur
+kısa	kısa
+kızgın	kızgın	soluy
+hafif	hafif
+ağır	ağır	yürü
+ürkek	ürkek
+renk	renk	sütyen
+kötü	kötü	soluy
+umutsuz	umutsuz
+umutsuz	umutsuz	bak
+ayrı	ayrı
+çok	Çok
+utangaç	utangaç
+takım	Takım
+bel	bel	bak
+dik	dik	bak
+yavaş	yavaş	sertleş
+uzun	uzun	bak
+bar	bar	bağır
+yavaş	yavaş	dön
+fırıl	fırıl	döner
+kısa	kısa	gül
+bol	bol	al
+bol	bol
+ürkek	ürkek	kırpış
+dargın	dargın	söyle
+hızlı	hızlı	in
+şüpheli	şüpheli	bak
+kötü	kötü	gül
+kötü	kötü	sırı
+gümbür	gümbür	gümüle
+hızlı	hızlı	ovuş
+hızlı	hızlı	yürü
+uzun	uzun	gül
+sinirli	sinirli	gül
+terli	terli
+yavaş	yavaş	sil
+tek	tek
+ağır	ağır	karış
+teker	teker
+dolu	dolu
+agır	agır
+derin	derin	solut
+ürkek	ürkek	bak
+suçlu	suçlu
+yorgun	yorgun	gülümse
+fırıl	fırıl
+takır	takır
+kıkır	kıkır	gül
+derin	derin	nefesle
+baygın	baygın
+dalgın	dalgın	sırı
+ağır	ağır	us
+gümbür	gümbür
+yorgun	Yorgun
+yok	yok
+fıkır	fıkır	kayna
+sakin	sakin	ak
+iri	iri
+gizli	gizli	buluş
+yavaş	yavaş	yadırga
+kuru	kuru	öksür
+ürkek	ürkek	sor
+soğuk	soğuk	yapış
+tek	tek	konuş
+boğuk	boğuk	öksür
+yavaş	yavaş	değiş
+dalgın	Dalgın
+derin	derin	solukla
+tek	tek	parla
+geri	geri	git
+yavaş	yavaş	geç
+yavaş	yavaş	beğen
+derin	derin	sol
+aç	aç	yum
+derin	derin	solu
+vızır	vızır	ver
+hırıl	hırıl	konuş
+iştahlı	iştahlı	yalan
+hızlı	hızlı	gel
+uslu	uslu
+edepli	edepli	gülümse
+sert	sert	geçir
+gönülsüz	gönülsüz	çevir
+yavaş	yavaş	kalk
+kesik	kesik	havla
+yavaş	yavaş	in
+yavaş	yavaş	acılaş
+sert	sert	solut
+hırıl	hırıl	sol
+yavaş	yavaş	dalgın
+hırıl	hırıl
+hızlı	hızlı	geç
+suçlu	suçlu	gülümse
+tek	tek	yol
+yavaş	yavaş	karar
+deli	deli
+kütür	kütür	ye
+pis	pis	yalan
+sert	sert	sil
+yavaş	yavaş	sok
+tek	tek	sür
+yavaş	yavaş	kaldır
+deli	deli	bak
+Number of pairs: 47
+
+yavaş	yavaş	hazırla
+ayrı	ayrı
+renk	renk
+küçük	küçük
+teker	teker
+ağır	Ağır
+yavaş	yavaş	din
+yok	yok
+yavaş	yavaş
+derin	derin	kokla
+yanık	yanık
+başka	başka
+alaylı	alaylı
+yeleli	yeleli
+ağır	ağır	yürü
+yavaş	yavaş	geç
+ışıl	ışıl	yan
+fırt	fırt	düdük
+kıkır	kıkır
+kol	kol	sok
+rahat	rahat	git
+gizli	gizli	yaz
+pır	pır
+telaşlı	telaşlı
+sicim	sicim
+yumruk	yumruk	ol
+baygın	baygın	bak
+rahat	rahat
+bar	bar	bağır
+kıh	kıh
+kurnaz	kurnaz	gül
+koca	koca
+yeni	yeni	gir
+çiğ	çiğ	yer
+açık	açık
+kolay	kolay	bulun
+şarıl	şarıl
+yavaş	yavaş	aydınlan
+sert	sert	bak
+manalı	manalı	bak
+falan	Falan
+filan	filan
+iç	iç
+saf	saf
+uzun	uzun	düşün
+saf	saf	anlat
+gani	Gani
+Number of pairs: 127
+
+ayrı	ayrı
+çıpıl	çıpıl	yıka
+uzun	uzun	bak
+deli	deli
+fırıl	fırıl	dön
+kesik	kesik
+yavaş	Yavaş
+ağır	ağır	kaldır
+yavaş	yavaş	gevşe
+hafif	hafif	salle
+derin	derin
+başka	başka
+ağır	ağır	gezin
+uzun	uzun	seyret
+ağır	ağır	in
+hafif	hafif	yan
+küme	küme	yığ
+yavaş	yavaş	çek
+hızlı	hızlı	yürü
+ağır	ağır	salla
+ağır	ağır
+uzun	uzun	anlat
+hafif	hafif	kıpır
+yavaş	yavaş	yay
+teker	teker	Kayboluverdi
+mışıl	mışıl	uy
+ağır	ağır	yürü
+hızlı	hızlı	öğretmen
+sıkı	sıkı
+ağır	ağır	ak
+yavaş	yavaş	boşal
+sıkı	sıkı	sor
+kısım	kısım	anlat
+kötü	kötü	sırı
+ağır	ağır	sürü
+hızlı	hızlı	çık
+yayvan	yayvan
+uzun	Uzun
+acayip	acayip
+hızlı	hızlı
+ufak	ufak
+tatlı	tatlı	gölge
+sert	sert	vur
+süzgün	süzgün	bakan
+kolay	kolay	sıyır
+dik	dik	bak
+hafif	hafif	parla
+ince	ince
+uzun	uzun	söyle
+yavaş	yavaş	çık
+yavaş	yavaş	dağıl
+ağır	ağır	ilerle
+hızlı	hızlı	götür
+ağır	ağır	gevele
+yavaş	yavaş	iler
+hızlı	hızlı	çak
+derin	derin	çek
+yeşil	yeşil
+türlü	türlü
+öbek	Öbek
+ağır	ağır	dön
+ağır	ağır	sandık
+dalgın	dalgın	bak
+hafif	hafif	salla
+yavaş	yavaş	salla
+yavaş	yavaş	konuş
+yavaş	yavaş	dök
+yavaş	yavaş	büyür
+kıs	kıs	gül
+uzun	uzun	ağla
+ağır	ağır	yüz
+keskin	keskin
+sinirli	sinirli	titre
+sinirli	sinirli	sık
+yavaş	yavaş	büyü
+çekişe	çekişe
+harıl	harıl
+sessiz	sessiz	çalış
+donuk	donuk	parla
+ağır	ağır	kay
+şaşkın	şaşkın	gülümse
+nemli	nemli	parla
+dalgın	dalgın	yürü
+ağır	ağır	mırılda
+baygın	baygın
+bol	bol
+hiddetli	hiddetli	bak
+uzun	uzun	konuş
+uzun	uzun	bahset
+güzel	güzel	konuş
+ciddi	ciddi
+bütün	bütün	kız
+gizli	gizli
+aptal	aptal	bak
+sessiz	sessiz	otur
+tomar	Tomar
+dalga	dalga	dol
+salkım	salkım
+hızlı	hızlı	konuş
+korka	korka
+hafif	hafif	şıpırda
+nazlı	nazlı	salla
+oluk	oluk
+ağır	ağır	dolaş
+hafif	hafif	sars
+ağır	ağır	gel
+Number of pairs: 84
+
+dükkan	dükkan	dolaş
+küskün	küskün	otur
+ağır	ağır	kalk
+dalgın	dalgın	bak
+yavaş	Yavaş
+şaşkın	şaşkın
+korka	korka
+cıvıl	cıvıl	öt
+ayrı	ayrı
+isteksiz	isteksiz
+teker	teker	uç
+dik	dik	bak
+ağır	ağır	kavrul
+fosur	fosur	iç
+çuval	çuval
+yavaş	yavaş	hızla
+dal	dal
+yavaş	yavaş	bula
+yeni	yeni
+hızlı	hızlı
+sert	sert	bas
+ağır	Ağır
+teker	teker	evlen
+bol	bol
+gizli	gizli	bak
+yavaş	yavaş	uyan
+tembel	tembel
+teker	teker	say
+uzun	uzun	dur
+uzun	uzun	sor
+ayrı	ayrı	lezzet
+yavaş	yavaş	keşfet
+uzun	uzun
+türlü	türlü
+yavaş	yavaş	yürü
+hararetli	hararetli	konuş
+bol	bol	bulun
+ayrı	ayrı	yaşa
+tembel	tembel	otur
+teker	teker
+kolay	kolay
+ayrı	ayrı	işle
+yavaş	yavaş	gölgele
+ince	ince
+yavaş	yavaş	yırt
+yavaş	yavaş	doğ
+hızlı	hızlı	yürü
+küçük	küçük	kamçıla
+tüy	tüy
+kemik	kemik	dağıt
+başka	başka
+ağır	ağır	yürü
+yavaş	yavaş	boğ
+teker	teker	tanı
+hızlı	hızlı	sol
+çeşit	çeşit
+teker	teker	anlat
+yığın	yığın
+yavaş	yavaş	dağıl
+derin	derin	bak
+tatlı	tatlı	gülümse
+yavaş	yavaş	çıl
+ayrı	ayrı	varız
+büyük	büyük	aç
+gizli	gizli
+ayrı	ayrı	yüksel
+küçük	küçük	gel
+tembel	tembel	geçir
+uzun	uzun	konuş
+hevenk	hevenk	sarkı
+yavaş	yavaş	gel
+yavaş	yavaş	unut
+mahzun	Mahzun
+dalgın	dalgın	düşün
+koşa	koşa	gel
+yavaş	yavaş	yaklaş
+yan	yan	yürü
+yavaş	yavaş	eri
+ayrı	ayrı	gör
+uzun	uzun	gül
+kesik	kesik	gül
+Number of pairs: 31
+
+yavaş	yavaş
+ağır	ağır	çık
+ağır	ağır
+ağır	ağır	kıpır
+hızlı	hızlı	yürü
+uzun	uzun	işe
+uzun	uzun
+uzun	uzun	gel
+ağır	ağır	kalk
+ağır	ağır	doğrul
+soğuk	soğuk
+ağır	ağır	gel
+kısa	Kısa
+teker	teker	bak
+tak	tak	vur
+dik	dik	bak
+leş	leş
+kesik	kesik	duy
+ağır	ağır	yürü
+ağır	ağır	dön
+bol	bol
+ağır	ağır	giyin
+iri	iri	açık
+uzun	uzun	anlat
+lak	lak	et
+ıslak	ıslak
+sürte	sürte
+Number of pairs: 85
+
+mırıl	mırıl
+ağır	ağır
+derin	derin
+dolu	dolu
+bol	bol
+ayrı	ayrı
+ayrı	ayrı	dur
+ince	ince	kır
+kaşık	kaşık
+kös	Kös
+kara	kara
+fırıl	fırıl
+kesik	kesik	gül
+yavaş	yavaş
+renk	renk
+korka	korka
+fena	fena	bak
+gizli	gizli
+uzun	uzun	öp
+şaşkın	Şaşkın
+uzun	uzun
+öbek	öbek
+iri	iri	aç
+_	_
+gizli	gizli	oyna
+ağır	ağır	yürü
+ağır	ağır	bas
+hafif	hafif	vur
+başka	başka
+ağır	ağır	ilerle
+uzun	uzun	anlat
+uzun	uzun	dolaş
+ağır	ağır	art
+ince	ince	kana
+iri	iri	konuş
+yavaş	yavaş	azarla
+uzun	uzun	yıka
+küçük	küçük
+uzun	uzun	konuş
+vıcır	Vıcır
+yok	Yok
+ince	ince
+türlü	türlü
+dikkatli	dikkatli
+hızlı	hızlı
+bucak	bucak
+fırıl	fırıl	dön
+yeni	yeni
+yavaş	yavaş	ateşle
+dolu	dolu	öksür
+ağır	ağır	in
+soğuk	soğuk
+uzun	uzun	seyret
+gevrek	gevrek	gül
+bol	bol	görüş
+fıkır	fıkır	ateş
+ufak	ufak
+uzun	uzun	azarla
+aptal	aptal	gülümsi
+yan	yan
+aksi	aksi
+garip	garip
+ufak	ufak	yırtı
+aptal	Aptal
+ağır	ağır	sön
+dalgın	dalgın	yürü
+hafif	hafif	eğlen
+açık	açık	söyle
+dal	dal
+homur	homur
+pis	pis	düşün
+ağır	ağır	hazmet
+yavaş	yavaş	dön
+ayrı	ayrı	yalvar
+yavaş	yavaş	ayakla
+hafif	hafif	öksür
+çeşit	çeşit
+bol	bol	uyur
+ağır	ağır	katlı
+Number of pairs: 40
+
+yavaş	yavaş
+ayrı	ayrı
+çengel	çengel
+yavaş	yavaş	kapla
+bol	bol	ağla
+kolay	kolay	unut
+korka	korka
+uzun	uzun	kişne
+uslu	uslu	otur
+uzun	uzun
+ayrı	ayrı	git
+yavaş	yavaş	gel
+yumuk	yumuk
+pırıl	pırıl
+teker	teker
+ayrı	ayrı	bak
+pırıl	pırıl	parla
+tatlı	tatlı	somur
+uzun	uzun	çek
+mahzun	mahzun
+yavaş	yavaş	eğil
+kolay	kolay
+teker	teker	say
+vıcık	Vıcık
+yavaş	yavaş	öğren
+teker	teker	ol
+tatlı	tatlı	gül
+tembel	tembel
+kısa	kısa
+yavaş	yavaş	söyle
+ayrı	ayrı	bağ
+renk	renk	çamaşır
+kıvır	kıvır
+yavaş	yavaş	pıhtı
+ayrı	ayrı	gör
+bol	bol
+uzun	uzun	düşün
+teker	teker	benirle
+ayrı	ayrı	uyan
+sapır	sapır	dök
+Number of pairs: 75
+
+tatlı	tatlı	oyna
+gümbür	gümbür	at
+yavaş	yavaş	kaybol
+ayrı	ayrı
+hafif	hafif
+yavaş	yavaş	dön
+yavaş	yavaş	çık
+uzun	uzun
+yavaş	yavaş
+yavaş	yavaş	yaşa
+uzun	uzun	git
+hızlı	hızlı
+yavaş	yavaş	kudretle
+yavaş	yavaş	gerile
+yavaş	yavaş	geç
+yavaş	yavaş	yürü
+yavaş	yavaş	çağır
+uzun	uzun	okşa
+yavaş	yavaş	kaybet
+zangır	zangır	titre
+uzun	uzun	uğraş
+yavaş	yavaş	sok
+güzel	güzel
+yavaş	yavaş	kalk
+garip	garip
+yavaş	yavaş	konuş
+yavaş	yavaş	işit
+rahat	rahat	uyu
+sıkı	sıkı	kapa
+yavaş	yavaş	eğ
+gergin	gergin
+uzun	uzun	bak
+derin	derin	bak
+solgun	solgun
+uzun	uzun	ağla
+rahat	rahat	seyret
+uzun	uzun	konuş
+yavaş	yavaş	ilerle
+bütün	bütün
+yavaş	yavaş	vur
+bütün	bütün	kız
+dalgın	dalgın
+güzel	güzel	otur
+yavaş	yavaş	değiş
+yavaş	yavaş	tamamla
+yavaş	yavaş	gir
+cayır	cayır	yak
+uzun	uzun	öp
+bütün	bütün	sinir
+yavaş	yavaş	salla
+parıl	parıl	yan
+sessiz	sessiz	dinle
+kısa	kısa
+kalın	kalın	çık
+gümbür	gümbür	oyna
+derin	derin	ara
+yavaş	yavaş	sil
+yavaş	yavaş	dik
+yavaş	yavaş	sık
+kesik	kesik	anlat
+sert	sert
+sinirli	sinirli	gül
+geniş	geniş
+yavaş	yavaş	anlat
+sıkı	sıkı	sar
+derin	derin	kokla
+yorgun	yorgun	kapa
+yavaş	yavaş	okşu
+yavaş	yavaş	in
+Number of pairs: 104
+
+aptal	aptal	bakın
+zangır	zangır	titre
+derin	Derin
+keskin	keskin	çınla
+iri	iri	aç
+derin	derin	solu
+renk	Renk
+hafif	hafif
+mışıl	mışıl	uyu
+kolay	kolay
+geri	geri	git
+ağır	ağır	yaklaş
+dik	dik
+ters	ters	konuş
+donuk	donuk	bak
+kara	kara	parla
+pis	pis
+uzun	uzun	işe
+tatlı	tatlı	ürper
+sakin	sakin	düşün
+yok	Yok
+kolay	kolay	dil
+ilmik	ilmik
+kuru	kuru	öksür
+sakin	sakin
+pis	pis	sırı
+yavaş	yavaş	aydınlan
+derin	derin	çek
+tatlı	tatlı	gülümse
+tek	tek	süz
+ağır	ağır
+ters	ters
+kolay	kolay	bırak
+saf	saf	bak
+kör	kör
+sinirli	sinirli	çekiş
+hızlı	hızlı	in
+uzun	uzun	görüş
+büyük	büyük
+uzun	uzun	çal
+tek	tek
+ters	ters	bak
+canlı	canlı	yak
+cayır	cayır	yan
+pişkin	pişkin	sırı
+küçük	küçük
+tek	tek	say
+teker	teker	kır
+aptal	aptal	sırı
+ters	ters	bakan
+tek	tek	dolaş
+gümbür	gümbür
+tatlı	tatlı
+bol	bol	konuş
+bol	bol
+fosur	fosur
+ağır	ağır	çıldır
+uzun	uzun	konuş
+teker	teker
+boş	boş	bak
+al	al	ol
+oluk	oluk	ak
+ayrı	ayrı
+tek	tek	vedalaş
+dalgın	dalgın	mırılda
+tatlı	tatlı	sızla
+kocaman	kocaman	aç
+tek	tek	söyle
+tövbe	Tövbe
+aylak	aylak	dola
+pütür	pütür
+kolay	kolay	sinir
+geri	geri	çek
+tiftik	tiftik	et
+yeni	Yeni
+ciddi	ciddi	kuşku
+çopur	çopur	ol
+kuru	kuru	yutkun
+tatlı	tatlı	tıkırda
+boğuk	boğuk
+tek	tek	sergile
+suçlu	suçlu	gülümse
+uzun	uzun	süz
+kıpır	kıpır
+ağır	ağır	sön
+Number of pairs: 107
+
+teker	teker	tanı
+uzun	uzun
+ayrı	ayrı	titre
+yavaş	Yavaş
+ağır	ağır
+derin	derin	düşün
+uzun	uzun	kucaklaş
+kesik	kesik
+yavaş	yavaş	aç
+ağır	ağır	söyle
+derin	derin
+hafif	hafif
+ince	ince	sızle
+uzun	uzun	dolaş
+uzun	uzun	ağla
+uzun	uzun	düşün
+gizli	gizli	hazırla
+uslu	uslu
+uzun	uzun	otur
+uzun	uzun	konuş
+yavaş	yavaş	karar
+dalgın	Dalgın
+yavaş	yavaş	söyle
+yavaş	yavaş	sızla
+yavaş	yavaş	yürü
+memnun	memnun	gül
+kesik	kesik	söyle
+yavaş	yavaş	düz
+hızlı	hızlı
+yorgun	Yorgun
+yavaş	yavaş	ağla
+yavaş	yavaş	sön
+bütün	bütün
+türlü	türlü
+küçük	küçük
+uzun	uzun	arka
+yavaş	yavaş	değiş
+ağır	ağır	salla
+yavaş	yavaş	unut
+ağır	ağır	çık
+küs	küs	kaç
+uslu	uslu	çalış
+kandil	kandil	dök
+_	_
+dalgın	dalgın	düşün
+rahat	rahat	uyu
+ağır	ağır	kay
+yavaş	yavaş	kes
+güzel	güzel	çalış
+gizli	Gizli
+koşa	koşa
+mahzun	mahzun
+yavaş	yavaş	alış
+yavaş	yavaş	dal
+yavaş	yavaş	kabar
+yavaş	yavaş	öl
+kesik	kesik	gül
+hafif	hafif	hıçkır
+ağır	ağır	uzak
+yavaş	yavaş	ilerle
+yavaş	yavaş	yan
+ayrı	ayrı
+ağır	ağır	yüksel
+ağır	ağır	in
+ağır	ağır	oda
+kös	kös
+ağır	ağır	giyin
+ince	ince	iğnele
+yavaş	yavaş	konuş
+kesik	kesik	konuş
+hafif	hafif	şakla
+aptal	aptal	gül
+uslu	uslu	seyret
+yavaş	yavaş	ağırlaş
+halsiz	halsiz	gülümse
+sakin	sakin	uy
+ince	ince	ör
+şaşkın	Şaşkın
+derin	derin	acıy
+güzel	güzel
+yavaş	yavaş	kapa
+uzun	uzun	seyret
+yavaş	yavaş	adi
+sakin	sakin	konuş
+ağır	ağır	yürü
+uzun	uzun	ara
+hafif	hafif	salla
+bütün	bütün	kız
+isteksiz	isteksiz	çalış
+Number of pairs: 43
+
+harıl	harıl
+teker	teker	don
+anlamlı	anlamlı	gülümse
+teker	teker	aç
+ters	ters	bak
+kara	kara
+ağır	ağır
+uzun	uzun
+tek	tek	dolaş
+tek	tek
+tek	tek	yokla
+tembel	tembel	esne
+tabiî	Tabiî
+anlamlı	anlamlı	süz
+anlamlı	anlamlı	gül
+teker	teker
+uzun	uzun	süz
+ağır	ağır	salla
+kolay	kolay
+ayrı	ayrı
+pis	pis	bak
+ayrı	ayrı	gülümse
+ağır	ağır	kaldır
+derin	Derin
+tek	tek	bak
+yok	Yok
+yeni	yeni	dol
+cıvıl	cıvıl
+çeşit	çeşit
+ağır	ağır	kıpırda
+ağır	ağır	konuş
+teker	teker	topla
+ağır	ağır	bağla
+iri	iri	aç
+ağır	ağır	kalk
+ışıl	ışıl	yan
+ağır	ağır	demle
+Number of pairs: 156
+
+yavaş	yavaş	duyur
+harıl	Harıl
+mel	mel	bak
+teker	teker
+teker	teker	aç
+lıkır	lıkır	iç
+bol	bol	kullan
+şaşkın	Şaşkın
+rahat	rahat	gül
+kolay	kolay
+sıkı	sıkı	örtün
+sinirli	sinirli	salla
+kuru	kuru	git
+taze	Taze
+tatlı	tatlı	kaş
+gizli	gizli
+güzel	güzel	yaz
+dolu	dolu	ol
+şaşkın	şaşkın	bak
+teker	teker	zorla
+yumruk	yumruk	fırla
+yan	yan	geç
+şaşkın	şaşkın	dik
+pütür	pütür	kabar
+vıcık	vıcık	ol
+suçlu	suçlu	dik
+pis	pis
+iri	iri
+pırıl	pırıl	yan
+harıl	harıl	yaz
+yan	yan	yürü
+vıcık	vıcık
+ters	ters	bak
+kıçın	kıçın
+çıt	çıt
+harıl	harıl	oku
+uzun	uzun	gül
+keyifli	keyifli
+vıcık	vıcık	ısla
+öfkeli	öfkeli	söyle
+şaşkın	şaşkın	gir
+gıcır	gıcır	lâstik
+aval	Aval
+teker	teker	incele
+ince	ince
+tıpır	tıpır	kalk
+yeni	yeni	uza
+türlü	türlü
+yeşil	yeşil	yan
+bol	bol
+korka	korka
+fırıl	fırıl	dön
+teker	teker	sız
+yavaş	yavaş
+teker	teker	tanı
+harıl	harıl	çalış
+teker	teker	boşal
+kuzu	kuzu	sök
+keyifli	keyifli	gül
+zırt	Zırt
+uzun	uzun	süz
+ışıl	ışıl	parla
+gümbür	gümbür	yumrukla
+tıkır	tıkır	işle
+teker	teker	dağıt
+ters	ters
+aptal	aptal
+rahat	rahat	otur
+kütür	kütür	ol
+yavaş	yavaş	uzak
+yan	yan
+dolu	dolu
+uzun	uzun	kokla
+öfkeli	öfkeli
+kolay	kolay	delir
+horul	horul	uy
+bol	bol	sürün
+uzun	uzun
+gıcır	gıcır	giyin
+harıl	harıl	hazırla
+sapır	sapır	dök
+büyük	büyük	konuş
+bütün	bütün	at
+kuşkulu	kuşkulu
+iri	iri	yaz
+kesik	kesik
+kara	kara
+kolay	kolay	kaçır
+ışıl	ışıl	yan
+gıcır	gıcır	öt
+bel	Bel
+geri	geri	çek
+rahat	rahat	konuş
+teker	teker	oku
+sert	sert	bak
+boru	boru
+sıkı	sıkı	tut
+kolay	kolay	soğu
+anlamlı	anlamlı	gül
+ters	ters	söyle
+yavaş	yavaş	aç
+kötü	kötü	bak
+alaylı	alaylı	gül
+teker	teker	düş
+aval	aval	bak
+terli	terli
+teker	teker	gör
+teker	teker	kes
+taka	taka
+tek	tek	al
+çiğ	çiğ	yiyecek
+küt	küt	vur
+ekşi	ekşi
+bütün	bütün
+kuşkulu	kuşkulu	bak
+pis	pis	koku
+kuru	kuru
+sıcak	sıcak
+takır	takır
+açık	açık	söyle
+açık	açık	suçla
+vızır	vızır	dolaş
+vızır	vızır	dolan
+tasalı	tasalı	kaşıkla
+paytak	paytak	gel
+anlamlı	anlamlı
+ikişer	ikişer
+tek	tek
+alaylı	alaylı
+kısa	kısa
+gürül	gürül	oku
+saf	saf	bak
+Number of pairs: 47
+
+dik	Dik
+acı	acı	gül
+pırıl	pırıl
+iri	iri	aç
+kolay	kolay	aş
+kara	kara
+uslu	uslu	otur
+kuzu	kuzu	getir
+yok	yok
+bar	bar	bağır
+uzun	uzun
+türlü	türlü
+sakin	sakin	gülümse
+pis	pis	sırı
+hızlı	hızlı	soluma
+al	al	ol
+şaşkın	Şaşkın
+tatlı	tatlı
+dertli	dertli	söyle
+tatlı	tatlı	parılda
+bol	bol
+harıl	harıl
+ters	ters	bak
+anlamlı	anlamlı	gülümse
+açık	açık	konuş
+pişkin	pişkin	gülümse
+kesik	kesik	konuş
+rahat	rahat	çal
+kırış	kırış
+garip	garip
+ayrı	ayrı
+kötü	kötü	konuş
+kara	kara	düşün
+sakin	sakin	açıkla
+sakin	sakin
+sessiz	sessiz	ağla
+kara	kara	bak
+sakin	sakin	konuş
+dolu	dolu	ol
+Number of pairs: 109
+
+tatlı	tatlı	gülümse
+hızlı	hızlı	yürü
+boş	boş
+boş	boş	bak
+kolay	kolay	geç
+ayrı	ayrı
+derin	derin	soluy
+dik	dik	bak
+uzun	uzun	süz
+sakin	sakin	konuş
+sakin	sakin	anlat
+derin	derin	düşün
+ağır	ağır	demle
+kesik	kesik	inle
+soğuk	soğuk	terle
+tatlı	tatlı	salla
+dargın	dargın	bak
+iri	iri	aç
+yok	Yok
+kolay	kolay	avla
+ağır	ağır	öl
+pişkin	pişkin	sırı
+rahat	rahat	konuş
+sakin	sakin
+pis	pis	bak
+suçlu	suçlu	gülümse
+anlamlı	anlamlı	gülümse
+kolay	kolay
+bol	bol
+tatlı	tatlı	konuş
+tek	tek
+koşa	koşa	gel
+yavaş	yavaş	yitir
+kara	kara
+tek	tek	çarp
+tıkır	tıkır	işle
+dolu	Dolu
+tatlı	tatlı	gül
+harıl	harıl
+ters	ters	bak
+sinirli	sinirli	gül
+dalgın	dalgın	bak
+tatlı	tatlı	ışı
+uzun	uzun	çal
+dolu	dolu	çek
+ağır	ağır	yay
+tatlı	tatlı	ışıma
+hüngür	hüngür	ağla
+tatlı	tatlı	sırı
+teker	teker	çık
+derin	derin	düşünür
+kolay	kolay	vazgeç
+över	över	bitir
+kolay	kolay	taş
+teker	teker	kaldır
+tek	tek	sırala
+yok	yok	kork
+tek	tek	çek
+kolay	kolay	kabullen
+uzun	uzun	bak
+kolay	kolay	öl
+kopuk	kopuk
+kolay	kolay	çık
+kuzu	kuzu
+ışıl	ışıl	yan
+ters	ters
+boğuk	boğuk	gel
+kanal	kanal	dolaş
+ağır	ağır	boğ
+boğuk	boğuk
+parsel	parsel	bölüş
+derin	derin	solu
+hızlı	hızlı
+pis	pis	gül
+pırıl	pırıl	yıka
+anlamlı	anlamlı
+yapış	yapış
+derin	derin
+kesik	kesik	konuş
+ağır	ağır
+sakin	sakin	dur
+teker	teker	sandık
+üzgün	üzgün
+uzun	uzun	anlat
+ağır	ağır	ilerle
+yeşil	Yeşil
+teker	teker	öl
+Number of pairs: 86
+
+korka	Korka
+kıpır	kıpır
+ters	ters	bak
+bıcır	bıcır
+uslu	uslu	yürü
+kıpır	kıpır	kıpırda
+yavaş	yavaş
+şaşkın	Şaşkın
+tiril	tiril	ket
+zangır	zangır	titre
+şaşkın	şaşkın	bak
+fısır	fısır
+teker	teker
+kat	kat
+kah	Kah
+sinirli	sinirli	dolaş
+kısa	kısa
+teker	teker	taşı
+geri	geri	git
+basa	basa
+ağır	ağır	sür
+aptal	aptal	konuş
+uzun	uzun	öp
+hızlı	hızlı	yürü
+bol	bol
+telaşlı	telaşlı	konuş
+başka	başka
+yavaş	yavaş	kirala
+derin	derin
+teker	teker	parçala
+gizli	gizli
+sakin	sakin	yat
+yavaş	yavaş	hatırla
+fısır	fısır	konuş
+pırıl	pırıl
+yavaş	yavaş	yürü
+ağır	ağır	çık
+uzun	uzun
+bol	bol	al
+püfür	püfür
+ciddi	ciddi	düşün
+ışıl	ışıl
+tak	tak
+mışıl	mışıl	uy
+ağır	ağır	ilerle
+şaşkın	şaşkın	otur
+yavaş	yavaş	çöz
+yok	Yok
+aval	aval	bak
+tıkış	tıkış
+çağıl	çağıl	ak
+yavaş	yavaş	kes
+teker	teker	incele
+uzun	uzun	konuş
+uzun	uzun	bak
+tembel	tembel	yürü
+kötü	kötü	hırla
+kolay	kolay
+dolu	Dolu
+ağır	ağır
+tiril	tiril
+kolay	kolay	git
+kolay	kolay	uğra
+sakin	sakin
+gümbür	gümbür	gürle
+yeni	yeni	gözük
+yeni	yeni	çık
+renk	renk
+uzun	uzun	seyret
+çok	çok
+fıkır	fıkır
+teker	teker	göster
+sıkı	sıkı
+teker	teker	al
+cıvıl	cıvıl
+ayrı	ayrı
+yavaş	yavaş	ayrıl
+teker	teker	git
+kesik	kesik
+yavaş	yavaş	yaklaş
+tık	tık
+Number of pairs: 47
+
+kötü	Kötü
+yeter	yeter	yet
+azar	Azar
+yavaş	yavaş
+korka	korka
+uzun	Uzun
+kolay	kolay	kop
+yeni	yeni
+kolay	kolay
+kolay	kolay	yozlaş
+küçük	küçük
+açık	açık
+uzun	uzun	say
+yatarım	Yatarım
+yavaş	yavaş	ulaş
+kolay	kolay	kopar
+çok	çok
+zangır	zangır	titre
+başka	başka
+demokrasi	Demokrasi
+aç	aç	dolaş
+yeni	yeni	duy
+bol	bol
+yavaş	yavaş	öğren
+türlü	türlü
+fitil	fitil	getir
+yavaş	yavaş	ilerle
+kolay	kolay	bula
+ayrı	ayrı
+başka	başka	gözük
+uzun	uzun	düşün
+küçücük	küçücük
+kıvıl	kıvıl
+renk	renk	giyin
+hızlı	hızlı
+renk	renk
+pampal	pampal	aç
+uzun	uzun	konuş
+kolay	kolay	yoz
+kısa	Kısa
+bozkır	bozkır
+yavaş	yavaş	azal
+tane	tane	anlat
+tek	tek	dolaş
+Number of pairs: 177
+
+ağır	ağır
+uzun	uzun
+vızır	vızır	işle
+yeni	yeni	sözet
+gizli	gizli
+büyük	büyük
+uslu	uslu
+gürül	gürül	ak
+yavaş	yavaş	kazı
+yavaş	yavaş
+ağır	ağır	oku
+boş	boş	bak
+tek	tek	sat
+yavaş	yavaş	düş
+cayır	cayır	yan
+hızlı	hızlı	yürü
+bol	bol
+renk	renk
+dalgın	dalgın	geç
+tek	tek	öt
+dükkân	dükkân	gez
+boy	boy
+bol	bol	sık
+dalgın	dalgın	gezin
+ağır	ağır	salın
+tek	tek	düşün
+tembel	tembel	gerin
+mışıl	mışıl	uyur
+kana	kana
+tek	tek
+tek	tek	göster
+kıpır	kıpır	kıpırda
+kıpır	kıpır
+yan	yan	yürü
+kocaman	kocaman	aç
+tek	tek	ara
+tıkır	tıkır	dik
+yan	yan
+hafif	hafif	titre
+hızlı	hızlı	geç
+renk	renk	tüken
+gizli	gizli	aç
+boş	boş	dik
+ağır	ağır	iner
+uzun	uzun	çaldır
+ağır	ağır	yağ
+ağır	ağır	yüksel
+tek	tek	gör
+uzun	uzun	yürü
+uzun	uzun	seyret
+tatlı	tatlı
+yeni	yeni	alış
+tek	tek	hatırla
+uğursuz	uğursuz	havla
+teker	teker	uza
+iri	iri
+yavaş	yavaş	kaybet
+rahat	rahat	yap
+yorgun	yorgun
+uzun	uzun	oku
+ağır	ağır	belir
+dalgın	dalgın	çekiş
+tek	tek	seyret
+tek	tek	kan
+uzun	uzun	dur
+dalgın	dalgın	oku
+bütün	bütün	kurtul
+uzun	uzun	konuş
+pırıl	pırıl	parla
+uzun	uzun	anlat
+hafif	hafif	atış
+ağır	ağır	kapa
+tek	tek	sık
+ışıl	ışıl
+ağır	ağır	salla
+kıpır	kıpır	kaynaş
+kıpır	kıpır	yaşa
+kıpır	kıpır	yaklaş
+ağır	ağır	dağıl
+hafif	Hafif
+ağır	ağır	yaklaş
+yavaş	yavaş	arala
+ağır	ağır	arala
+ağır	ağır	çevir
+dalgın	dalgın	gez
+dalgın	dalgın	çık
+ağır	ağır	doğrul
+tembel	tembel	kaşı
+teker	teker	kaybol
+gizli	gizli	düzenle
+geçe	geçe
+dalgın	dalgın	yürü
+tek	tek	çiz
+hızlı	hızlı	yaz
+hızlı	hızlı	oku
+uzun	uzun	sözet
+dalgın	Dalgın
+ağır	ağır	değiş
+uzun	uzun	bak
+tek	tek	an
+hızlı	hızlı
+ağır	ağır	çık
+yeni	yeni	keşfet
+tek	tek	oku
+tek	tek	in
+ağır	ağır	sol
+yavaş	yavaş	değiş
+ağır	ağır	aç
+kolay	kolay	çöz
+hızlı	hızlı	çevir
+ışıl	ışıl	parla
+pırıl	pırıl
+ağır	ağır	yay
+ağır	ağır	çöz
+kova	kova
+ağır	ağır	düzel
+yavaş	yavaş	büyü
+hızlı	hızlı	ilerle
+teker	teker	işaretle
+ağır	ağır	bat
+uzun	uzun	yargıla
+yavaş	yavaş	yaklaş
+uzun	uzun	tartış
+uzun	uzun	salla
+ağır	ağır	ak
+çok	çok
+yavaş	yavaş	anla
+ağır	ağır	edin
+ağır	ağır	kaybet
+sicim	sicim
+ağır	ağır	çıkar
+ağır	ağır	uç
+sinirli	sinirli
+karış	karış	gez
+bütün	bütün	çek
+uzun	uzun	otur
+ayrı	ayrı
+kıpır	kıpır	yerleş
+mışıl	mışıl	uy
+ağır	ağır	it
+tek	tek	yaz
+yavaş	yavaş	kaybol
+ağır	ağır	yerleş
+dalgın	dalgın	bakan
+ağır	ağır	yürü
+ağır	ağır	gir
+tek	tek	bul
+ağır	ağır	kalk
+şıkır	şıkır
+tek	tek	çöz
+rahat	rahat	yaz
+boş	boş
+Number of pairs: 43
+
+uzun	uzun	kokla
+yan	yan	bakan
+dalgın	dalgın
+baygın	baygın
+ağır	ağır	anlat
+rahat	rahat
+ağır	ağır	söyle
+kolay	kolay
+bol	bol
+mahzun	mahzun
+uzun	uzun
+büyük	büyük
+renk	renk
+derin	derin	bakış
+ağır	ağır
+yan	yan	ak
+ağır	ağır	gel
+başka	başka
+ağır	ağır	ilerle
+uzun	uzun	salla
+ağır	ağır	inle
+yavaş	yavaş
+geçe	geçe
+uzun	uzun	gör
+ayrı	ayrı
+yavaş	yavaş	kaç
+yavaş	yavaş	sok
+ağır	ağır	yüksel
+ağır	ağır	düş
+keskin	keskin	öt
+kıs	kıs	gül
+derin	derin	bak
+tatlı	tatlı
+tatlı	tatlı	konuş
+ciddi	ciddi
+yavaş	yavaş	bağla
+uzun	uzun	düşün
+uzun	uzun	ağla
+uzun	uzun	bak
+acı	acı	gülümse
+Number of pairs: 179
+
+küçük	küçük
+ince	ince	köpükle
+ağır	ağır	iler
+kütür	kütür
+yalım	yalım	kıvılcımla
+ılgıt	ılgıt	es
+sarhoş	sarhoş
+fıkır	fıkır
+kolay	kolay	gir
+uzun	uzun
+çalı	çalı
+kovuk	kovuk
+hızlı	hızlı	çarp
+hızlı	hızlı	at
+gel	Gel
+zangır	zangır	et
+yavaş	yavaş
+geniş	Geniş
+deli	deli
+pırıl	pırıl
+ağır	ağır
+tok	tok
+gizli	gizli	bak
+ters	ters
+telaşlı	telaşlı	soluy
+teker	teker
+gevrek	gevrek	gül
+ağır	ağır	aç
+gümbür	gümbür
+nakış	nakış
+gıcır	gıcır
+yavaş	yavaş	uyan
+utangaç	utangaç	gülümse
+çok	çok
+yalım	yalım
+açık	açık	konuş
+ağır	ağır	kalk
+uzun	uzun	uç
+zangır	zangır	titre
+karakol	karakol
+mavi	mavi	bakan
+teker	teker	dolaş
+rahat	rahat	çatla
+güzel	güzel
+taze	taze	kok
+sürü	sürü
+ters	ters	bak
+kıpır	kıpır	et
+vızıl	vızıl
+türlü	türlü
+mutlu	mutlu	gülümse
+yavaş	yavaş	kalk
+kolay	kolay
+ıslak	ıslak	sıvazla
+uzun	uzun	konuş
+ayrı	ayrı	söyle
+delik	delik
+yavaş	yavaş	alış
+kopuk	kopuk
+dalga	dalga	gel
+taze	taze
+uzun	uzun	öt
+uzun	uzun	bak
+diri	diri	ye
+keyifli	keyifli	dolaş
+ışıl	ışıl
+yalp	yalp	et
+yok	yok
+çın	çın
+ince	ince	kişne
+bol	bol
+şaşkın	şaşkın	dur
+ağır	ağır	ye
+kırık	kırık
+melil	melil
+yanık	yanık
+uzun	uzun	Memedin
+toprak	Toprak
+yer	Yer
+açık	açık	anlat
+yapış	yapış
+fırt	fırt	geç
+parıl	parıl
+kolay	kolay	kalk
+ağır	ağır	sil
+teker	teker	çağır
+güm	güm	öt
+ince	ince
+vızır	vızır
+yakın	Yakın
+ışıl	ışıl	yan
+yeni	yeni	soğ
+derin	derin
+şaşkın	şaşkın
+açık	açık
+ılgıt	ılgıt
+teker	teker	ayır
+kolay	kolay	bulun
+korka	korka	al
+ıslak	ıslak	parla
+türlü	türlü	anlat
+uzun	uzun	bayıltı
+tembel	tembel	bekle
+aç	aç	bekleş
+güzel	güzel	anlat
+pırıl	pırıl	silah
+çifter	Çifter
+yavaş	yavaş	din
+fırt	fırt
+delik	delik	ara
+ağır	ağır	ak
+çatır	çatır	kır
+renk	renk
+gıcır	gıcır	çimen
+ipil	ipil
+fıkır	fıkır	kayna
+yavaş	yavaş	dağıl
+fitil	Fitil
+koygun	koygun
+cık	cık
+kıyık	Kıyık
+açık	açık	söyle
+uzun	uzun	kam
+tapir	tapir
+deli	deli	ol
+aylak	aylak	dolaş
+geniş	geniş	salla
+domur	domur
+ince	ince	çağılda
+ince	ince	doku
+uzun	uzun	kılavla
+ılık	ılık
+cığıl	cığıl	ak
+al	al	ol
+domur	domur	terle
+geri	geri	çek
+sandık	sandık
+küt	küt
+ekşi	ekşi	kok
+kıpır	kıpır
+doğru	Doğru
+sürü	sürü	dolaş
+ağır	ağır	gümüş
+ağır	ağır	ilerle
+mutlu	mutlu	gül
+rahat	rahat	uy
+bol	bol	sür
+yol	Yol
+yarık	yarık	ol
+zangır	zangır	sars
+türlü	türlü	ol
+uzun	uzun	sula
+usul	usul	es
+küt	küt	at
+ayrı	Ayrı
+kuzu	kuzu	gel
+ekşi	ekşi
+ağır	ağır	yürü
+uzun	uzun	anlat
+yazık	Yazık
+dükkan	dükkan
+kıpır	kıpır	dur
+ağır	ağır	kaldır
+korka	korka
+basa	basa	dol
+uslu	uslu	yap
+koygun	koygun	öt
+Number of pairs: 61
+
+çok	Çok
+kıpır	kıpır	et
+uzun	Uzun
+şaşkın	şaşkın	bakış
+ağır	ağır
+yavaş	yavaş
+kocaman	kocaman
+küçük	küçük
+ağır	ağır	çek
+yavaş	yavaş	alış
+renk	renk	uç
+kocaman	kocaman	gözükür
+türlü	türlü
+renk	renk
+aç	aç
+bol	bol
+usul	usul	ilerle
+ağır	ağır	sür
+yan	yan	uç
+yan	Yan
+çalı	çalı	dolaş
+kırmızı	kırmızı
+başka	başka
+derin	derin
+yavaş	yavaş	aç
+ağır	ağır	in
+renk	renk	ışıla
+tek	tek	dolaş
+beşer	Beşer
+teker	teker
+yazık	Yazık
+top	top
+teker	teker	kucakla
+teker	teker	sat
+zangır	zangır	titre
+uzun	uzun	kokla
+yavaş	yavaş	iç
+ağır	ağır	iç
+parıl	parıl	et
+küçük	küçük	mumla
+güzel	güzel
+yarabbi	Yarabbi
+kolay	kolay	bit
+gürül	gürül
+akın	akın
+rahat	rahat
+yok	Yok
+uzun	uzun	konuş
+uzun	uzun	düşün
+kuzu	kuzu
+yavaş	yavaş	toparla
+yığın	yığın
+ağır	ağır	gel
+ana	Ana
+bak	bak
+kolay	kolay
+tek	tek	bak
+yavaş	yavaş	iyi
+uzun	uzun	diz
+Number of pairs: 17
+
+ayrı	ayrı
+yavaş	yavaş	yürü
+uzun	uzun
+uzun	uzun	kayna
+yavaş	yavaş
+tek	tek
+ağır	ağır
+uzun	uzun	düşün
+uzun	uzun	seyret
+yavaş	yavaş	ye
+yavaş	yavaş	iç
+uzun	uzun	konuş
+hızlı	hızlı	yürü
+kara	kara	düşün
+güreş	güreş
+akın	akın	dön
+Number of pairs: 86
+
+çok	Çok
+hızlı	hızlı
+yavaş	yavaş	in
+uzun	uzun
+fıkır	fıkır
+yeni	yeni
+ciddi	ciddi	git
+açık	açık	söyle
+hüngür	hüngür	ağla
+lak	lak	et
+ayrı	ayrı
+bol	bol	tat
+aptal	aptal	otur
+uzun	uzun	konuş
+ayrı	ayrı	koşuş
+dolu	dolu	yaş
+mışıl	mışıl	uy
+yeni	yeni	anla
+korka	korka	boşa
+harıl	harıl
+tiril	tiril	titre
+mışıl	mışıl	uyu
+kara	kara
+teker	teker	arat
+dik	dik	bak
+dolu	dolu	yaşa
+dolu	dolu	geç
+bol	bol	ver
+yavaş	yavaş	aç
+teker	teker
+kolay	kolay	kalk
+ayrı	ayrı	çık
+sakin	sakin
+gümbür	gümbür	vur
+çipil	çipil
+kıs	kıs	gül
+tıkır	tıkır	çalış
+uzun	uzun	düşün
+bol	bol
+aval	aval
+hafif	hafif
+ayrı	ayrı	gez
+bucak	bucak	kaç
+şaşkın	şaşkın	bak
+şaşkın	şaşkın	dur
+yavaş	yavaş
+alır	alır	giyer
+şırıl	şırıl
+aptal	aptal	konuş
+kötü	kötü
+yavaş	yavaş	uza
+sakin	sakin	dur
+çağıl	çağıl	ak
+yavaş	yavaş	ak
+kızıl	kızıl	parla
+kötü	kötü	bak
+kıvır	kıvır
+koşa	koşa
+açık	açık
+derin	derin
+alaylı	alaylı	bak
+uzun	uzun	bak
+uzun	uzun	çaldır
+melül	melül	bak
+sinirli	sinirli
+hızlı	hızlı	yürü
+ağır	ağır
+uzun	uzun	çal
+yeni	yeni	gel
+aval	aval	bak
+boş	boş	bak
+hantal	hantal
+hızlı	hızlı	vur
+hafif	hafif	başla
+Number of pairs: 209
+
+pırıl	pırıl
+uzun	uzun	bahset
+zangır	zangır	titre
+dalgın	dalgın	karış
+hafif	hafif	ağla
+tek	tek	gör
+tek	tek
+uzun	uzun
+ince	ince
+uzun	uzun	yürü
+gıcır	gıcır
+tatlı	tatlı	dalga
+kıpır	kıpır
+yavaş	yavaş	geliş
+dalgın	dalgın	yürü
+uzun	uzun	dişle
+uzun	uzun	öpüş
+ağır	ağır	keşfet
+ağır	ağır	dalgala
+yavaş	yavaş	aç
+tek	tek	anlat
+sinirli	sinirli	oyna
+pis	pis	gülüş
+çeşit	çeşit
+bol	bol
+tek	tek	say
+tek	tek	düşün
+yavaş	Yavaş
+tek	tek	geç
+uzun	uzun	sırı
+fıkır	fıkır
+butik	butik	gez
+ağır	ağır	taşın
+hafif	hafif
+dalgın	dalgın
+ağır	ağır	geç
+yavaş	yavaş	yumuşa
+yan	yan	sürükle
+tek	tek	selam
+hızlı	hızlı	içer
+gizli	gizli
+yeni	yeni	geliş
+hafif	hafif	kıpırda
+uzun	uzun	süz
+tek	tek	ilgilen
+cıvıl	cıvıl
+tek	tek	geçerle
+tek	tek	hatırla
+teker	teker
+uzun	uzun	anlat
+yeni	yeni	yay
+kıkır	kıkır	gül
+yeni	yeni	çiçekle
+uzun	uzun	öv
+tek	tek	öp
+rahat	rahat	anlat
+yavaş	yavaş	ilerle
+ağır	ağır	yürü
+boş	boş
+koşa	koşa
+yavaş	yavaş	alış
+pırıl	pırıl	ışılda
+gizli	gizli	suçla
+renk	renk
+ağır	ağır	fışkır
+uzun	uzun	tut
+ağır	ağır	tırman
+dalgın	dalgın	yürür
+çok	çok
+yavaş	yavaş	soyun
+tatlı	tatlı	gülümse
+düşünceli	düşünceli
+suçlu	suçlu
+bol	bol	iç
+yavaş	yavaş	dayan
+kocaman	kocaman	aç
+uzun	uzun	çaldır
+dalgın	dalgın	bak
+tatlı	tatlı	dinle
+sarhoş	sarhoş	gül
+dalgın	dalgın	seyret
+uzun	uzun	seyret
+ağır	ağır
+uzun	uzun	ağla
+geri	geri	yüzer
+bol	bol	pudrala
+sokak	Sokak
+gıcır	gıcır	gıcırda
+tatlı	tatlı	salla
+aylak	aylak	salla
+uzun	uzun	konuş
+uzun	uzun	bak
+tek	tek	oku
+yavaş	yavaş	uzak
+tatlı	tatlı
+gümbür	gümbür	at
+ışıl	ışıl
+tabii	tabii
+uzun	uzun	oyna
+ağır	ağır	yüksel
+ağır	ağır	ilerle
+kıs	kıs	gül
+uzun	uzun	tekrarla
+ağır	ağır	kıpırda
+yavaş	yavaş	anla
+ağır	ağır	kıvrıl
+rahat	rahat	seyred
+uzun	uzun	sus
+ağır	ağır	yaşlan
+yavaş	yavaş	uzman
+tiril	tiril
+gizli	gizli	yasak
+tek	tek	çek
+tek	tek	göster
+kat	kat
+uzun	uzun	okşar
+şakır	şakır
+yavaş	yavaş	karış
+uzun	uzun	tartış
+yan	yan
+tıkış	tıkış
+fosur	fosur
+tatlı	tatlı	konuş
+yavaş	yavaş	ısınır
+dik	dik
+sert	sert
+hızlı	hızlı	okur
+gizli	gizli	düşün
+ev	ev	ara
+rahat	rahat
+uzun	uzun	düşün
+bol	bol	sinema
+boş	boş	otur
+ağır	ağır	çevir
+derin	derin
+derin	derin	bak
+yavaş	yavaş	çök
+yavaş	yavaş	kaybol
+ağır	ağır	bas
+dalgın	dalgın	bas
+ağır	ağır	dolaş
+tek	tek	yırtar
+ağır	ağır	iç
+kötü	kötü
+cik	cik
+yok	Yok
+kesik	kesik	salla
+geri	geri	git
+tek	tek	sar
+boş	boş	bak
+renk	renk	düğme
+yavaş	yavaş	Füsun
+hızlı	hızlı	yürü
+ağır	ağır	bat
+uzun	uzun	gürle
+uzun	uzun	öp
+uzun	uzun	seviş
+yavaş	yavaş	gevşe
+sert	sert	bas
+tek	tek	dokun
+tek	tek	bak
+aylak	aylak	gezin
+yavaş	yavaş	yay
+tek	tek	taşı
+ağır	ağır	çık
+vitrin	vitrin
+yavaş	yavaş	döner
+rahat	rahat	konuş
+ağır	ağır	arala
+Number of pairs: 57
+
+uzun	uzun	yürü
+bol	bol
+küçük	küçük
+ağır	ağır
+ağır	ağır	aç
+ışıl	ışıl
+ağır	ağır	çeker
+hızlı	hızlı	at
+dalgın	dalgın	geç
+yavaş	yavaş	çevir
+ağır	ağır	parçal
+kolay	kolay	çık
+tek	tek	işaretle
+uzun	uzun	bak
+uzun	uzun	yalvar
+geri	geri	git
+ağır	ağır	dön
+uzun	uzun	öğütle
+ağır	ağır	çevir
+hafif	hafif	titre
+yavaş	yavaş
+ağır	ağır	geçer
+bol	bol	uyu
+açık	açık	anlat
+yavaş	yavaş	sez
+dalgın	dalgın	bak
+dalgın	dalgın	seyret
+uzun	uzun	seviş
+renk	renk
+boş	boş	dur
+çeşit	Çeşit
+uzun	uzun	anlat
+dalgın	dalgın	yürü
+tek	Tek
+ağır	ağır	ilerle
+tek	tek	oku
+tek	tek	hatırla
+açık	açık
+gizli	gizli
+yavaş	yavaş	yaklaş
+ağır	ağır	yaklaş
+yavaş	yavaş	anla
+ince	ince
+yavaş	yavaş	uzak
+uzun	uzun	agla
+uzun	uzun	yaz
+kötü	kötü
+tek	tek	çık
+Number of pairs: 34
+
+sıcak	sıcak
+rahat	rahat
+kesik	kesik	gül
+uzun	Uzun
+uzun	uzun	konuş
+saf	saf
+derin	derin
+uzun	uzun	bahset
+renk	renk
+yavaş	yavaş
+ağır	ağır
+kesik	kesik	söyle
+uzun	uzun	okşa
+gizli	gizli
+gizli	gizli	gör
+gizli	gizli	gez
+kesik	kesik
+geri	geri	git
+mahzun	mahzun	gülümse
+yavaş	yavaş	hararet
+gani	gani
+yavaş	yavaş	aç
+şaşkın	şaşkın	gül
+ayrı	ayrı
+uzun	uzun	ağla
+mahzun	mahzun	düşün
+dik	Dik
+yavaş	yavaş	aşın
+ayrı	ayrı	çarpış
+yavaş	yavaş	ağla
+korka	korka	dolaş
+Number of pairs: 53
+
+ağır	ağır	yürü
+ağır	ağır
+bol	bol
+dalgın	dalgın
+uzun	uzun	seyret
+başka	başka
+fıkır	fıkır	gül
+yığın	yığın
+türlü	türlü
+hızlı	Hızlı
+uzun	uzun
+yavaş	yavaş	alış
+gizli	gizli	hazırla
+yavaş	Yavaş
+şaşkın	şaşkın	gülümse
+yavaş	yavaş	yaklaş
+hızlı	hızlı	yürü
+dalgın	dalgın	otur
+garip	Garip
+dik	dik	bak
+ağır	ağır	uzak
+aptal	Aptal
+zonk	zonk	vur
+renk	renk	ot
+hızlı	hızlı	salla
+avaz	avaz
+uzun	uzun	bakış
+hafif	hafif	salla
+uzun	uzun	dal
+tatlı	tatlı	ısıt
+renk	renk
+teker	teker	bak
+hafif	hafif	ürper
+kesik	Kesik
+ağır	ağır	kalk
+çeşit	çeşit
+uzun	uzun	çal
+yavaş	yavaş	canla
+küçük	küçük
+ağır	ağır	in
+teker	teker
+uzun	uzun	konuş
+uzun	uzun	anlat
+diri	diri
+Number of pairs: 46
+
+fitil	fitil
+kocaman	kocaman
+uzun	uzun	yaz
+küçük	küçük
+yeşil	yeşil
+ağır	ağır
+yumuşacık	yumuşacık	yürü
+ciddi	ciddi
+yumuşak	yumuşak	gülümse
+bölük	Bölük
+çok	Çok
+teker	teker
+bütün	bütün
+teker	teker	selamla
+uzun	Uzun
+ağır	ağır	kalk
+yağlı	yağlı	parla
+neşeli	neşeli	yürü
+hararetli	hararetli
+tatlı	tatlı
+uzun	uzun	bak
+usul	Usul
+tabii	Tabii
+fitil	fitil	getir
+arsız	arsız
+ağır	ağır	sallı
+çamurlu	çamurlu
+sinirli	sinirli
+teker	teker	söyle
+sert	sert	bak
+kıçın	kıçın	git
+yeni	yeni
+kolay	kolay	kuru
+mahzun	mahzun
+yeni	yeni	göğer
+uzun	uzun	anla
+yarık	yarık
+pırıl	Pırıl
+ağır	ağır	geç
+kolay	kolay	vur
+sevinçli	sevinçli	gül
+kocaman	kocaman	aç
+zangır	zangır	titre
+delik	delik
+yağlı	Yağlı
+telaşlı	telaşlı
+Number of pairs: 47
+
+ciddî	ciddî	bak
+bütün	bütün
+uzun	uzun	anlat
+garip	garip
+garip	garip	bak
+uzun	Uzun
+yavaş	yavaş
+ayrı	ayrı	ara
+hissiz	hissiz	bak
+serbest	serbest	konuş
+hararetli	hararetli	konuş
+ayrı	ayrı
+dalgın	dalgın	al
+hafif	hafif	at
+uzun	uzun	bak
+yavaş	yavaş	anla
+derin	derin	ağla
+hafif	Hafif
+vız	vız
+yavaş	yavaş	ilerle
+dalgın	dalgın	dur
+bütün	bütün	tutuş
+dalgın	dalgın
+yavaş	yavaş	konuş
+sert	sert	haykır
+bütün	bütün	yavuz
+sert	sert
+serin	serin
+tatlı	tatlı	uyu
+yavaş	yavaş	bit
+sıcak	sıcak
+yavaş	yavaş	in
+derin	derin
+sert	sert	bak
+ayrı	ayrı	hatırla
+yavaş	yavaş	doğrula
+hızlı	hızlı	konuş
+sessiz	sessiz	ağla
+gümbür	gümbür	at
+yavaş	yavaş	ek
+vız	vız	uç
+Number of pairs: 23
+
+ışıl	ışıl	yan
+yavaş	yavaş	de
+sıcak	sıcak
+teker	teker
+uzun	uzun
+ayrı	ayrı	ol
+uzun	uzun	düşün
+rahat	rahat	bak
+tatlı	tatlı	kaşı
+yavaş	yavaş	yürü
+yavaş	yavaş
+bol	Bol
+rahat	rahat	öl
+gizli	gizli
+ayrı	ayrı
+teker	teker	bak
+uzun	uzun	bakış
+püskül	püskül	yap
+koşa	koşa
+ağır	ağır	gider
+çifter	çifter
+tatlı	tatlı	anır
+bön	bön
+Number of pairs: 46
+
+ters	ters	bak
+türlü	türlü
+renk	renk
+uzun	uzun	bak
+tek	tek	tanı
+yeni	yeni	kayna
+fırıl	fırıl	dön
+derin	derin
+ürkek	ürkek	bak
+uzun	uzun	koklaş
+tatlı	tatlı	mırılda
+tiril	tiril	titrer
+hüngür	hüngür	ağla
+kürek	kürek
+uzun	uzun	esne
+teker	teker
+diri	diri	göm
+sakin	sakin
+tıkır	tıkır
+isteksiz	isteksiz
+tek	tek	sök
+uzun	uzun	düşün
+kolay	kolay	inan
+pis	pis	sırı
+çuval	çuval
+uzun	uzun	anlat
+ağır	ağır	kayna
+uzun	uzun
+küçük	küçük
+tek	tek
+yavaş	yavaş
+geri	geri	git
+aka	aka
+çeşit	çeşit
+tek	tek	sat
+uzun	uzun	seyret
+teker	teker	çık
+horul	horul	uyu
+kolay	kolay	bırak
+horul	horul
+sakin	sakin	uy
+Number of pairs: 20
+
+ışıl	ışıl	yan
+pırıl	pırıl	yan
+rahat	rahat	öl
+vak	Vak
+zangır	zangır
+yeni	yeni
+şük	şük
+takır	takır
+yeşil	Yeşil
+ışıl	ışıl	parla
+derin	derin	kokla
+keskin	keskin
+kızgın	kızgın	soluma
+yavaş	yavaş	de
+yığın	Yığın
+rahat	rahat	dön
+kaça	Kaça
+köpük	köpük	köpükle
+kala	kala
+Number of pairs: 108
+
+uzun	uzun
+dalgın	Dalgın
+hızlı	hızlı	yürü
+hızlı	hızlı	ilerle
+ağır	ağır	yağ
+ağır	ağır
+gizli	gizli	inan
+yavaş	yavaş	yağ
+uzun	uzun	bak
+yavaş	yavaş	yakala
+gizli	gizli	kork
+ağır	ağır	in
+uzun	uzun	aran
+uslu	uslu	dur
+ağır	ağır	ilerle
+ağır	ağır	yürü
+uzun	uzun	yürü
+bol	bol
+hızlı	hızlı
+tek	tek	sor
+uzun	uzun	de
+kocaman	kocaman	aç
+dalgın	dalgın	bak
+rahat	rahat	konuş
+harıl	harıl
+hızlı	hızlı	yaz
+uzun	uzun	otur
+tek	tek
+küt	küt	at
+teker	teker	temizle
+yavaş	yavaş	öl
+yavaş	yavaş
+sakin	sakin	yürü
+ağır	ağır	kapa
+ağır	ağır	uzak
+ağır	ağır	aç
+tek	tek	tanı
+ağır	ağır	topla
+ince	ince	kes
+tek	tek	hatırla
+suçlu	suçlu
+kalın	kalın	kes
+kalın	kalın	dilimle
+ağır	ağır	geç
+rahat	rahat	yaz
+çeşit	çeşit
+ağır	ağır	kıpırda
+hızlı	hızlı	konuş
+ürkek	ürkek	bak
+bol	bol	iç
+cıvıl	cıvıl	göster
+tek	tek	gör
+sert	sert	bak
+kuzu	kuzu
+tatlı	tatlı	salla
+batı	Batı
+renk	renk
+uzun	uzun	havla
+fıkır	fıkır
+ağır	ağır	hazırla
+hızlı	hızlı	geç
+boş	boş	bak
+kangal	kangal
+teker	teker	gel
+uzun	uzun	dur
+gizli	gizli	düşün
+hızlı	hızlı	at
+ağır	ağır	dön
+uzun	uzun	seyret
+tek	tek	say
+ateşli	Ateşli
+ağır	ağır	düş
+hızlı	hızlı	anlat
+sessiz	sessiz	çalış
+ağır	ağır	çözerle
+tek	tek	anlat
+uzun	uzun	gir
+az	az
+kötü	kötü	konuş
+bol	bol	dök
+uzun	uzun	tartış
+ürkek	ürkek
+uzun	uzun	dinle
+tek	tek	göster
+tatlı	tatlı
+ışıl	ışıl
+tatlı	tatlı	gülümse

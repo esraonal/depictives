@@ -1,0 +1,38 @@
+Number of instances: 6
+
+# text = Halitpaşa Caddesi'ndeyken önce Halk Partisi'nin seçim kalabalığına, sonra da üniversite sınavına hazırlık kursundan çıkan öğrencilerin arasına düştü: Akşam televizyon seyretmekten, kimyacının kerizliğinden söz ediyor, tıpkı o yaşta Ka ve benim yaptığımız gibi birbirlerini gaddarca iğneliyorlardı.
+
+4	ndeyken	ndeyk	ADV	Noun	_	22	advmod	_	_
+
+5	önce	önce	ADP	PCAbl	_	4	case	_	_
+
+# text = "Çocukken mutlu muydun?"
+
+2	Çocukken	çocukken	ADV	Adverb	_	4	advmod	_	_
+
+3	mutlu	mutlu	ADJ	Adj	_	4	amod	_	_
+
+# text = Yıllar sonra, çocukken mutlu olduğuma karar verdim: Aslında değildim.
+
+4	çocukken	çocukken	ADV	Noun	_	6	advmod	_	_
+
+5	mutlu	mutlu	ADJ	Adj	_	6	amod	_	_
+
+# text = Ka sonraki yıllarda bu şiiri hatırlarken bazı hatıralarını tek tek saymıştı: Çocukluğunun yaz tatilleri, okuldan kaçtığı günler, kızkardeşiyle birlikte annesinin babasının yattığı yatağa girişleri, çocukken yaptığı bazı resimler, okul partisinde tanıdığı kızla sonradan buluşup onu öpmesi.
+
+29	çocukken	çocukken	ADV	Noun	_	30	advmod	_	_
+
+30	yaptığı	yap	VERB	Verb	Aspect=Perf|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	32	acl	_	_
+
+# text = Ka'nın Kars'ta yazmaya başladığı on sekizinci şiirdi bu ve hayatında bu türden aşk ve nefret ilişkilerine girdiği çeşitli adamlara göndermeler olduğunu onun kendi kendine yazdığı notlar olmasa kimse anlayamazdı: Şişli Terakki Lisesi'nde ortaokuldayken çok zengin müteahhit bir ailenin konkurhipiklerde Balkan şampiyonu olan şımarık, ama Ka'yı cezbedecek kadar bağımsız bir oğlu vardı; annesinin Beyaz Rus bir lise arkadaşının babasız, kardeşsiz büyümüş ve lisedeyken uyuşturucu kullanmaya başlamış, hiçbir şeyi iplemeyen ve bir şekilde her şeyi bilen beyaz yüzlü esrarengiz bir oğlu vardı; Tuzla'da askerlik eğitimini yaparken yan bölükteki sırasından çıkıp Ka'ya küçük zalimlikler (kasketini saklamak) yapan yakışıklı, sessiz ve kendi kendine yeterli bir herif vardı.
+
+74	lisedeyken	liset	ADV	Noun	_	75	advmod	_	_
+
+75	uyuşturucu	uyuşturucu	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	76	obj	_	_
+
+# text = O sözü sen Kars'tayken bulabilirsem söylerim."
+
+6	tayken	tayk	ADV	Adverb	_	7	advmod	_	_
+
+7	bulabilirsem	bul	VERB	Verb	Aspect=Prog|Mood=Cnd|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	8	advcl	_	_
+
