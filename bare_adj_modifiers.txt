@@ -1,4 +1,4 @@
-Number of pairs: 446
+Number of pairs: 406
 
 ansızın	çök
 tek	başınay
@@ -6,18 +6,13 @@ hızlı	art
 iyi	duy
 iyi	tanı
 olası	sev
-güzel	bul
-eksik	et
-güçlü	görün
 çok	saçma
 sıcak	bak
 yüksek	çık
-katili	bul
 yakın	gel
 büyük	imparatorluk
 iyi	yetiş
 iyi	anlat
-son	bul
 sıcak	başla
 çift	kır
 iyi	kavra
@@ -27,25 +22,17 @@ doğal	Hak
 hazırlıksız	yakala
 iyi	hisset
 yukarı	kıvrıl
-ı	bul
-rahatsız	et
 mantıklı	değil
 sabık	Ozan
 uzak	dur
-soylu	bul
-doğru	bul
 üstün	kıl
 yakışık	kal
 türlü	sev
-mutsuz	görün
 hazır	eder
 altın	çık
 iyi	geçin
 kutsal	say
 ters	düş
-belli	et
-ufak	et
-abartılı	bul
 hoş	karşıla
 ilk	gel
 tatlı	gül
@@ -54,7 +41,6 @@ hangi	köyden
 sıcak	tut
 ı	gör
 yeni	bitir
-büyük	görün
 mavi	göz
 uzun	sür
 yoksun	bırak
@@ -68,14 +54,12 @@ iyi	tanır
 var	zannet
 farklı	değil
 yok	de
-garip	bul
 acımasız	davran
 sert	davran
 eksik	arar
 kolay	değil
 ayrı	düş
 layışlı	davran
-duygusal	bul
 iyi	eğit
 geri	dön
 çok	sev
@@ -91,11 +75,9 @@ iyi	gör
 asılı	dur
 aralıksız	sür
 yakın	dur
-mutlu	görün
 nazik	davran
 beli	bük
 temkinli	karşıla
-açık	bul
 anlamlı	kıl
 serbest	bırak
 ilgili	çatış
@@ -131,7 +113,6 @@ mantıklı	gel
 kanlı	çatış
 delik	deşik
 taraflı	al
-yakın	bul
 cezasız	kal
 şikel	gümüş
 hoş	tut
@@ -155,7 +136,6 @@ yorgun	asker
 derin	güvensizlik
 tatlı	çınla
 yankı	uyan
-zor	et
 türlü	bit
 soylu	izle
 son	terkeden
@@ -163,7 +143,6 @@ eksiksiz	uyan
 iyi	geç
 çok	ye
 yanlış	bil
-zor	bul
 başka	konuş
 emin	değil
 ı	bekle
@@ -180,7 +159,6 @@ vakitsiz	yaş
 sütun	başlan
 genel	denetle
 sağlam	kal
-yeterli	bul
 var	de
 önemlisi	doğru
 ilk	tanış
@@ -205,7 +183,6 @@ yeni	başla
 ağır	öden
 kolay	sürükle
 ı	sor
-yok	et
 beli	tut
 önemsiz	kal
 iyi	davran
@@ -216,17 +193,13 @@ olumsuz	etkile
 iyi	şarap
 iyi	piş
 doğru	yap
-mutlu	et
 zavallı	evla
-yorgun	görün
 umutlu	değil
 ilgili	konuş
 güzel	konuş
 uzak	kal
 eski	koca
-var	et
 şanssız	say
-tesselli	et
 doğru	söyle
 yakışık	al
 ilk	sataş
@@ -238,7 +211,6 @@ iyi	yüz
 olumlu	karşıla
 türlü	tut
 iyi	ağırla
-anlamsız	bul
 iyi	anlaş
 azar	işit
 son	kat
@@ -254,7 +226,6 @@ kötü	hisset
 dürüst	konuş
 geniş	oda
 çok	ayıp
-komik	bul
 var	mi
 değerli	kıl
 güzel	söyle
@@ -264,7 +235,6 @@ güzel	yaltakla
 zor	at
 sakin	değil
 sağ	salim
-mantıklı	bul
 ince	ele
 rahat	dur
 uyanık	çık
@@ -292,7 +262,6 @@ yakın	arkadaş
 ileri	git
 güzel	azarla
 boylu	konuş
-iyi	görün
 memnun	değ
 ı	sev
 sorumlu	davran
@@ -340,9 +309,7 @@ baskın	çık
 filan	sor
 ağır	ilerle
 doğal	say
-ilginç	bul
 ters	çevir
-suçsuz	bul
 açık	dolaş
 filan	ver
 bütün	de
@@ -391,8 +358,6 @@ ilk	başkaldır
 bunca	saat
 doğru	değil
 sorumsuz	davran
-sıcak	görün
-asılı	bul
 yukarı	çık
 filan	anlat
 akıllı	davran
@@ -400,26 +365,22 @@ gönüllü	davran
 ısrarı	alat
 kuru	soğan
 taze	sarımsak
-üzgün	görün
 ı	araştır
 umutsuz	gör
 gelecek	kur
 kararlı	çık
 kuşkusuz	yap
 büyük	adam
-gergin	görün
 yavaş	çık
 türlü	konuş
 hareketsiz	dur
 iyi	tut
 yorgun	düş
 kötü	çık
-sinirli	görün
 küçük	tartış
 hızlı	ye
 türlü	dil
 teknik	incele
-sakin	görün
 son	öl
 sert	olman
 ileri	sür
@@ -427,7 +388,6 @@ tatsız	konuş
 ağır	ödet
 sert	tartış
 kısa	konuş
-heyecanlı	görün
 kralı	Rusa
 bağımsız	düşün
 arkeologun	konuş
@@ -446,13 +406,12 @@ acımasızca	davran
 yeni	ata
 sabırlı	okur
 ın	Sahibidir
-Number of pairs: 107
+Number of pairs: 104
 
 boş	ver
 denk	getir
 mangırlı	dolaş
 fena	tartakla
-iyi	et
 yukarı	çek
 delikanlı	dim
 büsbütün	sil
@@ -487,7 +446,6 @@ fena	atış
 dosdoğru	sar
 büsbütün	kap
 fena	kız
-belli	et
 var	de
 yanlış	kayna
 yarım	otur
@@ -531,7 +489,6 @@ denk	al
 bel	ver
 iç	çamaşır
 bütün	fos
-rahatsız	et
 ıslak	ıslak
 bakkalı	çağır
 kirli	döşe
@@ -555,7 +512,7 @@ kocakarı	homurda
 ters	gel
 sidik	kok
 filan	de
-Number of pairs: 145
+Number of pairs: 138
 
 yarı	korku
 yukarı	çık
@@ -568,7 +525,6 @@ yarı	an(II)
 yarı	anla
 boş	ver
 iyi	dinle
-uygun	bul
 biyol	tut
 partili	anlat
 yâni	de
@@ -650,16 +606,11 @@ iyi	korun
 aptal	yürü
 açık	art
 altın	düş
-zor	et
-memnun	et
 iyisin	sevgilim
 türlü	de
-parlak	bul
-zengin	et
 hayırsız	çık
 zor	doğur
 iyi	de
-rahat	et
 cam	bölme
 fena	boz
 beli	bük
@@ -677,7 +628,6 @@ suratlı	esmer
 eksik	kal
 ters	bak
 doğru	tut
-eksik	bul
 kelli	git
 var	hemşer
 davulu	çöz
@@ -702,7 +652,7 @@ ilk	var
 doğru	kaymakam
 dolu	gel
 ucuz	atla
-Number of pairs: 194
+Number of pairs: 184
 
 son	yaz
 hızlı	düş
@@ -726,7 +676,6 @@ sıcak	yaz
 kutsal	say
 kaç	kuşak
 rahat	bırak
-rahatsız	et
 yoğun	gibi
 ilk	gel
 iyi	duy
@@ -745,7 +694,6 @@ uygun	gör
 yanlış	yap
 razı	gel
 iyi	anla
-mutlu	et
 son	geç
 çaresiz	bırak
 dürüst	kal
@@ -757,8 +705,6 @@ olaysız	geçen
 belirsiz	gülümse
 örgütsel	çalış
 hoş	gel
-belli	et
-güzel	görün
 hevesli	değil
 ilk	konuş
 ilk	git
@@ -777,7 +723,6 @@ son	çatış
 uğursuz	tutukla
 eski	sevgili
 i̇yi	say
-iyi	görün
 boş	dur
 tatsız	gel
 yanlış	anla
@@ -793,7 +738,6 @@ iyi	tan
 temel	esas
 azık	al
 yorgun	gelir
-üzgün	görün
 asılı	dur
 boş	ver
 yazılı	gelin
@@ -802,7 +746,6 @@ mutlu	gör
 iyi	yaşa
 iyi	dinle
 yok	dinle
-huzursuz	et
 uzak	dur
 ilk	ay
 giyimli	genç
@@ -858,13 +801,11 @@ umutlu	değil
 sakin	otur
 keskin	dur
 bilgili	göster
-yok	et
 türlü	gerçek
 zor	getir
 destursuz	konuş
 yakın	arkadaş
 aptal	değil
-uygun	bul
 soluk	al
 türlü	otur
 faslı	bit
@@ -882,7 +823,6 @@ yok	say
 işsiz	kalan
 çiftetelli	çal
 devrimci	yap
-rahat	et
 rahat	değil
 doğru	eğ
 güzel	kok
@@ -898,7 +838,7 @@ haklı	çık
 ağır	gel
 boylu	tıknazca
 filan	gör
-Number of pairs: 98
+Number of pairs: 86
 
 yeni	gel
 kısa	sür
@@ -936,7 +876,6 @@ evvel	oku
 rahat	bırak
 iyi	bil
 ilk	lokma
-hakiki	görün
 kıpkırmızı	kes
 soğukkanlı	dur
 güzel	çalış
@@ -944,12 +883,10 @@ evel	darıl
 bol	kahkaha
 emir	ver
 gizli	konuş
-rahat	et
 iyi	bak
 tabii	karşıla
 esrarı	gör
 esrarı	duy
-teselli	et
 ­	sed
 saf	bırak
 ciddî	dur
@@ -964,11 +901,7 @@ doğru	yürü
 iyi	yap
 dargın	gibiy
 kükürt	serp
-iyi	bul
-zor	et
 ehemmiyetli	konuş
-teselli	bul
-memnun	et
 fasılasız	dalga
 garip	uğultu
 açık	hatırla
@@ -979,17 +912,12 @@ yukarı	çık
 baygın	yat
 yüzlü	dârülmual
 yukarı	kaldır
-manâsız	bul
-sakin	bul
-dehşetli	bul
 yeni	al
-soğuk	bul
 iyi	an(II)
 uzun	gel
 zili	düğ
 emri	bekle
 dimdik	duvar
-garip	görün
 türlü	giy
 tük	çağır
 mafsal	oyna
@@ -998,7 +926,7 @@ iyi	tanı
 aşırı	git
 hor	görme
 bütün	oluş
-Number of pairs: 149
+Number of pairs: 138
 
 esas	alın
 hızlı	dal
@@ -1008,7 +936,6 @@ iç	geçir
 ağır	bas
 karanfil	sat
 ilk	koru
-sevgili	bul
 sevgili	yok
 güzel	say
 ayrı	yaşa
@@ -1034,9 +961,7 @@ yeni	kurtul
 mari	gerek
 antibiyotik	lazım
 yeni	bit
-teselli	et
 bambaşka	geliş
-son	bul
 heykel	kır
 evli	kal
 soğuk	davran
@@ -1054,7 +979,6 @@ iyi	şarap
 ı	sus
 geçen	yaz
 ilginç	araştır
-rahatsız	et
 tüyü	dök
 erkeksi	hisset
 iyi	ayarla
@@ -1063,7 +987,6 @@ iyi	anla
 yangın	çık
 çekici	yap
 bağımsız	düşün
-yakışıklı	bul
 ı	ara
 iyi	kazan
 sosyolojik	incele
@@ -1104,9 +1027,6 @@ sonumuz	hayrol
 habersiz	gel
 aç	gez
 üst	gelir
-seksi	görün
-genç	görün
-küçük	görün
 gerçek	say
 kanalı	açık
 izinsiz	gir
@@ -1123,9 +1043,7 @@ tavizsiz	yaşam
 hamburger	ye
 toplumsal	düzen
 ansızın	gel
-rahat	et
 farklı	yetiş
-manasız	görün
 onsuz	kal
 zor	giy
 çıplak	ten
@@ -1137,7 +1055,6 @@ yeni	ayrıl
 darısı	ayrıl
 toplumsal	baskıda
 bunca	çoğul
-mutsuz	et
 yarım	kal
 yok	ulaş
 biyografi	oku
@@ -1149,7 +1066,7 @@ tek	yön
 mani	düzen
 mani	oka
 yücel	bağla
-Number of pairs: 182
+Number of pairs: 167
 
 tahterevalli	oyna
 fasılasız	ak
@@ -1164,7 +1081,6 @@ zor	yürü
 saklı	iç
 yukarı	taşı
 son	konuş
-mutlu	et
 kolay	gel
 geri	kal
 aynı	araştır
@@ -1196,7 +1112,6 @@ ağır	bas
 dalgın	bakaka
 ağır	makyaj
 sorumlu	tut
-yok	et
 lar	yap
 leri	açıkla
 vakitsiz	olgun
@@ -1204,14 +1119,12 @@ gönüllü	kat
 yorgun	gel
 güzel	kal
 vakitsiz	yetişkin
-hastalıklı	görün
 dar	gel
 yarım	kal
 nanik	yap
 kolay	kaç
 ölümsüz	kıl
 ağır	gel
-aykırı	bul
 yatar	yat
 yok	gibi
 aynı	yas
@@ -1223,7 +1136,6 @@ ilk	izle
 kötü	kutup
 sanal	yara
 filan	de
-son	bul
 mantık	Galip
 mıngır	salla
 çizmeli	kedi
@@ -1256,11 +1168,8 @@ yeni	doğ
 resmi	yap
 dik	dur
 ağır	yarala
-var	et
 farklı	düşün
-olgun	görün
 yanıtsız	kal
-yetersiz	bul
 iyi	çalış
 ileri	gel
 iyi	bil
@@ -1270,7 +1179,6 @@ gizli	kal
 ürkek	çocukla
 türlü	kaldır
 mümkün	değil
-memnun	et
 asılı	dur
 sağlam	dur
 ağır	iş
@@ -1283,18 +1191,14 @@ büyük	e
 aralıksız	tut
 bunca	üzen
 amaçlı	çık
-deşik	et
 zor	tut
 basit	değ
 büyük	eser
 şömineli	çalış
 koku	al
 iyi	değil
-sevimli	görün
 ciddi	eleştirmen
 sevgili	bülen
-iyi	et
-uygun	bul
 güzel	yaz
 ilgili	yaz
 irsal	buyrul
@@ -1303,8 +1207,6 @@ sert	mizaç
 doğal	karşıla
 holdingin	yaşa
 iyi	hisset
-belli	et
-sarılı	bul
 menenjit	geçir
 yangın	al
 yangın	kurtar
@@ -1333,7 +1235,7 @@ onsuz	yürü
 son	görüş
 son	kez
 şanslı	say
-Number of pairs: 390
+Number of pairs: 374
 
 keyifli	gozuk
 iyi	gor
@@ -1348,7 +1250,6 @@ uygun	gor
 genzi	tırmalı
 yeni	gelin
 yorgun	gel
-belli	et
 duzgun	değil
 zor	gecir
 yiğit	gecik
@@ -1379,15 +1280,12 @@ fena	ağrımıs
 hatır	sor
 fena	ağrı
 cok	tut
-eksik	et
 nun	konus
 soluksuz	yık
 turlu	davran
 yukarı	tuk
-surgun	et
 arı	git
 gec	acıl
-rahatsız	et
 guzel	bacak
 itoğlu	it
 gonlu	kayıt(I)
@@ -1411,10 +1309,8 @@ gazel	patla
 icin	değil
 ı	sor
 serin	git
-iyi	et
 asırı	ofkele
 fena	takıl
-doğru	bul
 ebabil	er
 karsı	cık
 icin	Yasin
@@ -1455,8 +1351,6 @@ asırı	cek
 ı	gormus
 filan	kalk
 adamakıllı	fark
-razı	et
-desik	et
 yakın	gel
 besyuz	getir
 filan	ver
@@ -1466,7 +1360,6 @@ uzun	dusun
 icin	felaket
 filan	tiftik
 ayrı	yat
-zor	et
 sağ	cık
 yapayalnız	bırak
 soluksuz	yuvarla
@@ -1479,7 +1372,6 @@ yas	dokmus
 baskı	yap
 yeni	yağla
 yarısır	farzet
-uygun	bul
 gelecek	tanı
 turlu	sev
 filan	vızgel
@@ -1508,7 +1400,6 @@ otomobili	de
 resmi	ilist
 yok	bak
 baslan	ağra
-yeyimli	bul
 namaz	kıl
 sevgisiz	i
 i̇yi	amma
@@ -1544,7 +1435,6 @@ yeni	kalk
 mutlu	kıl
 inek	sat
 i̇ci	titre
-tatlı	bul
 hafif	tert
 ici	yan
 rahat	dur
@@ -1588,7 +1478,6 @@ fena	değil
 sehirli	kız
 bulacalı	bas
 atılı	at
-keskin	et
 disli	değil
 iyi	gol
 fena	boz
@@ -1632,7 +1521,6 @@ susuz	komas
 kolu	tut
 taze	sovan
 dehsetli	sevin
-dayanaksız	bul
 eri	gercek
 iyi	yap
 butun	umu
@@ -1675,7 +1563,6 @@ geri	don
 kolay	değil
 acık	sor
 karı	boz
-rahat	et
 asıl	ana
 var	arslan
 kısa	kes
@@ -1717,7 +1604,6 @@ kocakarı	gel
 tek	lakır
 icin	ver
 girdiyi	cık
-memnun	et
 iyi	bak
 filan	getir
 yan	tak
@@ -1725,7 +1611,7 @@ yapın	de
 yeni	sağ
 aska	gel
 yuzun	alın
-Number of pairs: 474
+Number of pairs: 451
 
 türlü	oku
 kötü	gör
@@ -1742,12 +1628,10 @@ türlü	unut
 hakikî	düşman
 türlü	aşa
 bütün	ilmî
-rahatsız	et
 karım	behemehal
 ileri	git
 küçük	düşür
 pürüzsüz	geç
-tabiî	bul
 ilk	işle
 ilk	evlen
 açık	art
@@ -1814,10 +1698,8 @@ geleni	yap
 bütün	yakala
 iyi	hesaplı
 iyi	bil
-teselli	bul
 başka	varlık
 mübalâğalı	değ
-güçsüz	bul
 ayrı	yaş
 behemehal	çal
 türlü	gidt
@@ -1839,10 +1721,8 @@ ilk	soruştur
 düşük	gör
 serbest	kal
 türlü	beğen
-güzel	görün
 asılı	dur
 aynı	umursa
-becerikli	bul
 yeni	taşın
 yapayalnız	otur
 eski	tanı
@@ -1859,12 +1739,10 @@ borçlu	çık
 biçimli	kes
 hazır	dur
 huzursuz	kıl
-yok	et
 manalı	bak
 kıpkırmızı	kes
 bütün	veres
 sağlam	düşün
-teselli	et
 rahat	gel
 bütün	tanı
 iskambil	kâğıt
@@ -1892,9 +1770,7 @@ yeni	yok
 açık	bırak
 korkunç	gel
 ölü	aç
-rahat	et
 garip	say
-bitkin	bul
 iyi	işle
 siper	al
 eski	de
@@ -1908,7 +1784,6 @@ adamakıllı	yor
 behemehal	oku
 dürüst	git
 yarı	tutuş
-apaçık	görün
 türlü	kımılda
 çılgın	uğraş
 muttasıl	çırpın
@@ -1971,9 +1846,7 @@ heyecanlı	yaşa
 türlü	bırak
 büsbütün	uzak
 devamlı	konu
-razı	et
 dolu	şey
-zengin	bul
 sımsıkı	kilit
 adamakıllı	kur
 kapalı	yaşar
@@ -2054,7 +1927,6 @@ temeli	at
 yeni	yap
 güzel	yaz
 iyi	çalış
-memnun	görün
 dikkatli	davran
 büyük	benze
 iyi	hazırla
@@ -2086,7 +1958,6 @@ az	bil
 doğru	buyur
 tecrübeli	ada
 emir	ver
-sempatik	bul
 büsbütün	alev
 devamlı	çalış
 küçük	gör
@@ -2105,11 +1976,8 @@ bütün	de
 uzak	bulun
 büsbütün	at
 çıplak	yat
-haklı	bul
 doğru	söyle
-beceriksiz	bul
 iyi	anlat
-yapayalnız	bul
 hayırsız	koy
 ilk	gelişim
 sessiz	sada
@@ -2121,7 +1989,6 @@ ağır	gel
 korkuncu	Selma
 ürkek	parıltı
 çıplak	gülümse
-memnun	et
 ahlâklı	ada
 bol	kes
 kötü	talih
@@ -2130,10 +1997,8 @@ ilk	gül
 çok	tanı
 yanlış	anla
 bütün	gör
-mânâsız	bul
 tek	anahtar
 müdafaasız	insan
-boş	bul
 kâfi	gelecek
 evvel	gel
 güzel	insan
@@ -2165,7 +2030,6 @@ az	benze
 kolay	geç
 dürüst	bekle
 ilk	konuş
-kısa	bul
 iyi	git
 yeni	öğren
 var	beyefendi
@@ -2178,7 +2042,6 @@ asıl	uyan
 türlü	ara
 başarılı	çalış
 yahut	yan
-lüzumsuz	bul
 türlü	silki
 dik	tut
 iyi	iş
@@ -2201,7 +2064,7 @@ büsbütün	soğu
 türlü	kandır
 parlak	başla
 aynı	çekiş
-Number of pairs: 233
+Number of pairs: 204
 
 yeni	dön
 zararlı	bulun
@@ -2221,7 +2084,6 @@ eksiksiz	sun
 çok	şımar
 çok	hırpala
 türlü	yaşa
-tatsız	bul
 çırılçıplak	kal
 rahat	de
 iyi	anla
@@ -2229,7 +2091,6 @@ iyi	gör
 patavatsız	kıvra
 yeni	yetiş
 son	çalım
-rahatsız	et
 büyü	yap
 tek	saat
 yukarı	dolaş
@@ -2242,13 +2103,8 @@ masun	kal
 hareketsiz	dur
 yeni	gasbet
 ufkun	çerçevele
-canlı	görün
-memnun	görün
-rahat	et
 bütün	bulun
 türlü	ye
-acıklı	görün
-ilgili	görün
 fena	kokar
 demir	tokmak
 büsbütün	çıl
@@ -2262,10 +2118,8 @@ büsbütün	kaçır
 hangi	köyden
 rahat	bırak
 soğuk	dur
-tatlı	bul
 çırılçıplak	yüz
 gizli	diy
-genç	görün
 iyi	t
 şiddetli	hisset
 beli	bük
@@ -2290,20 +2144,15 @@ ileri	gel
 yavaş	gerek
 iç	duvar
 yuvarlak	göz
-faydasız	bul
 karanlık	çök
-cilalı	görün
 rahat	dur
 iyi	patakla
-üzgün	görün
 bitişik	otur
 var	em
 yakın	de
-bezgin	görün
 kocaman	acay
 büsbütün	kaybol
 öksüz	hisset
-güçlü	görün
 çırılçıplak	de
 ahenkli	değil
 türlü	uyu
@@ -2318,15 +2167,12 @@ zavallı	yaratıkla
 derin	ihtiyaç
 son	e
 ilk	yap
-hoş	bul
 türlü	kurtul
 yüksek	sıt
 iyi	yık
 hoş	gör
 yakın	bulun
-kolay	görün
 yarı	mecz
-gayritabii	bul
 beceriksiz	hisset
 iyi	ada
 hareketsiz	kal
@@ -2349,9 +2195,6 @@ yangın	sön
 altın	kes
 gelişigüzel	yürü
 doludizgin	koş
-ümitli	görün
-iyi	et
-küçük	görün
 hafif	çıkınt
 teselli	ver
 başka	yönel
@@ -2360,7 +2203,6 @@ dikili	dur
 iyi	işit
 acayip	çıtırt
 var	de
-telaşlı	bul
 açık	seyret
 hızlı	uç
 ağır	gel
@@ -2368,16 +2210,12 @@ boş	emek
 sorumlu	tut
 fena	bak
 rahat	ver
-dumanlı	görün
 soluk	sol
 tek	başına
 evvel	işit
-deşik	et
-heybetli	görün
 er	dur
 boş	kalan
 iyi	sakla
-son	bul
 geçen	geç
 bağlı	kal
 küçük	sığır
@@ -2387,24 +2225,20 @@ belli	değil
 kadıncağız	inan
 büsbütün	nemle
 düzensiz	solu
-ı	bul
 saklı	dur
 soluk	al
 yukarı	çık
 haklı	göster
 zor	kurtar
-hazır	et
 karanlık	basınca
 geri	çek
 dolaş	yat
 bütün	de
 büsbütün	ayrıl
-belli	et
 itinasız	yaz
 ilk	doğur
 ileri	götür
 uzak	düş
-garip	bul
 ayrı	gör
 dokunaklı	konuşan
 var	bil
@@ -2436,7 +2270,7 @@ karanlık	gör
 canlı	betimle
 temel	al
 yığmaksızın	vur
-Number of pairs: 170
+Number of pairs: 159
 
 psikolojik	yabancı
 yeni	boya
@@ -2444,7 +2278,6 @@ deminki	sıkıntı
 karışık	acı
 uzak	değ
 var	topla
-yeni	görün
 hatır	sor
 hızlı	yürü
 yi	tanı
@@ -2473,7 +2306,6 @@ ları	sırala
 sarılı	gel
 sargısız	gel
 parasız	otur
-mızmız	et
 yeni	yak
 büsbütün	dol
 dönük	yat
@@ -2484,7 +2316,6 @@ ileri	kay
 hor	gör
 sakız	çiğn
 güzel	oku
-kolay	bul
 apaçık	gör
 başka	yap
 kötü	geç
@@ -2501,7 +2332,6 @@ ilk	tut
 uzun	sakla
 uygun	geç
 hızlı	git
-başka	görün
 yeni	gel
 yarı	dön
 yaşlı	göster
@@ -2538,7 +2368,6 @@ iyi	başla
 açık	kal
 kanlı	can
 kırışıksız	çirkin
-küçük	görün
 uzun	saçak
 iyi	hoş
 sehpalı	otur
@@ -2548,22 +2377,16 @@ kocaman	koltuk
 resmi	al
 korkunç	otur
 bakışlı	de
-dolu	bul
 ters	dön
-rahatsız	et
 kolay	anla
-i̇yi	et
-belli	et
 belli	yaşa
 dayanıklı	yaratık
-ışıksız	bul
 sıcak	değil
 ilk	gör
 yavaş	yürü
 güzeli	çal
 uzun	sür
 nun	otur
-zengin	et
 patlıcanlı	iste
 mutlu	say
 çekici	san
@@ -2608,7 +2431,7 @@ resmi	hatırla
 büsbütün	kaçır
 ilk	geç
 hızlı	yaşa
-Number of pairs: 350
+Number of pairs: 324
 
 aynı	sars
 gündelik	yaşam
@@ -2623,7 +2446,6 @@ canlı	kıl
 tek	baş
 ilk	gel
 çift	çak
-belli	et
 basit	gör
 isimli	vasıta
 şekli	alıver
@@ -2648,14 +2470,10 @@ yakın	başla
 yaldız	seç
 kolay	geç
 iyi	anla
-ayrı	bul
-lüzumlu	bul
-tabii	bul
 mezun	idi
 yeni	yap
 kâr	bırak
 yepyeni	giyin
-sağır	et
 muazzez	bin
 doğru	gülümse
 fiyakalı	sar
@@ -2675,11 +2493,9 @@ büsbütün	sık
 kıpkırmızı	kes
 filan	çalış
 yaş	gel
-eksik	et
 aç	otur
 büsbütün	dokun
 kolun	tut
-rahat	et
 hayırlı	çık
 yarım	bırak
 yumruk	yap
@@ -2692,7 +2508,6 @@ güzel	örme
 büyük	söyle
 doğru	değil
 kâr	say
-uzun	görün
 büsbütün	karış
 iyi	bil
 teselli	ver
@@ -2704,14 +2519,10 @@ filan	öp
 zengin	de
 filan	ver
 türlü	unut
-muvafık	bul
 türlü	düşün
-manasız	bul
 adamakıllı	değiş
 tabii	bil
-iyi	et
 yarım	kal
-filan	et
 yukarı	kaldır
 ürkek	çık
 filan	bak
@@ -2721,19 +2532,15 @@ türlü	anama
 öbür	baş
 türlü	yak
 kapalı	çık
-yakın	bul
 adamakıllı	kalabalık
 tahta	böl
 incili	şişman
-razı	et
 büsbütün	içerle
-serbest	bul
 türlü	anla
 son	çare
 aklı	Erer
 türlü	becer
 namazı	kıl
-zor	et
 ümidi	kır
 adamakıllı	karar
 namaz	kıldır
@@ -2752,9 +2559,7 @@ kolay	değil
 kapalı	dur
 adamakıllı	kuru
 alışık	değil
-kıymetli	görün
 saklı	dur
-basit	bul
 lazım	gel
 büsbütün	başka
 hızlı	at
@@ -2807,7 +2612,6 @@ türlü	güven
 çok	geç
 ufak	yer
 akıllı	işi
-korkunç	görün
 sıcak	göster
 tabi	değil
 sebepsiz	unut
@@ -2870,10 +2674,8 @@ manasız	gel
 türlü	öğren
 azaplı	şey
 ince	vücut
-doğru	bul
 başlı	adam
 boş	otur
-doğru	görün
 boş	dur
 farklı	değil
 geniş	tut
@@ -2890,7 +2692,6 @@ güzel	anle
 çok	dol
 büyük	gör
 dayalı	dur
-karışık	görün
 şekerli	getir
 hafif	kapa
 güzel	hisset
@@ -2902,7 +2703,6 @@ büsbütün	kuvvetle
 fena	değil
 ayrılı	ver
 ince	düşün
-tatlı	bul
 korkunç	değil
 beyaz	yas
 yukarı	çevir
@@ -2938,7 +2738,6 @@ hummalı	titre
 azap	çek
 büsbütün	al
 büsbütün	imkân
-uzak	bul
 asıl	ara
 arı	gel
 türlü	git
@@ -2953,18 +2752,15 @@ rahat	yutkun
 adamakıllı	kork
 çırçıplak	al
 açık	dur
-yok	et
 uzun	gel
 büsbütün	hızla
 sıkı	sar
 büsbütün	sar
 uzak	gel
-büyük	görün
-Number of pairs: 222
+Number of pairs: 208
 
 şaşkın	sor
 gizli	girsek
-eksik	et
 yeni	boya
 türlü	ulaş
 yavaş	git
@@ -2975,11 +2771,9 @@ hayırsız	aday
 uzun	sür
 sakız	kok
 çırılçıplak	soy
-güzel	görün
 çok	acık
 hoş	kok
 mavi	ışıkta
-çiğiri	bul
 sarı	dama
 yeni	oy
 çiçek	kok
@@ -2989,7 +2783,6 @@ keskin	nişan
 yaşlı	de
 kardeşsiz	büyü
 türlü	uyuya
-iyi	et
 bomboş	kal
 var	de
 geri	dön
@@ -3006,14 +2799,12 @@ dolu	dur
 zor	dayan
 yok	diy
 soluk	soluğay
-deli	et
 yeni	aç
 yukarı	yat
 kıpkırmızı	kes
 iyi	yap
 küçücük	sak
 soğukkanlı	konuş
-rahat	et
 yarım	kal
 aziz	tut
 uzun	konuş
@@ -3033,7 +2824,6 @@ iyi	çık
 iyi	git
 yeni	döv
 derin	çek
-mutlu	et
 açık	kal
 boş	kal
 güzel	anlat
@@ -3046,11 +2836,9 @@ sağ	çık
 genç	öl
 geri	kalan
 ölü	ver
-zengin	et
 saz	çalar
 güzel	kız
 tek	düve
-hoş	bul
 yiğit	çık
 yürekli	çık
 iyi	tanı
@@ -3061,7 +2849,6 @@ açık	git
 bütün	girit
 tazısız	yap
 kalın	güzel
-belli	et
 zor	iş
 iyi	dinle
 çuvalı	aç
@@ -3079,7 +2866,6 @@ i̇smaili	canda
 i̇smaili	gör
 genç	say
 bambaşka	büyüle
-tecelli	et
 türlü	anla
 mutlu	öl
 çaresiz	kal
@@ -3095,7 +2881,6 @@ yok	de
 uzun	bak
 sakal	bırak
 izinli	gel
-yok	et
 kahraman	de
 i̇smaili	öl
 türlü	kurtar
@@ -3111,7 +2896,6 @@ sıcacık	gülümse
 tek	ev
 asker	kurtar
 zor	götür
-altın	et
 güzel	gül
 genç	ağaç
 mendili	çık
@@ -3133,7 +2917,6 @@ yavaş	çık
 yapayalnız	yerleş
 zarfı	çık
 sonrası	alt
-var	et
 ölümsüz	kal
 memnun	gözük
 memnun	konuş
@@ -3184,7 +2967,7 @@ güzel	giyin
 çok	sevin
 güzel	git
 sağ	olas
-Number of pairs: 277
+Number of pairs: 255
 
 son	sığmak
 yenik	düş
@@ -3198,8 +2981,6 @@ iyi	anlı
 birtakım	yeşer
 eski	vur
 yukarı	çık
-açık	et
-battal	et
 atik	davran
 çarpık	kal
 muşamba	parçal
@@ -3209,7 +2990,6 @@ birtakım	uy
 büyük	dayım
 ileri	değil
 komşu	yap
-rahatsız	et
 küçük	göster
 taklak	at
 ahengi	değiş
@@ -3240,7 +3020,6 @@ kara	koyun(I)
 iyi	git
 kâr	say
 sağlam	kal
-aptal	görün
 çıplak	ayak
 »	de
 emin	olay
@@ -3249,9 +3028,7 @@ güzel	söyle
 yeni	yürü
 ilk	başla
 kısa	vücut
-eksik	et
 zavallı	büyükanne
-çabuk	bul
 açık	dur
 ortalık	karar
 uğurlu	gel
@@ -3260,17 +3037,14 @@ evvel	yaşa
 çıplak	yat
 sel	in
 uzun	sür
-mühürlü	bul
 çırılçıplak	gezer
 ince	bur
-belli	et
 hesapsız	değil
 hoş	geçin
 gizli	dilen
 küçük	bey
 zor	tut
 çıplak	dolaş
-ehemmiyetsiz	görün
 koşa	koşa
 iyi	yıka
 türlü	dolan
@@ -3301,7 +3075,6 @@ hor	gör
 bütün	ömür
 büsbütün	kes
 asılı	dur
-çaresiz	görün
 uygun	gel
 yanlış	kal
 doğru	gid
@@ -3309,14 +3082,12 @@ ismail	gül
 kısa	kes
 doğru	oku
 yemyeşil	yaşa
-rahat	et
 kırmızı	boyal
 ilk	iste
 masalı	oku
 vakitsiz	öl
 yatılı	yaz
 boş	dön
-kolay	görün
 yanlış	yaz
 dert	anlat
 yukarı	kaldır
@@ -3330,11 +3101,8 @@ lâzumsuz	gör
 fitili	al
 bekli	acır
 bambaşka	bak
-hafif	bul
 teselli	ver
 iyi	tanı
-ahlâksız	görün
-teselli	et
 ince	el
 çmlçıplak	soyun
 kıyafetli	de
@@ -3358,13 +3126,11 @@ servi	kok
 yeni	gel
 var	acep
 uzak	değil
-dolu	görün
 ufak	bekle
 geri	gel
 ağır	git
 razı	e
 hazır	gel
-hoş	et
 kısa	Kollan
 hareketsiz	kal
 kolay	yaklaş
@@ -3397,11 +3163,8 @@ baharlı	dol
 gizli	tut
 asıl	kapa
 doğru	amma
-doğru	bul
 mermer	sütun
 küçük	vücut
-hoşnut	et
-korkunç	görün
 çıplak	gez
 iyi	hırpala
 kaçamaklı	konuş
@@ -3410,11 +3173,9 @@ yarışı	yap
 büsbütün	bit
 evvel	düşün
 ıslak	dur
-memnun	et
 taze	kanla
 mümkün	gör
 yalnız	iste
-boş	bul
 imkânsız	gör
 haksız	değ
 sedasız	dinle
@@ -3463,16 +3224,14 @@ küçük	şey
 çırçıplak	anlat
 asıl	şaşır
 tatlı	gülümse
-Number of pairs: 546
+Number of pairs: 512
 
 cakalı	başla
 iri	beden
 kumral	saç
-yaşlı	görün
 yetişkin	insan
 mutlu	kıl
 girişken	çocuk
-basit	bul
 doğru	değil
 büyük	yenilgi
 uzak	dur
@@ -3496,14 +3255,12 @@ bağlı	değil
 abartısız	söyle
 özgü	kok
 güzel	say
-mutlu	görün
 güzel	aldat
 yeterli	değil
 yenilgiyi	kabullen
 renkli	uğraş
 kişisel	çık
 yok	değil
-küçük	görün
 iyi	anla
 yoğun	hisset
 uzun	sür
@@ -3514,7 +3271,6 @@ temkinli	karşıla
 büyü	boz
 kokteyli	hazırla
 türlü	yiyecek
-iyi	görün
 sert	çık
 rahat	bırak
 renk	kumas
@@ -3523,8 +3279,6 @@ yanlış	anla
 iyi	bil
 çalışkanımız	oy
 iç	geçir
-genç	görün
-hoş	görün
 iyi	hisset
 kötü	geç
 hoş	tut
@@ -3532,14 +3286,12 @@ doğru	söyle
 komik	gel
 ciddi	konuş
 genç	say
-haklı	bul
 gerekli	araştır
 asıl	söyle
 dalgın	mırılda
 ince	düşün
 filan	düşün
 habersiz	uyu
-belli	et
 boş	dur
 sıcak	bak
 kötü	sonuç
@@ -3552,15 +3304,12 @@ ileri	sürü
 iç	aç
 iyi	geç
 mantıklı	davran
-ilginç	bul
 arka	koltuk
 eşcinsel	bil
 kolay	affed
-yok	et
 hazır	bekle
 tek	Selim
 yanlış	yorumla
-doğru	bul
 kötü	grip
 aç	değil
 entel	say
@@ -3586,7 +3335,6 @@ viski	koy
 yanlış	yap
 yok	de
 normal	say
-huzursuz	et
 sualsiz	kucakla
 ömür	sür
 ilk	dükkân
@@ -3604,7 +3352,6 @@ iyi	anlaş
 yakın	davran
 altın	yap
 filan	kat
-i̇yi	görün
 delik	doğ
 tatlı	adam
 aşırı	yor
@@ -3633,7 +3380,6 @@ ilk	git
 mahalli	gel
 yangın	çık
 yeni	başla
-adamakıllı	bul
 kâfi	gel
 büyük	bit
 yarım	bırak
@@ -3678,14 +3424,12 @@ zor	tut
 zevki	andır
 ilk	at
 kararsız	kal
-rahatsız	et
 ilk	doğaçla
 açık	bırak
 doğru	at
 ölümsüz	yap
 güzel	gör
 çekici	kıl
-mutlu	et
 dürüst	seç
 habersiz	yalpala
 yavaş	git
@@ -3706,10 +3450,8 @@ olumlu	git
 profesyonel	insanla
 umutsuz	değil
 yarım	atla
-son	bul
 hazır	hisset
 yan	gel
-mutsuz	et
 senlibenli	konuş
 iyi	gözük
 ağır	davran
@@ -3722,7 +3464,6 @@ kumaş	kok
 kumaş	balya
 dürüst	anlat
 in	söyle
-filan	et
 kolay	anla
 filan	var
 boş	verin
@@ -3731,7 +3472,6 @@ uzak	kal
 yeni	dön
 iyi	yorumla
 yukarı	çek
-solgun	görün
 uzun	boy
 aynı	millet
 yanlış	anl
@@ -3770,7 +3510,6 @@ kötü	hisset
 sağ	bırak
 gafil	avlan
 turlu	aş
-bomboş	görün
 hoş	değil
 ağır	bas
 tarafsız	bak
@@ -3781,13 +3520,11 @@ emin	gül
 aynı	ton
 suskun	kal
 hoş	gel
-hoş	bul
 iyi	fotoğraf
 filan	bulaş
 ilgisiz	kal
 asıl	korkut
 doğru	çık
-yanlış	bul
 filan	kal
 karışık	yap
 iyi	tana
@@ -3797,11 +3534,9 @@ sorumlu	tutar
 belasız	atla
 yakın	dur
 büyük	zevki
-memnun	et
 aç	git
 zor	gibi
 giysi	getir
-kötü	görün
 filan	dinle
 şanssız	say
 son	yaşa
@@ -3809,7 +3544,6 @@ riski	azal
 kolay	kurtul
 mantarsız	iste
 benzersiz	bina
-filan	bul
 filan	getir
 iri	göster
 rahat	değil
@@ -3838,7 +3572,6 @@ tabiî	hatırla
 kısa	kes
 haksız	say
 yarınki	görüş
-razı	et
 kolay	çözümle
 kolay	çöz
 iyi	arkadaş
@@ -3878,13 +3611,11 @@ filan	tut
 soluk	aldır
 mahalli	çek
 hoş	bak
-gergin	görün
 genel	geç
 hoş	karşıla
 geçen	yaz
 terbiyeli	konuş
 niyetli	değil
-derin	görün
 öfkeli	çık
 yakın	arkadaş
 filan	ver
@@ -3954,7 +3685,6 @@ objektif	davran
 objektif	kal
 belalı	de
 filan	git
-kolay	bul
 boş	at
 dolu	tut
 kaçın	kura
@@ -3968,8 +3698,6 @@ cılız	çık
 i̇yi	yap
 güçlü	çık
 tek	bas
-iyi	et
-ölü	bul
 in	gül
 huzurlu	uy
 deccal	sinema
@@ -3979,7 +3707,6 @@ iyi	duy
 karışık	söyle
 uygunsuz	kaç
 bağlı	otur
-neşeli	görün
 kolay	alış
 asıl	kaygı
 gergin	gibi
@@ -4011,7 +3738,7 @@ asılı	kal
 eksik	kal
 ansızın	gel
 türlü	davran
-Number of pairs: 388
+Number of pairs: 375
 
 azıcık	ürk
 büyük	kesme
@@ -4024,7 +3751,6 @@ kilitli	değil
 ilk	çarp
 güzel	işle
 büyülü	çiçek
-son	bul
 belirsiz	mavile
 ilk	gir
 ıpıssız	kal
@@ -4042,7 +3768,6 @@ türlü	çık
 altın	dol
 açık	artır
 altın	koy
-ufak	et
 sakalı	sıyır
 güzel	boya
 boş	kal
@@ -4069,7 +3794,6 @@ ilk	gel
 altın	al
 iyi	bak
 iyi	gör
-altın	et
 kadri	gel
 razı	gel
 öfkeli	gör
@@ -4083,14 +3807,12 @@ yan	gel
 rus	koval
 ağır	gelir
 zırhlı	gönder
-yok	et
 ilk	olarakt
 apaçık	orta
 büyük	göz
 bol	gümüş
 konçlu	çiz
 kadri	kalk
-gark	et
 i̇yi	yap
 güzel	oku
 boş	dur
@@ -4098,7 +3820,6 @@ taze	çık
 ilk	kızar
 görkemli	geç
 çok	yağar
-deli	et
 dolu	gel
 sert	konuş
 boş	dön
@@ -4169,7 +3890,6 @@ mutlu	gül
 kolay	öl
 yukarı	çık
 türlü	uyu
-sağır	et
 sert	düş
 mavi	kal
 ağır	git
@@ -4197,7 +3917,6 @@ kırmızı	değil
 kurnaz	arıla
 sokar	kaç
 güzel	yaratık
-rahat	et
 sinek	kayıt(I)
 yeni	terle
 güzel	öl
@@ -4241,7 +3960,6 @@ karanlık	bas
 yeni	gel
 besili	gör
 açık	ver
-bomboş	bul
 geri	çık
 baygın	kal
 yarı	yan
@@ -4282,7 +4000,6 @@ bütün	çarpış
 hızlı	yürü
 zor	çık
 türlü	yap
-sert	görün
 kurumlu	gözük
 sinek	kov
 aç	öl
@@ -4302,12 +4019,10 @@ yok	san
 canlı	var
 türlü	karşılaş
 vezir	öl
-zor	et
 cansız	kal
 hançerli	efey
 mavi	Bursa
 çakırcalı	vur
-iyi	et
 merhametli	insan
 uygun	gel
 geleni	as
@@ -4332,7 +4047,6 @@ geber	ul
 iyi	kurtul
 uzun	yit
 türlü	gözük
-belli	et
 bol	bulun
 çok	yaş
 haklı	er
@@ -4401,7 +4115,7 @@ yok	al
 kırışık	yok
 geleneksel	anlat
 truvalı	ozan
-Number of pairs: 132
+Number of pairs: 116
 
 birtakım	sade
 bütün	sev
@@ -4418,7 +4132,6 @@ evvel	yetiş
 yarı	gül
 yumruk	at
 hâsıl	olan87
-tabiî	bul
 genç	vücut
 emin	değil
 geri	çevir
@@ -4432,29 +4145,22 @@ açık	gez
 açık	geçir
 yan	bak
 son	gel
-rahat	et
 gerekli	say
 hazır	bulun
 türlü	anla
 küçük	dur
 ileri	gel
 ilk	tutuş
-açık	bul
 bütün	gör
 doğru	gel
 bomboş	uza
 ilk	uyan
-belli	et
 yukarı	çağır
-tecelli	et
 malum	değil
 yerli	gel
 karmakarışık	yap
-yeterli	bul
 herhangi	yaratı
 siyah	yel
-tabii	bul
-iyi	et
 altın	yürek
 filan	kal
 sakin	uyu
@@ -4462,7 +4168,6 @@ mutlak	kurtar
 yeni	uyan
 evvel	duy
 iyi	gör
-fena	et
 teselli	addet
 serbest	bırak
 büyü	yap
@@ -4472,18 +4177,15 @@ açık	bulun
 çıplak	bacak
 kolay	kır
 açık	görüş
-yi	bul
 beyaz	kalan
 yukarı	dolaş
 saklı	kal
 sağ	bırak
 çok	kork
-sakin	görün
 iyi	değil
 tahsil	gör
 demir	sok
 mutlak	iste
-mutlak	bul
 kızıl	aç
 zili	çal
 dince	yasakla
@@ -4494,8 +4196,6 @@ türlü	git
 hafif	tert
 dişsiz	aç
 garip	çocuk
-uzak	görün
-teselli	et
 sağ	gör
 mutlak	as
 yukarı	yürü
@@ -4512,11 +4212,9 @@ köylü	dur
 karanlık	bas
 zor	alıkoy
 yavaş	yürü
-kudretli	görün
 yeni	tat
 var	kiria882
 itinalı	davran
-sakin	bul
 son	görüş
 yeni	çık
 yukarı	git
@@ -4535,7 +4233,7 @@ ayrı	git
 yoksun	bırak
 gerekli	gör
 bağlı	kal
-Number of pairs: 337
+Number of pairs: 322
 
 yeni	çık
 yeni	gel
@@ -4544,7 +4242,6 @@ ağırbaşlı	seç
 memnun	gülümse
 boş	bulun
 huzursuz	bak
-rahatsız	et
 ı	gez
 başka	yap
 iyi	oyna
@@ -4558,13 +4255,11 @@ ince	saç
 kokusuz	dur
 iyi	duy
 yorgansız	yap
-eksik	et
 türlü	devril
 yok	fat
 yukarı	çık
 kolay	aldan
 yeter	fat
-iyi	et
 türlü	kapa
 başka	inan
 iyi	al
@@ -4577,7 +4272,6 @@ başka	bak
 tabii	utan
 iyi	gör
 başka	anlat
-rahat	et
 güzel	yap
 neşeli	gözük
 hafif	it
@@ -4628,8 +4322,6 @@ geri	ver
 karısı	Fatma
 uzun	sür
 iyi	çocuk
-memnun	et
-eğlenceli	bul
 açın	bak
 ayrı	şey
 filan	sözet
@@ -4677,7 +4369,6 @@ ileri	sür
 son	lok
 satın	al
 asılı	kal
-güzel	bul
 yok	de
 hızlı	gider
 uzak	değil
@@ -4697,7 +4388,6 @@ güzel	uyur
 tek	iste
 zor	geç
 iyi	hisset
-belli	et
 başka	aç
 karagöz	gelir
 i̇yi	at
@@ -4716,7 +4406,6 @@ büsbütün	kaybet
 eğlenceli	gel
 takılı	kal
 iyi	hatırla
-hazır	et
 soluk	tüket
 iyi	kadın
 yukarı	çalış
@@ -4736,7 +4425,6 @@ yeter	düşün
 yeni	doy
 var	say
 mecbur	mi
-iyi	bul
 zor	dur
 çaresiz	hisset
 yanık	inan
@@ -4756,7 +4444,6 @@ açık	horla
 i̇yi	çalış
 nilgün	an(II)
 yeni	yap
-pis	bul
 tabii	de
 zavallı	kar
 kızıl	diren
@@ -4777,7 +4464,6 @@ doğru	söyle
 iyi	işit
 iyi	arkadaş
 filan	de
-mutlu	et
 durgun	uza
 tek	başı
 var	anla
@@ -4801,7 +4487,6 @@ bari	yan
 yaş	getir
 yavaş	sür
 yukarı	it
-i̇yi	et
 yokuş	çık
 yukarı	çıkar
 yeter	de
@@ -4838,12 +4523,10 @@ bambaşka	gör
 kısa	tut
 temel	al
 düşün	fat
-yok	et
 geri	dön
 yukarı	çağır
 aynı	dur
 doğu	de
-olağan	bul
 deli	san
 iyi	öğren
 reçel	kayna
@@ -4874,7 +4557,7 @@ boş	düşünce
 güzel	çal
 sert	bak
 yapayalnız	yaşa
-Number of pairs: 279
+Number of pairs: 244
 
 esas	alın
 esas	al
@@ -4890,9 +4573,7 @@ serbest	bırak
 iyi	hatırla
 elverişli	bulun
 uzak	kal
-belli	et
 farklı	değil
-elverişli	görün
 ileri	sür
 nazırı	değil
 hatırı	say
@@ -4901,15 +4582,12 @@ iç	kalkın
 yahut	kaybol
 temel	hazırla
 bütün	ilerle
-canlı	görün
-hoş	görün
 iyi	bil
 ihtilâli	hazırla
 mümessili	konuş
 ilk	maksa
 evvel	git
 acayip	konuş
-çekinir	görün
 emir	ver
 yok	edt
 kelimesiz	gel
@@ -4921,7 +4599,6 @@ zor	zaptet
 hazır	bulun
 gizli	tut
 mümkün	değil
-memnun	et
 sadık	kal
 asker	çık
 rahat	çalış
@@ -4936,13 +4613,10 @@ ileri	gel
 ilk	tanı
 kayıtsız	kal
 iyi	karşıla
-doğru	bul
 siyasi	çık
 kısa	kes
 açık	bulun
-neşeli	görün
 sakin	uyu
-kararlı	görün
 sakin	geç
 ı	ağla
 azıcık	din
@@ -4950,26 +4624,17 @@ altına93	al
 karanlık	bas
 manikür	yap
 yukarı	dolaş
-hazır	görün
 ı	yatır
 kabahatli	i
-uygun	bul
-üzgün	görün
 ağır	git
 ciddî	konuş
 tak	boynu
-ciddî	görün
-aptal	görün
 büyük	gör
-yorgun	görün
 yukarı	git
 hoş	değil
 boylu	dur
-garip	görün
-rahat	et
 yukarı	yürü
 tek	jandar
-becerikli	görün
 uzun	gel
 uzun	sür
 karanlık	inceleş
@@ -4982,11 +4647,8 @@ iyi	at
 mensup	asker
 dizili	dur
 yürekli	insan
-şüpheli	görün
 yavaş	gidi
-açık	et
 dumanlı	gelir
-koca	bul
 rahat	uyu
 ı	seç
 sadık	evlât
@@ -4995,7 +4657,6 @@ tek	hatırla
 zor	tut
 başka	oda
 hoş	gör
-sakin	görün
 doğru	çeş
 sedasız	düş
 imkânsız	gel
@@ -5015,17 +4676,14 @@ iyi	gör
 emin	bulun
 karşılıklı	otur
 uzun	geç
-tarafsız	görün
 belli	değil
 anî	değiş
 jimnastik	salon
-fena	bul
 ileri	sürü
 mutlak	öl
 dolu	gel
 tek	otomobil
 uzun	bacak
-yok	et
 bağlı	adam
 bolşevik	de
 manâsız	konuş
@@ -5042,7 +4700,6 @@ küçük	mutfak
 iyileşir	iyi
 küçük	böl
 yakın	arkadaş
-memnun	görün
 güzel	döv
 çiftetelli	oyna
 fena	hastala
@@ -5070,7 +4727,6 @@ mensup	değil
 k	yok
 uzun	düşün
 başka	i
-yakın	görün
 ı	gör
 ciddî	değil
 rahat	yaşa
@@ -5078,10 +4734,7 @@ beyaz	tenli
 cüsseli	hasta
 ümidi	kal
 yakın	çalış
-kötümser	görün
-sevinçli	görün
 ar	kıl
-ümitli	görün
 son	safha
 memnun	değil
 ön	safta
@@ -5096,9 +4749,7 @@ cesaretli	dövüş
 ilk	çek
 mavi	gözlü
 mecali	kal
-genç	bul
 yeni	evlen
-yüksek	görün
 rahat	bırak
 canlı	anlat
 parlak	marifet
@@ -5121,7 +4772,6 @@ siper	al
 hızlı	sür
 asılı	dur
 iyi	ört
-namuslu	görün
 köylü	iste
 hareketli	vücut
 iyi	git
@@ -5134,7 +4784,6 @@ iyi	anla
 aykırı	gör
 son	yap
 zor	gör
-salihli	görün
 iyi	davran
 yavaş	git
 yanlış	hesapla
@@ -5151,26 +4800,19 @@ parlak	göz
 bütün	Bursa
 aynı	vaziyet
 sorumlu	tut
-zayıf	görün
 doğru	söz
 orta	konuş
 hakikî	arkadaş
-Number of pairs: 168
+Number of pairs: 149
 
 doğru	kullan
 eksik	ver
 namuslu	ada
-iyi	et
-kötü	et
 ileri	git
 ipek	çorap
 kabil	değil
 yarım	bırak
 eski	mutasarrıf
-belli	et
-teselli	bul
-rahatsız	et
-teselli	et
 geniş	tut
 vakitsiz	gel
 lazım	gel
@@ -5185,20 +4827,16 @@ aç	kal
 iyi	bil
 türlü	sakla
 türlü	oku
-i̇yi	et
 zor	zaptet
 ağır	gel
 türlü	söyle
 filan	al
 ekmeksiz	kal
 korkunç	kuvvet
-ağır	bul
 türlü	aldır
 lâkin	unut
 rahat	bırak
-sebepsiz	görün
 güzel	değil
-memnun	et
 yok	say
 haksız	değil
 zeki	değil
@@ -5214,7 +4852,6 @@ namuslu	adam
 türlü	göster
 yapayalnız	bırak
 uzak	dur
-rahat	et
 teselli	keşfet
 kapalı	büyü
 ağırbaşlı	tanı
@@ -5226,7 +4863,6 @@ iyi	gör
 büsbütün	yık
 başka	insan
 asıl	iste
-yakın	görün
 evvel	aç
 var	de
 tesirsiz	kal
@@ -5241,7 +4877,6 @@ büsbütün	kaçır
 büyük	ay
 son	kal
 ilk	gör
-k	bul
 hoş	gör
 dikkatli	bak
 şaşkın	gör
@@ -5252,7 +4887,6 @@ lâzım	gel
 az	işit
 yok	de
 renkli	uçur
-yanlış	bul
 «	ak
 fakir	düş
 parasız	kal
@@ -5268,7 +4902,6 @@ iyi	git
 türlü	anla
 yanlış	anla
 kapalı	kal
-müteessir	görün
 büsbütün	kudur
 kâfi	gel
 uzun	sür
@@ -5281,11 +4914,8 @@ asıl	şaş
 kolay	değil
 dalgın	gör
 küçük	düşür
-memnun	görün
-güzel	bul
 hoş	tut
 bağlı	bulun
-neşesiz	bul
 geleni	yap
 kolayca	silk
 türlü	anlaş
@@ -5310,7 +4940,6 @@ belirsiz	peltek
 yarı	yık
 yukarı	çık
 ıssız	kal
-haksız	bul
 i̇lk	evlen
 tek	kal
 hızlı	yürü
@@ -5325,7 +4954,7 @@ in	de
 iyi	hatırla
 büsbütün	işle
 büsbütün	ağır
-Number of pairs: 242
+Number of pairs: 209
 
 esas	alın
 esas	al
@@ -5353,12 +4982,10 @@ fena	geç
 büyük	emel
 yapayalnız	hisset
 uzak	dur
-memnun	et
 yok	değil
 resmi	dur
 yukarı	çık
 büyük	göm
-doğru	bul
 ayrı	kal
 canlı	alâmeti109
 evvel	söyle
@@ -5398,18 +5025,12 @@ türlü	geç
 hoş	gör
 namız	kıl
 tek	gez
-zararsız	görün
 hareketsiz	dur
-ölü	bul
 kabil	değil
-şaşkın	görün
 sımsıkı	kapa
-iyi	et
 güzel	kok
 memnun	değil
 yağlı	pişir
-yok	et
-razı	et
 yarı	çürü
 yarı	unut
 renkli	yaz
@@ -5425,7 +5046,6 @@ büyü	yap
 örtülü	taşla
 ı	oku
 in	doğ
-n	bul
 notasız	çal
 fena	tara
 küçük	gıcırtı
@@ -5433,24 +5053,18 @@ uzun	kal
 başka	değil
 sırf	oğlan
 rahat	bırak
-yakın	bul
 yakın	hisset
 türlü	anla
 yakın	gel
 evvel	öl
 ağır	hastala
-dolu	bul
 asil	insan
-karanlık	görün
 kapalı	kal
 mutlak	kurtul
 türlü	kurtul
 evvel	evlen
-son	bul
 kısa	kes
 tek	der
-sevimli	bul
-sevimsiz	bul
 yüksek	tut
 ileri	git
 uzun	sür
@@ -5468,14 +5082,11 @@ zabit	çık
 hazır	i
 emir	bekle
 iyi	yetiş
-emin	bul
 rahat	uyu
 lâzım	gel
-uzak	görün
 ileri	sürü
 delik	ara
 sımsıkı	sar
-teselli	et
 şık	giyin
 uzak	gel
 yıkar	giy
@@ -5492,24 +5103,19 @@ evvel	bahset
 ağır	basar
 hareketli	geç
 iyi	dol
-tecelli	et
 aykırı	düş
 verimli	çalış
 küçük	de
-hazır	bul
 yanlış	düzel
 eşit	kıl
 esaslı	değiş
 bükük	döner
 tek	konuş
 kolay	değil
-belli	et
-memnun	görün
 açık	bulun
 muhakkak	çal
 münevver	say
 suratlı	sen
-yorgun	görün
 yazılı	bulun
 son	var
 üm	de
@@ -5518,22 +5124,17 @@ uzun	düşün
 mani	oluş
 şiddetli	davran
 gönüllü	git
-şiddetli	görün
 ilk	görüşüm
 garip	de
 lazım	gel
-zikr	et
 emsalsiz	kimse
 yi	iste
 emir	ver
 karanlık	beyaban
-yersiz	görün
 mümkün	değil
 gönlü	al
 gönlü	kavra
-bağlı	görün
 deki978	doğ
-bakımsız	görün
 mutlak	çek
 eski	talebe
 mübalâğasız	çalış
@@ -5545,19 +5146,14 @@ dili	öğren
 müsait	değil
 ucuz	ver
 yok	de
-muvafık	bul
 kocaman	salon
 basit	dokuma
 şefkatli	idi
 yeni	aç
-hoş	et
 dürüst	konuş
 açık	söyle
 ilk	gör
 altın	ver
-müteessir	görün
-imkânsız	görün
-sıhhatli	görün
 yukarı	koş
 iyi	aktör
 karanlık	bas
@@ -5569,7 +5165,7 @@ yeni	sök
 var	dene
 içli	oku
 aslı	aran
-Number of pairs: 172
+Number of pairs: 162
 
 yanlış	yaz
 başarısız	çık
@@ -5579,7 +5175,6 @@ kısa	sür
 küçük	sandık
 doğal	karşıla
 geçmiş	uy
-teselli	et
 çırılçıplak	soy
 iyi	davran
 ileri	sür
@@ -5598,7 +5193,6 @@ esir	düş
 asılı	kal
 altın	yolla
 memnun	kal
-memnun	et
 yeni	al
 eski	bil
 bütün	hatırla
@@ -5615,15 +5209,12 @@ asılı	dur
 türlü	değiş
 aynı	kelime
 başka	söyle
-akıllı	bul
 pis	kok
 iyi	bil
 başka	türlü
 bomboş	otur
 iyi	ısıt
 rahat	dur
-belli	et
-yetersiz	bul
 boş	kal
 belâsız	atla
 ı	geçir
@@ -5645,7 +5236,6 @@ başka	ilgilen
 eşit	gör
 ilk	gel
 karanlık	çök
-güzel	bul
 yumruk	vur
 serbest	bırak
 kolay	kaçır
@@ -5657,7 +5247,6 @@ zor	değil
 malı	kötüle
 geniş	değil
 neşeli	gözük
-huzursuz	et
 tunca	taşıv
 çok	benzeş
 büsbütün	saçma
@@ -5695,7 +5284,6 @@ hazır	gözük
 yeni	dönem
 yeni	gel
 asıl	öfke
-yok	et
 geniz	yak
 başka	yap
 işsiz	güç
@@ -5731,8 +5319,6 @@ türlü	dön
 akıllı	oku
 iyi	bas
 iyi	kanıt
-mutsuz	et
-mutlu	et
 mutsuz	eder
 türlü	katlan
 iyi	düşle
@@ -5743,7 +5329,7 @@ aptal	değ
 kolayca	öğren
 uygun	düş
 mavi	beyaz
-Number of pairs: 311
+Number of pairs: 289
 
 yorgun	düş
 açık	dur
@@ -5760,16 +5346,12 @@ ters	gel
 ınca	yavaşla
 yukarı	kay
 böyüh	odur
-hazır	et
 sarılı	kal
 anasız	kal
 kıpır	kıp
-yüksek	bul
-denk	et
 kara	eyle
 köprüsüz	kal
 ihtimal	ver
-iyi	et
 ekonomik	bulun
 yeni	kur
 yeni	çık
@@ -5802,13 +5384,11 @@ sinirli	gözük
 iyi	düş
 az	kal
 ı	tekme
-sağır	et
 boş	ver
 ince	inilde
 özel	görev
 sel	basar
 yangın	çık
-karı	bul
 sayın	Valim
 üstsüz	gir
 karı	bulun
@@ -5816,7 +5396,6 @@ iyi	hatırla
 yan	gel
 gemi	çalış
 iyi	ders
-belli	et
 başka	yerdey
 iyi	tanı
 üyü	yap
@@ -5826,7 +5405,6 @@ koskocaman	yontul
 çaresiz	bırak
 kifayetsiz	kal
 memnun	edit
-deli	et
 olumlu	geliş
 deli	zannet
 yüksek	göster
@@ -5860,7 +5438,6 @@ taraflı	asma
 uygun	gör
 tecrübeli	adam
 emir	ver
-neşeli	görün
 uygun	düş
 piyazı	hazır
 paralel	uza
@@ -5893,7 +5470,6 @@ dolgu	çalış
 ön	çalış
 iyi	an(II)
 olası	hoşlan
-razı	et
 nassıh	insan
 zamansız	bas
 zor	katlan
@@ -5924,7 +5500,6 @@ zoru	başar
 asık	gör
 teker	teker
 son	aç
-rahatsız	et
 ­	an(II)
 serbest	bırak
 hayırlı	getir
@@ -5932,12 +5507,10 @@ büyük	der
 öz	evla
 hoş	gel
 bağlı	tut
-yok	et
 evvel	başla
 doğru	yürü
 esir	al
 iyi	fayda
-ölü	bul
 vefasız	çık
 geri	gel
 kolay	gelir
@@ -5967,7 +5540,6 @@ yanlış	duy
 dimdik	dur
 iyi	hisset
 yarı	sersem
-yorgun	görün
 hızlı	çalış
 eski	kurt
 çarıklı	erkânıharp
@@ -5987,7 +5559,6 @@ demir	bin
 eksik	öde
 zor	yetiş
 iyi	götür
-çaresiz	görün
 ilk	gör
 kısacık	kes
 i̇yi	kayna
@@ -5995,7 +5566,6 @@ i̇yi	bak
 doğru	gider
 dürüst	yetiş
 kötü	bak
-farklı	bul
 iyi	doy
 zor	anlat
 emin	değil
@@ -6005,7 +5575,6 @@ yapayalnız	uza
 güzel	ısla
 ilk	buluş
 yapayalnız	bırak
-olgun	bul
 belasız	çak
 neşeli	çık
 ­	ak
@@ -6013,19 +5582,15 @@ uzak	kal
 köprüsüz	geçir
 yarım	kal
 geri	at
-var	et
 yeşil	ak
 imkânsız	gibi
 fena	içerle
-ekonomik	bul
-yeterli	bul
 asker	ulaş
 gizli	geçir
 vinçsiz	gel
 mümkün	değil
 filan	kalk
 habersiz	git
-i̇yi	et
 evvel	getir
 türlü	dön
 türlü	geç
@@ -6039,7 +5604,6 @@ iyi	gör
 kolay	değil
 yan	çevir
 filan	yap
-rahat	et
 ağır	gel
 ı	ara
 yahu	bak
@@ -6056,7 +5620,7 @@ yaşın	küçük
 mutlu	hisset
 yavaş	yürü
 son	gör
-Number of pairs: 152
+Number of pairs: 145
 
 teknik	yayın
 kolay	irkil
@@ -6086,12 +5650,9 @@ beter	üşü
 iyi	zırhlan
 belirsiz	öksür
 güzel	bak
-yaşlı	görün
 sorumlu	san
-sevimli	görün
 ansızın	bas
 dili	dolan
-hoşnut	görün
 güçlü	duy
 güçlü	boygöster
 yerleşik	düzen
@@ -6146,7 +5707,6 @@ güvenli	sütmavi
 böylesi	okşa
 yukarı	git
 eğlenceli	çek
-erotik	bul
 itici	gel
 yüksek	at
 açık	gülümse
@@ -6159,11 +5719,9 @@ benzeri	dalga
 acılı	sev
 türlü	anla
 dümdüz	kal
-deli	et
 sevgili	iste
 boş	kal
 dümdüz	bak
-uzak	görün
 yakın	sar
 beter	ürper
 yok	muy
@@ -6185,7 +5743,6 @@ keyifli	hisset
 küçük	çukur
 yan	otur
 genç	vur
-hazır	görün
 büyük	yayvan
 iç	yırt
 kesin	söyle
@@ -6210,7 +5767,7 @@ iyi	ısın
 iyi	tanı
 uzun	sür
 kesin	tanı
-Number of pairs: 121
+Number of pairs: 115
 
 kolay	anlaş
 türlü	bitir
@@ -6240,8 +5797,6 @@ soysuz	var
 serbest	gez
 ileri	götür
 ansızın	kapa
-huzursuz	et
-mutlu	et
 sevgili	okur
 yukarı	yürü
 türlü	gel
@@ -6249,7 +5804,6 @@ yorgun	düş
 ilk	tanı
 boş	kal
 kilitli	gümüş
-ı	bul
 küçük	çeşitle
 ilk	öğren
 son	ekle
@@ -6286,7 +5840,6 @@ hazır	sat
 boş	çık
 ileri	git
 iyi	davran
-doğru	bul
 boş	geç
 ünlü	konuş
 ın	kalk
@@ -6297,7 +5850,6 @@ kesin	de
 yok	de
 eğitimsiz	bırak
 yok	say
-mutsuz	et
 ı	Kerim
 sayın	evla
 örtüsüz	gir
@@ -6312,7 +5864,6 @@ atlı	firma
 eski	arkadaş
 iyi	hatırla
 ilginç	göster
-ilginç	bul
 ilginç	kıl
 capcanlı	kal
 kötü	çevril
@@ -6333,7 +5884,7 @@ ayrı	kahraman
 ı	ara
 nesli	tüken
 ilk	düşün
-Number of pairs: 497
+Number of pairs: 469
 
 sınıfsal	yap
 başka	karşılaşma
@@ -6363,11 +5914,9 @@ değişik	gel
 acımasız	davran
 devinimsiz	otur
 hızlı	git
-hoşnut	et
 kimbilir	anlat
 asılı	dur
 uzun	sür
-neşeli	bul
 güzel	çocuk
 büsbütün	şaşır
 zararlı	çık
@@ -6383,7 +5932,6 @@ anlamsız	san
 ipi	göğüsle
 iyi	anla
 sorumlu	tut
-son	bul
 hızlı	yürü
 tek	kişi
 hazır	düş
@@ -6418,7 +5966,6 @@ sarılı	kal
 kıpkırmızı	kes
 türlü	utan
 iç	bocala
-rahatsız	et
 ağır	değiş
 ucuz	de
 pahalı	de
@@ -6426,7 +5973,6 @@ yukarı	çık
 uzak	yaş
 rahat	konuş
 renkli	kaygan
-belirsiz	görün
 iyi	çalış
 kapalı	sinema
 bunca	ürk
@@ -6437,7 +5983,6 @@ ilk	seviş
 ilk	buluş
 serbest	kadın
 mutlak	karşıla
-belli	et
 büsbütün	git
 iç	çek
 iyi	yetiş
@@ -6481,7 +6026,6 @@ yeni	doğ
 yan	çiz
 çırılçıplak	kal
 türlü	yakala
-dış	görün
 iyi	oku
 yakın	değil
 i̇yi	yap
@@ -6489,9 +6033,7 @@ kesin	bil
 engel	tanı
 türlü	yanaş
 doğru	yürü
-rahat	görün
 türlü	bula
-kararlı	görün
 ansızın	belirgin
 delisek	gel
 iyi	katlan
@@ -6512,7 +6054,6 @@ açık	tut
 azıcık	aç
 hızlı	sil
 hazırlıksız	yakala
-solgun	görün
 aralıksız	mırılda
 uzun	yıka
 bitkin	dur
@@ -6541,7 +6082,6 @@ geniş	bas
 yeni	tınlam
 kesin	çık
 uzun	bak
-doğru	bul
 iyi	düzel
 eğik	uğraş
 ı	gönder
@@ -6592,7 +6132,6 @@ inki	yavrula
 yeni	al
 yüksek	koltuk
 alçakgönüllü	davran
-bağlı	görün
 yanlış	anla
 kötü	ayrıl
 aslı	bulun
@@ -6606,7 +6145,6 @@ son	ilmek
 yeni	çık
 güzel	yontul
 büsbütün	kuru
-coşkulu	görün
 ince	konuş
 ince	giyin
 ince	otur
@@ -6635,10 +6173,8 @@ ilk	gör
 pervasız	bağır
 aldırışsız	bükü
 zarif	davran
-kaç	et
 gizli	ışık
 güzel	dur
-büyük	görün
 uzun	kal
 tahta	oy
 bütün	söyle
@@ -6662,14 +6198,11 @@ dürüst	konuş
 geniş	tutar
 soğuk	gel
 coşkulu	kıl
-güzel	bul
 güzel	oku
 iyi	anlat
 suçlu	gör
-ı	bul
 eski	dost
 ayrı	yetiş
-uzun	et
 yerlisi	bulun
 haklı	çık
 ilk	duy
@@ -6704,10 +6237,7 @@ ilk	karşılaş
 iyi	dayan
 ilk	işit
 iç	geçir
-dalgın	bul
 yorgun	ak
-zengin	bul
-rahat	et
 türlü	yap
 çıplak	dolaş
 sünnetsiz	kal
@@ -6723,7 +6253,6 @@ ters	düş
 beter	yakala
 büyük	ada
 düdük	çal
-haberli	görün
 uyarı	Selmin
 sağlam	otur
 doğru	git
@@ -6757,7 +6286,6 @@ altın	taklidi
 çılgınca	şakı
 hızlı	büyü
 benzeri	dön
-sağır	et
 yanlış	çık
 yakın	gel
 tek	sev
@@ -6767,7 +6295,6 @@ rahat	gül
 uzunboylu	bekle
 karanlık	bit
 ileri	gel
-güçlü	görün
 ölü	doğ
 dolap	yerleş
 öylesi	özle
@@ -6778,12 +6305,10 @@ susamlı	bur
 büsbütün	hareket
 hoş	itiş
 hoş	gör
-mutlu	et
 yakın	davran
 sıcak	davran
 iyi	gör
 kederli	san
-hoşnut	görün
 büsbütün	yık
 bomboş	kal
 yeni	yap
@@ -6823,23 +6348,20 @@ küçük	prensim
 fena	ısla
 eksik	değil
 türlü	git
-uysal	bul
 hoş	sataş
 eylemsiz	Aydin
 güzel	geç
-yakın	görün
 ağır	eleştir
 yukarı	git
 iç	tutuş
 uzun	koş
-Number of pairs: 141
+Number of pairs: 130
 
 kütlü	de
 otomobili	hatırla
 zor	bulun
 akıllı	adam
 boş	ver
-uzun	et
 altın	bur
 usullacık	aç
 satın	alın
@@ -6849,7 +6371,6 @@ eyi	oğlan
 hatırı	kal
 yangın	de
 büsbütün	çek
-iyi	et
 kırık	sar
 hayırlı	zahar
 mekik	yıldırım
@@ -6870,13 +6391,11 @@ yarım	gavır
 hambalı	üst
 yeni	öğren
 emir	ver
-memnun	görün
 yorgun	çık
 zort	çek
 türlü	çek
 sağaçık	oyna
 yok	de
-eksik	et
 güzel	de
 razı	gel
 yumruk	at
@@ -6904,7 +6423,6 @@ evvel	kalk
 güllü	işle
 kısa	gel
 namussuz	dokum
-altın	et
 iyi	köpür
 canlı	yık
 baskın	çık
@@ -6925,7 +6443,6 @@ kesik	başla
 yukarı	çık
 güzel	çal
 zor	uyan
-iştahlı	görün
 lar	yüksel
 yan	ver
 tek	çalış
@@ -6939,7 +6456,6 @@ uzun	urun
 yok	değil
 adamakıllı	telaş
 iyi	oğlan
-uygun	bul
 yeni	gel
 sahi	git
 sadri	bakış
@@ -6952,22 +6468,18 @@ adamakıllı	sersemle
 var	öyle
 çılgınca	koşuş
 kötü	haber
-filan	bul
 iyi	giyin
 yukarı	buyur
 iyi	insan
 türlü	toparlı
 yukarı	kalk
-ince	bul
 zor	al
 sağlam	yap
 karı	kayna
 sakız	çiğn
 kıpkırmızı	kes
-teselli	et
 habersiz	davran
 dargın	gibi
-haklı	bul
 asıl	kız
 çek	vur
 filan	gör
@@ -6975,10 +6487,9 @@ temelli	kapa
 filan	sil
 geri	çevir
 velhasıl	ital
-Number of pairs: 438
+Number of pairs: 412
 
 çekici	gel
-zor	görün
 iyi	anla
 ilk	yaz
 son	söyle
@@ -7009,7 +6520,6 @@ iyi	ver
 ince	tabakla
 gizli	böl
 kapılı	yap
-uygun	bul
 bilimsel	geliş
 yumulu	dur
 kolay	düzenle
@@ -7034,12 +6544,9 @@ yeni	rastla
 güzel	göster
 gizli	kal
 gizli	tut
-son	bul
 yanlış	yaz
-ahenk	bul
 canlı	anlat
 habersiz	yaşa
-yok	et
 uzak	tut
 huzurlu	geç
 hoş	bak
@@ -7052,7 +6559,6 @@ yeknesak	geç
 atsız	kal
 dikkatli	dinle
 emir	bekla
-bağlı	görün
 başka	git
 uygun	yap
 var	say
@@ -7096,7 +6602,6 @@ ilgili	çalış
 ağır	tart
 ilk	sar
 arzulu	ik
-teselli	bul
 uç	dalma
 musikî	öğret
 mutlu	geç
@@ -7108,7 +6613,6 @@ karanlık	çök
 şanslı	hanımefendi
 türlü	ulaş
 bunca	sev
-imkansız	görün
 kapalı	dur
 ağır	gel
 bedel	göster
@@ -7123,7 +6627,6 @@ müsait	yıl
 bit	kullan
 ayrı	tut
 bütün	anlaş
-hazır	et
 gerekli	düzenle
 doğru	ilerle
 bütün	tanı
@@ -7141,7 +6644,6 @@ yapayalnız	kal
 irtibatlı	de
 yok	say
 teselli	ara
-rahat	et
 küçük	pırlanta
 kapalı	kal
 iyi	örgütle
@@ -7157,13 +6659,11 @@ yeni	evlen
 ilk	bak
 kuru	laf
 ister	ozan
-güzeli	bul
 basit	gör
 güzel	sev
 üstün	tutar
 çırılçıplak	otur
 bütün	bil
-huzursuz	et
 ayrı	geç
 yanık	bırak
 zor	gün
@@ -7177,7 +6677,6 @@ var	de
 sıcak	karşıla
 iyi	anlat
 iyi	tanımla
-eğlenceli	bul
 garip	insan
 rahat	görüş
 saklı	kal
@@ -7186,8 +6685,6 @@ asil	kal
 ilk	gör
 gömülü	dur
 sonuçsuz	kal
-mümkün	görün
-tecelli	et
 kolay	göster
 türlü	araştır
 ı	sev
@@ -7207,7 +6704,6 @@ değişik	korsan
 devamlı	araştır
 yazılı	doküman
 yok	gibi
-belli	et
 eski	sev
 azılı	korsan
 özel	yetiş
@@ -7271,7 +6767,6 @@ kuru	çekiş
 uğursuz	say
 ters	git
 yok	ik
-duygusal	bul
 yoğ	i
 yok	i
 ı	nâsad
@@ -7288,7 +6783,6 @@ mangal	kon(I)
 siyasi	geliş
 ilahi	okur
 uzun	oku
-siyah	et
 ı	ihtiyar
 seviyesiz	insan
 yeni	bulun
@@ -7296,14 +6790,12 @@ iyi	bil
 dışlı	yap
 yeter	dost
 kötü	git
-mutlu	et
 ölümlü	iste
 yeni	bestele
 ı	devran
 melali	at
 ileri	gel
 uygun	düş
-cazip	bul
 memnun	yaşa
 ayrı	düş
 incecik	dokun
@@ -7339,7 +6831,6 @@ renkli	üçgen
 gizli	gerek
 eski	evren
 ilk	git
-razı	et
 sert	es
 dindar	insan
 iyi	sakla
@@ -7351,7 +6842,6 @@ mermer	basamak
 iyi	gelecek
 verin	soyun
 zor	tut
-teselli	et
 niyaz	de
 iç	hesaplaş
 yavaş	ilerle
@@ -7371,7 +6861,6 @@ düzgün	yaz
 varır	var
 yeni	düzen
 karmakarışık	yaşa
-sevimsiz	bul
 asıl	üz
 bilimsel	ilerle
 gücün	zayıfla
@@ -7384,7 +6873,6 @@ kusurlu	çık
 yaşı	gizle
 emir	ver
 boş	dön
-gereksiz	bul
 kapalı	yaşa
 etkisiz	kal
 yenik	çık
@@ -7411,11 +6899,9 @@ mistik	malzeme
 değerli	dost
 dolu	bak
 ilk	gir
-ufak	et
 mümkün	gör
-ilk	bul
 yazılı	bulun
-Number of pairs: 631
+Number of pairs: 601
 
 titreşir	dur
 eski	düş
@@ -7446,7 +6932,6 @@ razı	gel
 müstahak	Canavar
 i̇nce	Memed
 i̇nce	Memedi
-var	et
 düveli	muazzama
 var	de
 i̇nce	Memedin
@@ -7468,7 +6953,6 @@ i̇nce	meme
 zor	konuş
 yarım	yamalak
 korkar	kork
-rahat	et
 yüksek	oku
 doludizgin	git
 var	git
@@ -7500,7 +6984,6 @@ rahat	otla
 birazıcık	ağrı
 ilk	candarma
 köylü	yaratık
-belli	et
 kıpkırmızı	kes
 hangi	kabileden
 tek	konuş
@@ -7534,12 +7017,10 @@ yanlış	ver
 beli	bük
 sakallı	biri
 sarı	çıy
-uzun	et
 çıplak	gel
 hızlı	git
 sonsuz	sevin
 iyi	tanı
-zengin	et
 hızlı	koş
 ölü	ön
 uzun	koş
@@ -7571,7 +7052,6 @@ son	kal
 bitkin	git
 zor	at
 yüzlü	biri
-hazır	et
 isli	bakır
 sağ	kal
 başka	giyi
@@ -7597,22 +7077,18 @@ osmansız	dön
 möylü	konuş
 eski	koltuk
 arzuhalsiz	hallet
-hazır	bul
 alçakgönüllü	otur
 üzgün	çık
 kısa	de
 türlü	dur
 güzel	donat
-deli	bul
 soğukkanlı	davran
-ufak	et
 dili	dön
 eşit	kazan
 eşit	yiyece
 karanlık	yit
 donlu	er
 keskin	eyle
-sağır	et
 türlü	yürü
 keski	sın
 onurlu	ada
@@ -7646,7 +7122,6 @@ güçlü	hükümet
 açık	seçik
 gıcır	gıcır
 geri	gel
-soğukkanlı	görün
 dirayetli	kişi
 boş	dön
 boylu	biri
@@ -7660,7 +7135,6 @@ acılı	oğul
 son	gir
 uzun	kal
 asılı	dur
-yok	et
 ayrı	git
 güzel	dost
 hazır	bekle
@@ -7689,7 +7163,6 @@ i̇nce	Memedim
 iyi	seç
 açık	bak
 görkemli	değil
-yaşlı	görün
 iyi	giyi
 iyi	tan
 iyi	konuş
@@ -7703,7 +7176,6 @@ yak	bak
 yoğurtlu	döv
 ayaksız	kal
 geri	ak
-iyi	et
 ölü	çık
 geyik	çök
 var	i
@@ -7721,7 +7193,6 @@ temkinli	yürü
 dili	çöz
 alçakgönüllü	gülümse
 incecik	gülümse
-heybetli	görün
 belirsiz	salla
 karanlık	bas
 i̇yi	bak
@@ -7732,7 +7203,6 @@ sütlü	döv
 açık	git
 atlı	çık
 sıcak	bazla
-yemin	et
 türlü	yanaş
 yukarı	orman
 zengin	ada
@@ -7740,7 +7210,6 @@ karanlık	kavuş
 yok	öl
 zor	kurtar
 azık	hazır
-rahatsız	et
 belirsiz	candar
 yarım	ramazanlı
 yanlış	konuş
@@ -7758,7 +7227,6 @@ rahat	bırak
 türlü	çık
 açık	ver
 rahat	öl
-yanlış	et
 ilk	gör
 dingin	gör
 iyi	Hazirlan
@@ -7793,9 +7261,7 @@ alçakgönüllü	bük
 iyi	yaz
 gerçek	öl
 ilk	söyle
-teselli	et
 köylü	yazı
-aynı	bul
 öksüz	kal
 kolay	değil
 damarlı	acayip
@@ -7804,7 +7270,6 @@ mücehhez	olarakt
 değerli	say
 ilk	öl
 çeltik	ek
-aykırı	bul
 yanlış	yap
 ilk	telgraf
 eski	kabar
@@ -7876,7 +7341,6 @@ dar	de
 gönüllü	yaz
 gönüllü	git
 asker	kaçak
-saf	görün
 türlü	tut
 ince	Memedi
 yakışık	al
@@ -7884,7 +7348,6 @@ yumuşak	gül
 ciddi	konuş
 alı	al
 türlü	öğren
-mutlu	et
 çift	sür
 gazel	koy
 yorgun	uyan
@@ -7929,20 +7392,17 @@ bütün	çakıltaş
 tüyü	sok
 gepgenç	göster
 yukarı	ağ
-deli	et
 geçmiş	homurdan
 güzel	giyin
 yüksek	değil
 yeni	anla
 doludizgin	gel
 doludizgin	sürü
-eksik	et
 buyurucu	çık
 sert	çık
 sağ	ik
 aç	gardiyan
 gark	eyle
-boş	bul
 kolay	hallet
 tek	resim
 boş	kal
@@ -7970,7 +7430,6 @@ uzun	yaşa
 rahat	uyu
 dingin	bekle
 zor	al
-hoş	bul
 küskün	bak
 misli	gör
 gerçek	çık
@@ -7998,7 +7457,6 @@ küçük	kardeş
 yukarı	yürü
 baygın	düş
 zor	ulaş
-kolay	bul
 karanlık	de
 hızır	san
 tek	dövüş
@@ -8038,17 +7496,15 @@ görkemli	karşıla
 murt	dallan
 asılı	kal
 güzel	süsle
-deşik	et
 iri	apak
 mavi	al
 yeni	soluk
 iyi	eyle
 hızlı	yürü
 keski	öl
-açık	et
 kıpkırmızı	giyin
 kırmızı	kuru
-Number of pairs: 176
+Number of pairs: 168
 
 karşılıklı	konuş
 küçük	dost
@@ -8082,17 +7538,14 @@ iyi	davran
 karakafalı	var
 uğursuz	gâvur
 geri	ver
-üzgün	görün
 şaşkın	kalakal
 şaşkın	bak
 dayalı	dur
-kıpkırmızı	görün
 kolu	eri
 iyi	bil
 asılı	kal
 karmakarışık	kanatla
 soluksuz	bırak
-yok	et
 iyi	dövüş
 hoşt	de
 aç	oku
@@ -8144,8 +7597,6 @@ kapalı	düşün
 rahat	duy
 yarı	uyukla
 denli	kırışık
-ıssız	görün
-uygun	bul
 üçlü	gezin
 yumuşak	bas
 başka	köşe
@@ -8155,7 +7606,6 @@ büyük	dükkân
 büyük	gel
 yavaş	çalış
 bembeyaz	çık
-sağır	et
 kararsız	dur
 kötü	dik
 garip	duy
@@ -8172,7 +7622,6 @@ suçlu	gör
 ayrı	geç
 yan	yat
 yeni	kalk
-hazır	et
 silahsız	dolaş
 uygun	düş
 belirsiz	çat
@@ -8191,7 +7640,6 @@ son	ver
 çelimsiz	biri
 kimliksiz	gezer
 hangi	karakoldan
-belli	et
 yeni	gelen
 iç	geçir
 sayın	komiser
@@ -8226,7 +7674,7 @@ sinirli	geç
 geniş	parla
 yukarı	kalk
 türlü	aşağıla
-Number of pairs: 713
+Number of pairs: 685
 
 kartal	aç
 uzun	gözük
@@ -8242,7 +7690,6 @@ deli	dur
 kırmızı	kes
 kocaman	kara
 cansız	düş
-hoş	et
 türlü	geç
 türlü	ayrıl
 ağır	salla
@@ -8250,10 +7697,8 @@ türlü	bırak
 güzel	gül
 incecik	oğlan
 yapraklı	kabar
-belli	et
 yeli	es
 safi	pıtırak
-sütbeyaz	et
 mutlu	e
 ağır	gel
 sonsuz	öfkele
@@ -8303,7 +7748,6 @@ akçasazı	çevir
 sert	sor
 i̇nce	Memedi
 keskin	eyle
-eksik	et
 ileri	gel
 var	git
 akçasaz	kuşat
@@ -8339,7 +7783,6 @@ iri	kes
 güzel	öl
 yok	ver
 zengin	adam
-rahatsız	et
 iyi	söyle
 şerefli	geç
 sel	götür
@@ -8356,7 +7799,6 @@ resmi	yap
 kara	yap
 kırmızı	yap
 büyük	yaz
-memnun	et
 görkemli	donat
 genç	Osma
 kanlı	konuş
@@ -8416,9 +7858,7 @@ iyi	düşün
 son	çarpış
 güzel	giyin
 dizgin	yap
-beygir	bul
 deli	at
-iyi	et
 i̇nce	mettet
 iyi	tan
 türlü	çöz
@@ -8431,8 +7871,6 @@ kolay	kurtul
 bomboş	bak
 belirsiz	salla
 hızlı	dön
-yorgun	görün
-deli	et
 bucaksız	ağarmca
 ince	kok
 çok	uy
@@ -8444,7 +7882,6 @@ ilk	iç
 açık	kal
 türlü	çık
 güvenli	konuş
-mutlu	et
 bomboş	kal
 yeşil	kurbağa
 kırmızı	elma
@@ -8505,8 +7942,6 @@ belli	de
 iyi	bile
 kısa	keser
 yazılı	mi
-rahat	et
-teselli	et
 buysa	al
 uzun	boy
 zor	iş
@@ -8523,7 +7958,6 @@ misali	parla
 güzel	donat
 don	değiş
 var	bil
-küçük	bul
 ortalık	ışıma
 kötü	yap
 yeli	kokla
@@ -8559,7 +7993,6 @@ eksik	var
 yarım	adam
 mutlu	gül
 güzel	gel
-çırılçıplak	bul
 sağ	olas
 pullu	yaz
 yeni	çalış
@@ -8570,9 +8003,7 @@ hürü	ana
 kartal	kal
 zengin	kal
 çamlıbeli	git
-iç	et
 ölümsüz	yap
-ölümsüz	et
 bunca	art
 bunca	aşağıla
 çırılçıplak	dur
@@ -8643,10 +8074,8 @@ doğru	söyle
 türlü	ata
 yumuşak	konuş
 gar	ket
-son	bul
 ince	Memedin
 bunca	çekiş
-ufak	et
 sağ	bırak
 açık	konuş
 tek	lakır
@@ -8693,10 +8122,7 @@ güzel	konuş
 iyi	yap
 çok	yürü
 düzgün	katla
-niyaz	et
-keskin	et
 azıcık	dur
-zengin	et
 bunca	nama
 dili	kuru
 iyi	duy
@@ -8710,7 +8136,6 @@ sel	al
 kötü	konuş
 kalın	çit
 suçlu	say
-i̇yi	et
 kolay	incit
 kolay	suç
 kutsal	saat
@@ -8744,7 +8169,6 @@ taşkın	kandır
 körüklü	çiz
 candan	karşıla
 iyi	tanış
-uzak	et
 türlü	türlü
 sakalı	ağar
 yukarı	kaldır
@@ -8773,7 +8197,6 @@ türlü	göster
 zor	al
 ileri	git
 altın	sıva
-çırılçıplak	et
 sağlam	tut
 gönüllü	tak
 bağdaş	kur
@@ -8800,13 +8223,11 @@ sarı	Saltiki
 ilk	göster
 son	göster
 öbür	uç
-sağır	et
 uzun	konuş
 sonumuz	gel
 zor	dayan
 uzun	bak
 yarı	gör
-açık	et
 zor	at
 türlü	sus
 yiğit	ada
@@ -8882,7 +8303,6 @@ dik	tut
 i̇nce	Memedsin
 diri	kal
 taze	kok
-gerin	et
 ilk	rastla
 kötü	yaratık
 ağır	bas
@@ -8941,7 +8361,7 @@ yastık	yap
 türlü	tut
 çamçak	Memedin
 ağır	sür
-Number of pairs: 292
+Number of pairs: 276
 
 zor	aydınlat
 boş	ver
@@ -8972,9 +8392,7 @@ boş	bulun
 hayırlı	de
 türlü	anla
 kılıksızın	biri
-arka	bul
 fena	içerle
-uygun	bul
 ağır	getir
 geri	dur
 iri	söyle
@@ -8982,7 +8400,6 @@ seyrek	uğra
 kılıksızı	tanı
 kıpkırmızı	kes
 üstün	bil
-aykırı	bul
 esas	dur
 aykırı	düş
 kısa	kes
@@ -9015,7 +8432,6 @@ soluk	soluğay
 hızlı	nişan
 ünlü	dokuma
 ansızın	git
-rahatsız	et
 ağır	bas
 mahalleli	anlas
 emirsiz	karış
@@ -9028,7 +8444,6 @@ iyi	yetiş
 açık	kal
 razı	ver
 geçer	i
-razı	et
 lazım	ver
 memur	sok
 kabzımal	kâtibi
@@ -9053,7 +8468,6 @@ belasız	kurtul
 üstün	say
 i̇yi	bak
 iyi	gör
-eksik	et
 yeni	şahla
 ilk	topla
 eksik	söyle
@@ -9075,7 +8489,6 @@ akıllı	şey
 tabii	anla
 lakin	kavra
 fena	at
-belli	et
 hangi	gün
 i̇yi	amma
 ileri	götürek
@@ -9098,7 +8511,6 @@ nazırı	belle
 sebepsiz	dön
 lakin	dök
 lazım	dök
-hoş	bul
 izinsiz	dök
 açık	düğ
 lakin	de
@@ -9109,7 +8521,6 @@ kayıtsız	değil
 ters	çevir
 yeni	yet
 yumruk	at
-dümdüz	et
 ensiz	Necip
 sarı	git
 ı	bil
@@ -9157,7 +8568,6 @@ dolu	hendek
 fena	yor
 ın	göz
 zengin	i
-tek	et
 karşılıklı	yak
 hırsızı	kaybet
 suçlu	düş
@@ -9166,11 +8576,9 @@ don	paça
 iyi	am
 uykusuz	kal
 var	ümi
-rahat	et
 tenha	saat
 yarı	utan
 çevrili	böl
-haklı	bul
 lazım	efendi
 tek	değil
 deli	fırla
@@ -9179,7 +8587,6 @@ bitik	doku
 büsbütün	art
 imtisal	fabrika
 ottuz	saat
-teselli	et
 otomobili	gel
 son	gi̇diş
 azgın	tın
@@ -9197,7 +8604,6 @@ i̇yi	bil
 kötü	durum
 azgın	rahat
 azgın	parla
-haksız	bul
 sıkı	tut
 yok	muy
 aynı	kanıda
@@ -9211,9 +8617,7 @@ sayın	amir
 fena	boz
 kolay	olu
 haksız	bulun
-boş	bul
 esaslı	biri
-keskin	et
 açık	konuş
 rahat	değil
 ileri	gel
@@ -9235,7 +8639,7 @@ yan	bakan
 yeni	gelin
 cansız	yuvarla
 aç	kal
-Number of pairs: 358
+Number of pairs: 318
 
 erkencecik	evlen
 büyük	saygı
@@ -9249,8 +8653,6 @@ dolaş	oluvera
 ciddi	çalış
 denli	titizle
 iç	göster
-kayıtsız	görün
-rahatsız	et
 geri	kal
 son	ver
 neşeli	geç
@@ -9268,16 +8670,13 @@ yoksun	bırak
 denli	karışma
 doğal	say
 yukarı	kes
-i̇yi	et
 zor	iş
 ana	taşı
 uykusuz	kal
 son	konuş
 asıl	yap
-iyi	görün
 dikkatli	bak
 rastlantısal	buluş
-büyük	görün
 yanıtsız	kal
 açık	kal
 tatili	başla
@@ -9291,7 +8690,6 @@ yeşil	tut
 asıl	söyle
 çekici	al
 sıcacık	gül
-son	bul
 boş	gel
 uygun	düş
 diğer	arkadaş
@@ -9316,7 +8714,6 @@ sıcacık	gülümse
 var	san
 tek	kalk
 yakışık	al
-anlamsız	bul
 karşılıksız	kal
 kararsız	kal
 yeni	tak
@@ -9331,10 +8728,8 @@ kısa	konuş
 uzak	nikâhl
 yorgun	düş
 gelişigüzel	diz
-haklı	bul
 incecik	doğra
 esin	gel
-altın	bul
 yetersiz	kal
 ilk	evlen
 suskun	kal
@@ -9358,10 +8753,8 @@ eksik	bırak
 uzak	tut
 kolay	tanış
 güzel	sür
-rahat	et
 esin	otur
 iyi	yap
-gereksiz	bul
 yok	oluver
 rahat	tavırla
 acımasız	sorgula
@@ -9384,14 +8777,10 @@ gereksiz	gör
 ön	koltuk
 kolay	aş
 rahat	davran
-mutlu	et
 i̇lk	karşılaşma
 ilk	tanış
-hoş	bul
-genç	görün
 zorunlu	buluş
 güdük	kal
-sert	görün
 ilk	karşılaşma
 soğuk	iç
 rahat	kullan
@@ -9405,7 +8794,6 @@ kolayca	kur
 zararlı	çık
 izinli	çık
 bağlı	kal
-hazır	görün
 bağımsız	geçir
 gönüllü	yaklaş
 ilk	çık
@@ -9432,8 +8820,6 @@ zor	gel
 farklı	kıl
 kartpostal	gel
 yukarı	çık
-sakin	görün
-kararlı	görün
 iç	düzenle
 küçük	kal
 başarısız	kıl
@@ -9441,9 +8827,7 @@ yeni	yap
 iyi	tanı
 uygun	gör
 boylu	çalış
-emin	görün
 sorumlu	tut
-iyi	et
 sımsıcak	bak
 son	aşama
 yanlış	değer
@@ -9451,8 +8835,6 @@ yanlış	değer
 diğer	parçal
 yeşil	murat
 büyük	mura
-hoş	görün
-yeterli	bul
 asıl	kutla
 ters	gel
 enkazı	dir
@@ -9467,7 +8849,6 @@ ayrı	otur
 güzel	oyna
 güzel	kaçamak
 yeşili	kucaklaş
-memnun	et
 iyi	yüz
 yeni	tanış
 yeni	doğ
@@ -9480,27 +8861,21 @@ hor	gör
 boş	otur
 hoşnut	kal
 karşılıklı	sev
-hoşnut	görün
 kişisel	kal
 basit	de
 türlü	kopar
 başkalarınca	çiz
 aykırı	say
 koca	gel
-sakıncalı	bul
 dayanıklı	çık
-belli	et
 gönüllü	dur
 i̇yi	say
 güçlü	gör
 iyi	aç
 başarılı	çalış
-yetersiz	bul
 geçici	kapla
 geçersiz	kal
-kusursuz	görün
 türlü	çöz
-huzursuz	et
 olumlu	geliş
 uzun	tut
 ilgisiz	kal
@@ -9517,14 +8892,12 @@ gelişigüzel	topla
 iç	çek
 emir	gel
 takılı	kal
-yakın	bul
 serinkanlı	davran
 ince	gönder
 sıcak	say
 sımsıkı	sar
 yeni	evlen
 türlü	kısıtla
-yok	et
 iyi	gel
 belirsiz	sızılda
 çekici	gel
@@ -9533,11 +8906,9 @@ iyi	davran
 yeni	geliş
 fena	say
 neşeli	karşıla
-rahat	görün
 yarım	bırak
 kolay	gel
 serbest	çalış
-yorgun	görün
 bol	kıy
 lüks	say
 ayrı	kal
@@ -9561,22 +8932,16 @@ katıklı	dol
 açık	bırak
 yadsınamaz	çekiş
 tahinli	aç
-bulanık	görün
 ters	çevir
-normal	görün
 tek	umar
-yapışık	görün
 yi	kucakla
 sonuçsuz	kal
-razı	et
 sinirli	gel
 güçlü	dur
-kötü	görün
 teyel	atar
 mahk	û
 büyük	aşağıla
 uzak	düş
-sıcak	bul
 renk	kat
 kayıtsız	kal
 yeni	gelin
@@ -9584,7 +8949,6 @@ mantıklı	düşün
 son	buluş
 yeterli	gör
 omuz	silke
-kapalı	görün
 yok	gör
 bitik	durum
 temelli	gel
@@ -9595,7 +8959,7 @@ yeni	edin
 tabii	iste
 son	çek
 güçlü	doğ
-Number of pairs: 645
+Number of pairs: 613
 
 geri	kal
 yeni	gir
@@ -9611,7 +8975,6 @@ in	aşçı
 hoş	gör
 gürültüsüz	yaklaş
 ileri	at
-belli	et
 ışıksız	yat
 boş	bulun
 yeni	öl
@@ -9626,13 +8989,10 @@ büsbütün	parala
 apansız	söyle
 ın	kaç
 ilk	konuş
-yorgun	görün
 i̇yi	öyle
-çelimsiz	görün
 türlü	inan
 yarım	kal
 korkunç	değiş
-rahatsız	et
 hazır	değil
 aralıksız	okur
 asıl	bitir
@@ -9643,7 +9003,6 @@ gizli	birleş
 kolay	bağla
 sivil	gör
 çekidüzen	ver
-dar	görün
 asker	üşü
 uygun	düğ
 silahsız	yap
@@ -9653,7 +9012,6 @@ türlü	dol
 iyi	becer
 sağ	es
 dik	konuş
-uygun	bul
 sakalı	kazı
 gerçek	san
 dolu	konuş
@@ -9681,13 +9039,11 @@ filan	değ
 kötü	sar
 yanlış	yolla
 iyi	rastla
-soluk	bul
 iyi	tan
 bulanık	gör
 zor	yetiş
 apansız	bas
 eski	değin
-güçlü	görün
 yok	say
 saklı	de
 yanlış	gel
@@ -9704,7 +9060,6 @@ telaşlı	davran
 akıllı	bil
 kolay	yakala
 bütün	saçma
-i̇yi	et
 umutsuz	diren
 tunca	dön
 karmakarışık	savur
@@ -9738,14 +9093,12 @@ son	gör
 doğru	söyle
 boylu	düşün
 dalgın	dolaş
-razı	et
 yeni	bit
 aralıksız	tarı
 vızır	vızır
 ana	kaynak
 leş	ye
 kamburca	sırt
-güçsüz	görün
 yumuşak	lastik
 tek	başınay
 zor	taşı
@@ -9769,7 +9122,6 @@ doğru	at
 çıkarlı	göster
 kolay	aldatır
 apansız	patla
-suçlu	bul
 haklı	savun
 gücümüz	yet
 lazım	gel
@@ -9780,7 +9132,6 @@ iyi	sar
 falan	yap
 küçük	değiş
 başkaca	savun
-iyi	et
 ı	kucakla
 boş	at
 dikkatli	davran
@@ -9795,19 +9146,16 @@ deli	gâvur
 emri	götür
 sahipsiz	kıl
 küçük	işle
-zengin	et
 batılı	devlet
 geri	it
 yaygın	yargıla
 aralıksız	denetle
-çıplak	bul
 zengin	yetiş
 zengin	burjuvalaş
 uğursuz	gel
 aptestsiz	kıl
 çıplak	kal
 sorumlu	düş
-eksik	et
 apansız	aydınlan
 iyi	tanı
 kötü	davran
@@ -9837,7 +9185,6 @@ iç	çek
 bütün	gör
 aralıksız	yokla
 i̇zmirli	say
-karı	bul
 apansız	göster
 yi	çevir
 şirin	döşe
@@ -9857,7 +9204,6 @@ az	değiş
 iyi	kullan
 giyimli	yat
 ileri	gel
-rahat	et
 zor	alış
 bütün	değiş
 acıklı	yap
@@ -9896,7 +9242,6 @@ sağlam	iste
 kâzım	çök
 korkunç	döküntü
 iyi	geçir
-açık	et
 ahırkapı	odun
 doğru	düşün
 belirsiz	durakla
@@ -9911,7 +9256,6 @@ belirsiz	as
 kılı	kıl
 rahat	dinle
 ilk	görüşme
-memnun	et
 asılı	kal
 türlü	alış
 iyi	yap
@@ -9938,7 +9282,6 @@ gerekli	gör
 yakışıklı	adam
 akıllı	çık
 adamakıllı	çök
-doğru	bul
 filan	ayırta
 iyi	sıyrıl
 aralıksız	ara
@@ -9956,7 +9299,6 @@ korkulu	say
 doğru	savuş
 büsbütün	cıvık
 filan	takıl
-eksik	bul
 eksik	çık
 kötü	alış
 dolu	dur
@@ -9971,7 +9313,6 @@ dayalı	dur
 tarafsız	geçin
 emir	kulu
 yazılı	değil
-yok	et
 belli	değil
 kara	yıl
 ileri	geç
@@ -10006,7 +9347,6 @@ haklı	değil
 büsbütün	azgın
 imansız	üşüme
 iyi	düşün
-güzel	bul
 gelişigüzel	fırla
 ileri	bas
 büsbütün	dele
@@ -10018,7 +9358,6 @@ ter	başla
 sakal	gâvur
 iyi	tut
 silahsız	yaz
-boş	bul
 aralıksız	boğuş
 türlü	açıkla
 telaşlı	gülümse
@@ -10034,7 +9373,6 @@ uzun	göster
 iyi	kes
 körüklü	çiz
 gelişigüzel	söyle
-atlı	bul
 yeni	kalk
 yaylı	koş
 filan	bulun
@@ -10050,9 +9388,7 @@ katır	matır
 yok	san
 sakız	çiğne
 gelişigüzel	al
-habersiz	görün
 büsbütün	ısla
-yaman	bul
 doğru	sür
 sağ	olay
 atlı	çık
@@ -10097,7 +9433,6 @@ türlü	sez
 git	gel
 aşırı	değil
 yürekli	ada
-iyi	bul
 habersiz	ayrıl
 atlı	başçavuş
 altın	götür
@@ -10128,7 +9463,6 @@ emir	gel
 emir	ver
 kıdemli	kolor
 büsbütün	uzakl
-faydasız	bul
 uygun	say
 yararlı	gör
 yi	köt
@@ -10141,7 +9475,6 @@ sert	ada
 iyi	anlaş
 asker	topla
 yoksun	bırak
-kötü	et
 yiğit	say
 yatkın	de
 askeri	diren
@@ -10158,7 +9491,6 @@ sağ	kalan
 doğru	san
 sorumlu	tut
 kötü	yargıla
-zor	bul
 gümbür	gümbür
 var	yok
 büsbütün	bunalt
@@ -10242,7 +9574,7 @@ ağır	aksak
 zorlu	yum
 yiğit	arkadaş
 doğru	yay
-Number of pairs: 164
+Number of pairs: 150
 
 ciddi	biri
 gizli	böl
@@ -10254,17 +9586,14 @@ i̇yi	yap
 gizli	bölme
 açık	bırak
 yan	bak
-ciddi	görün
 çok	saçma
 suçlu	say
 iyi	tanı
 iyi	arkadaş
-yok	et
 rahat	bırak
 iyi	çiz
 haksız	say
 asıl	çarp
-iyi	bul
 boş	ver
 özenli	davran
 hafif	say
@@ -10276,25 +9605,17 @@ hoş	gel
 gencecik	dur
 yanlış	anla
 delikanlı	adam
-deşik	et
 doğru	söyle
 iç	geçir
-belli	et
-teselli	et
 kesin	konuş
 sorumlu	tut
-normal	görün
-memnun	görün
 üstsüz	güneşle
 ön	sorgu
-katili	bul
-rahatsız	et
 soluk	al
 gerçek	çık
 rahat	yat
 son	git
 iyi	bil
-yi	bul
 ölü	yıka
 yukarı	gönder
 yukarı	al
@@ -10312,7 +9633,6 @@ iyi	davran
 yiğit	de
 anlayışlı	davran
 hırsız	değ
-hoşnut	et
 asıl	öl
 boş	kal
 ı	sor
@@ -10368,7 +9688,6 @@ kötü	hırpala
 serbest	bırak
 kederli	gör
 büyük	tutukla
-sakin	görün
 sert	çık
 iyi	seç
 açık	kal
@@ -10388,7 +9707,6 @@ uzun	sür
 dikili	gör
 iyi	gör
 derin	uyku
-güzel	görün
 omuz	omuzay
 örgütsel	çalış
 ağır	gel
@@ -10408,7 +9726,7 @@ hızlı	yüz
 iyi	uyu
 yeni	atla
 emin	yaklaş
-Number of pairs: 164
+Number of pairs: 148
 
 amaçlı	kullan
 serin	kal
@@ -10418,13 +9736,11 @@ iyi	gör
 hoş	değil
 ağır	gel
 iyi	anla
-şirin	görün
 ilâhi	oku
 zavallı	dadım
 açık	kal
 küçük	düşür
 erik	çal
-tabiî	bul
 sarı	saç
 serbest	bırak
 kapalı	kal
@@ -10437,12 +9753,10 @@ uzun	gel
 saçlı	yaver
 tatlı	söyle
 hiddetli	değil
-kapalı	bul
 kıpkırmızı	kes
 zor	zapte
 yarı	uza
 zengin	zannet
-mahzun	et
 boş	geçir
 rahat	edt
 eski	komşu
@@ -10450,7 +9764,6 @@ eksik	değil
 yüksek	gör
 hoş	tut
 güzel	geçin
-memnun	görün
 hareketsiz	otur
 türlü	anla
 hoş	gör
@@ -10459,14 +9772,12 @@ riyakâr	diy
 emin	i
 teselli	duy
 lâzım	gel
-belli	et
 ilk	aşkım
 ihtiyatsız	yaşa
 karanlık	sul
 doğru	söyle
 ayrı	yaş
 hazır	gör
-çirkin	bul
 uykusuz	kal
 iyi	arkadaş
 kabahatli	zannet
@@ -10487,14 +9798,9 @@ gazel	oku
 büsbütün	öl
 küçük	düş
 vefasız	çapkın
-rahatsız	et
-teselli	bul
 büyük	kuvvet
 yenge	oda
-iyi	et
-teselli	et
 aç	kal
-memnun	et
 türlü	anlı
 dolu	san
 hırsız	tut
@@ -10507,7 +9813,6 @@ ucuz	bırak
 var	san
 kazalı	iş
 kemik	çal
-rahat	et
 doğru	çık
 yavaş	söyle
 rahat	bırak
@@ -10521,7 +9826,6 @@ namuslu	ada
 kabil	değil
 açık	tamamla
 türlü	kalk
-yakın	bul
 fena	gün
 aç	yat
 fena	tanı
@@ -10537,10 +9841,8 @@ büsbütün	sars
 yok	efendi
 büsbütün	iyi
 uzak	dur
-müteessir	bul
 dalgın	uy
 razı	değil
-ağır	bul
 güyiük	çek
 tatlı	emel
 bütün	sev
@@ -10574,7 +9876,7 @@ sakin	konuş
 ayrı	bulun
 serbest	kal
 eski	sev
-Number of pairs: 594
+Number of pairs: 548
 
 bağımsız	davran
 benzeri	gör
@@ -10587,9 +9889,6 @@ sağ	kal
 kötü	kok
 arsız	gülümse
 türlü	sus
-belli	et
-rahat	et
-yok	et
 hangi	taraf
 türlü	aç
 iyi	boya
@@ -10599,7 +9898,6 @@ türlü	yap
 yorgun	hisset
 türlü	benze
 dolaş	de
-teselli	et
 filan	ara
 kesintisiz	sür
 ileri	git
@@ -10630,13 +9928,10 @@ izinsiz	kal
 ileri	sür
 iyi	davran
 kötü	giyin
-haklı	bul
 tek	öğrenci
 iyi	kullan
-rahatsız	et
 askeri	topla
 iyi	de
-hazır	et
 düzgün	yaz
 soğuk	gener
 boş	inan
@@ -10666,7 +9961,6 @@ filan	kap
 iyi	bil
 türlü	sez
 uyanık	kal
-deli	et
 haberli	gel
 hoş	gör
 boş	bulun
@@ -10681,10 +9975,8 @@ iç	aç
 zor	anlaş
 ters	düş
 sedasız	oku
-yeknesak	bul
 ilk	gör
 geri	bırak
-heyecanlı	görün
 yeni	tanı
 eksik	anlaş
 boş	bırak
@@ -10698,7 +9990,6 @@ var	yetiş
 güzel	git
 boş	ver
 filan	hatırla
-hoş	görün
 iyi	ayarla
 camlı	bölme
 kalın	kes
@@ -10720,13 +10011,11 @@ simit	ver
 kötü	gel
 başka	bekle
 filan	gör
-ilginç	bul
 azalt	de
 bunca	titre
 ciddi	çalış
 hızlı	yüz
 küçük	hesap
-güzel	görün
 edepsiz	san
 küçük	düşür
 mutlu	hisset
@@ -10771,14 +10060,9 @@ resmi	var
 iyi	kal
 kötü	giyi
 haklı	göster
-kafalı	bul
 bütün	tartış
-kötü	bul
-uygun	bul
 güzel	göster
-sakin	görün
 »	de
-tabii	görün
 romantik	düşün
 türlü	hisset
 ucuz	gel
@@ -10798,7 +10082,6 @@ değişik	kok
 bütün	seviş
 yeni	yat
 evvel	çalış
-istekli	görün
 iyi	öğret
 ilk	toka
 beceriksiz	insan
@@ -10812,16 +10095,11 @@ belirsiz	dur
 rahat	bırak
 emekli	general
 kapalı	yene
-ağırbaşlı	görün
 karmakarışık	dur
-neşeli	görün
 siyah	yılan
 cezasız	kal
 saçlı	şişman
 filan	getir
-saf	görün
-garip	görün
-tabiî	bul
 köftelik	kıy
 muhakkak	sor
 elli	yaş
@@ -10855,14 +10133,12 @@ nazlı	gel
 türlü	getir
 yok	say
 nazlı	git
-üzgün	görün
 hazır	gel
 küçük	tuzak
 leri	anlat
 yi	bağla
 aynı	anlaş
 ilk	tanı
-solgun	görün
 son	yak
 yi	bekle
 asıl	çatış
@@ -10885,12 +10161,9 @@ anlayışlı	davran
 sert	konuş
 türlü	kalk
 halsiz	düşür
-genç	görün
 zor	ver
 iyi	karşıla
-başarısız	bul
 güçsüz	hisset
-güzel	bul
 hızlı	geç
 hoş	karşıla
 kıskanç	kişi
@@ -10903,9 +10176,7 @@ ilk	çağrıl
 son	kal
 eski	üşüme
 habersiz	yakala
-yetenekli	bul
 meraklı	değil
-isteksiz	görün
 pahalı	sat
 bağımsız	kal
 filan	de
@@ -10932,13 +10203,11 @@ aynı	koşuş
 uzun	yalvar
 hızlı	yaz
 tek	bas
-sayın	görün
 sevgili	düşman
 uygun	düş
 uzun	yaz
 rahat	geçmiş
 kabili	iç
-derin	bul
 kötü	davran
 filan	öl
 var	komiser
@@ -10952,20 +10221,17 @@ türlü	yat
 hayırlı	eyle
 mükemmel	zannet
 efkarı	umum
-arzı	et
 gerçek	dış
 bütün	hayat
 yalnış	tanı
 özlü	konuş
 ‘	yap
 geri	kal
-rahatsız	görün
 soğukkanlı	davran
 reçel	yiy
 filan	incele
 rahat	soruştur
 yakın	olay
-sevimsiz	bul
 yi	gör
 ayrı	büyü
 uzun	konuş
@@ -11012,7 +10278,6 @@ sakal	bırak
 yeni	karış
 gönüllü	bulun
 gizli	tut
-sakıncalı	bul
 uzun	gir
 yanlışlık	yap
 bütün	ömrünce
@@ -11088,10 +10353,6 @@ soğukkanlı	de
 soğuk	de
 yanlış	bil
 sıkı	tutun
-son	bul
-kavrayışlı	görün
-aptal	bul
-aptal	görün
 aşırı	uygula
 sağlam	tut
 dalgın	olun
@@ -11103,7 +10364,6 @@ yalnız	otur
 yoksun	kal
 büsbütün	kuru
 kapalı	konuş
-iyi	et
 ileri	al
 yukarı	bak
 yeni	yak
@@ -11127,7 +10387,6 @@ hararetli	konuş
 hızlı	koş
 muhakkak	yakala
 haklı	gör
-ağır	bul
 deli	de
 sahte	gülümse
 büsbütün	öfkele
@@ -11149,7 +10408,6 @@ sadık	kal
 filan	yap
 son	seviş
 son	yaz
-akıllı	bul
 engel	tanı
 türlü	yarata
 kutsal	üçle
@@ -11163,14 +10421,12 @@ küçük	tartış
 tatsız	tartış
 açık	artır
 yeni	yap
-i̇yi	et
 dürüst	anlat
 resmi	yap
 lazım	gel
-memnun	et
 ı	uza
 türkiyeli	Aydin
-Number of pairs: 364
+Number of pairs: 336
 
 belirsiz	alan
 boş	kal
@@ -11197,7 +10453,6 @@ sarılı	kal
 sakallı	Abdi
 iri	yarı
 kemik	komaz
-iyi	et
 çalı	topla
 boş	dön
 sis	kalk
@@ -11210,9 +10465,7 @@ kartal	döner
 soluk	al
 eğik	git
 temkinli	otur
-durgun	görün
 uzun	sür
-rahat	bul
 isteksiz	kalk
 sinek	yok
 atlı	gel
@@ -11249,7 +10502,6 @@ iyi	kal
 saz	ev
 yan	yat
 çıplak	de
-geçkin	görün
 sinek	dön
 kocaman	Abdi
 dürüst	düşün
@@ -11265,7 +10517,6 @@ ileri	gel
 iyi	çık
 az	kız
 ilk	gel
-deli	et
 abdi	de
 zor	tut
 yarı	sersem
@@ -11277,12 +10528,10 @@ ince	kır
 ilk	hediye
 çıplak	gez
 azıcık	doğrul
-üzgün	görün
 nişanlı	çiğne
 soluk	kes
 burunlu	biri
 emir	ver
-şimdicik	bul
 azıcık	dur
 yan	yanay
 türlü	yaklaş
@@ -11297,8 +10546,6 @@ başka	tanı
 karanlık	kavuş
 neşeli	uyan
 deli	dur
-yumuşak	görün
-rahat	et
 deli	Durdu
 zar	ağla
 çırılçıplak	soy
@@ -11314,7 +10561,6 @@ deli	durdu
 rahat	uyu
 i̇nce	Memedi
 kırışık	iç
-güçlü	görün
 atlı	git
 çırılçıplak	kal
 iyi	giyi
@@ -11354,7 +10600,6 @@ geri	dön
 büyük	yak
 ayrık	kal
 açık	değil
-belli	et
 mutlak	bil
 boş	git
 uzun	ömür
@@ -11364,15 +10609,12 @@ kardaşız	gayri
 kırk	ver
 hazır	gör
 çif	koş
-güzel	görün
 iyi	duy
 doğru	gel
 azık	düş
 kıpırtısız	kal
 mutlak	as
-teselli	bul
 mutlak	vur
-kapalı	bul
 köylü	sön
 köylü	dur
 ağır	gel
@@ -11388,16 +10630,12 @@ ilk	gir
 tek	tayın
 bükük	kal
 ıslak	ıslak
-teselli	et
 türlü	kaldır
-yok	et
 genç	bil
 iyi	tanır
 iyi	gelir
 donuk	donuk
-iri	görün
 dinli	de
-dinliyi	bul
 var	izle
 yurtsuz	kal
 iz	sür
@@ -11416,10 +10654,8 @@ i̇nce	memet
 akıllı	adam
 filan	tanı
 dinsiz	sık
-eksik	et
 başka	çık
 yok	meme
-iyi	bul
 zor	kurtul
 kara	toprak
 çırılçıplak	kalıver
@@ -11444,7 +10680,6 @@ yenir	yut
 çift	koş
 sarı	Ümmete
 kesin	öğren
-uygun	bul
 uykun	gel
 i̇yi	söyle
 engel	tanı
@@ -11467,15 +10702,11 @@ keskin	söyle
 bucaksız	yan
 ılgın	bulun
 belli	değil
-dertli	görün
 koçaman	aç
 canlı	geç
 çolak	koy
-ufak	et
 horali	dön
 i̇nce	Memedime
-topalı	bul
-uzun	görün
 saz	çal
 boş	dur
 bütün	umut
@@ -11496,7 +10727,6 @@ karacalı	Osma
 yok	inan
 koyu	kırmız
 güzel	işle
-şaşkın	görün
 yorgun	otur
 iyi	belle
 sakalı	ger
@@ -11506,8 +10736,6 @@ mutlak	getir
 geyik	düş
 yarı	karanlık
 büyük	değil
-sakallı	et
-mutlak	bul
 iyi	yaz
 altın	yal
 iz	kal
@@ -11536,7 +10764,7 @@ bol	bol
 yukarı	kaldır
 yukarı	sür
 çift	koşmaz
-Number of pairs: 325
+Number of pairs: 310
 
 iyi	tanı
 rahat	geçir
@@ -11544,7 +10772,6 @@ aslı	başka
 boş	dur
 hazır	değil
 eksik	kal
-rahat	et
 tatlı	anlat
 güzel	anlat
 uygun	düş
@@ -11588,7 +10815,6 @@ sazı	çal
 güzel	değil
 dokunaklı	gel
 az	döven
-açık	et
 deli	sandık
 rahat	öl
 yi	gör
@@ -11600,8 +10826,6 @@ zavallı	dilekçe
 doğru	çık
 tüh	beeee
 sert	öt
-meraklı	bul
-zor	et
 yüklü	gir
 bitürlü	kapa
 büsbütün	coş
@@ -11625,7 +10849,6 @@ tek	iste
 leri	say
 açık	dur
 büsbütün	karış
-rahatsız	et
 kısa	anlat
 nazik	davran
 bağlı	mikrofon
@@ -11665,14 +10888,11 @@ var	tanı
 iyi	…
 boş	ver
 iç	geçir
-belli	et
 kâğıtsız	yaşa
 tek	arkadaş
 büsbütün	köt
-küçük	görün
 doğru	çalış
 ı	gör
-boş	bul
 filan	de
 iyi	yaz
 soğuk	dur
@@ -11747,9 +10967,7 @@ büsbütün	artır
 denli	sevinç
 başka	de
 zor	sök
-zor	bul
 kızcağız	coş
-zengin	et
 yok	yok
 parasız	kal
 bol	değil
@@ -11771,14 +10989,12 @@ maltız	yak
 heykel	iste
 ilk	karşılaş
 i̇lk	gel
-memnun	et
 bütün	döşe
 mantıklı	adam
 haklı	çık
 kolay	gel
 sert	çek
 güzel	ısla
-yoksul	görün
 iyi	öğren
 doğrudur	anlat
 bitürlü	anlat
@@ -11818,7 +11034,6 @@ kayıtlı	kıl
 mevcut	bulun
 uzun	Sürer
 yanlışlık	anlaş
-yok	et
 ı	anlat
 yanlışlık	yap
 büyük	yaz
@@ -11834,7 +11049,6 @@ i̇lk	başvur
 yapın	bil
 katlı	örse
 dar	gel
-üzünçlü	görün
 yiyecek	getir
 zor	besle
 kısa	sür
@@ -11858,15 +11072,13 @@ eski	dol
 yi	göster
 ölü	say
 büsbütün	boz
-haklı	bul
 hazır	bağır
 ın	el
 kötü	alış
 hoş	gel
-Number of pairs: 378
+Number of pairs: 354
 
 tek	akraba
-son	bul
 ağır	gel
 iyi	anla
 ayrı	kal
@@ -11917,14 +11129,11 @@ yollu	de
 iyi	bil
 aynı	kal
 gerçek	değiş
-yok	et
 namazı	kıl
 ı	sev
-rahat	et
 emri	ver
 sağ	bırak
 bağlı	bekle
-büyük	görün
 batı	savaş
 zor	zenaat
 yürü	sultan
@@ -11933,7 +11142,6 @@ güzel	anlat
 dem	tutan
 dili	kıskan
 ilk	eş
-yakın	bul
 yok	ik
 şekli	dur
 yollu	söyle
@@ -11945,27 +11153,22 @@ heyecanlı	değ
 taraflı	sıvazle
 aykırı	davran
 iyi	yetiş
-ı	bul
 eşit	bölüş
 emir	al
 yeni	olgun
-belli	et
 gergin	dur
 gömülü	dur
-hazır	et
 iyi	oyna
 sağ	çık
 üstün	gel
 kaval	değil
 karışık	söyle
-güzel	et
 haddi	aş
 danışıklı	oyna
 yaralı	gönlüm
 iyi	gel
 taçlı	söyle
 gönülsüz	davran
-memnun	görün
 zor	gel
 şaşkın	kalakal
 serbest	bırak
@@ -11997,9 +11200,7 @@ son	ver
 son	konuş
 merkezli	küme
 geri	kal
-suçlu	bul
 rahat	uy
-iyi	et
 ilk	gir
 sonuçsuz	kal
 uzak	bulun
@@ -12008,7 +11209,6 @@ haklı	çık
 ters	git
 don	değiş
 çok	içerle
-imkânsız	görün
 tedbirli	at
 engel	gör
 yok	yap
@@ -12028,7 +11228,6 @@ aç	kal
 ilk	hesap
 belli	değil
 delil	topla
-zengin	et
 yeni	yap
 devamlı	gecik
 arka	çık
@@ -12037,7 +11236,6 @@ parlak	gelecek
 bütün	eriş
 mahal	bırak
 kanlı	Selim
-dar	et
 geri	döner
 var	say
 iyi	gör
@@ -12050,7 +11248,6 @@ dumanlı	ik
 esrarı	yut
 iyi	seç
 iyi	bak
-teselli	et
 saf	değiş
 zor	değ
 atlı	koş
@@ -12059,7 +11256,6 @@ sevgili	daima
 ilk	gel
 yanlış	hesapla
 ın	gel
-dayanıklı	bul
 ustalık	göster
 metanetli	dur
 eceli	kovala
@@ -12070,7 +11266,6 @@ cenk	de
 başlıksız	gir
 asil	savaş
 aykırı	bulun
-razı	et
 yeni	yaz
 yeni	kat
 şamlı	dur
@@ -12114,11 +11309,9 @@ zor	dur
 heyecanlı	anlat
 ger	gel
 bütün	iste
-tenezzülsüz	görün
 müfti	efendi
 taçlı	yan
 taçlı	duy
-rahatsız	et
 sayılı	gün
 çengel	gibi
 sadık	kal
@@ -12147,7 +11340,6 @@ borçlu	say
 güzel	üfle
 yi	bil
 ı	ara
-zor	görün
 zor	ulaş
 yakınlık	kur
 cezasız	bırak
@@ -12212,7 +11404,6 @@ gönlü	kır
 misli	büyü
 iç	kana
 kısa	sür
-var	et
 sevgilisiz	bırak
 ı	al
 zor	değil
@@ -12231,10 +11422,8 @@ güzel	vatan
 ı	dai
 evvel	vazgeç
 mutsuz	gör
-mutlu	et
 mutlu	gör
 sorumlu	tut
-memnun	et
 küçücük	çocukla
 ince	ruh
 zarif	insan
@@ -12243,7 +11432,7 @@ engeli	kaldır
 hangi	ülke
 kimsesiz	yok
 evvel	bitir
-Number of pairs: 564
+Number of pairs: 530
 
 mavi	tüken
 türlü	aç
@@ -12271,7 +11460,6 @@ aşırı	gel
 mümkün	değ
 tatlı	kamaşma
 ı	dol
-rahatsız	et
 yeşili	yor
 eski	hâl
 yerli	yer
@@ -12284,7 +11472,6 @@ türlü	bula
 bitişik	yüksel
 iyi	komşu
 az	değil
-mutlu	görün
 yukarı	seğir
 ilk	gör
 reçeli	taşır
@@ -12292,7 +11479,6 @@ olası	hoşlan
 türlü	değil
 farklı	değil
 eksik	değil
-olgun	görün
 kocaman	adam
 eksik	kal
 kusursuz	kur
@@ -12332,8 +11518,6 @@ belli	değil
 tek	zaman
 gösterişli	giyi
 emsalsiz	güzel
-güçlü	görün
-uygun	bul
 ileri	gid
 tek	azık
 hazırlıksız	yakala
@@ -12359,12 +11543,10 @@ aynı	kal
 yeni	yap
 açık	kal
 asılı	kal
-siyah	görün
 doğru	değil
 haksız	say
 rahat	kalkış
 kırk	yar
-hazır	et
 doğru	yürü
 bağlı	kal
 hazır	bulun
@@ -12376,19 +11558,15 @@ canlı	gibi
 sağlam	kur
 uzun	sür
 olası	ürker
-kapalı	bul
 hangi	yılda
 fiyakalı	jandarma
 açık	dur
 altın	akıt
-rahat	et
 hafif	duy
 kesik	bakır
 sakalı	yumuşa
 masalı	anlat
 memnun	kal
-kolay	görün
-belli	et
 asılı	dur
 parlak	benze
 belâsız	kurtul
@@ -12402,11 +11580,9 @@ uygun	yer
 açık	dolaş
 esir	al
 hoş	gel
-apaçık	görün
 açılı	anlat
 büyük	ev
 yeni	uya
-hazır	bul
 çift	düğüm
 hızlı	in
 ı	gör
@@ -12422,7 +11598,6 @@ uzun	kes
 düzgün	dokun
 tatlı	dalgala
 iyi	değil
-memnun	et
 boş	bırak
 türlü	gör
 serbest	bırak
@@ -12433,14 +11608,12 @@ sorumlu	tut
 fütursuz	konuş
 çok	dokuma
 yeni	gel
-eski	görün
 ayrı	düş
 hâdengî	ok
 kapalı	yer
 genel	geç
 i̇yi	bak
 iyi	anla
-yakın	görün
 temsili	anlat
 durgun	ak
 kayıtlı	değil
@@ -12455,13 +11628,11 @@ büyük	ateşgâh
 hoş	gör
 açık	uyun
 aynı	boyda
-teselli	et
 kapalı	dur
 kolayca	geç
 iyi	oku
 ayrı	tut
 çabuk	çık
-yok	et
 memnun	hisset
 mavi	yas
 ilk	karşılaşma
@@ -12494,7 +11665,6 @@ emir	kes
 resmi	var
 yeni	oku
 şekli	çık
-mutlu	et
 sıcak	bekle
 hatırı	say
 sıcak	var
@@ -12511,7 +11681,6 @@ yeni	bit
 ı	karşıla
 emir	buyur
 mahmuz	vur
-hazır	görün
 türlü	yap
 kolay	geç
 güzeli	yan
@@ -12542,7 +11711,6 @@ zor	taşı
 yeni	öğren
 puşkin	oku
 son	durak
-eksik	et
 ateşli	konuş
 kısmen	açık
 teselli	çık
@@ -12577,7 +11745,6 @@ yeni	aç
 güzel	kal
 güzel	gel
 rahat	geç
-geri	et
 sağ	çık
 başka	yan
 geleni	savur
@@ -12601,8 +11768,6 @@ gel	eğl
 ağızsız	yaşmak
 çıkalı	sıradan
 yüksek	tut
-uzun	et
-fazlası	et
 büyük	yorgun
 yarı	yükle
 tek	lokma
@@ -12629,15 +11794,12 @@ yukarı	kaldır
 dolu	dokun
 güzeli	aç
 rahatı	ser
-iyi	et
 haklı	çık
 iyi	çocuk
 sert	vur
 yanlış	at
 ı	öl
 yangın	fışkır
-derin	görün
-boş	bul
 zor	değil
 küçük	kıya
 türlü	sor
@@ -12657,7 +11819,6 @@ faslı	geç
 aslı	dai
 son	kelime
 doğru	duy
-çıplak	görün
 uygun	düş
 çuvalı	bağla
 doğru	seç
@@ -12679,7 +11840,6 @@ hangi	çete
 anadili	konuş
 kadersiz	kal
 sağ	ceb
-son	bul
 zor	bulun
 türlü	git
 gönüllü	çık
@@ -12703,7 +11863,6 @@ var	oy
 yok	de
 iç	aç
 türlü	hisset
-genç	görün
 yeni	bitir
 ağır	gör
 karşılıklı	sus
@@ -12724,7 +11883,6 @@ yarı	sussunlar
 ağır	oy
 evvel	giy
 bitişik	yaz
-razı	et
 yükümlü	kıl
 bütün	yaşa
 şekli	okşa
@@ -12746,7 +11904,6 @@ incecik	kes
 yazgısız	kal
 durgun	parla
 kırık	düzen
-açık	bul
 tartışmasız	çayhane
 gümüş	işle
 türlü	yakala
@@ -12765,7 +11922,6 @@ yukarı	in
 yok	yağma
 yarı	aç
 asıl	gör
-zor	et
 var	de
 cımbız	al
 çıplak	koş
@@ -12787,7 +11943,6 @@ uzak	yerli
 çıkar	çık
 yukarı	buy
 karışık	âşık
-hoş	bul
 ince	giy
 kırık	kal
 halı	tüccar
@@ -12809,7 +11964,7 @@ ilk	var
 az	benze
 kıymetli	değil
 mantıksız	gel
-Number of pairs: 251
+Number of pairs: 234
 
 türlü	uyarla
 son	sığmak
@@ -12834,7 +11989,6 @@ soluk	kes
 iyi	gör
 karagöz	seyret
 türlü	gülsüm
-rahatsız	et
 gel	gel
 soysuz	çık
 türlü	at
@@ -12847,13 +12001,11 @@ küçük	de
 sakın	acap
 gönlümüz	bulan
 başka	lâkır
-iyi	et
 kırmızı	çık
 rastık	çek
 karanlık	kes
 kolayca	itil
 zor	zaptet
-belli	et
 küçük	gönüllü
 açık	söyle
 fikrince	oku
@@ -12873,7 +12025,6 @@ başka	cihette
 evvel	bırak
 yeni	evli
 aç	bak
-teselli	bul
 çift	lâkır
 cezasız	kal
 mani	değil
@@ -12895,7 +12046,6 @@ k	değil
 büsbütün	kötü
 in	yan
 eksik	kal
-memnun	et
 dehşetli	artır
 durgun	gör
 iyi	anla
@@ -12905,13 +12055,11 @@ iyi	parla
 iyi	dürtüşle
 kaç	evlâ
 eski	emektar
-eksik	et
 gizli	tut
 büsbütün	boz
 tabiî	lâzım
 tek	insan
 büyük	da
-rahat	et
 adamakıllı	boz
 dikkatli	bak
 serbest	bırak
@@ -12919,9 +12067,7 @@ türlü	affedem
 türlü	kes
 fena	de
 yorgun	gör
-teselli	et
 yanlış	değil
-boş	bul
 imtiyaz	addet
 gel	bak
 bütün	sev
@@ -12945,7 +12091,6 @@ hırsız	al
 gizli	itiş
 imkânsız	değil
 yok	bil
-razı	et
 türlü	aç
 caiz	değil
 kâfi	değil
@@ -12974,7 +12119,6 @@ ilk	konuş
 mesut	zaman
 başka	yap
 büsbütün	az
-fena	bul
 gevşek	dur
 yukarı	çık
 büsbütün	karış
@@ -12987,7 +12131,6 @@ büsbütün	artır
 lâzım	gel
 çocuklu	dulla
 müsait	değil
-sivri	görün
 iyi	tanı
 büsbütün	bulan
 sedasız	dağıl
@@ -13020,7 +12163,6 @@ resmi	seyret
 saygısız	de
 öksüz	kal
 yakın	konuş
-memnun	görün
 baskın	çık
 teselli	ver
 sadık	kal
@@ -13031,7 +12173,6 @@ kötü	de
 türlü	hazmede
 esassız	değil
 hoş	kaç
-mübalâğalı	bul
 deli	olu
 bütün	bil
 şımarık	büyü
@@ -13041,16 +12182,13 @@ adamakıllı	sapı
 iyi	yap
 iyi	karşıla
 ileri	götür
-güzel	görün
 evvel	söyle
 zor	kap
 rahat	ver
 geçkin	ders
 iyi	göster
 ilk	gel
-iyi	bul
 büsbütün	eri
-büyük	görün
 gizli	fısıldaş
 türlü	iyi
 büsbütün	bitap
@@ -13062,7 +12200,7 @@ soğuk	al
 açık	kal
 yeşilli	uçur
 emir	ver
-Number of pairs: 316
+Number of pairs: 308
 
 yaylak	veres
 sert	söyle
@@ -13114,7 +12252,6 @@ doğru	söyle
 gönlü	çek
 şaşkın	ış
 geri	ver
-razı	et
 ince	gümüş
 yeşil	işle
 iyi	bil
@@ -13128,7 +12265,6 @@ cansız	dolaş
 çırılçıplak	at
 kerimli	oy
 altın	eyer
-uygun	bul
 rahat	geçir
 iç	aç
 rahat	ver
@@ -13142,7 +12278,6 @@ yakın	dost
 var	de
 aşılı	kal
 yerli	yer
-iyi	bul
 elverişli	yer
 mavi	gözlü
 altın	ver
@@ -13191,7 +12326,6 @@ yarım	yamalak
 beter	eyle
 uzun	ak
 türlü	kes
-ufak	et
 geri	dir
 bütün	zul
 hızlı	ak
@@ -13273,7 +12407,6 @@ zili	göster
 asıl	az
 yok	de
 kötü	eyle
-yok	et
 yukarı	bil
 iyi	adam
 ulu	soylum
@@ -13315,14 +12448,12 @@ azıcık	dur
 güzel	uç
 selsebil	tüken
 ön	safta
-rahat	et
 çaresiz	kal
 tük	kes
 koca	yemiş
 kırmızı	aç
 damarlı	çinketaş
 köylü	kal
-son	bul
 yok	topla
 karı	topalla
 kefensiz	göm
@@ -13341,7 +12472,6 @@ güzel	karşıla
 asıl	öl
 eri	gör
 akın	ak
-iyi	et
 kötü	kırış
 yok	sat
 güzel	işle
@@ -13380,7 +12510,7 @@ yarım	dön
 altın	yap
 soluk	gel
 doğurgan	dir
-Number of pairs: 506
+Number of pairs: 482
 
 özgü	anlat
 başka	karşılaşma
@@ -13431,7 +12561,6 @@ bütün	utan
 dürüst	tanı
 tük	kal
 derin	soluma
-rahat	et
 faslı	bit
 adamakıllı	yanlış
 yarım	yır
@@ -13448,7 +12577,6 @@ türlü	tamamla
 doğru	yol
 eğlenceli	geç
 iyi	sergi
-devrimci	bul
 son	ver
 esir	al
 soğuk	sız
@@ -13473,7 +12601,6 @@ iyi	sez
 nun	Selma
 yeni	doğ
 yurtsuz	kal
-boş	bul
 iyi	yap
 yap	de
 kötü	çık
@@ -13483,16 +12610,13 @@ güzel	tınla
 aptal	kal
 temelli	kap
 türlü	kavra
-iyi	et
 türlü	becer
 türlü	kes
 i̇sveçlisiz	çık
-belli	et
 yukarı	kalk
 zor	kalk
 sevimli	gel
 iyi	ov
-yok	et
 türlü	boşa
 türlü	çık
 mutlak	tanı
@@ -13500,7 +12624,6 @@ ansızın	çoğal
 bencil	davran
 denli	aldır
 büsbütün	dayan
-malı	görün
 hoş	gör
 gerçek	kıl
 türlü	yak
@@ -13516,9 +12639,7 @@ hesaplı	aç
 iyi	hesapla
 haklı	de
 mısırlı	bil
-rahatsız	et
 tezel	iste
-açık	bul
 tek	güven
 güzel	gül
 güpgüzel	hüzünle
@@ -13604,7 +12725,6 @@ ilk	gör
 ansızın	don
 ruhsuz	kal
 çok	gül
-mutlu	et
 eksik	yap
 türlü	topla
 aç	değil
@@ -13613,7 +12733,6 @@ bol	bulamaç
 yeni	öğren
 yapayalnız	otur
 hayırsız	çık
-var	et
 memnun	kal
 tezel	getir
 türlü	sev
@@ -13677,11 +12796,9 @@ hazır	değ
 apaçık	şuy
 bileli	ağla
 geri	it
-uygun	bul
 evli	değil
 karı	koca
 denli	kurnaz
-aptal	bul
 iyi	kullan
 sorumlu	çırpın
 güzel	öğret
@@ -13724,9 +12841,7 @@ emri	al
 kurtuluşumuzu	müteakip
 izinli	git
 yeni	ver
-zavallı	bul
 aynı	uçak
-hazır	görün
 ansızın	çarp
 büsbütün	çek
 tezel	pofla
@@ -13735,11 +12850,9 @@ büsbütün	itele
 yanlış	seç
 iyi	izle
 iç	şeker
-son	bul
 çok	şaşır
 iyi	gel
 çok	ısıt
-mutlu	görün
 mavi	gelin
 uzun	kravat
 hızlı	dön
@@ -13780,7 +12893,6 @@ uzun	gel
 dürüst	bil
 yukarı	kap
 büsbütün	yıl
-iyi	görün
 öfkeli	kıl
 isteksiz	çık
 kapalı	bulun
@@ -13797,15 +12909,11 @@ yeni	gir
 rahat	tırman
 iyi	bak
 aykırı	düş
-çirkin	bul
 sor	bak
 kolay	suçla
 kirli	görmen
-acımasız	bul
 ansızın	üşü
-büyük	görün
 sabırlı	dur
-uygun	görün
 hangi	sokak
 yuvarlak	düğ
 kolay	başar
@@ -13863,7 +12971,6 @@ yukarı	kaldır
 ları	duy
 yepyeni	doğ
 mutlu	gir
-güçlü	görün
 kötü	dayan
 türlü	engelle
 türlü	başar
@@ -13884,11 +12991,10 @@ ilk	başvur
 şaşkın	bak
 çırılçıplak	yakala
 büsbütün	şaşkın
-serinkanlı	bul
 değişik	çık
 ansızın	dikle
 büyük	düşman
-Number of pairs: 858
+Number of pairs: 833
 
 geri	kal
 geniş	göster
@@ -13898,7 +13004,6 @@ i̇yi	koy
 ürkek	bak
 dışlı	yaşa
 yakın	uç
-razı	et
 dalgın	homurda
 bileli	oturak
 yahudi	var
@@ -13925,7 +13030,6 @@ zor	gel
 kolay	gel
 temeli	boz
 apansız	boz
-eksik	et
 askeri	çek
 moğol	bas
 sıkı	çalış
@@ -13948,7 +13052,6 @@ boş	bulun
 çengel	sal
 kefil	tut
 yiğit	dost
-hoşnut	et
 aralıksız	yarala
 şaşkın	bak
 gelişigüzel	sor
@@ -13981,7 +13084,6 @@ var	gibi
 kötü	söyle
 kolayca	tanı
 uzun	boy
-uzun	görün
 ileri	uza
 iyi	bak
 ince	uzun
@@ -14001,7 +13103,6 @@ yeni	doğ
 türlü	alışa
 güçlü	san
 ömrü	art
-doğru	bul
 apansız	çık
 kara	kumaşta
 möylü	gir
@@ -14037,7 +13138,6 @@ olası	an
 ulu	kat
 kısa	yaz
 kentli	oku
-yeterli	bul
 gücün	yet
 küçük	lokma
 dolu	ik
@@ -14065,7 +13165,6 @@ zamansız	öl
 yeni	göç
 noksan	ara
 derli	toplu
-rahatsız	et
 boş	gör
 ileri	götür
 dalgın	otur
@@ -14077,7 +13176,6 @@ aralıksız	ağla
 başıboş	gez
 büsbütün	sert
 beşik	kert
-belli	et
 belirsiz	irkil
 esir	düş
 son	gümüş
@@ -14095,7 +13193,6 @@ yeni	gel
 isteksiz	sor
 karmakarışık	yükle
 özel	kes
-güçsüz	görün
 büsbütün	pinti
 bütün	iğre
 türlü	ürkü
@@ -14105,7 +13202,6 @@ bol	gel
 ergin	say
 büsbütün	boşla
 aralıksız	haber
-uygun	bul
 asıl	şaş
 iyi	gör
 ak	bas
@@ -14151,7 +13247,6 @@ var	bil
 ağır	bas
 kısa	kes
 sert	ada
-deli	görün
 aralıksız	git
 dalgın	sor
 moylu	tanı
@@ -14193,7 +13288,6 @@ kitapsız	güven
 bunca	yalvar
 isteksiz	gir
 malı	taht
-rahat	et
 kolay	çek
 kolay	barın
 ilk	kaynaş
@@ -14202,7 +13296,6 @@ rahat	uyur
 ı	al
 adamakıllı	hırpala
 kötü	de
-bağlı	bul
 kuşkulu	bak
 kötü	suçla
 mümkün	say
@@ -14224,7 +13317,6 @@ koruyucu	al
 beli	kır
 gezgin	oz
 tek	bırak
-tek	bul
 dili	çevik
 düşman	gör
 kolay	al
@@ -14237,7 +13329,6 @@ koç	boğaz
 bağır	bas
 büsbütün	imkân
 bunca	sev
-yakışıksız	bul
 imansız	Kerim
 büsbütün	karış
 verimkâr	mi
@@ -14272,7 +13363,6 @@ ileri	sev
 karışık	dur
 tek	bulay
 kandili	kap
-iyi	et
 rahat	yaz
 yarım	gümüş
 komşu	gezer
@@ -14316,7 +13406,6 @@ açık	ver
 gizli	iç
 haklı	çık
 boş	otur
-yararlı	bul
 yatkın	bulun
 güçsüz	düş
 topraksız	komak
@@ -14366,7 +13455,6 @@ bunca	ağla
 yanıltısız	bil
 noksansız	getir
 gönülsüz	gül
-altın	et
 tekin	değil
 aralıksız	değiş
 altın	ver
@@ -14413,7 +13501,6 @@ türlü	kavuş
 isteksiz	gülümse
 çırılçıplak	yat
 bomboş	gör
-güçlü	görün
 yan	uza
 deli	gâvur
 yarım	dön
@@ -14482,7 +13569,6 @@ yan	gel
 bunca	er
 bunca	çokbil
 gizli	söyleş
-iz	bul
 akılsız	gâvur
 atlı	de
 büsbütün	inan
@@ -14580,10 +13666,8 @@ oğlancağız	bağır
 lazım	gel
 ileri	geç
 bacasız	kal
-eşek	bul
 sabırsız	bekle
 kolay	başar
-yorgun	görün
 hazır	dur
 kılavuz	aratm
 âdemoğlu	değ
@@ -14660,7 +13744,6 @@ apansız	peydahla
 belirsiz	yayla
 domuzu	okla
 apansız	kes
-çelimsiz	görün
 gerçek	yaşa
 sıkkın	bak
 büsbütün	bunal
@@ -14702,7 +13785,6 @@ apansız	duy
 yavaş	git
 gölü	tut
 dörtnal	git
-yok	et
 bütün	kazan
 ansızın	dur
 sırasız	öl
@@ -14747,14 +13829,12 @@ mezarsız	koy
 büsbütün	az
 iyi	anla
 dert	anlat
-haklı	bul
-Number of pairs: 107
+Number of pairs: 104
 
 boş	ver
 denk	getir
 mangırlı	dolaş
 fena	tartakla
-iyi	et
 yukarı	çek
 delikanlı	dim
 büsbütün	sil
@@ -14789,7 +13869,6 @@ fena	atış
 dosdoğru	sar
 büsbütün	kap
 fena	kız
-belli	et
 var	de
 yanlış	kayna
 yarım	otur
@@ -14833,7 +13912,6 @@ denk	al
 bel	ver
 iç	çamaşır
 bütün	fos
-rahatsız	et
 ıslak	ıslak
 bakkalı	çağır
 kirli	döşe
@@ -14857,12 +13935,11 @@ kocakarı	homurda
 ters	gel
 sidik	kok
 filan	de
-Number of pairs: 368
+Number of pairs: 324
 
 temel	al
 kabak	oğlan
 şekli	yok
-rahat	et
 rahat	ver
 genç	kaybet
 nabit30	yetiş
@@ -14883,14 +13960,11 @@ uzun	ezberle
 ahenk	dök
 çarçabuk	bık
 uysun	uy
-sevimli	bul
-uygun	bul
 genç	halayıklara158
 az	söyle
 zavallı	sez
 ilahi	oku
 asılı	dur
-garip	bul
 hafif	bahset
 tatlı	anlat
 anasız	kal
@@ -14900,11 +13974,9 @@ yüksek	dur
 yukarı	kaldır
 bütün	kır
 kandili	unut
-hiddetli	görün
 iyi	yap
 büyük	oku
 iyi	gör
-genç	görün
 mümkün	değil
 beyaz	namaz
 güzel	oku
@@ -14923,22 +13995,17 @@ aykırı	say
 zavallı	Selim
 asız	geç
 ı	alıkoy
-uzun	et
-dalgın	görün
 sinirli	diz
 beyaz	yaşmak
 son	geç
 serbest	bırak
-memnun	görün
 güzel	söyle
-orijinal	bul
 hareketsiz	bekle
 cansız	dur
 mâni508	gör
 sakın	üstâ
 tek	yaratı
 kâfir	de
-başka	görün
 i̇yi	kur
 türlü	düşün
 hafif	salla
@@ -14948,18 +14015,14 @@ uğurlu	gelir
 yukarı	divane621
 iyi	anlat
 çiçek	bozuğ
-tatlı	bul
 sevimsiz	gel
 kâbil	değil
 güzel	çal
 muvafık	taraf
-ince	bul
 çirkin	gel
 doğru	söyle
-yakın	bul
 şapkasız	git
 şapkalı	gel
-tabiî	bul
 soğuk	gel
 hâsıl	olan746
 canlı	muamman
@@ -14980,20 +14043,16 @@ zengin	addet
 sinek	kov
 geri	çek
 başka	değil
-yemin	et
 eski	oyun
 küçükbey	değil
 farklı	değil
 siyah	yel
 küçük	sat
-koca	bul
-yürekli	bul
 genç	gül
 hatırı	say
 ehemmiyetsiz	bırak
 cakalı	sark
 açık	dur
-muvafık	bul
 yan	bak
 nazırı	Selim
 evvel	geç
@@ -15004,7 +14063,6 @@ yeni	sula
 zeytinyağlı	kızar
 kafasız	değil
 yeni	belir
-hafif	bul
 nazırı	gör
 saklı	değil
 mevkii	olan971
@@ -15014,10 +14072,8 @@ fakir	değil
 hatır	sor
 mutlak	gel
 lâzım	değil
-ihtiyar	bul
 tatlı	gel
 mutlak	git
-hoş	görün
 şirin	göster
 nazırı	oku
 mutlak	mahvet
@@ -15026,7 +14082,6 @@ yukarı	seğir
 asıl	kork
 ucuz	kurtul
 haddi	aşan
-rahatsız	et
 muttali	olan1088
 nazırı	beyefendi
 tabi	tut
@@ -15036,8 +14091,6 @@ neşeli	sor
 yumruk	ye
 emir	ver
 emir	bekle
-korkunç	görün
-kapalı	bul
 zalim	sima
 emir	getir
 uzun	gel
@@ -15046,13 +14099,10 @@ sert	değil
 teselli	ver
 bomboş	gel
 iyi	bak
-hoşnut	et
-belli	et
 türlü	hazmet
 genç	kal
 muhal	olarak1215
 karmakarışık	sür
-memnun	et
 evvel	çık
 asker	götür
 emir	al
@@ -15092,18 +14142,13 @@ evvel	öl
 yukarı	gez
 küçük	ik
 ilk	hafta
-heybetli	görün
 korkunç	gel
 rahat	bırak
 serbest	dolaş
 açık	git
 doğru	bil
-yorgun	görün
-uzak	görün
 ı	seyret
-zarif	bul
 altın	yıl
-başka	bul
 yeni	dön
 yiyecek	bula
 doğru	eğ
@@ -15123,18 +14168,15 @@ eşsiz	kal
 hafif	dalga
 türlü	geç
 bütün	işle
-teselli	bul
 çok	ürk
 yeni	kapa
 yasin	oku
 yanık	çık
 eski	ver
 etraflı	düşün
-var	et
 inik	bulun
 gündelik	ver
 ateşsiz	yap
-büyük	görün
 evvel	uğra
 şirin	gel
 küçük	gâvur
@@ -15154,16 +14196,13 @@ ince	dokun
 canlı	söyle
 eski	sev
 rahat	sar
-iyi	bul
 yeni	gel
 ı	soy
-serin	görün
 yok	değil
 türlü	soğu
 kısa	kırp
 garip	gel
 yukarı	işle
-aç	et
 in	kız
 müsait	değil
 bembeyaz	gel
@@ -15174,17 +14213,13 @@ rahat	dur
 sıcak	gör
 saplı	kal
 ı	geç
-teselli	et
 gazel	söyle
 sük	û
 tatsız	gel
 yi	kaçır
-iyi	et
-güzel	bul
 sönük	değil
 ilk	evlen
 güçlük	çek
-halsiz	görün
 tevfik	öl
 hafif	hisset
 şekli	al
@@ -15202,7 +14237,6 @@ son	yaz
 açık	yaz
 yorgun	düş
 mutlak	lâzım
-beşik	bul
 tek	sev
 yi	sok
 hoş	değil
@@ -15227,24 +14261,20 @@ hassas	yap
 yaklaşır	yaklaş
 coşkun	şakşakla
 batı	çatış
-Number of pairs: 423
+Number of pairs: 373
 
 yenik	düş
 yukarı	kaldır
 zengin	değil
 kapalı	dur
-ruhani	görün
 yeni	öl
 boş	kal
 uykumuz	gel
 yastık	yap
-çirkin	görün
 sır	sakla
 uzun	sür
 yeni	yürü
-ölü	bul
 yukarı	götür
-eksik	et
 iyi	anla
 bütün	iste
 yeni	öğren
@@ -15255,7 +14285,6 @@ mümkün	değil
 türlü	anla
 türlü	lakır
 aç	kal
-resmi	bul
 kolay	geçiş
 vakasız	geç
 sük	û
@@ -15264,20 +14293,16 @@ yanlış	yarat
 ilk	çık
 ayrı	kal
 küçük	düş
-güzel	bul
 siyah	giyer
 iyi	git
 soğuk	karşıla
 koskoca	kadın
 başka	konuş
 sarı	çıyan
-belli	et
 korkusuz	gez
 yukarı	çık
 yukarı	çek
-doğru	bul
 garip	konuş
-rahat	et
 türlü	konuş
 türlü	geç
 yavaş	yürü
@@ -15291,11 +14316,9 @@ zor	tut
 büsbütün	sıvaş
 büsbütün	art
 muhakkak	alay
-fena	et
 yukarı	konuş
 masal	oku
 çok	sev
-memnun	görün
 lazım	gel
 rahat	dur
 çıplak	bacak
@@ -15337,10 +14360,8 @@ türlü	çalış
 uzak	dur
 bembeyaz	kes
 yeni	yakala
-dargın	görün
 başka	yap
 doğru	söyle
-memnun	et
 kolay	say
 iyi	yap
 ayrı	geçir
@@ -15354,9 +14375,7 @@ var	san
 büsbütün	kaybet
 açık	dur
 hafif	heyecan
-rahatsız	et
 açık	konuş
-hazır	bul
 mükemmel	yetiş
 evvel	bahset
 ileri	git
@@ -15391,7 +14410,6 @@ açık	bulun
 büsbütün	git
 küçük	kız
 sedasız	yağ
-ıslak	bul
 büsbütün	keyif
 doğru	bil
 razı	değil
@@ -15406,11 +14424,9 @@ deşik	tıka
 adamakıllı	dert
 razı	edt
 zavallı	lakır
-hoş	görün
 yeni	gelin
 mükemmel	öğren
 kara	çık
-yüksek	görün
 oymalı	uçur
 iyi	hatırla
 kapalı	düşün
@@ -15425,18 +14441,13 @@ faslı	başla
 hatuncağız	bay
 siyahı	kaybol
 türlü	bit
-boş	bul
 uykusuz	kal
 koca	ipek
 ağır	gel
 iyi	düşün
-süslü	bul
 iyi	gör
-siyah	görün
 eski	hoca
 başka	şekilde
-iyi	et
-uzun	görün
 teselli	ara
 başka	ser
 resmi	sark
@@ -15460,8 +14471,6 @@ beyaz	de
 aynı	yırtık
 seyrek	uğra
 yakın	gel
-sevimli	görün
-hoş	et
 ilk	gör
 iyi	kız
 yeşil	atlas
@@ -15469,14 +14478,12 @@ fakir	kızcağız
 baygın	gibi
 sıcak	tut
 yok	değil
-razı	et
 uzun	gel
 geleni	esi
 yavaş	yan
 kapalı	yat
 kocaman	çiz
 geri	dön
-ciddi	görün
 kolay	git
 sevgili	ayı
 rahat	gel
@@ -15484,11 +14491,9 @@ heyecanlı	gör
 yeni	yetiş
 tedarikli	gel
 başka	münasip
-müteessir	görün
 hissiz	san
 asıl	yan
 yeni	kuru
-heyecansız	görün
 derin	nefes
 yi	gör
 düzgün	konuş
@@ -15496,7 +14501,6 @@ yeni	doğ
 emir	ver
 yakalı	başkâ
 imansız	gel
-iyi	bul
 hafız	söyle
 doğru	çık
 ince	elan
@@ -15510,16 +14514,13 @@ açık	Havalan
 açık	kal
 ciddi	dur
 saçlı	arkadaş
-lakayt	görün
 iyi	yan
 kafasız	kadın
 yeni	uyu
-hangi	görün
 beyaz	giy
 rahat	ver
 yarı	uza
 yaşın	süz
-manasız	görün
 ı	gör
 türlü	dur
 tatlı	gel
@@ -15530,11 +14531,9 @@ küçük	yara
 yeni	git
 mahzun	odum
 büsbütün	alıkoy
-teselli	et
 türlü	üz
 büyük	eğlence
 şık	giyin
-derin	görün
 zarif	lakır
 yeni	gel
 bol	muy
@@ -15542,7 +14541,6 @@ acemice	oyna
 muhteşem	görür
 fütursuz	konuş
 yukarı	gel
-mükemmel	görün
 meyal	seç
 tabii	gör
 sebepsiz	ağla
@@ -15554,10 +14552,8 @@ yakın	düş
 fena	insan
 türlü	sön
 yakın	bulun
-yeni	bul
 karmakarışık	karala
 doğru	değil
-bütün	görün
 gizli	söyleş
 yukarı	çıkar
 ince	anla
@@ -15571,17 +14567,12 @@ evvel	gör
 bakımsız	kal
 büsbütün	aç
 hanımsız	git
-kızcağız	bul
-malumatlı	görün
 hatırı	say
-yorgun	görün
 hoş	göster
-türlü	bul
 hoş	geçir
 çirkin	kal
 ileri	var
 türlü	san
-zor	bul
 yarım	bırak
 fitili	düzel
 solgun	öyle
@@ -15604,7 +14595,6 @@ yorgun	gör
 misli	gör
 ıslık	çal
 büsbütün	bit
-aykırı	görün
 pullu	gelin
 fena	bırak
 nişanlı	kal
@@ -15614,9 +14604,7 @@ garip	gör
 var	de
 büsbütün	hırçın
 türlü	git
-süzgün	görün
 eski	yara
-dertli	et
 türlü	kurtar
 türlü	ayrıla
 barklı	hanım
@@ -15630,37 +14618,30 @@ eski	nişanlı
 tatlı	var
 tatlı	gelecek
 başka	yer
-bomboş	görün
 ümitsiz	gör
 hızlı	yürü
 mukabil	ayrıl
 rahat	öl
 hissiz	de
 iyi	öğren
-filan	et
-yok	et
 lüzumsuz	gör
 yorgun	uy
 uzun	Sürer
 ince	dokun
 kolayca	eri
 dikkatli	davran
-güzel	görün
 hoş	karşıla
 yeni	başla
 küçük	harca
 uygun	davran
 aykırı	düş
 kutsal	say
-Number of pairs: 456
+Number of pairs: 418
 
-rahat	et
 huzursuz	bacak
 şık	şıkır
 yakışıklı	say
 zor	giy
-son	bul
-belli	et
 türlü	din
 hoş	çocuk
 kötü	de
@@ -15670,32 +14651,22 @@ ilk	karşılaşma
 romantik	komedi
 iyi	gel
 ışıklı	ekranda
-soğuk	bul
 otomobili	dol
 ağır	bas
-rahatsız	et
 uygun	değil
 derin	uy
 doğru	yürü
-yüzlü	görün
-yakın	bul
-şirin	görün
 yanlış	anlaş
 çok	iste
 doğru	sür
 ilginç	gel
-yakışıklı	bul
 farklı	gör
 dürüst	incele
 hoş	gel
 yanlış	yetiş
-razı	et
 yorgun	düş
 belirgin	değil
-dinç	görün
 yeni	gel
-hevesli	görün
-yorgun	görün
 garip	gel
 sessiz	say
 cevapsız	ara
@@ -15716,7 +14687,6 @@ serbest	bırak
 dik	otur
 kötü	hisset
 kilitli	dur
-normal	bul
 asır	geç
 ilgili	sakla
 rahat	konuş
@@ -15727,7 +14697,6 @@ habersiz	izle
 boş	koltuk
 iyi	hatırla
 kısık	çık
-yanlış	bul
 ileri	sür
 yakın	çalış
 iyi	değer
@@ -15754,7 +14723,6 @@ aşırı	kaç
 rahat	bırak
 zevkli	başla
 yi	göster
-garip	görün
 yanlış	duy
 doğru	duy
 yavaş	git
@@ -15768,12 +14736,10 @@ türlü	ısın
 iyi	duy
 keman	çal
 sıcak	değil
-korkunç	görün
 soluksuz	kal
 iyi	seç
 tek	ilgilen
 kolay	değil
-zavallı	görün
 zor	anlaş
 iyi	konuş
 normal	gel
@@ -15782,7 +14748,6 @@ ilk	otur
 mümkün	değil
 sevimli	gel
 yakışıklı	de
-yok	et
 belkemiksiz	biri
 deliksiz	uyu
 iyi	hisset
@@ -15819,8 +14784,6 @@ yahudi	tanı
 soğuk	değil
 son	ver
 uzun	göster
-kısa	görün
-iyi	görün
 kötü	git
 zayıf	çık
 yarı	çıplak
@@ -15872,7 +14835,6 @@ yeni	yaşa
 ucuz	atla
 üstün	gör
 doğru	ilerle
-istekli	görün
 ı	sıkış
 aynı	yaş
 uzak	gecekon
@@ -15880,7 +14842,6 @@ in	yaş
 başka	neden
 yukarı	kaldır
 yolu	tık
-yakışıklı	görün
 heykel	dik
 yakın	arkadaş
 takılı	kal
@@ -15889,7 +14850,6 @@ hoş	dur
 doğru	söylü
 mesel	dene
 dili	değiş
-güzel	görün
 büyük	barbarlık
 haklı	değil
 yanlış	anla
@@ -15924,7 +14884,6 @@ iyi	tan
 yahudi	yok
 engel	çık
 tük	duy
-heyecanlı	görün
 sert	yap
 ileri	uza
 selamsız	çık
@@ -15955,7 +14914,6 @@ başka	yap
 gayretli	çalış
 doğru	gel
 paralel	git
-pis	görün
 düdük	çal
 iyi	karşıla
 lüks	struma
@@ -15964,11 +14922,8 @@ türlü	geç
 öpücük	yolla
 kesin	gör
 düşük	yap
-iri	görün
-büyük	görün
 doğru	çek
 ı	otur
-kızgın	görün
 ı	kelepçele
 iyi	git
 uyumlu	uç
@@ -15982,16 +14937,13 @@ zili	çal
 kenarı	iş
 güzel	evla
 yakın	dost
-emin	görün
 boş	ver
 iç	içey
-sevimli	görün
 az	çık
 tatlı	kaçık
 genç	kal
 mutlu	öl
 yeni	yap
-hoş	görün
 tatlı	gülümse
 ı	gör
 yüksek	olası
@@ -16037,7 +14989,6 @@ kısa	konuş
 sabırlı	davran
 ilgili	konuş
 özel	yap
-teselli	bul
 büyük	engel
 tek	al
 geçen	çık
@@ -16045,7 +14996,6 @@ asıl	ilgilen
 dijital	mezarlık
 zor	yetiş
 geri	çek
-gereksiz	bul
 disiplinli	yaşa
 gerekli	ekle
 büyük	dur
@@ -16072,11 +15022,9 @@ ileri	git
 yutmuşuz	de
 özenli	giyin
 denk	al
-heybetli	görün
 sert	konuş
 hangi	evliya
 dolu	değil
-mutlu	et
 mutlu	dön
 iyi	de
 ilk	yap
@@ -16097,20 +15045,18 @@ gereksiz	hisset
 yanlış	inan
 ilk	gel
 hazır	tut
-mutlu	görün
 yakışık	al
 türlü	iste
 ilk	tanı
 yapışık	değil
 güzel	konuş
 müslüman	de
-düzgün	görün
 canlı	kal
 eski	ülke
 i̇yi	yap
 iyi	yap
 hızlı	yürü
-Number of pairs: 288
+Number of pairs: 273
 
 çaresiz	hisset
 yapayalnız	kal
@@ -16209,16 +15155,13 @@ kolay	aldan
 sıcak	yaz
 mutlu	anla
 meyal	aklım
-yok	et
 var	de
-hazır	et
 ileri	sür
 meraklı	Canan
 uykulu	bak
 resmi	göster
 yeni	hayat
 kararlı	gözük
-rahatsız	et
 uzun	sür
 yorgun	uza
 yeni	tanış
@@ -16226,7 +15169,6 @@ emir	gel
 kutsal	bil
 küçük	düşür
 belirince	patla
-mutsuz	et
 uykusuz	geçir
 kötü	gel
 köpük	iç
@@ -16239,7 +15181,6 @@ iyi	hatırle
 iyi	tanı
 bütün	dur
 hangi	kasaba
-belli	et
 belli	değil
 iyi	işit
 doğal	sonu
@@ -16256,12 +15197,10 @@ iyi	fark
 kanalı	göster
 türlü	gör
 uygun	düş
-yeterli	bul
 soluk	safran
 gel	bak
 çaresiz	kal
 gerçek	kıl
-mutlu	et
 yarım	bırak
 sahipsiz	bırak
 ağır	gel
@@ -16284,7 +15223,6 @@ boş	Ayran
 doğru	değil
 aptal	hisset
 kolay	var
-teselli	bul
 aşırı	yorgun
 bütün	yazış
 kolay	taşın
@@ -16303,8 +15241,6 @@ ayrı	kal
 hatırı	say
 iddialı	hazırla
 iyi	anla
-deşik	et
-kolay	bul
 kolay	yıpra
 türlü	geç
 bembeyaz	kes
@@ -16325,7 +15261,6 @@ yeni	gel
 yeni	al
 çekik	göster
 ansızın	hatır
-yapayalnız	bul
 iyi	yan
 basit	gözük
 düzenli	çalış
@@ -16343,7 +15278,6 @@ saal	dokuz
 beceriksiz	çık
 uzun	araştır
 iyi	anlı
-anlamsız	bul
 belirsiz	oku
 sevgili	dost
 emin	gözük
@@ -16362,7 +15296,6 @@ iyidir	de
 iyi	seç
 gelişigüzel	in
 rahat	hisset
-iyi	et
 yukarı	sabırsızla
 ateşli	seviş
 iyi	karşıla
@@ -16383,7 +15316,6 @@ az	yürü
 mali	danışma
 yeni	zengin
 mutlu	kasap
-güzel	görün
 türlü	evlen
 tabii	taklit
 iyi	becer
@@ -16398,20 +15330,17 @@ yaşlı	değil
 son	ver
 türlü	aç
 meyal	belir
-eksik	et
 harika	bulut
-Number of pairs: 398
+Number of pairs: 349
 
 türlü	anla
 soğuk	tavırlı
 uygun	bulun
 olumlu	karşıla
 ileri	sür
-olağanüstü	bul
 mesafeli	bak
 den	esirge
 tek	insan
-var	et
 manasız	gel
 rahat	bırak
 ince	uzun
@@ -16421,7 +15350,6 @@ türlü	söyle
 galip	çık
 türlü	düşün
 mübarek	kaf
-rahat	et
 doğru	yürü
 sapan	söyle
 iyi	değil
@@ -16430,16 +15358,12 @@ argın	dön
 mümkün	değil
 uzak	duruş
 iyi	işle
-belli	et
 büsbütün	şaşır
 türlü	uzak
-fena	bul
 türlü	bit
 dağılı	dur
 yığılı	dur
-hoş	bul
 ileri	gel
-kıpkırmızı	et
 koca	bula
 lüzumsuz	gel
 doğru	değil
@@ -16449,7 +15373,6 @@ hoş	gör
 kıpkırmızı	kes
 münasip	yer
 yılışık	sırı
-tabii	bul
 fena	yetiş
 lazım	gel
 dikkatli	bak
@@ -16458,28 +15381,22 @@ hesaplı	at
 kısa	kes
 küçük	düşür
 adamakıllı	kork
-bol	görün
 uzun	sür
 kolayca	al
 yüksek	tut
-manasız	bul
 uzun	konuş
 evvel	al
 üstün	yaşa
 başka	iste
 iyi	tanı
 asılı	dur
-manalı	görün
 ilk	konuş
 evvel	konuş
 kolay	anlaş
-deli	et
 açık	söyle
 evvel	davran
 belli	değil
-lüzumsuz	bul
 garip	gel
-soğuk	görün
 asıl	çek
 evvel	öl
 adamakıllı	tanı
@@ -16496,19 +15413,16 @@ türlü	yap
 uyanık	dur
 rahatsız	yat
 yukarı	sür
-garip	bul
 uykusuz	geçir
 ince	dur
 büsbütün	kuru
 fena	yap
 yukarı	dolaş
 evvel	git
-kârı	bul
 bütün	dur
 doğru	eğ
 doğru	gel
 teselli	ver
-teselli	et
 yukarı	kalk
 iyi	arkadaş
 ileri	git
@@ -16546,7 +15460,6 @@ güzel	söyle
 ağır	gel
 dilsiz	kal
 çirkin	değil
-yakın	görün
 bitişik	yat
 zavallı	hisset
 yeni	fışkır
@@ -16556,13 +15469,10 @@ yarım	kalk
 soğuk	gel
 adamakıllı	gör
 yerli	yer
-açık	görün
 esrarlı	kımılda
 saklı	dur
 iyi	anla
 aynı	ışık
-türlü	görün
-korkunç	görün
 yeni	doğ
 ileri	bak
 filan	sor
@@ -16578,7 +15488,6 @@ türlü	ayrıl
 zor	dolaş
 zor	ye
 tek	kelime
-memnun	et
 yukarı	çık
 loş	bırak
 türlü	kes
@@ -16598,7 +15507,6 @@ insafsızca	yoğur
 ileri	eğ
 ciddi	konuş
 açık	bırak
-rahatsız	et
 iyi	çocuk
 doğru	ilerle
 yeni	taşın
@@ -16611,9 +15519,7 @@ küçük	gör
 adamakıllı	bil
 imkânsız	gibi
 filan	iste
-tabii	görün
 gündelik	iş
-uygun	bul
 ciddi	bulun
 genç	insan
 yeni	fırla
@@ -16635,8 +15541,6 @@ kızıl	de
 büsbütün	unut
 aç	kal
 fena	maksa
-imkânsız	bul
-şiddetli	görün
 şekli	ver
 manalı	gel
 derin	sor
@@ -16649,7 +15553,6 @@ yeni	karar
 evvel	gör
 iyi	bil
 koca	yaklaş
-hoş	görün
 adamakıllı	çarp
 büyük	istida
 büyük	üsta
@@ -16658,15 +15561,12 @@ fena	söyle
 bütün	bil
 fena	içerle
 ehemmiyetli	göster
-zavallı	bul
 türlü	yürü
 kızgın	gibi
-kabahatli	bul
 ileri	getir
 gergin	bulun
 ileri	düş
 muhakkak	iste
-münasebetsiz	bul
 ayrı	mahluk
 deli	oğlan
 dürüst	davran
@@ -16689,13 +15589,10 @@ boynuzlu	herif
 hareketsiz	kal
 ilk	çık
 yi	gör
-kolay	bul
 doğru	değ
 rahat	ak
 uzak	dur
-koyu	görün
 yan	dur
-hazır	bul
 iyi	yetiş
 yersiz	gel
 boş	çevir
@@ -16703,16 +15600,12 @@ büsbütün	korkut
 birtakım	yaz
 türlü	leke
 itirazsız	inan
-tecelli	et
-doğru	bul
-aptal	bul
 türlü	ciddi
 sahi	zannet
 doğru	eğil
 büsbütün	kızar
 adamakıllı	yorgun
 gönlü	yok
-uzun	et
 emir	ver
 büyük	Muharrir
 fena	değil
@@ -16720,7 +15613,6 @@ fena	boy
 yeni	dal
 basit	insan
 dürüst	otur
-esrarlı	görün
 sedasız	dur
 yeni	anla
 sıska	vücut
@@ -16737,7 +15629,6 @@ yi	süz
 mevcut	kal
 var	beyefendi
 aynı	his
-muvafık	bul
 yapayalnız	hisset
 den	kal
 başka	gül
@@ -16745,12 +15636,10 @@ fena	kok
 suali	geç
 küt	burun
 bütün	yaz
-uzak	bul
 çok	sev
 sıcak	sok
 taze	uyan
 güzel	hatırla
-parlak	görün
 geri	bırak
 sıkı	tut
 farklı	sev
@@ -16758,25 +15647,20 @@ aynı	şey
 uzak	tut
 türlü	bil
 sağlam	bağla
-iyi	bul
 yanlış	düşün
 iyi	düşün
-başka	görün
 ağır	gelecek
-imkânsız	görün
 heyecanlı	değil
 son	yaz
 az	konuş
 serbest	bırak
 filan	ara
 hareketsiz	dur
-muhtemel	bul
 adamakıllı	sars
 çok	dur
 heyecanlı	geçir
 yukarı	gezin
 dimdik	tut
-düşünceli	görün
 i̇lk	görüş
 çok	konuş
 yeni	tanış
@@ -16792,22 +15676,19 @@ doğru	söyle
 ilk	çel
 dürüst	bil
 yi	çık
-ehemmiyetli	bul
 bağlı	kal
 yapayalnız	bırak
 kabil	değil
 emir	gel
 iyi	an(II)
 var	de
-teselli	bul
-Number of pairs: 183
+Number of pairs: 159
 
 ağır	bas
 esas	al
 gerekli	gör
 kısa	yel
 lazım	gel
-memnun	görün
 yastık	at
 yeni	çek
 iyi	düzel
@@ -16817,7 +15698,6 @@ rahat	ver
 son	yaz
 başka	düzme
 müşterek	gör
-var	görün
 var	zannet
 iyi	düşün
 korkunç	gel
@@ -16826,11 +15706,9 @@ yeni	da
 filan	unut
 uzun	bak
 tabii	art
-güzel	görün
 maksatsız	dolaş
 dalgın	sus
 iyi	giyin
-güzel	bul
 iyi	bak
 çok	bahset
 doğru	söyle
@@ -16845,18 +15723,14 @@ iyi	an(II)
 iyi	dost
 ı	sor
 yeni	doğ
-uzak	bul
 azıcık	uta
-iyi	et
 evvel	gel
 beyaz	yel
 garip	gel
 büyük	e
 resmi	yap
 güzel	de
-memnun	et
 azıcık	taş
-tabii	bul
 küçük	dost
 büyük	evlen
 asılı	kal
@@ -16866,23 +15740,15 @@ dolu	çıkagel
 dalgın	iç
 yok	gibi
 bütün	sev
-uzak	görün
-yakın	görün
-büyük	bul
 çıplak	bırak
 cansız	otur
-soğuk	görün
 açık	gel
-doğru	bul
 ilk	gör
-muazzep	et
 fena	davran
 iyi	hatırla
 kuru	gel
 açık	dur
 fena	gel
-zengin	görün
-garip	bul
 çok	acın
 yakın	geçir
 mutlak	tut
@@ -16893,13 +15759,10 @@ ilk	gel
 iyi	kes
 bütün	mükal
 iyi	bil
-âşık	görün
 yeni	evlen
 zor	iç
 lerini362	oku
-basit	görün
 ı	hatırla
-ağır	görün
 evvel	işit
 yüksek	dur
 azıcık	eğ
@@ -16941,7 +15804,6 @@ yi	dinle
 daimi	takayyüdü
 menenjit	de
 ters	oku
-belli	et
 mektupsuz	bırak
 sevgili	i
 ölü	dur
@@ -16953,7 +15815,6 @@ yeni	acayip
 başka	geçin
 fena	geç
 ağır	gelecek
-kırmızı	görün
 hoş	gel
 küçük	vücut
 iyi	kalk
@@ -16970,7 +15831,6 @@ yapayalnız	kal
 müşterek	oluvera
 uzak	şey
 sevgili	de
-yok	et
 yeni	aç
 mutlak	öl
 pahalı	al
@@ -16978,28 +15838,24 @@ yavaş	bas
 kapalı	git
 beli	bük
 ilk	ağla
-tevali	et
 dalgın	kal
 beyaz	gör
-teselli	et
 dalgın	dur
 güzel	gün
 deli	gör
-Number of pairs: 537
+Number of pairs: 507
 
 ilk	çevir
 eski	tanı
 dikkatli	davran
 büyük	dur
 iyi	görünüş
-güzel	bul
 iyi	anlat
 soğuk	çeşme
 şefkatli	ses
 yakın	tırman
 öksürüklü	çeşme
 iyi	bil
-mutlu	et
 türlü	inan
 iyi	hisset
 koyu	sarım
@@ -17037,7 +15893,6 @@ yeni	at
 iyi	gör
 cetvel	kullan
 büyük	göster
-uygun	bul
 ilk	kullan
 plansız	şehir
 yarım	kal
@@ -17062,7 +15917,6 @@ yanlış	anlaş
 siyasi	tartış
 yukarı	çık
 pis	koku
-huzursuz	et
 rahat	çık
 kararlı	gözük
 hazır	sat
@@ -17085,7 +15939,6 @@ domuz	ye
 iyi	git
 doğru	yürü
 yarı	tanı
-çirkin	bul
 hızlı	yürü
 büyük	değil
 hoş	karşıla
@@ -17101,13 +15954,11 @@ dürüst	git
 iyi	ayarla
 büyük	yaz
 tabancalı	nöbet
-yapmacıklı	bul
 kanlı	çatış
 aşırı	siyasal
 yeni	gel
 fakir	çatış
 zor	uyu
-abartılı	bul
 beyaz	gecekondu
 saf	tut
 ilk	yap
@@ -17115,7 +15966,6 @@ yeni	yap
 benzeri	savun
 dikkatli	uygula
 gelişigüzel	gel
-teselli	et
 halı	al
 çalışkan	ada
 parasız	kal
@@ -17126,12 +15976,8 @@ son	yap
 yapayalnız	kal
 düzenli	çalış
 çaresiz	hisset
-ı	bul
 yeşil	sınır
-yoksul	bul
 karanlık	değil
-sevimli	bul
-belli	et
 bıyık	bırak
 doğrudan	bak
 küçük	yaz
@@ -17140,7 +15986,6 @@ gizli	kal
 defol	git
 yukarı	yürü
 soluk	al
-kolay	bul
 kolay	gel
 sivil	polis
 kolay	hazmet
@@ -17154,13 +15999,11 @@ yanlış	anla
 ilk	rastlaş
 kolay	geç
 belli	değil
-rahat	et
 yanlış	tut
 asıl	tartış
 yargı	ver
 sert	çak
 gelişigüzel	aç
-huzurlu	bul
 uzak	tut
 küçük	taşın
 zor	değil
@@ -17172,7 +16015,6 @@ zor	tut
 küfürlü	konuş
 normal	hisset
 son	gel
-olumlu	bul
 türlü	gel
 türlü	geç
 iyi	okut
@@ -17213,7 +16055,6 @@ yeni	çık
 çok	seviş
 üniformalı	Nedim
 son	geliş
-hazır	et
 ları	sat
 türlü	söyle
 demir	al
@@ -17235,7 +16076,6 @@ güzel	gözük
 pis	kok
 türlü	beğen
 büyük	sırr(II)
-mutsuz	et
 filan	de
 i̇yi	yap
 büyük	gelecek
@@ -17260,7 +16100,6 @@ kolay	değil
 dolu	koşarla
 sahipsiz	kal
 memnun	kal
-rahatsız	et
 türlü	bil
 dersi	an(II)
 yanlış	yap
@@ -17285,7 +16124,6 @@ küçümseyici	davran
 iyi	de
 çok	aile
 iyi	gelir
-yakışıksız	bul
 açık	gez
 aç	kal
 çok	çalış
@@ -17310,12 +16148,9 @@ türlü	kaldır
 yeni	aç
 yukarı	gel
 karşılıklı	otur
-yok	et
 iyi	uçar
 keyifsiz	döner
 iyi	işle
-ciddi	bul
-i̇yi	et
 yeni	ye
 esrar	yolla
 yeni	dön
@@ -17341,7 +16176,6 @@ haklı	çık
 soğuk	git
 gizli	gider
 sıcak	iç
-iyi	et
 küçük	kulüp
 iyi	yıka
 yeni	kirala
@@ -17383,14 +16217,12 @@ boş	bırak
 ı	suçla
 çok	tartış
 gel	gel
-ilginç	bul
 gizli	ortak
 baygın	hal
 düşük	yap
 doğru	değ
 ol	de
 ı	doğur
-eksik	et
 ilk	işitiş
 bütün	hafıza
 doğal	karşıla
@@ -17453,7 +16285,6 @@ kâr	değil
 yetersiz	kal
 kötü	karşıla
 yanlış	hatırla
-anlamlı	bul
 sorumsuz	değil
 kolay	azarla
 ciddi	kokla
@@ -17473,7 +16304,6 @@ kederli	geç
 sır	ver
 yanlış	söyle
 yakın	yap
-emekli	et
 uzun	konuş
 dertli	bak
 diğer	ad(I)
@@ -17492,9 +16322,7 @@ türlü	kavuş
 çok	tanı
 boş	kal
 kötü	göster
-yüksek	bul
 yarı	karanlık
-deli	et
 mümkün	değil
 tabii	sakla
 ayrı	düş
@@ -17524,15 +16352,13 @@ uygun	gör
 iyi	konuş
 aynı	malzemede
 hızlı	ak
-Number of pairs: 287
+Number of pairs: 264
 
 güçlü	vur
 ileri	git
 resmi	gör
 iyi	seç
 yangın	başla
-soğukkanlı	görün
-i̇yi	görün
 hoş	karşıla
 yanlış	yap
 emin	konuş
@@ -17545,7 +16371,6 @@ türlü	ısın
 haksız	say
 yoksun	bırak
 şık	de
-rahatsız	et
 otomobili	kullan
 yanlış	düşün
 i̇yi	çocuk
@@ -17553,12 +16378,10 @@ zor	ilerle
 paralel	uza
 iyi	düşün
 iyi	bil
-ıssız	görün
 zili	çal
 zor	kurtul
 bütün	malzeme
 yok	gibi
-belli	et
 filan	de
 aynı	dizginle
 belirsiz	çukur
@@ -17570,14 +16393,12 @@ iyi	tanı
 iyi	anla
 güçsüz	kıl
 kötü	etkile
-deşik	et
 ağır	bas
 filan	iste
 karakolu	bas
 kötü	çek
 ilk	etkile
 sorumlu	tut
-yok	et
 örgütsel	çalış
 sağlam	biri
 boş	ver
@@ -17587,7 +16408,6 @@ zor	geçin
 güzel	kız
 yeni	bitir
 uykusuz	geçir
-güzel	bul
 iyi	yürü
 bitkin	hisset
 soğuk	davran
@@ -17655,11 +16475,9 @@ doğru	yap
 hızlı	düşün
 modernleşmeli	de
 yanlış	değer
-neşeli	görün
 iyi	gizle
 özel	koru
 i̇yi	çık
-mutlu	et
 kolay	haz
 yanlış	bulun
 yukarı	tükür
@@ -17713,14 +16531,10 @@ iyi	algıla
 iyi	hissed
 dolu	doluy
 sağlam	tut
-yakın	bul
-uygun	bul
 belirsiz	seç
 anlamlı	kıl
 belirsiz	gülümse
-sağ	bul
 çok	sever
-yorgun	görün
 kolayca	yerleştir
 gizli	anlaşma
 kısacık	kes
@@ -17743,9 +16557,7 @@ kolay	gel
 farklı	düşün
 iyi	hazırla
 bilimsel	çalış
-ilginç	bul
 iyi	karşıla
-niyetli	görün
 kararlı	çık
 i̇yi	öyle
 kızcağız	kaybol
@@ -17776,19 +16588,14 @@ i̇yi	yap
 yakın	arkadaş
 filan	al
 filan	çık
-i̇yi	et
 güzel	odur
-sakin	görün
 ayrı	dur
 hoş	gör
-uzun	et
 i̇kircimsiz	yanıtla
 i̇yi	yor
-hoş	görün
 yanlış	yorumla
 filan	git
 yakın	seyret
-memnun	et
 filan	karış
 karşılıklı	otur
 fena	geç
@@ -17803,9 +16610,7 @@ rahat	değil
 son	görüşme
 sert	davran
 serbest	bırak
-yakın	görün
 soğukkanlı	davran
-güzel	görün
 sonuçsuz	kal
 aynı	yıpra
 doğru	çık
@@ -17813,12 +16618,11 @@ yukarı	bak
 iyi	gör
 hasır	kapla
 donuk	gülümse
-Number of pairs: 630
+Number of pairs: 566
 
 ıslak	yastık
 türlü	gel
 kolalı	karton
-zarif	bul
 iyi	bil
 gösterişli	gözük
 son	lok
@@ -17838,11 +16642,9 @@ kötü	değil
 ağır	gel
 türlü	kurtul
 karşılıklı	susa
-mutsuz	et
 doğru	ilerle
 kötü	bakan
 aç	kal
-rahatsız	et
 yeni	yıka
 yeni	temizle
 geçen	gel
@@ -17852,11 +16654,9 @@ omuz	at
 karanlık	gir
 yukarı	kaldır
 iyi	hisset
-kötü	bul
 ilk	taşın
 eski	bahçe
 kıpkırmızı	kes
-iyi	et
 geri	getir
 sevimli	gözük
 iyi	yayla
@@ -17864,7 +16664,6 @@ türlü	gir
 dik	tut
 kayıtsız	kal
 supanglez	de
-doğru	bul
 boş	ver
 iyi	yetiş
 küçük	uzlaş
@@ -17894,7 +16693,6 @@ akıllı	çık
 tatlı	anlat
 dikkatli	çalış
 ı	sev
-neşeli	bul
 yüksek	değil
 bakımsız	değil
 uzun	yastık
@@ -17909,12 +16707,9 @@ rahat	hisset
 yapayalnız	bırak
 korkunç	gözük
 olağan	gözük
-mutlu	et
 hareketsiz	dur
 kötü	konuş
 korkunç	göster
-sevimli	bul
-aptal	et
 iyi	anlay
 serbest	bırak
 kocaman	erkek
@@ -17926,19 +16721,16 @@ reçel	sür
 kötü	gel
 çirkin	göster
 tabii	iyi
-uyuşuk	bul
 uzun	sür
 ı	çağır
 kötü	başla
 ıhlamur	içer
-haklı	bul
 hoşnut	gülümse
 tatlı	görev
 iç	çek
 tabii	iste
 hoş	anlat
 yukarı	oyna
-ilginç	bul
 hafif	hisset
 koçun	kes
 masal	anlat
@@ -17952,7 +16744,6 @@ hoş	karşıla
 iç	geçir
 yukarı	çalış
 eksik	değil
-i̇yi	et
 iyi	anla
 iyi	konuş
 uslu	yap
@@ -17966,7 +16757,6 @@ uzak	dur
 asıl	iste
 türlü	ısın
 güzel	kok
-ateşli	bul
 dolu	yaşa
 türlü	dol
 iyi	dol
@@ -17977,16 +16767,12 @@ bezik	oyna
 in	bekle
 iyi	tanı
 iyi	düşün
-aptal	bul
 nazlı	öfkele
-akıllı	bul
-çilekeş	bul
 kötü	bas
 ı	gör
 başka	insan
 iyi	oku
 yeni	taşı
-saf	bul
 ın	sıkış
 karşılıklı	otur
 sıcak	giyin
@@ -18014,9 +16800,6 @@ hızlı	konuş
 uygunsuz	kal
 ayrı	düşün
 son	kısmet
-bitkin	bul
-kararlı	görün
-güçsüz	bul
 yakın	otur
 yarım	kal
 hafif	kızar
@@ -18024,8 +16807,6 @@ türlü	yap
 asıl	konuş
 alçakgönüllü	gözük
 ileri	git
-dolu	bul
-ölü	bul
 yeni	yap
 boylu	biri
 iyi	giyin
@@ -18038,21 +16819,17 @@ iyi	çalış
 kolay	gel
 belirsiz	gülümse
 yeni	taşın
-rahat	bul
 eksiksiz	bil
 yakışıklı	say
 kuralı	boz
 iyi	gör
 ilk	gör
 in	donuk
-ikiyüzlü	bul
 i̇yi	başla
 iyi	eğlen
 rahat	bırak
 geniş	hisset
-yakışıklı	bul
 ı	anlat
-hırslı	bul
 kolay	anlaş
 kolay	kır
 böcek	taşı
@@ -18078,7 +16855,6 @@ boş	bulun
 uykun	gel
 tabii	ver
 bomboş	tınla
-gevşek	bul
 türlü	tut
 zeki	uzlaş
 son	düzenle
@@ -18091,7 +16867,6 @@ güzel	anlat
 türlü	öğren
 kolay	gül
 fena	duygu
-güzel	bul
 bücür	de
 eski	yap
 iyi	gelir
@@ -18113,7 +16888,6 @@ kolay	kazan
 türlü	sus
 tatlı	bit
 zarfı	bırak
-sağlıksız	bul
 anlamsız	dur
 zarfı	çık
 hazır	değil
@@ -18121,10 +16895,8 @@ kolay	bula
 yukarı	gezin
 dikkatli	oku
 bütün	iste
-yeterli	bul
 var	ağla
 sakin	gözük
-duygulu	bul
 rahatı	gözük
 iyi	niyet
 bavulu	bırak
@@ -18138,7 +16910,6 @@ i̇yi	uyu
 deliksiz	uyu
 silâhsız	çık
 iyi	öğrenci
-hazır	et
 sakin	dur
 kara	göm
 dik	değil
@@ -18152,7 +16923,6 @@ yakın	değil
 türlü	yorumla
 yollu	söyle
 türk	say
-eksik	et
 aynı	yer
 iyi	besle
 yeni	düş
@@ -18178,9 +16948,7 @@ kötü	gözük
 mutsuz	yap
 yok	de
 türlü	ödeme
-cansız	bul
 rahat	konuş
-güçlü	bul
 kolay	inan
 yukarı	getir
 dürüst	vakit
@@ -18188,7 +16956,6 @@ kaç	al
 türlü	çık
 çok	çalış
 önemsiz	şey
-rahatı	bul
 yaşlı	değil
 aptal	kanıver
 yukarı	salla
@@ -18197,7 +16964,6 @@ apaçık	dur
 değersiz	gözük
 iyi	hazırla
 iyi	öğren
-yüzeysel	bul
 hoş	gel
 türlü	başla
 tasasız	otur
@@ -18214,7 +16980,6 @@ kötü	eğlen
 zor	gör
 yeşil	fener
 türlü	söyle
-eğlenceli	bul
 zor	seç
 kötü	gör
 ağır	tut
@@ -18233,7 +16998,6 @@ gelişigüzel	yürü
 aynı	gökyüz
 türlü	inan
 güzel	iç
-üstün	bul
 iyi	de
 boş	koy
 dürüst	uyu
@@ -18241,8 +17005,6 @@ son	gün
 kalın	giy
 son	yaz
 türlü	aç
-benzersiz	bul
-belli	et
 değişik	canla
 ı	korkut
 çözümsüz	gel
@@ -18251,11 +17013,7 @@ yarım	saat
 geri	dön
 ticari	anlaşma
 ilk	oku
-bıkkın	bul
-zavallı	bul
-soğuk	bul
 milli	savun
-hoş	bul
 kolay	kurtul
 yeni	apartman
 gerçekçi	değil
@@ -18281,10 +17039,8 @@ kolay	eriş
 küçük	tartış
 iyi	geçin
 küçük	karınca
-kolay	bul
 yeni	demle
 asıl	gerek
-korkunç	bul
 son	yap
 mavi	göz
 kararlı	gözük
@@ -18294,8 +17050,6 @@ aynı	savaş
 dikkatli	yaz
 dikkatli	yazar
 dikkatli	bak
-kültürlü	bul
-çekici	bul
 gelişigüzel	oku
 iç	karartı
 yeni	evlen
@@ -18307,13 +17061,11 @@ kolay	avut
 tek	başınay
 türlü	evlen
 nazlı	neşe
-uygun	bul
 inançlı	gözük
 tel	dolap
 suçlu	gör
 anlamsız	gözük
 doğru	bil
-gerekli	bul
 kötü	davran
 nazlı	gözük
 iyi	fırsa
@@ -18322,7 +17074,6 @@ tabii	imzala
 yeni	giy
 neşeli	hisset
 boş	tut
-olağan	bul
 hafif	inle
 türlü	dur
 başka	in
@@ -18332,8 +17083,6 @@ açık	dur
 mutlu	çağ
 eski	tartış
 in	as
-haksız	bul
-gereksiz	bul
 ansızın	gir
 yukarı	bak
 iyi	sarıla
@@ -18356,7 +17105,6 @@ iyi	yap
 rahat	yaşa
 sevinçli	gözük
 yok	yap
-boş	bul
 güzel	otur
 şık	gel
 geri	yolla
@@ -18392,7 +17140,6 @@ yi	çevir
 kapalı	değil
 başka	bekle
 açık	unut
-ihtiyatlı	bul
 yeni	çık
 ağır	işit
 leri	bil
@@ -18402,8 +17149,6 @@ kolay	sık
 güzel	eğlen
 şirin	göster
 verimli	çalış
-gerçek	bul
-hareketli	bul
 iyi	çocuk
 yeni	anla
 hoş	şey
@@ -18421,7 +17166,6 @@ türlü	kes
 yeni	bit
 kararsız	bak
 yukarı	de
-yüksek	bul
 düşük	say
 eğlenceli	bulun
 tatlı	gel
@@ -18437,15 +17181,12 @@ zengin	yaşam
 bütün	kur
 küçük	burjuvay
 masal	dinlen
-yakın	bul
 kolay	kavra
 kayıtsız	say
 iyi	kal
-rahat	et
 tabii	cid
-neşeli	görün
 renkli	sinema
-Number of pairs: 602
+Number of pairs: 572
 
 yan	kuru
 akılsız	atmaca
@@ -18456,14 +17197,12 @@ delil	göster
 yersiz	eğlen
 var	gül
 ileri	gelen
-batılı	görün
 resmi	çiz
 bucaksız	bozkır
 dili	say
 belirsiz	ürk
 yan	bakan
 belirsiz	durakla
-rahatsız	et
 türlü	bulun
 bucaksız	bozk
 kısa	kes
@@ -18514,13 +17253,11 @@ akılsız	Göçmen
 türk	gir
 türk	sıva
 ­	vir
-leri	görün
 memur	otur
 hansız	kal
 soluk	kal
 yarımağız	önle
 doğru	çık
-dar	et
 aklı	er
 kulaksız	Yakup
 kıra	avanak
@@ -18534,9 +17271,7 @@ başlı	gör
 yürekli	bil
 kötü	egitmen
 altın	yol
-razı	et
 alçagın	de
-iyi	bul
 karı	sev
 kısar	otur
 ları	kal
@@ -18545,7 +17280,6 @@ karışık	sür
 kansız	geb
 yok	sultan
 türlü	çık
-tam	bul
 türlü	unut
 büsbütün	at
 izinli	gel
@@ -18579,7 +17313,6 @@ sarı	bulama
 kara	yaz
 ­	rı
 ilk	araştır
-yeter	et
 kısır	gelin
 vavekili	yok
 atlı	gönder
@@ -18599,7 +17332,6 @@ kötü	Memiş
 ­	ley
 açık	bırak
 halim	akın
-habersiz	görün
 büyük	yap
 rahat	işle
 emir	bekle
@@ -18635,13 +17367,10 @@ kentli	yan
 karı	büyü
 lyi	tembihle
 sürü	getir
-uzun	et
 iyi	bil
-uygun	bul
 belirsiz	titre
 rahat	yaşa
 lar	yap
-küçük	görün
 yürekli	gülümse
 makbuzsuz	yürü
 makıllı	yük
@@ -18649,14 +17378,12 @@ tuzumuz	bulun
 iç	çek
 zeynel	çıkış
 ­	n
-tehlikesiz	bul
 esrar	bulun
 tek	dur
 deli	utan
 ı	otur
 apansız	bas
 aralıksız	öt
-güçsüz	görün
 türlü	alış
 yeni	bitir
 iyi	hatırla
@@ -18702,7 +17429,6 @@ itoğlu	it
 yüksek	kur
 zır	vızır
 büsbütün	küçül
-iri	görün
 kötü	gör
 karı	de
 kaçar	gelir
@@ -18722,14 +17448,12 @@ iri	kemik
 boylu	tıkız
 tedarikli	çık
 lazım	gel
-dümdüz	et
 kötü	alış
 doğru	bil
 kara	çal
 kötü	sars
 karmakarışık	atla
 büsbütün	küç
-iyi	et
 ileri	çık
 büyük	gel
 yarım	kal
@@ -18738,12 +17462,10 @@ fili	topar
 gür	değil
 zorlu	yankıla
 büsbütün	şaş
-belli	et
 büsbütün	şaşır
 çalı	kes
 ilk	durakla
 varı	sat
-geri	et
 iyi	başar
 ­	le
 belirsiz	kımılda
@@ -18811,12 +17533,9 @@ gönülsüz	kırpış
 var	çalış
 iyi	kullan
 az	değiş
-gayretli	görün
-dalgın	görün
 yersiz	kullan
 az	kullan
 az	sür
-türlü	görün
 öz	yegen
 tütün	iç
 emir	ver
@@ -18831,7 +17550,6 @@ filan	var
 muyku	ara
 bol	yıldız
 silahsız	yürü
-apansız	bul
 yararlı	say
 paslı	gör
 iyi	anla
@@ -18855,7 +17573,6 @@ kara	papaz
 ­	tur
 yeni	dişle
 gacır	guc
-leni	bul
 kansız	degil
 yürekli	erkeg
 askeri	derle
@@ -18895,7 +17612,6 @@ ileri	at
 ­	ret
 sel	kop
 türlü	hızla
-sağır	et
 şık	fırla
 türlü	bula
 güçlü	ak
@@ -18933,7 +17649,6 @@ büsbütün	göç
 apansız	getir
 rince	ip
 rahatsız	e
-var	et
 aşırı	tut
 yararlı	kıl
 sanlı	dur
@@ -18952,7 +17667,6 @@ aralıksız	çalış
 doğru	it
 umutsuz	yaşa
 güzel	bak
-lyi	et
 yeterli	değ
 ı	klaş
 lıksız	sür
@@ -18980,7 +17694,6 @@ sahte	de
 saf	de
 kötü	kız
 sopasız	gez
-tüfekli	görün
 yakışıklı	cimnastik
 ­	la
 yeni	düş
@@ -19010,7 +17723,6 @@ belirsiz	donuk
 ürkek	sor
 ı	yasak
 başlayalı	düşün
-asıl	et
 güvensiz	konuş
 aralıksız	kazma
 dayalı	dur
@@ -19024,7 +17736,6 @@ uygun	gör
 açık	bakaka
 belirsiz	çat
 zeynel	yanıl
-kolayca	bul
 hasır	geç
 dengeli	çek
 kolayca	kaldır
@@ -19049,7 +17760,7 @@ iri	saç
 dönük	dur
 gelişigüzel	sık
 apansız	kap
-Number of pairs: 180
+Number of pairs: 169
 
 tabii	efendi
 kötü	kitap
@@ -19108,7 +17819,6 @@ türlü	dur
 habercisiz	kal
 vicdanlı	hayvan
 ileri	dik
-belli	et
 atlı	kop
 ters	çevir
 asılı	bırak
@@ -19121,19 +17831,15 @@ yukarı	çek
 don	büz
 yukarı	sıyrıl
 iyi	anlaş
-büyük	görün
 iyi	kullan
-zengin	et
 hor	kullan
 yeni	bitir
 iyi	ezberle
 heyecanlı	söyle
 güzel	gel
 güzel	al
-ilginç	bul
 deli	gör
 sakal	bırak
-rahat	et
 zili	çal
 türlü	yaz
 ilginç	gel
@@ -19158,9 +17864,7 @@ büsbütün	azı
 kötü	boz
 geri	çek
 uygun	düş
-memnun	görün
 açık	kal
-değerli	bul
 yazılı	taşl
 iyi	bil
 var	de
@@ -19176,7 +17880,6 @@ sağlam	bırak
 billahi	al
 ileri	sür
 boş	gel
-rahatsız	et
 hoş	gel
 soğuk	geç
 pijamasız	yat
@@ -19215,23 +17918,20 @@ dolu	dol
 özel	yap
 filan	de
 dolu	sarığıbur
-kazançlı	bul
 zor	yetiş
 zor	öde
 zor	ödü
 uluslararası	de
 yanıtsız	kal
 çarşaflı	gez
-uygun	bul
 yakışık	al
 yeni	yap
 filan	bak
 uzun	Sürer
 ağır	çek
-zor	bul
 başka	bil
 yok	san
-Number of pairs: 364
+Number of pairs: 334
 
 kah	yüksel
 kah	alçal
@@ -19264,12 +17964,9 @@ bütün	bırak
 aynı	şey
 derin	bağır
 büsbütün	art
-manasız	bul
 büsbütün	ver
-yok	et
 evvel	koş
 cansız	yık
-filan	et
 yeni	tanı
 ileri	gel
 sonuncu	gel
@@ -19292,7 +17989,6 @@ tatlı	göster
 viyolonsel	gel
 türlü	öğret
 son	iste
-belli	et
 güzel	çal
 şekli	ver
 boş	bırak
@@ -19316,18 +18012,14 @@ ihtizamlı	gör
 büsbütün	yaklaş
 büsbütün	kalk
 hangi	kuvvet
-ölü	bul
 yarım	kal
 iyi	bil
-deli	et
 iyi	tanı
 dikkatli	davran
 yarım	bırak
 serbest	bırak
 bütün	gel
-uzun	görün
 yarı	sürükle
-memnun	et
 kahır	çek
 yeni	yuvarla
 iyi	anla
@@ -19335,7 +18027,6 @@ yumruk	yap
 büsbütün	tenhalaş
 serin	gelir
 boş	gez
-iç	et
 yukarı	çık
 keskin	parla
 cüretli	de
@@ -19351,8 +18042,6 @@ razı	gel
 köylü	adam
 doğru	söyle
 ileri	git
-uygun	bul
-hevesli	görün
 karışık	duy
 yeni	başla
 belli	değil
@@ -19366,15 +18055,11 @@ emir	çık
 kötü	tan
 rahat	otur
 yıvışık	sırı
-kuvvetli	bul
 atlı	candarma
 sağ	kal
 yukarı	kaldır
-muvafık	bul
 genç	de
 evvel	anla
-yakın	bul
-rahatsız	et
 garip	gel
 katili	bekle
 muhakkak	gelecek
@@ -19406,7 +18091,6 @@ yukarı	dolaş
 ihtiyatlı	bulun
 korkunç	gel
 rahat	koma
-yeni	görün
 otomobili	dur
 evvel	atla
 merhametli	çık
@@ -19424,10 +18108,8 @@ kolayca	söyle
 usulcacık	sıvış
 ı	yol
 filan	çık
-küçük	görün
 telaş	kap
 son	gel
-hoş	görün
 hazır	bulun
 emir	bekle
 asılı	dur
@@ -19438,9 +18120,7 @@ kolay	inan
 küçük	başla
 zavallı	say
 yukarı	götür
-rahat	et
 yapyalnız	dur
-fena	görün
 ağır	dokun
 isteksiz	anlat
 ilk	gel
@@ -19502,7 +18182,6 @@ karı	al
 ilk	çatış
 fena	içerle
 tabii	düşün
-doğru	bul
 genç	kız
 filan	bak
 evvel	gör
@@ -19518,8 +18197,6 @@ iyi	tan
 ciddi	konuş
 soğuk	davran
 dargın	git
-tabii	bul
-lüzumsuz	bul
 yalnız	dinlen
 yorgun	kımılda
 emin	hisset
@@ -19528,14 +18205,11 @@ filan	itima
 şaşkın	bakak
 ilk	söyle
 evvel	söyle
-insafsız	bul
 sağ	bırak
 açık	söyle
 sebepsiz	değil
 komik	vaziyet
 türlü	çek
-iyi	et
-ağır	görün
 uzak	mahluk
 imkan	yok
 az	benze
@@ -19545,7 +18219,6 @@ belirsiz	kım
 saz	çal
 yukarı	kay
 yukarı	fırla
-akıllı	görün
 dar	vadi
 adamakıllı	ürkek
 yakışık	al
@@ -19556,7 +18229,6 @@ tatlı	çık
 güzel	söyle
 uzun	sür
 bütün	kır
-manalı	görün
 kapalı	tut
 ipek	gibi
 güzel	de
@@ -19573,14 +18245,12 @@ cevapsız	kal
 büsbütün	büyü
 yabani	dur
 inkarı	bırak
-hazır	et
 yeni	kaç
 rahat	yok
 ümitsiz	ayrıl
 türlü	bit
 sonun	yaklaş
 sakin	karşıla
-büyük	görün
 saklı	gibi
 evvel	otur
 kararsız	bekle
@@ -19597,23 +18267,18 @@ cevapsız	bırak
 manasız	konuş
 son	ver
 sedasız	uy
-Number of pairs: 524
+Number of pairs: 479
 
 adamakıllı	uğraş
 düzgün	değil
 behemehal	gel
 hoş	gör
-hoş	görün
 sakin	geç
-kabahatli	bul
 türlü	ağla
 küçük	düşür
-tabii	bul
 deli	san
 masal	söyli
-hazır	bul
 dalgın	oyna
-zayıf	bul
 taze	çimen
 ı	karşıla
 büyük	çık
@@ -19644,7 +18309,6 @@ türlü	benims
 bütün	ömr
 ağır	gel
 iyi	hatırla
-rahatsız	et
 yeni	dön
 türlü	kavra
 asıl	arkadaş
@@ -19675,7 +18339,6 @@ adamakıllı	boz
 yorgun	kalk
 ihtiyatsız	yap
 kısa	kes
-teselli	et
 türlü	bit
 kapalı	dur
 bütün	uzun
@@ -19688,7 +18351,6 @@ boş	bırak
 yok	bil
 gizli	zehirle
 güzel	parla
-imkansız	görün
 uzak	bil
 ümitsiz	tapın
 feyizli	bahar
@@ -19703,10 +18365,8 @@ iç	parçala
 bol	empir
 mühmel	yap
 bütün	bil
-sevimli	bul
 manalı	bakış
 filan	de
-rahat	et
 tabii	yaşı
 uzun	sür
 güzel	değil
@@ -19721,7 +18381,6 @@ asıl	bil
 yanlış	çık
 musıki	dur
 devamlı	dost
-razı	et
 zalim	değil
 basit	kal
 iyi	atla
@@ -19731,7 +18390,6 @@ az	yürü
 iyi	işle
 rahat	yürü
 yarı	tut
-solgun	bul
 yeni	tanış
 rahat	konuş
 şekli	ver
@@ -19746,10 +18404,8 @@ rahat	dursan
 ilk	başla
 şinitseli	çiğni
 gafil	avlan
-uysal	görün
 türlü	redde
 geçici	şey
-güzel	bul
 soğuk	davran
 ilk	kelime
 boş	düğme
@@ -19760,7 +18416,6 @@ evvel	ağar
 tereddütsüz	atla
 yeni	aç
 rahat	yap
-bağlı	görün
 tabii	bahset
 paraşütsüz	bırak
 son	yok
@@ -19768,10 +18423,7 @@ uğursuz	say
 büyük	anne
 büyük	eser
 müşterek	tanı
-mucizeli	bul
 eksik	sandık
-mahzun	görün
-eksik	bul
 çırçıplak	yakala
 iyi	döv
 uzak	seyret
@@ -19780,7 +18432,6 @@ serbest	bekle
 evvel	geçir
 serbest	san
 muhakkak	değiş
-zarif	bul
 türlü	söyle
 rahat	bırak
 uca	zaptet
@@ -19802,10 +18453,8 @@ rahat	hisset
 uzun	bekle
 tek	yer
 küçük	istek
-sonsuz	bul
 ı	gör
 taze	titreş
-açık	görün
 ani	doğ
 iyi	anlaş
 fena	uyun
@@ -19819,13 +18468,11 @@ değişik	alem
 çırçıplak	gör
 evvel	hazırla
 kafi	değil
-doğru	bul
 iyi	arkadaş
 yeni	kal
 bütün	çalış
 itinalı	giyin
 son	haddt
-rahat	bul
 mükemmel	bil
 türlü	anla
 hangi	yen
@@ -19854,8 +18501,6 @@ kolay	taşın
 ideali	sez
 uzak	geç
 uyanık	dur
-tecelli	et
-lüzumsuz	bul
 sadık	arkadaş
 dalgın	avla
 ayrı	geç
@@ -19864,7 +18509,6 @@ hür	san
 dolgun	dön
 asıl	sev
 kumaş	seç
-evvel	bul
 kötü	anla
 büsbütün	değiş
 evvel	bahset
@@ -19883,7 +18527,6 @@ bulanık	gör
 muvazi	git
 gizli	çalış
 çift	güven
-kırmızı	görün
 tabii	çıl
 derin	çalış
 lezzetli	gel
@@ -19893,11 +18536,9 @@ hiddetli	konuş
 uzak	şey
 lakayt	kal
 kapalı	dinle
-iyi	et
 zahmetsiz	doğ
 iyi	konuş
 iyi	tanı
-deşik	et
 küçük	nağme
 mesut	yap
 eski	sev
@@ -19907,13 +18548,11 @@ asıl	başla
 ayrı	yaşam
 başka	sebep
 kötü	yaşa
-rahatsiz	et
 hatır	sor
 tek	sev
 gizli	konuş
 türlü	dok
 ayrı	düşün
-yok	et
 yorgun	düş
 sonuncu	zannet
 türlü	aç
@@ -19947,7 +18586,6 @@ kötü	tara
 büyük	kanatla
 aynı	cinste
 dargın	bil
-büyük	bul
 açık	gece
 habersiz	avla
 buğulu	yan
@@ -19959,7 +18597,6 @@ hafif	in
 çiçeksiz	kal
 güzel	mevsim
 sıcak	var
-açık	bul
 boş	dön
 boylu	Selim
 serbest	kal
@@ -19976,8 +18613,6 @@ iyi	giyin
 çırçıplak	yaşa
 kapalı	kal
 iyi	duy
-kapalı	görün
-bağlı	bul
 türlü	bak
 narin	de
 sakin	otur
@@ -20011,17 +18646,14 @@ köylü	kurtul
 iyi	bağla
 şaşkın	gibi
 eşik	atla
-zengin	bul
 varız	de
 ayrı	dur
 ters	anla
 zengin	doğ
-mevcut	bul
 barışık	kal
 şaşkın	gül
 yeni	başla
 behemehal	git
-yorgun	bul
 iç	yırt
 ı	tanı
 türlü	değiş
@@ -20031,11 +18663,8 @@ asıl	şaşır
 büsbütün	başka
 kolay	buluş
 ayrı	yaşa
-başka	görün
 kötü	yok
-sakin	görün
 aynı	sat
-değişik	görün
 meselesiz	yaş
 evvel	rastgel
 dikkatli	bekle
@@ -20049,7 +18678,6 @@ iyi	süsle
 tek	kal
 altın	saat
 teknik	çalış
-yeni	görün
 kara	çevir
 son	gün
 karlı	hava
@@ -20109,21 +18737,18 @@ son	ümit
 ezgin	bekle
 kadınsız	kal
 birtakım	çıldır
-tek	görün
 deli	daima
 rahat	otur
-solgun	görün
 mümkün	göster
 başka	yap
 ufak	şur
-hafif	bul
 doğru	git
 ilk	huz
 azaplı	gel
 manasız	benze
 çekil	git
 ilk	basamak
-Number of pairs: 138
+Number of pairs: 132
 
 psikolojik	yabancı
 yok	de
@@ -20138,7 +18763,6 @@ yukarı	gönder
 bıyık	bur
 kalın	sağl
 örtüsüz	uy
-boş	görün
 elayak	çek
 yukarı	çık
 yarı	çevir
@@ -20148,7 +18772,6 @@ hızlı	yürü
 iyi	gel
 asıl	etkile
 yakın	tut
-açık	bul
 iyi	giyin
 belli	değil
 ilk	gidiş
@@ -20181,7 +18804,6 @@ yan	yanay
 kayıtsız	otur
 kötü	ada
 ileri	gel
-belli	et
 resmi	çek
 açık	fildiş
 ansızın	sıçra
@@ -20194,7 +18816,6 @@ orta	çekmece
 koş	getir
 kırmızı	leke
 yeni	değiş
-kirli	bul
 genç	yok
 kapalı	de
 ağır	bas
@@ -20214,7 +18835,6 @@ iyi	değil
 eğik	gir
 küçük	oğlu
 aç	kal
-rahatsız	et
 çiftetelli	oynar
 vaaar	doluş
 yok	kara
@@ -20254,7 +18874,6 @@ sakalı	çık
 hesapsız	harca
 yığılı	yas
 ölü	doğur
-suçlu	bul
 sinek	gir
 varır	var
 kesin	değil
@@ -20263,7 +18882,7 @@ ak	yaz
 genç	besle
 belirsiz	titre
 kesintisiz	öt
-Number of pairs: 360
+Number of pairs: 326
 
 amaçlı	kullan
 yok	beyefendi
@@ -20271,14 +18890,10 @@ sakallı	jandarma
 iyi	gör
 güç	iş
 sakallı	jandar
-küçük	görün
 bacaksız	de
-memnun	görün
 başlı	adam
-mağrur	görün
 ileri	gel
 konuşkan	değil
-dolu	görün
 okkalı	lâkır
 yeni	aç
 başlı	ada
@@ -20289,11 +18904,8 @@ yeni	yetiş
 imkânsız	gör
 boş	kal
 zavallı	mecz
-rahatsız	et
 yok	de
-boylu	görün
 çıngıraklı	sandık
-kumral	görün
 evvel	geçir
 simsiyah	alâl
 yeni	gel
@@ -20302,7 +18914,6 @@ yatı	mekteb
 hoş	gör
 büsbütün	genişle
 türlü	geç
-teselli	et
 birtakım	de
 yarı	mecz
 güzel	kızı
@@ -20328,12 +18939,9 @@ başka	yap
 heykel	vücut
 arsız	de
 vekili	de
-memnun	et
 dinli	din
 duasiz	göm
-dar	et
 yukarı	dolaş
-ıslak	görün
 ciddî	değil
 iyi	konuş
 türlü	yaraştır
@@ -20352,11 +18960,9 @@ rahat	bırak
 büyük	lâkır
 büsbütün	şaşala
 aç	kal
-uygun	bul
 çok	hoşlan
 gelişigüzel	koy
 evvel	çal
-uzun	bul
 asıl	şaş
 türlü	bit
 hazır	bırak
@@ -20375,7 +18981,6 @@ iyi	bil
 gizli	gel
 matmazel	san
 münevver	propagandacı
-iyi	et
 az	değil
 kısa	geç
 uzak	bulun
@@ -20403,13 +19008,10 @@ iyi	bak
 iyi	gel
 ilk	gör
 ayrı	yaşa
-tabiî	görün
-uzun	görün
 dopdolu	bulun
 yeni	başlı
 cılız	kal
 zembili	kalk
-uzak	bul
 ileri	götür
 hareketsiz	kal
 esas	yaradılış
@@ -20419,7 +19021,6 @@ sağlam	kal
 çok	sev
 kolay	gel
 ayni	hal
-tecelli	et
 yeni	çık
 yanlış	kal
 evvel	tanı
@@ -20427,18 +19028,14 @@ doğru	çık
 müsait	değil
 haksız	değil
 dalgın	zannet
-boş	bul
 oynaş	tut
 yahut	hiddetlen
 yakışık	al
 meczum	bulun
-belli	et
 yarı	boğ
 dar	düş
 büsbütün	art
 zavallı	Selim
-iyi	bul
-sız	et
 büyük	de
 kolay	değil
 ortalık	karar
@@ -20449,11 +19046,9 @@ uzak	yaşa
 fena	yakala
 gönlü	aç
 adamakıllı	sıkıl
-doğru	bul
 esas	tut
 hatır	sor
 ilk	başla
-yumuşak	görün
 doludizgin	salıver
 türlü	acaip
 ağır	dur
@@ -20465,7 +19060,6 @@ evvel	ver
 yeni	çek
 ümitsiz	uyan
 rahat	otur
-kararsız	bul
 hafif	hisset
 evvel	çıl
 yukarı	götür
@@ -20480,13 +19074,11 @@ kısmen	dök
 ürkek	bak
 soğuk	kal
 türlü	geçir
-iyî	et
 altın	yağ
 sakin	konuş
 garip	kuvvet
 asılı	kal
 yanlış	anlat
-kolay	görün
 bütün	konuş
 iyi	anla
 büsbütün	çoğal
@@ -20540,7 +19132,6 @@ aşkın	getir
 boş	bulun
 hafif	tert
 ayni	gül
-güzel	görün
 evvel	göster
 yarı	eğlen
 yarı	aç
@@ -20571,7 +19162,6 @@ ağır	yürü
 ufak	tut
 türlü	becer
 son	basamak
-iyi	görün
 karakter	değiş
 kâh	gül
 evvel	ağlı
@@ -20589,18 +19179,14 @@ dürüst	konuş
 güzel	amma
 numuzu	boz
 iyi	göster
-küstah	bul
-türlü	bul
 türlü	unut
 açık	söyli
 ahlâksız	ben
 kâfi	gör
 ufka	in
 yapışık	düğ
-yakın	bul
 ağır	git
 büsbütün	dur
-parlak	görün
 mukabil	taşı
 aynı	de
 âni	titre
@@ -20610,7 +19196,6 @@ mükemmel	uyur
 doğru	değil
 zor	tut
 türlü	bırak
-yüksek	görün
 hangi	bil
 açık	sayıkla
 ilk	karşılaş
@@ -20625,7 +19210,7 @@ asıl	zannet
 türlü	anlı
 sakın	Aldanma
 delikanlı	din
-Number of pairs: 424
+Number of pairs: 400
 
 yarım	kal
 rahat	bırak
@@ -20640,9 +19225,7 @@ tek	kurtul
 iri	horoz
 reçel	ye
 esaslı	unsur
-rahat	et
 dalgın	değil
-kilitli	bul
 bütün	tanı
 asıl	benze
 altın	sarı
@@ -20652,14 +19235,12 @@ kabil	değil
 bütün	çocukluk
 ın	gözde
 ufak	gecik
-rahatsız	et
 başka	güven
 son	kozu
 bütün	ömr
 basit	değil
 yakışık	al
 yeni	çık
-teselli	et
 kısa	kes
 türlü	yap
 yarı	kanser
@@ -20680,14 +19261,11 @@ asıl	düşün
 ın	rahatlık
 resmi	asar
 iyi	hatırla
-karanlık	görün
 yarı	muamma
 psikolojik	dokun
 türlü	söyle
 iyi	yontul
-büyük	görün
 iyi	geç
-hazır	bul
 yarı	sol
 iyi	düşün
 asıl	kork
@@ -20738,7 +19316,6 @@ iyi	eğlen
 iyi	çalış
 gönüllü	yaz
 küçük	uyuş
-boş	bul
 var	Selim
 boş	geçir
 lüzumsuz	gel
@@ -20765,7 +19342,6 @@ yaşlı	addet
 munis	davran
 leri	yay
 asıl	Selim
-garip	bul
 evvel	evlen
 sedasız	tanı
 iyi	gör
@@ -20773,8 +19349,6 @@ iç	didiş
 türlü	gül
 ilk	zannet
 tek	anlaş
-belli	et
-yaşlı	görün
 itinalı	giyi
 iyi	dayan
 türlü	görüş
@@ -20782,7 +19356,6 @@ iyi	görüş
 yosun	kok
 yeni	öğren
 başka	dinle
-yok	et
 yakın	seç
 ilk	git
 iyi	öğret
@@ -20800,7 +19373,6 @@ güzel	kadın
 şüphesiz	gül
 zor	tut
 çekingen	davran
-türlü	görün
 büsbütün	unut
 eksik	bil
 kötü	git
@@ -20808,7 +19380,6 @@ akıllı	bil
 yanlış	anla
 bütün	ümi
 zor	kurtar
-imkânsız	görün
 bütün	şefkat
 muhakkak	ondan
 azapsız	kal
@@ -20858,7 +19429,6 @@ filan	bil
 ilk	rastgel
 yarı	yüz
 kaç	derste
-iyi	et
 zembili	zannet
 ı	hatırla
 in	kollan
@@ -20916,7 +19486,6 @@ türlü	seç
 ilk	gör
 den	kal
 «	yaşa
-manalı	görün
 küçük	as
 büsbütün	genç
 ilk	yap
@@ -20927,7 +19496,6 @@ grafik	dai
 meraklı	adam
 basit	şey
 yeni	gör
-akıllı	bul
 zavallı	Fransa
 iyi	ada
 çıplak	gezin
@@ -20963,7 +19531,6 @@ yapayalnız	bekle
 muhakkak	öl
 babasız	bırak
 türlü	unut
-tabiî	bul
 sevimli	say
 filan	san
 asıl	söyle
@@ -20980,7 +19547,6 @@ açık	değil
 gemi	dol
 türlü	gerek
 yi	söyle
-güzel	bul
 dolu	yaşa
 öbür	Selim
 ilk	rastla
@@ -20988,7 +19554,6 @@ türlü	oyna
 uykusuz	kal
 dili	öğren
 dargın	bak
-ilk	bul
 ı	gör
 uzun	anır
 yarık	döşe
@@ -20996,7 +19561,6 @@ askerî	üniforma
 evvel	yap
 dikkatli	bak
 cumbalı	çık
-başka	görün
 garip	gör
 güzel	gel
 yeni	dost
@@ -21009,11 +19573,9 @@ teker	teker
 anî	gel
 aynı	sarsıntı
 aynı	uğultu
-dikkatli	görün
 imkânsız	gel
 istihfaflı	gül
 var	asım
-haklı	bul
 emir	çık
 iç	iste
 amelî	geç
@@ -21049,9 +19611,8 @@ azaplı	geç
 büsbütün	sağlam
 satın	al
 açık	art
-ağır	bul
 yaşın	ver
-Number of pairs: 264
+Number of pairs: 223
 
 esas	alın
 esas	al
@@ -21063,49 +19624,36 @@ yukarı	çık
 manikür	yap
 genç	de
 koca	ara
-rahatsız	et
-güzel	görün
 türlü	uyu
-aptal	bul
 son	ver
-yakın	bul
-kudretli	görün
 uzun	konuş
 hoş	gör
-kayıtsız	görün
 uzun	sür
 açık	zannet
 iyi	kaç
 memnun	gör
-memnun	et
 müşkül	gel
 serbest	anlaş
 kalın	giy
 in	şaşır
 iyi	bil
 türlü	ısıt
-tabiî	bul
 uzak	yürü
 ucuz	kurtul
 iyi	ütüle
 yeni	öğren
 güzeli	çek
 haberli	değil
-mahzun	görün
 aynı	dola
 aynı	dalgala
 türlü	anlat
 kolay	düş
 serbest	kal
-zayıf	görün
 türlü	gel
 yeni	başla
 bomboş	kal
 yaş	getir
 yeni	gel
-yorgun	görün
-suratsız	görün
-bağlı	görün
 ileri	git
 dalgınca	bak
 mutlak	çirkin
@@ -21114,21 +19662,16 @@ sakin	kal
 uzun	ayrıl
 kabil	değil
 hoş	gel
-manâsız	bul
 evli	i
 sonsuz	dalga
-sakin	görün
 yakın	dost
-kıskanç	bul
 süslü	esvap
-muhabbetli	görün
 soğuk	al
 uzak	git
 yavaş	söyle
 karışık	düşün
 yavaş	yaklaş
 geri	çek
-zavallı	bul
 boş	geç
 kimsesiz	hisset
 serbest	ak
@@ -21148,16 +19691,13 @@ yi	gör
 iyi	çocuk
 soğuk	var
 genç	ağlaş
-belli	et
 fena	ağra
 dargın	uyu
-hayırlı	bul
 hafif	tert
 ihtiyatlı	davran
 uykusuz	kıvra
 açık	giyin
 türlü	git
-sarhoş	et
 güzel	yap
 güzel	gör
 soğuk	davran
@@ -21173,13 +19713,11 @@ lüzumsuz	gel
 yukarı	oda
 sıcak	tut
 yukarı	fırla
-yok	et
 adamakıllı	at
 tatlı	gel
 küçük	vücudum
 i̇yileşince	bırak
 kolu	titre
-korkunç	görün
 yanlış	davran
 çılgın	bakan
 ciddî	konuş
@@ -21188,7 +19726,6 @@ azgın	vur
 yeter	zannet
 yarı	yalvar
 var	bil
-iyi	bul
 evli	gör
 cazip	değil
 yok	götür
@@ -21197,13 +19734,11 @@ iyi	giyin
 filan	bahset
 fena	değil
 doğru	gider
-ince	görün
 kalpaklı	gir
 sımsıkı	sok
 yarı	eğlen
 hazır	dur
 boş	ağla
-çirkin	bul
 evvel	fırla
 teselli	ara
 ince	vücut
@@ -21213,20 +19748,15 @@ canlı	kal
 boş	kal
 mukabil	dai
 ı	götür
-teselli	bul
 soğuk	geç
 derin	yarala
 dolu	git
 zili	çal
 var	gibi
-lâubali	görün
-kıskanç	görün
 mutlak	çık
-rahat	et
 evvel	kuru
 şartsız	taşı
 türlü	kapa
-tatlı	görün
 asker	düşün
 eski	bil
 filan	söyle
@@ -21240,7 +19770,6 @@ basit	değil
 kapalı	dön
 ilk	gör
 fena	değ
-ateşli	bul
 çılgınca	dolaş
 kısa	sür
 yukarı	gel
@@ -21260,7 +19789,6 @@ açık	yaşa
 siyah	yıl
 emir	al
 kırmızı	çat
-uzak	bul
 güzel	şey
 alâkasız	bırak
 dalgalı	nağme
@@ -21286,15 +19814,11 @@ azıcık	darıl
 sakin	yat
 iyi	de
 evvel	çık
-uzun	görün
-yeni	bul
 kilitli	otur
 uyanık	gül
 kudretli	ürper
 derin	ağrı
-dalgın	görün
 iyi	hatırla
-alakasız	görün
 kayıtsız	kal
 eski	temas
 ı	karşıla
@@ -21303,21 +19827,17 @@ resmi	gör
 heyecansız	bahset
 sakın	öl
 keskin	yap
-teselli	et
 mutlak	yaşa
 yorgun	uyan
 tek	sev
-ölü	görün
 kocaman	dön
-uzak	görün
-sarı	görün
 başka	yap
 manâsız	şey
 kapalı	tut
 yi	çağır
 yeni	doğ
 yapayalnız	kal
-Number of pairs: 698
+Number of pairs: 659
 
 değerli	eleştirmen
 canlı	tut
@@ -21327,7 +19847,6 @@ ilk	karşılaş
 güçlü	uyan
 türlü	sök
 büyük	öfke
-belli	et
 türlü	ver
 türlü	çık
 karşılıksız	kal
@@ -21348,7 +19867,6 @@ uzun	tut
 zili	çal
 açık	bırak
 gerçek	çık
-sakin	görün
 uzak	dur
 cansız	nesne
 çırılçıplak	ortaday
@@ -21357,7 +19875,6 @@ büyük	ihtimal
 geniş	otur
 büyük	aç
 iyi	gel
-yok	et
 açık	dur
 aynı	yan
 düzenli	insan
@@ -21375,7 +19892,6 @@ acımasızca	sapla
 gelişigüzel	serp
 başka	sığın
 güzel	yıka
-güzel	görün
 kırmızı	yakış
 boş	ver
 son	mesele
@@ -21415,16 +19931,13 @@ ciddi	değ
 bereketli	kılt
 yiğit	ik
 yorgun	düş
-rahatsız	et
 çandarlı	de
 yeni	doğ
 yok	git
-rahat	et
 rahat	bırak
 acımasızca	öl
 yaşlı	hâl
 filan	kal
-genç	görün
 bütün	gizle
 yok	değil
 yeterli	değil
@@ -21439,13 +19952,11 @@ türlü	geç
 son	konuş
 kolay	çöz
 cezasız	kal
-yeterli	bul
 ekser	ulema
 kapalı	unut
 yüksek	çık
 mecali	var
 doğrudan	söyle
-meraklı	görün
 hazırlıksız	yakala
 güçlü	değil
 yeni	yet
@@ -21510,11 +20021,9 @@ büyük	yanlış
 doğrudan	Çetin
 iyi	seç
 sert	çık
-cılız	görün
 kutsal	var
 morali	boz
 taraflı	yır
-gereksiz	bul
 doğru	söylü
 ağır	düşman
 meyilli	değ
@@ -21527,9 +20036,6 @@ büyük	ayakla
 hangi	üniversite
 abartılı	kaç
 belirsiz	gülümse
-mümkün	görün
-uygun	bul
-haklı	bul
 kolayca	kullan
 ilgili	konuş
 rahat	konuş
@@ -21537,7 +20043,6 @@ tertipli	kullan
 doğru	düşün
 siper	edert
 şaşkın	sor
-mutsuz	et
 zavallı	ahmak
 küçük	düş
 ı	öl
@@ -21547,9 +20052,7 @@ ulak	çık
 kötü	davran
 iyi	öğren
 ehli	akşemse
-sağlıksız	görün
 akıllı	çık
-mutlu	görün
 iyi	becer
 geri	çek
 filan	ara
@@ -21565,7 +20068,6 @@ yakın	davran
 komşunuz	öksür
 iyi	işit
 kötü	konuş
-kibirli	görün
 evvel	göç
 minicik	kal
 dürüst	becer
@@ -21573,7 +20075,6 @@ belirsiz	sık
 mümkün	gör
 kaygısız	davran
 ansızın	çök
-ı	bul
 filan	unut
 haklı	çık
 telaşlı	açıkla
@@ -21649,7 +20150,6 @@ tabii	becer
 hazırlıksız	yaka
 genç	kızken
 kıymetli	hünkâr
-eksik	et
 çok	onur
 ulu	kişi
 yakın	otur
@@ -21660,11 +20160,9 @@ büyük	hükümdar
 katili	göster
 bol	hükümdar
 doğru	tanı
-son	bul
 zamansız	yağ
 açık	kal
 yalnız	bırak
-sapkın	bul
 zor	at
 ilk	gör
 boş	git
@@ -21687,7 +20185,6 @@ filan	taşı
 iyi	oyna
 resmi	tarih
 hangi	öl
-kararlı	görün
 katli	fer
 uzak	değil
 filan	değil
@@ -21737,7 +20234,6 @@ umutsuz	değil
 rahat	dur
 lazım	gel
 güvenli	çık
-yorgun	görün
 tamam	la
 esir	al
 türlü	kurtul
@@ -21749,7 +20245,6 @@ gümbür	gümbür
 yahu	duy
 demir	at
 dürüst	anlat
-kötü	görün
 iyi	can
 demir	al
 yukarı	bulun
@@ -21765,7 +20260,6 @@ iyi	bit
 ateşli	konuş
 uykusuz	kal
 ileri	uza
-mutlu	et
 yanlış	hatırla
 emin	gibi
 hangi	tartış
@@ -21794,7 +20288,6 @@ güzel	anlat
 yanlış	anlaş
 mükemmel	hazırla
 kanlı	çatış
-tabii	et
 abartılı	bulun
 eksik	kal
 yak	laş
@@ -21842,7 +20335,6 @@ sorumlu	tut
 ın	yan
 uzun	sür
 zor	var
-sevimsiz	görün
 kolayca	geç
 kırmızı	alar
 küçücük	çocuk
@@ -21862,9 +20354,7 @@ yukarı	götür
 yukarı	tırman
 duyarlı	davran
 tabii	Sezgin
-huzursuz	et
 sedasız	hallet
-filan	bul
 çuvalı	dengele
 yukarı	çık
 yok	sat
@@ -21872,8 +20362,6 @@ yok	sat
 faili	bulun
 kolay	sor
 sahte	gülümse
-sert	görün
-baygın	bul
 iyi	belirle
 asılı	dur
 korkunç	de
@@ -21882,7 +20370,6 @@ zamansız	çek
 ünlü	vasiyetna
 fena	yarala
 sinirli	çık
-teselli	et
 mahalli	de
 duyarsız	çık
 açık	dil
@@ -21957,25 +20444,21 @@ haksız	say
 ansızın	gelir
 mendili	uza
 mendili	al
-açık	bul
 reçeli	getir
 yarım	yamalak
 riski	bil
 uzak	tut
 detaylı	konuş
-ölü	bul
 anormal	davran
 yeni	gel
 mantıklı	soru
 boş	değil
-hırslı	bul
 altın	kapla
 umarım	yakala
 yuvasız	kal
 kifayetsiz	hisset
 mutsuz	say
 bahtsız	anne
-var	et
 geri	dön
 filan	sal
 ansızın	aydın
@@ -22000,11 +20483,9 @@ iyi	polis
 saçlı	bay
 var	beyefendi
 önemsiz	kıl
-gamsız	görün
 eski	sevgili
 doğru	hatırla
 var	anla
-hoş	görün
 başka	gir
 katili	yakala
 yeter	zehirle
@@ -22017,7 +20498,7 @@ utanç	verici
 uygun	yaşa
 tek	üz
 büyük	kuşat
-Number of pairs: 307
+Number of pairs: 280
 
 amaçlı	kullan
 son	sığ
@@ -22026,13 +20507,10 @@ yeni	gel
 iyi	bil
 rahat	otur
 yerli	say
-türlü	bul
-güzel	bul
 iyi	geçin
 kolay	kazan
 başıboş	dolaş
 hızlı	yürü
-memnun	et
 iyi	tanı
 bakımsız	kal
 yeni	tanış
@@ -22040,17 +20518,13 @@ kaçır	amaz
 zor	bulun
 büyük	zevk
 ayrı	bulun
-boş	bul
-rahatsız	et
 soğuk	al
 uzun	sür
-teselli	bul
 deli	de
 kapalı	kal
 yarı	uza
 kısa	kes
 serbest	bırak
-hazır	bul
 ehemmiyetli	gör
 gizli	içtima
 neticesiz	kal
@@ -22073,7 +20547,6 @@ birtakım	mumya
 emir	gel
 başka	yap
 güzel	gez
-muhakkak	görün
 muhtemel	gör
 türlü	bulun
 çılgınca	sev
@@ -22115,10 +20588,7 @@ yavaş	ilerle
 karanlık	bas
 dürüst	yürü
 iyi	hisset
-belli	et
 iyi	gel
-iyi	bul
-teselli	et
 ruhlu	yap
 yok	efendi
 doğru	değil
@@ -22172,7 +20642,6 @@ ilk	gör
 kısa	kal
 iyi	yaşa
 îyi	yaşa
-soğuk	bul
 büsbütün	sön
 fena	gel
 bağlı	dur
@@ -22182,13 +20651,11 @@ sahili	yalay
 yakışıksız	lâkır
 türlü	uslan
 şık	kur
-iyi	et
 ufacık	de
 nişanlı	de
 şekli	bil
 yok	zannet
 yeni	yetiş
-rahat	et
 serbest	bulun
 sedasız	öl
 büyük	as
@@ -22198,7 +20665,6 @@ fena	tanı
 fena	de
 hissiz	de
 ilk	gel
-kalbsiz	bul
 büsbütün	çıldır
 dargın	dur
 çekingen	dur
@@ -22217,7 +20683,6 @@ türlü	kız
 geri	sürü
 ileri	gel
 nazik	gör
-n	bul
 türlü	gör
 çok	benze
 bütün	sev
@@ -22241,20 +20706,15 @@ zengin	san
 yarım	bırak
 teselli	ver
 dik	tut
-mazur	görün
 yeni	gelin
 iyi	amma
 fena	sıkış
 ümitsiz	hisset
 iyi	eğlen
-hoş	et
 hafif	gel
-hafif	bul
 son	kış
 büsbütün	unut
-uzun	görün
 kabil	değil
-uzun	bul
 terli	ik
 evvel	sat
 sakin	geç
@@ -22267,9 +20727,7 @@ sebepsiz	ağla
 kusurlu	kal
 büsbütün	git
 nişanlı	dur
-şaşaalı	görün
 hoş	tut
-güzel	görün
 derin	düşün
 yalnız	gör
 evvel	davran
@@ -22296,7 +20754,6 @@ zarif	değil
 nişanlı	var
 sakin	göster
 büsbütün	geç
-hissiz	görün
 küçük	çocuk
 uzak	düş
 iyi	sakle
@@ -22307,7 +20764,6 @@ karışık	rüyalarhaif
 yarı	karanlık
 evvel	sarhoş
 rahat	bırak
-romantik	bul
 geri	dön
 zavallı	üz
 uzun	gör
@@ -22324,9 +20780,7 @@ uzak	dur
 uyuşuk	yaşa
 ilk	titre
 iyi	giyin
-garip	bul
-ölü	bul
-Number of pairs: 347
+Number of pairs: 309
 
 aralıksız	yağ
 açık	al
@@ -22339,7 +20793,6 @@ doğru	değil
 iyi	değer
 ilk	bina
 doğru	çözümle
-hırslı	bul
 hoş	karşıla
 aç	kal
 dayanıklı	kuş
@@ -22359,25 +20812,19 @@ rahat	değil
 babasız	doğ
 iyi	bil
 mutsuz	say
-görkemli	görün
 zor	kurtul
 kötü	çarp
 yanlış	yap
-i̇yi	görün
 başka	açıkla
 güvenli	yeri
-belli	et
 emin	gülümse
-gereksiz	bul
 hazır	bekle
 ölü	bulun
 türlü	ısın
 gizli	çalış
-güvenli	bul
 eleştirel	bak
 bağımsız	düşün
 sıcak	bak
-son	bul
 yanlış	anla
 hazırlıksız	yakala
 yorgun	düş
@@ -22389,7 +20836,6 @@ teknik	ekip
 son	ver
 dış	düşman
 aralıksız	sür
-rahatsız	et
 olanaklı	değil
 kolay	yetiştir
 yumruk	yap
@@ -22407,18 +20853,14 @@ anlayışlı	davran
 apansız	çağrıl
 ı	incele
 tatsız	gel
-yersiz	bul
 uzak	dur
 tek	tip
 somut	yaşa
 esmer	göster
-uygun	bul
 iyi	anlaş
-soğukkanlı	görün
 yasal	çalış
 kolayca	gir
 iyi	yürü
-yetersiz	bul
 ı	çağır
 tek	yakın
 yalnızca	dur
@@ -22448,7 +20890,6 @@ neşeli	değil
 var	de
 kötü	de
 devrimci	yap
-kararlı	görün
 asıl	düşün
 gelişigüzel	yap
 geniş	tut
@@ -22472,7 +20913,6 @@ kuramsal	tartış
 sımsıkı	kenetle
 güzel	şey
 genç	hisset
-solgun	görün
 şık	giyi
 dönük	otur
 kısacık	kes
@@ -22490,7 +20930,6 @@ gelişigüzel	dur
 olanaklı	kıl
 sorumlu	tut
 uyanık	davran
-olumlu	bul
 sol	skap
 filan	yap
 gel	beş
@@ -22506,7 +20945,6 @@ dolu	tut
 gelişigüzel	diz
 farklı	değil
 sakin	değil
-yakışıksız	bul
 genel	geç
 iyi	değil
 yukarı	çık
@@ -22529,9 +20967,6 @@ iyi	gör
 hangi	kitap
 suskun	otur
 zor	kat
-bağlı	görün
-boş	bul
-parlak	görün
 zor	at
 iyi	gel
 takılı	dur
@@ -22542,13 +20977,9 @@ filan	gör
 sor	bak
 ilk	gel
 ağır	koşul
-haklı	bul
-rahat	görün
 kolay	yüksel
-zor	bul
 haklı	çık
 açık	değil
-sinirli	görün
 sert	uyar
 sıkı	tut
 sakin	geç
@@ -22557,30 +20988,23 @@ yakın	koruma
 erkeksiz	kal
 kadınsız	kal
 ilk	buluş
-heyecanlı	görün
 ilk	git
 yakın	çevirmen
 ağır	işçi
 çeşitli	seviş
-yok	et
-iyi	et
 sakin	say
 küçük	değil
-yeterli	bul
 kötü	savun
 başka	yap
 hoş	gel
 türlü	netleş
 iyi	aydınlat
 açık	ver
-yi	bul
-memnun	görün
 bel	bük
 hoş	gösteri
 uygun	gör
 boş	bırak
 paralel	kon(I)
-güzel	görün
 genç	dost
 doğal	karşıla
 bağlı	otur
@@ -22594,12 +21018,10 @@ mümkün	değil
 ansızın	yap
 kusursuz	davran
 gizli	tut
-sakin	görün
 açık	gez
 kalın	giyin
 soğuk	değil
 hedefi	tanı
-normal	görün
 cılız	çık
 duygusal	davran
 kararlı	bak
@@ -22612,7 +21034,6 @@ zili	çal
 ağır	kanlı
 inançlı	biri
 uykusuz	kal
-iyi	görün
 doğal	al
 doğrudan	ilgilen
 ileri	git
@@ -22623,12 +21044,10 @@ yazılı	ver
 doğrudan	suçla
 çok	saçma
 iyi	bak
-sahte	bul
 oralı	değil
 yukarı	tükür
 dik	tut
 küçük	düşür
-gerekli	bul
 olumsuz	düşün
 kutsal	say
 açık	davran
@@ -22636,7 +21055,6 @@ suçlu	göster
 türlü	uzak
 sağlam	yap
 rahat	davran
-kötü	görün
 düşüncesizce	davran
 yoldaş	dekan
 iyi	pişir
@@ -22658,10 +21076,8 @@ emin	açıkla
 ilk	gir
 türlü	kurtul
 zor	kurtar
-sevimli	görün
 bomboş	bak
 anlamsız	tartış
-rahat	et
 yanlış	duy
 bıyıklı	biri
 es	geç
@@ -22675,7 +21091,7 @@ türlü	çal
 uzak	kal
 hızlı	iç
 aptalı	oyna
-Number of pairs: 359
+Number of pairs: 344
 
 güzel	çevir
 iyi	git
@@ -22701,7 +21117,6 @@ yok	değil
 iyi	tanı
 i̇yi	gel
 ileri	çık
-deli	et
 oralı	değil
 tek	kal
 sıfırı	al
@@ -22739,7 +21154,6 @@ takar	tak
 hızlı	git
 ı	seyret
 dikkatli	bak
-memnun	görün
 izinli	çık
 kıpkırmızı	boya
 rastık	çek
@@ -22830,7 +21244,6 @@ adamakıllı	sıcak
 namussuz	koy
 türlü	bırak
 yi	kolle
-rahat	et
 namussuz	güdük
 sollu	tara
 ileri	git
@@ -22844,7 +21257,6 @@ haksız	değ
 paralı	yat
 var	de
 boş	ver
-eksik	et
 ı	bekle
 geçici	uzak
 soyun	bak
@@ -22859,7 +21271,6 @@ büsbütün	köpür
 kuzey	de
 adamakıllı	şişir
 i̇yi	belle
-hazırlıklı	görün
 iyi	öğren
 namlu	kız
 inek	değil
@@ -22878,7 +21289,6 @@ anlamlı	süz
 adamakıllı	boz
 yeni	ad(I)
 kötü	çuvalla
-i̇yi	et
 hafif	salla
 adamakıllı	silkele
 adamakıllı	sabunla
@@ -22890,13 +21300,11 @@ sapır	sapır
 sağ	kal
 boş	geç
 kötü	anlayabile
-uygun	bul
 yanlış	say
 kafiyeli	git
 ı	hazırla
 sevgili	arkadaş
 sayın	Yakup
-aykırı	bul
 güzel	anlat
 açık	söyle
 hazır	bekle
@@ -22931,7 +21339,6 @@ yazılı	yoklam
 büsbütün	karış
 büsbütün	kızış
 gönüllü	topla
-belli	et
 tarafsız	incele
 boş	değil
 hızlı	in
@@ -22941,7 +21348,6 @@ soğuk	gel
 fena	üşü
 bütün	yap
 u	kolle
-yi	bul
 çaresiz	sus
 rahatsız	gör
 sımsıkı	tut
@@ -22979,7 +21385,6 @@ sayılı	palavracı
 yakışıklı	adam
 hazır	say
 öbür	parça
-zor	bul
 gizli	tut
 değerli	arkadaş
 izinli	git
@@ -22990,7 +21395,6 @@ yarım	bırak
 sakal	koyver
 yeni	bas
 kıvanç	duy
-uzun	et
 peştemal	kuşa
 yi	bekle
 yeni	başla
@@ -23000,10 +21404,8 @@ kesik	say
 var	gibi
 son	cümle
 iyi	bak
-rahatsız	et
 kasketsiz	gez
 çok	konuş
-iyi	et
 arka	sıra
 hoş	değil
 …	beğen
@@ -23025,7 +21427,6 @@ iyi	dayan
 i̇yi	dayan
 yanlış	oku
 yanlışsız	ezberle
-açık	et
 ikişer	ikiş
 bembeyaz	tebeşir
 emir	var
@@ -23036,14 +21437,13 @@ tatsız	dön
 ceketli	eğ
 ceketli	yapış
 ceketli	kahvedey
-Number of pairs: 199
+Number of pairs: 178
 
 çok	Bilen
 kapalı	kal
 rahat	bırak
 var	de
 i̇yi	yap
-borçlu	görün
 yakın	dur
 kapanık	biri
 yakışıklı	adam
@@ -23064,11 +21464,9 @@ ileri	git
 rahat	çalış
 toplumsal	ilerle
 tek	iste
-umutlu	görün
 özgür	dolaş
 sert	tartış
 güzel	geç
-umursamaz	görün
 itici	gel
 mantıklı	gel
 ı	doğrule
@@ -23076,14 +21474,11 @@ suskun	dur
 sabıkasız	çık
 rahat	konuş
 karşılıklı	otur
-rahatsız	et
 zor	bitir
-malı	bul
 boş	ver
 doğru	çık
 doğru	düşün
 eksik	gel
-belli	et
 uzun	sak
 giysi	yok
 soğuk	parmak
@@ -23101,13 +21496,11 @@ aç	kal
 tabiî	tanı
 ilginç	kıl
 yukarı	çık
-doğal	görün
 engel	çık
 eski	dost
 özenli	davran
 kısa	kes
 zor	oku
-memnun	görün
 yan	masa
 yeni	bitir
 tabiî	Haldun
@@ -23140,7 +21533,6 @@ iç	hesaplaş
 yok	amir
 uzak	tut
 senlibenli	konuş
-yorgun	görün
 açık	değil
 açık	davran
 keyifli	gece
@@ -23161,15 +21553,11 @@ farklı	değil
 başka	yap
 var	amir
 açık	dur
-kararlı	görün
 iyi	kullan
 iyi	taşın
-mutsuz	et
 açık	konuş
-son	bul
 postal	giy
 yok	de
-yeterli	bul
 lokali	bas
 zor	at
 delil	bulun
@@ -23180,7 +21568,6 @@ apaçık	orta
 telsiz	cızırda
 gorili	tutukla
 ilk	gel
-anlamsız	bul
 çok	gizle
 ters	git
 teknik	ekip
@@ -23191,15 +21578,12 @@ suçsuzu	oyna
 kararlı	çık
 aslı	şuy
 bütün	araştır
-açık	bul
 mantıklı	konuş
 güzel	çocuk
 karşılıksız	bırak
 son	ver
 yukarı	fırla
-eksik	et
 dolu	tut
-rahat	görün
 kurnaz	bak
 açık	bırak
 kapalı	tut
@@ -23208,7 +21592,6 @@ dikkatsiz	yap
 iyi	atı
 iyi	adam
 yok	ami
-sakin	görün
 güçlük	çık
 filan	çek
 açık	ver
@@ -23221,7 +21604,6 @@ iyi	anla
 normal	yaşam
 yakın	davran
 büyük	tartış
-iyi	görün
 rahatsız	değil
 yanlış	anımse
 kolay	amir
@@ -23232,18 +21614,15 @@ kuşkulu	davran
 katili	yakala
 aralıksız	kullan
 i̇lk	öl
-dertli	görün
-deli	et
 ter	iç
 asıl	öl
 ateşli	seviş
-Number of pairs: 640
+Number of pairs: 594
 
 doğru	yürü
 i̇nce	otur
 uzak	dur
 akıllı	çocuk
-pişkin	görün
 kötü	git
 hatırı	say
 iyi	tanı
@@ -23251,8 +21630,6 @@ dikkatli	bak
 yanlış	anlaş
 uysal	adam
 amerikan	araba
-anlamlı	bul
-anlamsız	bul
 hız	yap
 zor	at
 dikkatli	davran
@@ -23261,14 +21638,9 @@ serbest	bırak
 son	görüşüm
 iyi	bil
 rahat	dolaş
-deli	et
-ilgisiz	görün
-basit	bul
 kıpkırmızı	dinle
 istekli	gör
 zamansız	patla
-belli	et
-anlayışlı	görün
 yi	oyna
 ileri	gid
 hazırlıksız	yakala
@@ -23315,9 +21687,7 @@ sahi	ver
 ı	gör
 filan	ver
 iyi	hisset
-rahatsız	et
 yakışık	al
-teselli	et
 erdemli	sapta
 yukarı	çık
 kontrolsüz	kal
@@ -23333,7 +21703,6 @@ soğuk	çık
 kısa	sür
 sert	azarla
 havasız	sev
-iyi	et
 belirsiz	aç
 mutlu	eder
 anlayışlı	gülümse
@@ -23357,7 +21726,6 @@ yaşlı	göster
 filan	sapta
 kötü	yan
 son	görüşme
-yok	et
 güzel	kur
 açık	ver
 kötümser	davran
@@ -23371,7 +21739,6 @@ var	de
 konforlu	say
 yanlış	yorumla
 iyi	değil
-üzgün	görün
 suskun	kal
 uzak	kal
 filan	var
@@ -23401,7 +21768,6 @@ katakulli	yap
 son	ver
 iyi	dövüş
 iyi	çocuk
-umursamaz	görün
 lezzetli	gel
 dürüst	davran
 canlı	çıkar
@@ -23409,7 +21775,6 @@ canlı	çıkar
 kapalı	kal
 yukarı	bak
 yorgun	hisset
-mutlu	et
 yan	kapış
 hafif	tütsüle
 barışık	hisset
@@ -23417,7 +21782,6 @@ kilitli	değil
 iyi	hatırla
 açık	gez
 hırsız	değil
-sakin	görün
 yangın	çık
 açık	bırak
 sert	kapa
@@ -23437,7 +21801,6 @@ ters	çevir
 ilk	çarp
 açık	kal
 ters	çevril
-güzel	görün
 yerli	yer
 yeni	otur
 genç	gülümse
@@ -23450,9 +21813,7 @@ yetişkin	insanla
 hızlı	ak
 ters	gel
 dargın	yaşa
-rahat	et
 hoş	değil
-kemik	bul
 güzel	göster
 çekici	gel
 zili	sök
@@ -23462,7 +21823,6 @@ ilgisiz	davran
 çok	üzen
 iyi	aydınlat
 farklı	değil
-mutlu	görün
 kötü	çek
 kötü	tabe
 ı	çek
@@ -23483,8 +21843,6 @@ açık	konuş
 demir	al
 güzel	anlat
 delil	yok
-delil	bul
-delili	bul
 ağır	bas
 ı	izle
 iyi	yetiş
@@ -23493,9 +21851,7 @@ geri	kal
 yargı	çare
 çok	sev
 geniş	düşün
-ı	bul
 eksik	kal
-sert	bul
 sert	tartış
 son	gör
 uygun	yap
@@ -23507,11 +21863,9 @@ gerekli	gör
 sivil	çatış
 filan	al
 kolayca	sıyır
-yandaş	bul
 serbest	kal
 uygun	yürü
 filan	bil
-abartılı	bul
 akıllı	değil
 sevinçli	çık
 sarı	çiz
@@ -23523,11 +21877,8 @@ açık	davran
 eski	İstanbullu
 hatırı	sor
 ince	davran
-koca	bul
-yakışıklı	bul
 uyanık	geçin
 yorgun	düş
-son	bul
 teknolojik	geliş
 zarfı	aç
 filan	yok
@@ -23539,7 +21890,6 @@ genel	geçer
 tutarlı	kal
 ilk	ara
 i̇nce	kudur
-bok	et
 iyi	dinle
 filan	engelle
 bağlı	çalış
@@ -23552,8 +21902,6 @@ kaplı	def
 sağlam	tut
 emin	gülümse
 türlü	rahatla
-yakın	bul
-sevimli	görün
 filan	unut
 özel	biri
 yakışıklı	çocuk
@@ -23592,7 +21940,6 @@ emin	değil
 son	konuş
 türlü	gör
 sorumlu	tut
-doğal	görün
 mantık	yürü
 türlü	git
 i̇nce	ara
@@ -23618,7 +21965,6 @@ arka	apartman
 ileri	sür
 iyi	işle
 yukarı	süz
-açık	bul
 belasız	hallet
 kararlı	çık
 doğru	git
@@ -23645,7 +21991,6 @@ geçersiz	kıl
 ters	git
 geneli	anla
 boylu	otur
-niyetli	görün
 soğuk	davran
 önemlisi	ulaş
 belasız	kurtul
@@ -23659,7 +22004,6 @@ tatlı	gülümse
 ilk	seçenek
 belasız	atla
 hoş	gel
-koyu	görün
 devir	değiş
 çıkın	de
 ı	kullan
@@ -23680,7 +22024,6 @@ iyi	seç
 ı	öv
 görür	gör
 uykusuz	kal
-rahat	görün
 güvenli	değil
 geri	çek
 rahat	gülümse
@@ -23719,8 +22062,6 @@ iyi	uyu
 eşit	konum
 rahat	hisset
 sağlam	çık
-haklı	bul
-kaygılı	görün
 yoksul	geçir
 i̇yi	biri
 başka	yap
@@ -23744,7 +22085,6 @@ in	söyle
 yapayalnız	kal
 zamansız	konuş
 yanlış	yönlendir
-profesyonel	bul
 mantıklı	değil
 olumsuz	açıkla
 filan	Dey
@@ -23784,13 +22124,11 @@ serin	de
 belirsiz	es
 ları	uyuş
 ı	temizle
-filan	bul
 resmi	yayımla
 amansız	kapış
 sıkı	sar
 yok	say
 rahat	uyu
-yanlış	bul
 zararlı	say
 namazı	başla
 i̇yi	bil
@@ -23811,10 +22149,8 @@ ağır	değil
 derli	toplu
 derin	bak
 ilk	karşılaş
-yeterli	bul
 nefessiz	kal
 teli	sık
-normal	görün
 resmi	göster
 yeni	demle
 dalgın	gülümse
@@ -23825,7 +22161,6 @@ filan	iste
 resmi	getir
 resmi	gör
 normal	değil
-memnun	et
 büyük	gibi
 türlü	katla
 iyi	koru
@@ -23837,7 +22172,6 @@ sonrası	yaşam
 anlamlı	gel
 filan	kaydet
 emin	gibiy
-mantıklı	bul
 iyi	eğit
 doğru	bil
 yanlış	bil
@@ -23879,7 +22213,7 @@ yavaş	ilerle
 dik	tut
 yeşili	gel
 başka	ne
-Number of pairs: 423
+Number of pairs: 396
 
 durağan	kuş
 yeni	dön
@@ -23902,7 +22236,6 @@ yaldızlı	ayna
 küçücük	gör
 gizemli	gel
 uzun	sür
-kolaçan	et
 ağır	gel
 yaz	Aylan
 başka	âfet
@@ -23914,8 +22247,6 @@ zamansız	kaybet
 altın	yumurtla
 sınırsız	harca
 yarım	bırak
-var	et
-belli	et
 güzel	aç
 küçük	teyze
 büsbütün	ukala
@@ -23927,7 +22258,6 @@ gevezelik	yap
 yakışık	al
 uykun	gel
 sakin	dur
-iyi	et
 iyi	yetiş
 hoş	karşıla
 iyi	anla
@@ -23945,8 +22275,6 @@ isimli	kur
 karşılıksız	kal
 milli	dayanışma
 boş	otur
-ümitsiz	görün
-rahatsız	et
 yakın	otur
 doğru	aç
 sadık	kal
@@ -23966,7 +22294,6 @@ nüllü	çalış
 evvel	büyü
 cızbız	yap
 türlü	toparla
-ciddi	görün
 heyecanlı	gözük
 hoş	gel
 bon	soi
@@ -23982,7 +22309,6 @@ demirli	dur
 çekil	git
 yatılı	oku
 lazım	gel
-zor	et
 yukarı	çık
 borçlu	hisset
 küs	kal
@@ -23990,7 +22316,6 @@ iştahlı	değil
 küçücük	vücut
 yeni	başla
 dili	dolan
-şık	bul
 aynı	apartman
 rahat	ver
 uzak	kal
@@ -24022,10 +22347,8 @@ iyi	çal
 solgun	göster
 kocasız	yaşa
 zili	çal
-eğlenceli	bul
 yeni	sök
 açık	kal
-doğal	bul
 hoş	insan
 zor	taşı
 yanlış	duy
@@ -24033,23 +22356,18 @@ yanlış	duy
 ağır	taş
 ağır	taşı
 yenıek	pışır
-memnun	et
 yukarı	taşı
 gezer	eğlen
 hazır	değil
-son	bul
 yapayalnız	değil
 belli	eı
 yan	gel
 gönüllü	değil
-memnun	görün
 imkânsız	gibi
-karanlık	et
 bağdaş	kur
 çılgınca	seviş
 yeni	uyan
 açık	tutacak
-neşeli	görün
 huzurlu	geç
 çok	sev
 zor	sığ
@@ -24058,7 +22376,6 @@ ezeli	düşman
 iyi	gel
 bezik	oyna
 yoğurt	yedin
-dellı	et
 sorumlu	tut
 eğik	otur
 şefkatli	davran
@@ -24083,7 +22400,6 @@ uygun	düş
 yorgun	değil
 kısa	kes
 yakın	arkadaş
-ilginç	bul
 yakın	hisset
 büsbütün	büyü
 koca	hazır
@@ -24095,7 +22411,6 @@ tahsil	gör
 ani	çık
 türlü	bulun
 yüksekokul	gör
-telaffuz	et
 dili	sade
 iyi	hissedit
 bitkin	hisset
@@ -24133,7 +22448,6 @@ uzun	yaşa
 poker	oyna
 neşeli	geç
 kolay	değil
-deli	et
 iyi	gelir
 evvel	bulun
 gizli	buluş
@@ -24164,12 +22478,10 @@ iyi	dinle
 seramik	yap
 mutlu	değil
 veremli	kal
-eksik	et
 bütün	oluş
 iyi	git
 zor	duy
 ilginç	gel
-mutlu	et
 evvel	çalış
 koşulsuz	sev
 karşılıksız	ver
@@ -24224,7 +22536,6 @@ makbul	erkek
 kısa	sür
 büyük	bütün
 çakılı	kal
-muhteşem	bul
 güzel	değil
 ters	düş
 yanlış	gör
@@ -24232,12 +22543,10 @@ eski	yap
 soluk	al
 aralıksız	çalış
 küçük	tut
-rahat	et
 lüks	gel
 yeni	bitir
 türlü	arın
 çeşitli	araştır
-hazır	et
 denk	düş
 boş	al
 yeni	aydınlan
@@ -24249,7 +22558,6 @@ büyük	çalış
 serili	dur
 rahat	üre
 boş	tut
-zengin	et
 uğursuz	san
 renkli	iste
 iç	düzenle
@@ -24261,7 +22569,6 @@ gizli	kal
 değişik	kıl
 kadük	kal
 yeni	ateşle
-yakın	bul
 büsbütün	kız
 heykel	yap
 lk	yap
@@ -24304,22 +22611,19 @@ gönüllü	ağırla
 kollannı	okşa
 iyi	bak
 ilk	başla
-Number of pairs: 319
+Number of pairs: 307
 
 ekonomik	ilerle
 amaçlı	gerçek
-yok	et
 türlü	bit
 boş	kal
 boş	koy
-rahat	et
 yok	de
 yoksun	kal
 haklı	say
 farklı	hisset
 başkaldırı	çık
 yi	bil
-mutlu	et
 türlü	sök
 canlı	tut
 yoksun	bırak
@@ -24364,7 +22668,6 @@ hızlı	git
 büyük	geliş
 türlü	düş
 dikkatli	davran
-belli	et
 çıplak	kal
 dış	kapitalizm
 küçük	görür
@@ -24391,7 +22694,6 @@ büyük	öl
 olağan	düzen
 demokratik	düzen
 demokrasi	say
-katili	bul
 ileri	gel
 sıkı	koy
 sert	eleştir
@@ -24468,9 +22770,7 @@ karanlık	geç
 bozkır	değil
 iç	içe
 başka	kok
-deli	et
 olumlu	bak
-rahatsız	et
 ak	yap
 güzel	konuş
 hızlı	sür
@@ -24541,8 +22841,6 @@ kapalı	san
 başka	çevir
 iyi	dost
 tek	konuş
-lirik	bul
-abartılı	bul
 sevgisiz	yaşa
 yasaksız	konuş
 partili	düzen
@@ -24581,10 +22879,8 @@ iyi	yetiş
 dili	yarat
 yazılı	konuş
 celali	başkaldır
-çağdaş	bul
 iyi	sez
 battal	bırak
-son	bul
 yoksun	kıl
 somut	yaşam
 i̇nce	Memedin
@@ -24623,13 +22919,11 @@ var	uçur
 kötü	yönet
 belli	değil
 serbest	bulun
-küçük	görün
 iyi	bak
-Number of pairs: 465
+Number of pairs: 444
 
 esrar	sat
 acımasız	değil
-eksik	et
 yukarı	git
 boş	bulun
 açık	dur
@@ -24654,11 +22948,8 @@ yeni	oku
 başka	tüken
 aynı	hamal
 iyi	anla
-ilginç	bul
-telaffuz	et
 açık	tut
 dili	kullan
-doğru	bul
 son	gör
 yeni	gör
 yan	dön
@@ -24759,7 +23050,6 @@ derli	toplu
 doğrudan	al
 başka	yaz
 son	ver
-yok	et
 ilk	oka
 yukarı	yüksel
 yakın	hisset
@@ -24776,9 +23066,7 @@ türlü	gel
 derin	inanç
 i̇ster	inan
 dili	öğren
-zararlı	bul
 iyi	tanı
-var	et
 doğal	karşıla
 belirsiz	sezinle
 apaçık	gözük
@@ -24788,14 +23076,12 @@ acıklı	duman
 türlü	ısıt
 iyi	hatırla
 emin	değil
-rahatsız	et
 küçük	gel
 engel	tanı
 ilk	sinema
 kolay	avut
 bütün	bil
 tek	başınay
-güvenli	bul
 çiçekli	bas
 atılı	at
 anlamsız	yır
@@ -24828,7 +23114,6 @@ sağ	koy
 dehşetli	sev
 resmi	bas
 türlü	uyu
-ilk	görün
 ilk	gör
 kısa	sür
 ağızlı	çiz
@@ -24856,7 +23141,6 @@ yarım	kal
 memnun	dur
 çok	çalış
 türlü	gör
-anlamlı	bul
 bütün	ömrünce
 bağlı	kal
 kaçak	kaz
@@ -24883,7 +23167,6 @@ boş	arsa
 yüksek	apartman
 korkunç	gözük
 olağan	karşıl
-huzursuz	et
 düşümlü	Galip
 yemi	sat
 gizli	anla
@@ -24894,10 +23177,8 @@ siyasal	slogan
 siyah	beyaz
 ileri	git
 fakir	düş
-özgü	bul
 çift	anlam
 mantıklı	gözük
-belli	et
 yeni	gir
 büsbütün	bak
 aynı	ses
@@ -24912,10 +23193,8 @@ mümkün	değil
 asılı	dur
 kuru	ye
 tatsız	gün
-pişman	et
 iyi	de
 ansızın	kapa
-mutlu	et
 yorgun	düş
 ilk	tanı
 boş	kal
@@ -24981,7 +23260,6 @@ ilk	adım
 esrarı	keşfet
 yazısız	kal
 başka	ne
-hazır	et
 ilk	git
 son	yazı
 yeni	anla
@@ -25024,7 +23302,6 @@ zor	tut
 dolapsız	buluş
 filan	yolla
 kara	göz
-hoşnut	et
 kısa	kes
 sevgili	dost
 resmi	geçi
@@ -25044,7 +23321,6 @@ dolu	gir
 hesaplı	kişi
 yoksul	düş
 rahat	dur
-haklı	bul
 görsel	yan
 ağır	git
 kesin	ayarla
@@ -25053,9 +23329,7 @@ belirsiz	çıtırda
 çok	tekrarla
 yanlış	çık
 doğru	çık
-uzak	bul
 yanlış	kullan
-aykırı	bul
 ilgisiz	kal
 ters	dön
 bütün	hayat(I)
@@ -25092,23 +23366,17 @@ büsbütün	uza
 çift	eldiven
 çılgın	seviş
 takılı	kal
-Number of pairs: 398
+Number of pairs: 336
 
 evli	çift
 yangın	çık
 gamlı	dur
 doğru	gel
-razı	et
 haksız	davran
 çok	sıkıl
-fena	et
-güzel	bul
 yeni	gelin
-mutlu	et
-üstün	bul
 yoksun	kıl
 yağlı	i
-uysal	görün
 kabahatli	gör
 fena	gör
 doğal	gel
@@ -25126,7 +23394,6 @@ yoksun	bırak
 sevimli	gör
 dalgın	otur
 hoş	gel
-rahat	et
 koca	iste
 mümkün	gör
 ı	götür
@@ -25135,7 +23402,6 @@ daima	gül
 iyi	yap
 doğru	gider
 sedasız	bekle
-rahatsız	et
 yapmacıklı	gelir
 tarafsız	kal
 yalnız	git
@@ -25152,9 +23418,7 @@ yok	kaç
 doğru	yürü
 ilk	bak
 ı	darıl
-yüzlü	görün
 yarı	baygın
-iyi	et
 dermansız	ser
 büyük	zıt
 kıpkırmızı	kes
@@ -25171,12 +23435,8 @@ bütün	kur
 iyi	bil
 yarı	karar
 armonili	ak
-uygun	bul
 sakin	geç
-rı	görün
-güzel	görün
 güzel	yap
-neşeli	bul
 havasız	kal
 rüzgârsız	kal
 ümitsiz	bırak
@@ -25184,16 +23444,13 @@ yeni	yap
 genç	öl
 iyi	yürü
 doğru	geç
-küçük	görün
 türlü	yen
 kocalı	idi
-yeterli	bul
 bütün	havala
 küflü	kal
 verimli	geliş
 koca	bulun
 kadınsız	geç
-iğrenç	bul
 mavi	uza
 lazım	gel
 eksik	söyle
@@ -25208,10 +23465,7 @@ mümkün	değil
 başka	yap
 iyi	koru
 yetkili	say
-memnun	et
 yukarı	çık
-zır	bul
-kolay	bul
 türlü	açıkla
 evvel	evlen
 türlü	çık
@@ -25236,13 +23490,9 @@ geçer	de
 bağımlı	bulun
 ayrı	bulun
 dar	sev
-hoş	et
-yok	et
 fırtınalı	yap
 tutkun	kal
 ağır	oluş
-emin	bul
-kolay	görün
 ciddi	davran
 yapayalnız	kal
 dayanıksız	kal
@@ -25250,14 +23500,10 @@ rahat	gör
 cevapsız	kal
 yatı	sev
 güzel	sev
-haksız	bul
-teselli	bul
 çaresiz	kal
-uygun	görün
 korkunç	belir
 yürekli	davran
 tutkun	tut
-miskin	bul
 takatsiz	kal
 yarı	sakla
 korkulu	kal
@@ -25281,19 +23527,15 @@ suçlu	gör
 leri	bulun
 türlü	düşün
 rahatı	boz
-kötümser	görün
 takatsiz	bırak
-manalı	bul
 basit	bil
 gizli	yap
 tarafsız	düşün
 üzgün	geç
 var	de
-suçsuz	bul
 düzensiz	yır
 sakin	kal
 kabil	değil
-ciddi	bul
 zım	gel
 dalgın	dinle
 komşu	gel
@@ -25302,7 +23544,6 @@ manasız	bırak
 büyük	gör
 rahat	başla
 ihtiyatlı	davran
-hasıl	et
 manasız	kal
 yeni	bit
 güzel	gör
@@ -25321,27 +23562,21 @@ siyah	el
 devamlı	titre
 yorgun	düş
 açık	bırak
-neşeli	görün
 fena	ısla
 sakin	uza
 uygun	gel
 asıl	gel
 uzak	yaşa
-umutsuz	et
 heyecanlı	kal
 yorgun	yağ
 rahat	bırak
 yarı	aydınlan
 zavallı	ağla
 habersiz	kal
-yakın	görün
 karanlık	çek
 hafif	yürü
-kafi	bul
 iradesiz	kal
 ayrı	yaşa
-manasız	bul
-sakin	bul
 dolu	gel
 var	zannet
 tabii	var
@@ -25362,65 +23597,47 @@ neşeli	tut
 ateşli	bağla
 umutsuz	bırak
 şiddetli	kal
-parlak	bul
-faydasız	bul
 canlı	yürü
 kıymetli	gör
 iyi	git
-ateşli	bul
 bağlı	kal
 bağlı	bulun
 ilk	öpüş
 önemsiz	bırak
 başka	e
 başka	bekle
-tabii	görün
 ayrı	tut
-esassız	bul
 bükük	kal
 fena	yap
-fena	bul
 vetli	kal
-sefil	bul
 istidatlı	ebe
 şaşkın	kal
 dar	dayan
 masal	söyle
-nazik	bul
-suçlu	görün
-küçük	bul
 rahat	otur
-azaplı	bul
 dayanıklı	gör
 ateşli	davran
 fena	de
 emin	ik
-sevimli	bul
 rahat	edit
 serbest	değil
 karanlık	düşünce
 dar	ez
-suratsız	görün
 küçük	de
 küçük	gül
 türlü	yaşa
 ileri	çıkık
-yüksek	görün
 filan	zannet
 filan	de
 meşguliyetsiz	otur
 sır	ver
-meraklı	görün
 haksız	huysuz
 fikirsiz	kal
-hoş	görün
 hoş	geçin
-boş	bul
 kuvvetsiz	bırak
 yazın	döner
 gizli	tut
 karanlık	kal
-nahoş	bul
 güzel	gül
 sevgili	da
 mevcut	değil
@@ -25429,7 +23646,6 @@ koş	bak
 zabit	ayrıl
 yukarı	bak
 serbest	davran
-manasız	görün
 kayıtsız	davran
 kayıtsız	gör
 belirsiz	gör
@@ -25446,10 +23662,8 @@ kuvvetsiz	kal
 muhteşem	gör
 hazır	bulun
 son	hezimet
-siyah	bul
 ciddi	sev
 yanlış	anla
-garip	bul
 tedavisiz	bit
 dak	dol
 cevapsız	bırak
@@ -25459,14 +23673,12 @@ ciddi	belle
 dolu	gör
 hakaretli	çök
 haksız	addet
-hafif	bul
 asıl	e
 yatı	geçir
 var	gel
 rahat	bulun
 kapalı	kal
 imkansız	gör
-tabii	bul
 dar	değiş
 yorgun	çık
 aciz	bulun
@@ -25492,14 +23704,13 @@ yıldızlı	gör
 renksiz	gör
 bedel	yak
 manasız	gör
-Number of pairs: 493
+Number of pairs: 473
 
 yeşili	başla
 arı	es
 iri	aç
 rahat	gerin
 gizli	gör
-belli	et
 ilk	tomur
 ilk	aç
 aç	değil
@@ -25532,21 +23743,16 @@ sır	bil
 alaylı	bak
 ileri	git
 türlü	ayır
-iyi	et
 sıcak	vur
 güzel	yakış
 güzel	uy
 bağlı	dur
 eski	dolma
-eksik	et
 başlı	uyu
-hoş	et
-güzel	et
 güzel	kabar
 yeni	aç
 taze	kok
 yeni	çık
-yılgın	bul
 yağız	at
 sop	ara
 ayrı	gider
@@ -25593,16 +23799,13 @@ bomboş	kal
 soluk	çık
 çabuk	geç
 türlü	anla
-deşik	et
 ağır	yürü
 ana	oku
 kurşun	sık
-i̇yi	et
 kısa	boy
 kısa	küt
 rahat	yat
 yukarı	süz
-memnun	et
 hızlı	koş
 iyi	koş
 yukarı	çık
@@ -25611,13 +23814,11 @@ iç	geçir
 bel	ver
 türlü	unut
 yukarı	yat
-iyi	bul
 üzgün	ayrıl
 iyi	karşıla
 anlamlı	bakış
 iyi	bil
 iyi	anlat
-deli	et
 yok	öl
 durmuşu	ara
 türlü	bil
@@ -25727,7 +23928,6 @@ türlü	gel
 vızır	vızır
 sağ	bırak
 sağ	çık
-sağır	et
 var	Memedin
 dimdik	yürü
 mendil	tut
@@ -25735,7 +23935,6 @@ karanlık	kavuş
 dilli	baş
 soğ	yıl
 artçı	kal
-ufak	et
 ak	sakal
 koca	oğlan
 kırmızı	biberle
@@ -25746,7 +23945,6 @@ yok	yavrum
 büyür	çür
 tenli	biri
 türlü	güzel
-son	bul
 mümkün	değil
 sel	al
 güzel	dövüş
@@ -25754,7 +23952,6 @@ yanlış	sür
 hızlı	git
 atlı	gel
 rahat	uy
-hazır	et
 dik	tut
 sert	sor
 doğru	söyle
@@ -25792,8 +23989,6 @@ verimli	gel
 varır	dur
 ağır	gel
 güzel	dağıt
-sert	görün
-mahkum	et
 aç	koy
 çok	konuş
 zor	yetiş
@@ -25842,7 +24037,6 @@ tek	çocuk
 tek	bek
 i̇yi	yap
 zeynel	yan
-zeyneli	bul
 az	konuş
 deli	de
 zeynel	git
@@ -25911,7 +24105,6 @@ mutlu	gül
 güdük	kal
 yan	gel
 acıklı	anlat
-münasip	bul
 beli	kır
 iyi	çalış
 akçasazın	çürü
@@ -25945,7 +24138,6 @@ boş	döner
 sıcak	çök
 iyi	tanı
 ineli	Memedin
-dar	et
 doludizgin	gelir
 zor	kalk
 yarı	uyanık
@@ -25987,11 +24179,10 @@ kileri	aç
 genç	kız
 doğru	çek
 zengin	üsl
-Number of pairs: 222
+Number of pairs: 208
 
 şaşkın	sor
 gizli	girsek
-eksik	et
 yeni	boya
 türlü	ulaş
 yavaş	git
@@ -26002,11 +24193,9 @@ hayırsız	aday
 uzun	sür
 sakız	kok
 çırılçıplak	soy
-güzel	görün
 çok	acık
 hoş	kok
 mavi	ışıkta
-çiğiri	bul
 sarı	dama
 yeni	oy
 çiçek	kok
@@ -26016,7 +24205,6 @@ keskin	nişan
 yaşlı	de
 kardeşsiz	büyü
 türlü	uyuya
-iyi	et
 bomboş	kal
 var	de
 geri	dön
@@ -26033,14 +24221,12 @@ dolu	dur
 zor	dayan
 yok	diy
 soluk	soluğay
-deli	et
 yeni	aç
 yukarı	yat
 kıpkırmızı	kes
 iyi	yap
 küçücük	sak
 soğukkanlı	konuş
-rahat	et
 yarım	kal
 aziz	tut
 uzun	konuş
@@ -26060,7 +24246,6 @@ iyi	çık
 iyi	git
 yeni	döv
 derin	çek
-mutlu	et
 açık	kal
 boş	kal
 güzel	anlat
@@ -26073,11 +24258,9 @@ sağ	çık
 genç	öl
 geri	kalan
 ölü	ver
-zengin	et
 saz	çalar
 güzel	kız
 tek	düve
-hoş	bul
 yiğit	çık
 yürekli	çık
 iyi	tanı
@@ -26088,7 +24271,6 @@ açık	git
 bütün	girit
 tazısız	yap
 kalın	güzel
-belli	et
 zor	iş
 iyi	dinle
 çuvalı	aç
@@ -26106,7 +24288,6 @@ i̇smaili	canda
 i̇smaili	gör
 genç	say
 bambaşka	büyüle
-tecelli	et
 türlü	anla
 mutlu	öl
 çaresiz	kal
@@ -26122,7 +24303,6 @@ yok	de
 uzun	bak
 sakal	bırak
 izinli	gel
-yok	et
 kahraman	de
 i̇smaili	öl
 türlü	kurtar
@@ -26138,7 +24318,6 @@ sıcacık	gülümse
 tek	ev
 asker	kurtar
 zor	götür
-altın	et
 güzel	gül
 genç	ağaç
 mendili	çık
@@ -26160,7 +24339,6 @@ yavaş	çık
 yapayalnız	yerleş
 zarfı	çık
 sonrası	alt
-var	et
 ölümsüz	kal
 memnun	gözük
 memnun	konuş
@@ -26211,7 +24389,7 @@ güzel	giyin
 çok	sevin
 güzel	git
 sağ	olas
-Number of pairs: 299
+Number of pairs: 268
 
 toplumsal	geliş
 denli	benims
@@ -26227,7 +24405,6 @@ ileri	püskürt
 kâğıt	paral
 kolay	sat
 küçük	tartış
-uygun	bul
 kararsız	dur
 kumaş	sarkıt
 serbest	bırak
@@ -26239,7 +24416,6 @@ boş	bırak
 ileri	gt
 boş	ver
 ileri	git
-belli	et
 resmi	al
 iyi	çık
 resmi	çek
@@ -26260,14 +24436,12 @@ ters	çevir
 doğru	çevir
 türlü	öğret
 dürüst	kilitle
-gereksiz	bul
 filan	de
 bütün	tanı
 rahat	davran
 filan	al
 kolay	git
 ilgili	konuş
-soğukkanlı	görün
 gizli	say
 var	gör
 filan	yaz
@@ -26283,7 +24457,6 @@ düzenli	bırak
 yorgun	uyan
 doğru	yaklaş
 aptal	de
-yok	et
 iyi	anla
 iyi	incele
 yeni	öde
@@ -26319,11 +24492,9 @@ yukarı	kaldır
 resmi	yap
 resmi	gör
 filan	seyret
-güzel	bul
 soluk	al
 güzel	değil
 iyi	yap
-gerekli	bul
 yeni	öğren
 parasız	kal
 boş	geçir
@@ -26332,12 +24503,9 @@ garip	davran
 yeni	söyle
 yeni	duy
 iyi	de
-tatsız	bul
-memnun	et
 yiyecek	artık
 türlü	geç
 filan	kesti
-zor	bul
 iyi	anlaş
 fena	değil
 hızlı	koşul
@@ -26355,7 +24523,6 @@ uygun	gör
 kaç	basa
 işsiz	kal
 kömür	topla
-i̇yi	bul
 iyi	davran
 bağlı	değil
 ağır	say
@@ -26365,15 +24532,12 @@ gelişigüzel	yap
 sınırı	geç
 boş	çık
 kırmızı	tüken
-rahat	et
 bütün	düzen
 sağlam	kal
 türlü	çevril
 gizli	yap
 zor	gel
 filan	ye
-yersiz	bul
-eksik	et
 iyi	kullan
 bol	gel
 tabii	tar
@@ -26381,16 +24545,13 @@ aynı	yaşta
 yok	bil
 türlü	at
 yeni	tanı
-rahatsız	et
 türlü	kes
 belirsiz	kal
 asıl	şaşır
-akılsız	bul
 ilk	al
 yumuşak	davran
 filan	tut
 tabii	iste
-akıllı	bul
 büsbütün	şaşır
 mutsuz	seviş
 filan	ara
@@ -26399,7 +24560,6 @@ kötü	kok
 başka	git
 türlü	kavra
 aynı	durum
-cahil	bul
 üstün	tut
 filan	beğen
 ileri	sür
@@ -26411,27 +24571,22 @@ son	ver
 çekingen	davran
 türlü	bit
 doğru	yaz
-başarılı	görün
-sahte	bul
 dürüst	yap
 iyi	tanı
 ayrı	bulun
 ciddi	kur
 yakın	gel
-deli	et
 iyi	duygu
 gizli	konuş
 geri	dön
 bilgili	oku
 iyi	geçin
-garip	görün
 anlamsız	konuş
 uygun	düş
 resmi	ver
 iyi	sev
 memur	sekreter
 bilimsel	çalış
-haklı	bul
 var	zannet
 bütün	sor
 acıklı	gel
@@ -26440,13 +24595,11 @@ yeni	düzenle
 yeni	dök
 sakalı	kes
 açık	say
-iyi	et
 lastik	ayakkabı
 dürüst	bak
 yakın	dur
 açık	artır
 soluk	aldır
-çirkin	bul
 soğuk	bak
 hesaplı	gülümse
 yumruk	yap
@@ -26464,11 +24617,9 @@ doğru	alçala
 delik	kuru
 demir	bağla
 demir	koy
-deşik	et
 erkeksen	git
 yiğit	arkadaş
 zayii	önle
-güçlü	görün
 uysal	kal
 yeni	al
 tahta	kapla
@@ -26477,16 +24628,13 @@ kolay	gel
 çift	bacak
 hatırı	say
 babasız	bırak
-karışık	bul
 önemsiz	say
-filan	bul
 iyi	yetiş
 filan	gönder
 dik	tut
 acımasız	sınıf
 yok	say
 başka	hatırla
-esrarlı	görün
 filan	vur
 kötü	dik
 huzursuz	dolaş
@@ -26505,14 +24653,13 @@ kötü	git
 demiryolu	yap
 iyi	değil
 filan	sat
-geçmiş	bul
 ileri	sürü
 yahudi	yok
 iyi	say
 yeni	bitir
 son	yaz
 iyi	hatırla
-Number of pairs: 437
+Number of pairs: 401
 
 ölü	bulun
 amerikan	elçi
@@ -26531,12 +24678,8 @@ uygun	düş
 yukarı	çevir
 zor	yıl
 şanslı	kul
-rahatsız	et
 uzun	uza
-hiddetli	bul
 kısa	sür
-son	bul
-mutlu	et
 harfi	kazın
 ileri	git
 ilk	yakala
@@ -26549,9 +24692,7 @@ son	fırsa
 emin	taşı
 yaşlı	say
 geri	al
-yan	et
 türlü	tamamla
-zeki	bul
 iyi	dön
 uygun	gör
 büsbütün	gergin
@@ -26573,7 +24714,6 @@ karşılıklı	otur
 tek	oğ
 anlayışlı	çık
 boş	dur
-rahat	et
 geniş	oda
 son	gel
 ilk	gün
@@ -26586,7 +24726,6 @@ geri	dön
 zeki	Aylin
 yeni	taşı
 iyi	gel
-belli	et
 renk	gel
 filan	iste
 serbest	bırak
@@ -26608,7 +24747,6 @@ zor	ulaş
 büsbütün	garip
 türlü	çöz
 türlü	anla
-eksik	et
 sorumlu	tut
 rahat	bırak
 bambaşka	biri
@@ -26629,7 +24767,6 @@ büsbütün	zayıfla
 evvel	nas
 hızlı	sürü
 dar	at
-iyi	görün
 uslu	dur
 yeni	başla
 iyi	hisset
@@ -26657,15 +24794,12 @@ sım	Gülek
 iyi	bil
 yeni	bitir
 takılı	kal
-zarif	bul
 büsbütün	alev
 boş	ver
 akılsız	yap
 bunca	emek
 zor	kap
 ları	bırak
-yakışıklı	bul
-hoş	bul
 sevdalı	geçir
 çok	sev
 mutlu	yaşar
@@ -26673,7 +24807,6 @@ yok	değil
 filan	sık
 tirajlı	saçma
 >	çık
-doğru	bul
 iyi	davran
 yeni	bas
 çok	gül
@@ -26710,7 +24843,6 @@ iyi	arkadaşl
 tatsız	geliş
 teker	teker
 sıcak	bak
-yapayalnız	bul
 açık	bırak
 son	şans
 yukarı	gel
@@ -26739,7 +24871,6 @@ desin	ver
 hızlı	vur
 yarı	karan
 laş	dön
-altın	et
 garip	gel
 ilk	dur
 uğurlu	gel
@@ -26755,8 +24886,6 @@ boş	değil
 türlü	dol
 türlü	yet
 şartsız	bağla
-ilginç	bul
-i̇yi	et
 yeni	gir
 normal	de
 mümkün	değil
@@ -26774,16 +24903,12 @@ tek	kelime
 tek	öğren
 memnun	dön
 bakımsız	kal
-memnun	et
 ilk	ayrıl
-memnun	görün
 iyi	taşı
 iyi	döşe
 hafif	atla
 son	ver
-razı	et
 yeni	değiş
-hoş	et
 hızlı	davran
 gönüllü	seç
 bütün	iste
@@ -26798,7 +24923,6 @@ türlü	affede
 mutlu	gözük
 yüklü	buluş
 mucizevi	iyi
-yakın	bul
 çok	komed
 canlı	tut
 iyi	an(II)
@@ -26816,7 +24940,6 @@ suratlı	düşün
 yasak	değil
 büsbütün	az
 küçük	Sincabi
-yok	et
 becerikli	Irene
 zili	çal
 sımsıkı	tut
@@ -26842,18 +24965,13 @@ siyah	çan
 hazır	bulun
 büsbütün	hırçın
 çaresiz	kal
-seksi	bul
 yakın	hisset
-mutlu	bul
-solgun	görün
 eski	Hollywood
-olumlu	bul
 doğ	bil
 kolay	değil
 haklı	çık
 son	dayan
 tek	oğul
-deli	et
 yanlış	anlaş
 rahat	gör
 deli	saç
@@ -26876,7 +24994,6 @@ ları	yay
 yan	kut
 tük	bulun
 zor	gir
-mutlu	görün
 lar	al
 tek	de
 bari	ay
@@ -26891,7 +25008,6 @@ yakın	yat
 türlü	çık
 farklı	dur
 boş	kal
-hoş	görün
 koca	ara
 yi	tanı
 olmaksızın	görüş
@@ -26901,7 +25017,6 @@ suçlu	sen
 uzun	kal
 kimyasal	çalış
 var	zannet
-sevgili	bul
 yatılı	getir
 ünlü	boşa
 türlü	davran
@@ -26918,9 +25033,7 @@ kapalı	bahset
 yeni	uza
 yeni	sön
 rahat	ver
-iyi	et
 uzak	yaşa
-teselli	bul
 yanlış	ofiste
 hızlı	kullan
 geniş	sür
@@ -26942,16 +25055,14 @@ yok	atla
 ince	plili
 güzel	hareket
 güzel	yeri
-neşeli	görün
 devamlı	çevir
 iyi	değil
 güzel	döv
-normal	bul
 misli	bek
 yarı	boşal
 cam	bölme
 yukarı	çek
-Number of pairs: 603
+Number of pairs: 572
 
 çok	dil
 mutlu	anı
@@ -26962,7 +25073,6 @@ yeni	aç
 kısa	dur
 küçük	böl
 gizli	böl
-rahatsız	et
 gizli	buluş
 soğuk	davran
 kumaş	parçal
@@ -26976,7 +25086,6 @@ sibel	sekreter
 çıplak	otur
 boş	ver
 sıfırı	tüket
-huzursuz	et
 serin	gel
 yok	san
 olağan	karşıla
@@ -26993,7 +25102,6 @@ iyi	hatırla
 yarım	yap
 yukarı	kalk
 ince	göster
-esrarlı	bul
 kararsız	kal
 çıplak	gör
 aşırı	miyop
@@ -27040,8 +25148,6 @@ kıpırtısız	kal
 gizli	kural
 çift	gez
 kolay	düş
-dürüst	bul
-memnun	et
 doğal	karşıla
 siyasal	slogan
 yanlış	anla
@@ -27056,7 +25162,6 @@ kötü	davran
 ikiyüzlü	hisset
 gel	bak
 çift	evlen
-belli	et
 yoğun	hisset
 yeni	bas
 yeni	dön
@@ -27068,7 +25173,6 @@ iyi	gözük
 resmi	iğnele
 teselli	kucakla
 kapalı	dur
-mutsuz	et
 mutlu	seviş
 tabii	gel
 açık	bırak
@@ -27108,13 +25212,11 @@ rahat	davran
 türlü	yaklaş
 türlü	davran
 çok	sevin
-sarhoş	bul
 kıpkırmızı	kes
 habersiz	gözük
 türlü	sok
 iyi	anla
 yeni	insanla
-mutlu	et
 türlü	kıy
 boş	bırak
 tatlı	gül
@@ -27125,10 +25227,8 @@ gemi	batır
 yaşlı	kat
 büyük	kul
 tınılı	takma
-hoş	bul
 asıl	bekle
 uzak	tut
-rahat	et
 kirli	tabak
 yukarı	kaldır
 dönük	otur
@@ -27180,20 +25280,17 @@ i̇lk	atla
 tek	say
 çift	çık
 uykusuz	kal
-önemsiz	bul
 küskün	git
 hoş	gör
 mutlu	gözük
 romantik	gözük
 havalı	göster
-sevgili	bul
 ayık	değil
 sarhoş	dön
 yan	yat
 mutlu	norma
 türlü	unut
 türlü	gözük
-teselli	et
 umutsuz	kıl
 büyük	bil
 uğursuz	de
@@ -27211,14 +25308,11 @@ sert	çık
 zor	şey
 boş	dön
 gelişigüzel	gezin
-teselli	bul
 deliksiz	uyu
 gelişigüzel	ilerle
 rahat	konuş
-mutlu	görün
 sibel	gel
 yanlış	yap
-iyi	et
 sibel	bil
 güzel	gecey
 iyi	karşıla
@@ -27298,8 +25392,6 @@ düzenli	çalış
 değişik	gelir
 hareketsiz	kal
 açık	dur
-alçakgönüllü	bul
-viski	bul
 canlı	gel
 mutlu	anl(II)
 boş	kal
@@ -27326,7 +25418,6 @@ geri	dön
 güzel	otur
 yan	bak
 kötü	hisset
-yakışıksız	bul
 yarı	içl
 yarı	ezberle
 fena	boz
@@ -27343,7 +25434,6 @@ ağır	ak
 çok	düşünce
 yerli	iste
 türk	sinema
-deli	et
 ticari	düşün
 gelişigüzel	kullan
 küçük	düşür
@@ -27401,7 +25491,6 @@ iyi	ver
 esrarlı	gözük
 rahat	gözük
 mükemmel	otur
-zengin	bul
 yüksek	faiz
 altın	al
 başka	Füsun
@@ -27411,9 +25500,7 @@ gelişigüzel	üfle
 çift	san
 ları	hatırla
 güzel	esner
-umutsuz	bul
 uzun	bakar
-değişik	görün
 rahat	edet
 zor	tut
 yaz	akşamlan
@@ -27423,7 +25510,6 @@ hatırı	say
 plak	yap
 başka	bas
 ruhlu	iste
-hafif	bul
 yan	alat
 filan	dinle
 korkulu	bak
@@ -27434,8 +25520,6 @@ kırmızı	soğan
 büyük	armatör
 haklı	hisset
 sibel	aldır
-yanlış	bul
-eğlenceli	bul
 güzel	seviş
 akıllı	ada
 sahte	gözük
@@ -27494,7 +25578,6 @@ bütün	yaz
 mutlu	bit
 resmi	as
 güzel	göster
-güzel	bul
 tatlı	gülümse
 yüzük	seç
 güzel	kok
@@ -27513,7 +25596,6 @@ son	bakış
 dolu	güz
 ön	cam
 küçük	kana
-neşeli	görün
 çekici	bula
 yeni	tanı
 kısa	kes
@@ -27525,7 +25607,6 @@ anlamlı	kıl
 evsiz	kal
 sağlam	çık
 zor	gir
-gereksiz	bul
 derin	der
 memnun	gözük
 korkutucu	göster
@@ -27541,7 +25622,6 @@ iyimser	biri
 saf	insan
 batılı	hisset
 açık	gel
-abartılı	bul
 acımasızca	kötüle
 kötü	göster
 iyi	ağırla
@@ -27556,7 +25636,7 @@ resmi	birik
 duygulu	konuş
 sevgili	ara
 kolay	rastla
-Number of pairs: 242
+Number of pairs: 224
 
 açık	kal
 ı	söyle
@@ -27585,7 +25665,6 @@ hazır	bekle
 yoğun	çalış
 tek	dinlen
 yukarı	çık
-mutlu	et
 yağ	at
 benzeri	ahşap
 çıplak	gör
@@ -27598,16 +25677,13 @@ açık	dur
 büyük	mutluluk
 yıldızlı	yap
 uğursuz	de
-huzursuz	et
 yanlış	vur
 dikkatli	davran
 sıcak	var
 ilk	göster
 karanlık	kal
-rahatsız	et
 doğar	doğ
 mutlu	yaşa
-katili	bul
 ın	otur
 büyük	indirim
 büyük	oğlu
@@ -27625,7 +25701,6 @@ büyük	göster
 yanlış	yap
 koskoca	damar
 razı	değil
-teselli	et
 tüfekli	savun
 uzun	boy
 iyi	hisset
@@ -27653,9 +25728,7 @@ güçlü	ağla
 iyi	oynu
 türlü	inan
 babasız	yaşa
-zeki	bul
 resmi	bas
-şefkatli	bul
 doğru	yürü
 zor	seç
 güçlü	hisset
@@ -27664,7 +25737,6 @@ fena	yarala
 yukarı	yolla
 gömülü	kal
 yukarı	bak
-küçük	görün
 ufacık	gör
 yukarı	seslen
 yukarı	yüksel
@@ -27681,14 +25753,12 @@ uzak	tut
 iyi	çalış
 uzak	kal
 aç	kal
-esrarengiz	bul
 eski	derle
 siyasi	çatış
 yeni	çık
 açık	kumral
 kayıtsız	kal
 güzel	gel
-güzel	bul
 uzun	sür
 mutlu	hisset
 iyi	gözük
@@ -27701,7 +25771,6 @@ sabırlı	karınca
 teknolojik	geliş
 ı	bombala
 çok	benze
-ilginç	bul
 ı	kapa
 resimli	elyaz
 ı	bil
@@ -27725,11 +25794,9 @@ uzak	düş
 suçlu	hisset
 büyük	kazanc
 entelektüel	kıl
-sevimli	bul
 resmi	gör
 ı	öl
 ı	yönet
-yok	et
 açık	artır
 uygun	gör
 biraçık	artır
@@ -27751,7 +25818,6 @@ iyi	haber
 iyimser	kıl
 ekonomik	dava
 gizli	gör
-belli	et
 korkutucu	gel
 hamburger	ye
 yukarı	çıkar
@@ -27761,7 +25827,6 @@ kötü	davran
 iyi	git
 doğru	çık
 haklı	olm
-ı	bul
 son	kıvrı
 var	sans
 iyi	tana
@@ -27774,7 +25839,6 @@ başka	derme
 iyi	kurcala
 babasız	kal
 saygısız	konuş
-mağrur	bul
 akılsız	gülüş
 bağlı	kal
 büyük	kay
@@ -27784,7 +25848,6 @@ yeni	kur
 boylu	düşün
 tarihi	takı
 zor	sön
-haksız	bul
 rahat	yaşa
 çok	gel
 dürüst	kayna
@@ -27794,20 +25857,18 @@ tıraşsız	gezin
 etkili	cümle
 ana	oğul
 asılsız	de
-mutsuz	et
 soğukkanlı	gör
 zor	tut
 ilk	tanış
 kolay	ayrıl
 resmi	koy
-Number of pairs: 151
+Number of pairs: 133
 
 amaçlı	kullan
 @	hot
 doğru	kullan
 türlü	bula
 hatırı	say
-memnun	et
 türlü	anlaş
 emir	ver
 fena	üz
@@ -27819,14 +25880,10 @@ iyi	bil
 yeni	gel
 tesirsiz	kal
 iyi	tanı
-doğru	bul
-bitkin	görün
 haklı	gör
-iyi	bul
 neşesiz	çalış
 büsbütün	sakin
 güzel	de
-teselli	et
 geri	kal
 hoş	geç
 boş	bırak
@@ -27839,7 +25896,6 @@ alışık	değil
 düdük	çal
 sefil	mecz
 fakir	insan
-sakin	görün
 lâzım	gel
 türlü	aç
 mantık	sön
@@ -27848,14 +25904,12 @@ aç	geçir
 aralıksız	çalış
 aç	kal
 iyi	çalış
-yüksek	bul
 kırmızı	uçur
 yeni	başla
 kırık	taş
 iyi	geçin
 üstün	tut
 tavanlı	dokum
-rahat	et
 faslı	başla
 rakısız	yaşa
 gizli	tut
@@ -27874,9 +25928,7 @@ doğru	çık
 tembel	atla
 ağır	gel
 birtakım	ah
-rahatsız	et
 manidar	gel
-belli	et
 denk	al
 azametli	gör
 bakımsız	kal
@@ -27891,17 +25943,14 @@ büyük	geçmiş
 deli	gibi
 yakın	üz
 kömür	ye
-iyi	et
 yok	beğen
 iyi	yaşa
 iyi	giyin
 sinirli	gör
 türlü	dur
 doğru	söyle
-kabahatli	bul
 küçük	düşür
 türlü	hazmet
-gevşek	bul
 gevşek	adam
 rahat	yaşa
 büsbütün	değiş
@@ -27911,20 +25960,16 @@ yok	de
 fena	git
 kolay	anlaş
 açık	düşün
-razı	et
 kâfi	gel
 aynı	tereddüd
 küçük	dama
 memnun	gör
 lemeli	ver
 dert	yan
-deli	et
 ileri	gel
 iyi	anla
 türlü	ver
-suçlu	bul
 bulutlu	kal
-emin	bul
 mani	yok
 gürbüz	şen
 dürüst	konuş
@@ -27951,9 +25996,8 @@ tinsel	gör
 hoş	gör
 zavallı	acın
 aykırı	düşünce
-uygun	bul
 değersiz	göster
-Number of pairs: 253
+Number of pairs: 225
 
 ilk	düzenle
 aynı	sars
@@ -27961,22 +26005,15 @@ sığ	değer
 anlamsız	kıl
 dışı	alan
 ilginç	çalış
-yakın	bul
-elverişli	görün
-memnun	görün
-emin	görün
-belli	et
 şuurlu	dalgın
 filan	yaz
 zeki	çocuk
 ileri	gel
 adamakıllı	karar
 serili	dur
-tabii	bul
 tabii	art
 diğer	hademe
 hoş	gel
-yaşlı	görün
 eski	memur
 iyi	bil
 kıpkırmızı	kes
@@ -28007,13 +26044,10 @@ filan	eğ
 türlü	kalk
 bomboş	mahluk
 başka	türlü
-muvafık	bul
 küçük	düşür
-hoş	görün
 emin	bulun
 acır	gibi
 hoş	gör
-haklı	bul
 ağır	gel
 ilk	tanış
 türlü	yakın
@@ -28030,7 +26064,6 @@ rahat	bırak
 asılı	dur
 boş	gibi
 kapalı	yat
-yok	et
 boylu	konuş
 yapayalnız	dolaş
 türlü	yap
@@ -28043,7 +26076,6 @@ yanlış	doğ
 yeni	tanış
 yarım	yamalak
 yanık	dur
-kabahatli	bul
 büsbütün	kızar
 iyi	karşıla
 yeni	aç
@@ -28055,13 +26087,11 @@ resmi	yap
 uzun	bahset
 çok	benze
 fena	bas
-apaçık	görün
 belirgin	kıl
 ilk	duy
 ilk	yap
 manasız	ak
 yakın	bulun
-memnun	et
 soğuk	karşıla
 yukarı	fırla
 var	gibi
@@ -28088,15 +26118,11 @@ tabii	hak
 yanlış	anla
 yarı	kapa
 ileri	at
-iyi	görün
 uzak	değ
 hafif	gel
 uykusuz	kal
-rahatsız	et
 haklı	çık
-fena	görün
 garip	gel
-manasız	görün
 kuvvetli	yaşa
 kolayca	geliver
 tabii	değil
@@ -28105,7 +26131,6 @@ büsbütün	boşal
 kalkık	dur
 dikkatli	bak
 yok	de
-tabi	et
 bütün	birleş
 zavallı	gör
 büsbütün	yaklaş
@@ -28113,16 +26138,12 @@ uzak	kal
 rahatsız	t
 bütün	tanış
 kabahatli	zannet
-ehemmiyetli	görün
 tabii	gör
 uzak	geç
 küçükken	öl
-aykırı	bul
 yumuşak	lok
-güzel	bul
 lazım	gel
 yeni	tanı
-kuvvetli	bul
 fena	değil
 büsbütün	artır
 ciddi	söyle
@@ -28132,7 +26153,6 @@ kibar	insan
 büsbütün	aç
 güzel	konuş
 asıl	sev
-ehemmiyetli	bul
 dürüst	bil
 derin	düşün
 asıl	ara
@@ -28165,12 +26185,10 @@ uzak	bulun
 apaçık	gör
 lüzumsuz	ada
 büsbütün	kır
-imkânsız	bul
 yukarı	gezin
 evvel	kaldır
 bitkin	dur
 korkunç	değiş
-teselli	et
 caiz	değil
 küçük	konuş
 ilk	dalan
@@ -28178,7 +26196,6 @@ aynı	vaziyet
 rahat	gül
 yumruk	yap
 türlü	inan
-uzun	görün
 soğuk	davran
 türlü	al
 evvel	hazırla
@@ -28186,7 +26203,6 @@ evvel	gel
 bütün	yaşa
 evvel	git
 evvel	Berlin
-kısa	görün
 dümdüz	ayrıl
 yarı	kal
 ileri	sür
@@ -28208,7 +26224,7 @@ kışın	Berlin
 filan	unut
 uzak	tut
 suçlu	tut
-Number of pairs: 79
+Number of pairs: 76
 
 aşık	at
 rahat	yaşa
@@ -28234,9 +26250,7 @@ sakız	bağla
 neşeli	uyan
 kesik	sulama
 ruhsat	al
-deli	et
 yanlış	yap
-yok	et
 kesik	sula
 imkansızı	yap
 güzel	köylü
@@ -28247,7 +26261,6 @@ yeni	filiz
 sinek	gel
 kıpkırmızı	kes
 eski	Ahba
-belli	et
 mutlak	söyli
 ileri	at
 emir	ver
@@ -28289,49 +26302,38 @@ meraklı	birik
 sıcak	bas
 hızlı	sür
 soluk	soluğay
-Number of pairs: 208
+Number of pairs: 186
 
 esas	alın
 yanlış	yayımla
 eleştirel	çalış
 iyi	yap
 nihayetsiz	uza
-rahatsız	et
-nâsız	bul
 çatkın	yerleş
-aptal	bul
 ince	vücut
 büyük	çiz
 iyi	çocukla
 ileri	git
 kalın	çiz
-uzak	görün
 doğru	in
-belli	et
 iyi	hatırla
-kapalı	görün
 uzun	geç
-tatsız	bul
 hafif	gıcıkla
 lâzım	gel
 deşik	çık
 sakin	ayrıl
 iyi	giyin
-tecelli	et
 gergin	bekle
 sadık	kal
 millî	düşün
-millî	bul
 iyi	döşe
 millî	savun
 yaralı	taşı
 karışık	somurtkan
 kırmızılı	bas
 siyah	gör
-teselli	bul
 mutlak	duy
 in	aksüla
-korkunç	bul
 bütün	de
 siyah	sır
 yi	otur
@@ -28340,8 +26342,6 @@ belirsiz	bıyık
 belli	değil
 başlı	Salime
 iyi	al
-yok	et
-uzak	bul
 uzun	tut
 karanlık	değil
 soğuk	ayrıl
@@ -28354,7 +26354,6 @@ doğru	git
 parlak	zannet
 askeri	değil
 başka	konuş
-emin	bul
 ]	kork
 hafif	kızar
 doğru	anla
@@ -28368,7 +26367,6 @@ karı	git
 çift	otur
 sarılı	çeşme
 siyah	yel
-kırmızı	görün
 iyi	çocuk
 iyi	anla
 yakın	hazırla
@@ -28380,14 +26378,11 @@ türlü	ısın
 heyecanlı	gün
 sıvalı	gir
 yapışık	dur
-garip	görün
 sevgili	bırak
 yi	iste
 derin	gör
 uzak	yaşa
-müşkül	bul
 bağlı	kal
-doğru	bul
 haksız	davran
 soğuk	al
 sağlam	kal
@@ -28418,7 +26413,6 @@ türlü	anlat
 ı	sakın
 türlü	çık
 üstün	gel
-hoşnut	et
 ı	konuş
 boş	dur
 açık	büyücek
@@ -28435,7 +26429,6 @@ yarasız	geçir
 az	bahset
 yukarı	in
 telâşsız	git
-dolu	bul
 son	nefer
 içli	i
 çabık	geç
@@ -28481,7 +26474,6 @@ iyi	bil
 güzel	gör
 derin	sev
 küçük	gör
-kıpkızıl	görün
 hoş	davran
 sarı	hat
 meyli	aşa
@@ -28498,8 +26490,7 @@ izinli	gel
 habersiz	kal
 ı	özle
 ileri	sür
-son	bul
-Number of pairs: 114
+Number of pairs: 106
 
 saklı	dur
 düzen	anlaş
@@ -28510,7 +26501,6 @@ kazık	gir
 sevgili	kulla
 amansız	bırak
 altın	sır
-iyi	et
 iyi	geç
 baygın	düş
 dili	var
@@ -28520,7 +26510,6 @@ emir	al
 soylu	yurttaş
 ilk	çık
 yeni	doğ
-yeter	bul
 çok	zehirle
 zehirli	sürüngen
 ileri	sür
@@ -28535,8 +26524,6 @@ içe	işle
 defol	git
 cansız	bırak
 çulsuz	kal
-rahat	et
-rahatsız	et
 bitürlü	konuş
 zorunlu	kıl
 iyi	bak
@@ -28559,7 +26546,6 @@ iri	vücut
 yeni	kuzula
 demiryolu	geç
 hızlı	koş
-yok	et
 zor	at
 zor	tırman
 küçük	doğ
@@ -28579,11 +26565,9 @@ incecik	yap
 kıpkırmızı	boy
 demir	nişan
 kalaylı	nişan
-haklı	bul
 temelli	bitik
 türlü	atla
 teselli	ederle
-hoş	et
 iyi	duy
 yanlış	duy
 eksik	ver
@@ -28592,7 +26576,6 @@ zor	gör
 pahalı	al
 balı	al
 çifter	çifte
-eksik	et
 köylü	gör
 büsbütün	içerle
 zor	kurtar
@@ -28615,7 +26598,7 @@ hızlı	koşan
 aç	kal
 kanlı	dalaşma
 sağ	kal
-Number of pairs: 256
+Number of pairs: 240
 
 ilk	düzenle
 sicut	splendor
@@ -28630,7 +26613,6 @@ kara	yatağan
 sarı	humma
 olanaksız	kıl
 çaresiz	kaç
-belli	et
 yangın	çık
 davulu	patla
 davulu	yamamak
@@ -28646,7 +26628,6 @@ esir	düş
 ustaca	rakset
 düşük	tut
 türlü	davran
-isteksiz	görün
 topal	bırak
 kaplı	gibi
 yok	değil
@@ -28664,7 +26645,6 @@ asır	bekle
 ölü	zannet
 bucaksız	orman
 çok	kork
-imkansız	görün
 fuzuli	oyala
 gerçek	iste
 türlü	sor
@@ -28682,11 +26662,9 @@ kesin	gibi
 zor	dur
 fitili	hesapla
 zor	kurtar
-rahatsız	et
 hevessiz	adam
 sağlam	değil
 bütün	yaşa
-razı	et
 doğru	söyle
 uzun	sür
 kolay	değil
@@ -28699,7 +26677,6 @@ hazır	hisset
 bel	bağla
 bomboş	kal
 sımsıkı	bağla
-duyarsız	görün
 ünlü	yatağanday
 adamakıllı	kısıtla
 zor	zapte
@@ -28714,7 +26691,6 @@ askeri	şaşır
 geçmiş	değil
 dolunay	sandık
 niyetli	iste
-teselli	et
 ilk	tırman
 yeni	atla
 çok	titre
@@ -28727,7 +26703,6 @@ yaşın	dol
 uyuz	ver
 güzel	kesele
 doğru	götür
-rahat	et
 tek	yer
 türlü	anla
 hatalı	bas
@@ -28759,14 +26734,10 @@ genç	kurtar
 boş	kal
 büyük	oyna
 görevli	alemsa
-sağır	et
 doğru	ilerle
 sımsıkı	yapış
-yok	et
-ağır	görün
 adamakıllı	kır
 bol	duy
-belirsiz	görün
 doğru	yelken
 boş	dön
 gizli	anlaşma
@@ -28783,12 +26754,10 @@ güçlü	hisset
 doğru	yelk
 altın	yap
 mümkün	ik
-farklı	görün
 hızlı	git
 mangalı	andır
 adamakıllı	bulan
 kolayca	dön
-imkânsız	görün
 çok	iste
 kolay	kullan
 resmi	gör
@@ -28808,7 +26777,6 @@ açık	art
 zar	at
 iyi	say
 çekingen	oyna
-hoş	görün
 uğursuz	para
 türlü	çık
 adamakıllı	döv
@@ -28848,7 +26816,6 @@ kütük	ara
 ansızın	kes
 dayanıklı	çık
 türlü	başar
-eksik	et
 hızlı	ger
 harç	hazırlı
 adamakıllı	ürk
@@ -28873,7 +26840,7 @@ türlü	gel
 başka	ver
 yorgun	hisset
 türlü	uyan
-Number of pairs: 90
+Number of pairs: 86
 
 saklı	dur
 iyi	koru
@@ -28902,7 +26869,6 @@ mutlu	yaşa
 ları	topla
 sayın	konuk
 suz	bırak
-yok	et
 çok	çalış
 yeni	Doğan
 ulu	dümdük
@@ -28916,7 +26882,6 @@ büyük	Selim
 yârı	vefakâr
 memnun	eyle
 ağır	küfret
-memnun	et
 hazır	bulun
 iyi	bil
 memnun	kal
@@ -28944,7 +26909,6 @@ iyi	yetiş
 çıplak	gör
 bütün	de
 akıllı	düzel
-faydalı	bul
 komşu	kümes
 bitürlü	kır
 hızlı	koş
@@ -28956,7 +26920,6 @@ sabit	gör
 ahi	tut
 iyi	insan
 başka	bil
-uysal	görün
 zor	evci
 bağlı	kal
 çevik	değil
@@ -28965,7 +26928,7 @@ karanlık	basınca
 filan	unut
 sıkı	bağla
 aygır	dayan
-Number of pairs: 463
+Number of pairs: 431
 
 son	konuş
 iri	tanel
@@ -29004,10 +26967,8 @@ yeni	bas
 yanlış	diz
 doğru	diz
 yanlış	çık
-huzursuz	et
 küçümser	gözük
 güzel	gel
-deli	bul
 iyi	değil
 kara	dön
 çaresiz	hisset
@@ -29020,7 +26981,6 @@ kesin	de
 yok	de
 eğitimsiz	bırak
 yok	say
-mutsuz	et
 sayın	evla
 örtüsüz	gir
 boş	dolaş
@@ -29031,12 +26991,9 @@ iyi	duy
 uzak	kal
 belirsiz	gülümse
 parasız	yaşa
-mutlu	et
 hakiki	değil
 iyi	git
 iyi	sat
-belli	et
-aptal	bul
 evli	kal
 yeni	çık
 kokteyli	at
@@ -29048,7 +27005,6 @@ uygun	giyin
 iyi	davran
 iri	gözük
 yavaş	sür
-teskin	et
 farklı	davran
 serbest	bırak
 kolay	hırpala
@@ -29063,11 +27019,9 @@ kanlı	göster
 uygun	değil
 sağlam	gözük
 yakışıklı	gözük
-rahatsız	et
 güçlü	tanı
 yüzeysel	hisset
 büyük	günah
-iyi	et
 uygun	gör
 yavaş	yağ
 asılı	kal
@@ -29085,7 +27039,6 @@ iyi	işit
 baskı	yap
 son	ver
 yeni	yaz
-güzel	bul
 yüce	biri
 rahat	eden
 açık	dur
@@ -29095,7 +27048,6 @@ uzak	geç
 iyi	hisset
 ince	kıl
 tabii	evla
-ikiyüzlü	bul
 asılı	dur
 ilgili	değil
 karşılıklı	konuş
@@ -29103,7 +27055,6 @@ yeni	gel
 dayaksız	bırak
 bokun	Donar
 ilk	şair
-teselli	et
 üstün	görür
 gizli	buluş
 acımasızca	kurşunla
@@ -29111,7 +27062,6 @@ acımasızca	kurşunla
 kısas	iste
 karanlık	sür
 mutlu	hisset
-çekici	bul
 yeni	tanı
 başkaldırı	us
 az	konuş
@@ -29170,7 +27120,6 @@ emir	ver
 ölü	gibi
 asker	söyle
 güzel	oku
-eksik	et
 kötü	hatırla
 telaşlı	gözük
 deliksiz	uyu
@@ -29231,9 +27180,7 @@ bütün	bat
 iyi	hava
 kötü	sıkış
 teselli	ver
-yakışıklı	bul
 yan	aç
-eğlenceli	bul
 çirkin	hisset
 ilk	ders
 sakın	kork
@@ -29241,7 +27188,6 @@ filan	geçir
 rahat	dur
 sakın	gül
 ilk	karşılaşma
-doğru	bul
 iyi	seslen
 yapın	yayımla
 hoş	göster
@@ -29272,7 +27218,6 @@ zor	gözük
 siyasi	hesaplaş
 katili	bulun
 kırık	dökük
-asıl	bul
 tertipli	çalış
 gelişigüzel	at
 otel	oda
@@ -29288,19 +27233,15 @@ iyi	tanı
 yarı	karanlık
 zor	aydınlat
 iyi	aydınlan
-gereksiz	bul
-iğrenç	bul
 imzamızı	çek
 hazır	değil
 son	söyle
 büyük	aldatmaca
-ilginç	bul
 zavallı	düşür
 açık	oturum
 karşılıklı	tartış
 yavaş	konuş
 iyi	getir
-ilkel	bul
 zor	işit
 aptal	göster
 aptal	gözük
@@ -29327,14 +27268,12 @@ emir	al
 hoş	bak
 asılsız	de
 hazır	tut
-rahat	et
 iyi	düşün
 başka	sar
 serbest	kal
 numarasız	aç
 diğer	de
 ilkel	say
-rahat	bul
 iyi	geçin
 iyi	ısıt
 son	görüş
@@ -29353,12 +27292,10 @@ reçel	damla
 boş	konuş
 sakın	git
 asıl	al
-akılsız	bul
 kardeşsiz	büyü
 yeni	sakla
 siyasi	çözümle
 tatlıtuzlu	aldır
-memnun	et
 batı	düşman
 çalışkan	dinle
 evvel	hazırla
@@ -29396,7 +27333,6 @@ canlı	yayımla
 ağır	gel
 belasız	bit
 başka	yer
-eski	bul
 iyi	alın
 örtülü	çık
 resmi	açıkla
@@ -29406,20 +27342,15 @@ basit	bak
 yanlış	çıkar
 son	gör
 hevesli	davran
-yok	et
 hızlı	at
-i̇yi	et
 ihmali	gör
 sedasız	dağıl
 dolu	san
 başka	de
 izinsiz	kullan
-dürüst	bul
-hoş	bul
 ı	gezer
 yeni	kur
 korumasız	bırak
-derin	bul
 zor	gel
 yüksek	apartman
 rahmetli	Necip

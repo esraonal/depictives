@@ -43,7 +43,9 @@ def read_connlu(treebank):
 
         try:
             if str(columns[1]).lower() != str(prev_columns[1].lower()) and str(columns[4]) == 'Adj' and \
-                    str(next_columns[4]) == 'Verb' and str(next_columns[2]) != 'ol':
+                    str(next_columns[4]) == 'Verb' and str(next_columns[2]) != 'ol' and \
+                     str(next_columns[2]) != 'bul' and str(next_columns[2]) != 'et' \
+                    and str(next_columns[2]) != 'görün':
                 var = True
                 w += 1
                 whole_text += sentence + '\n' + treebank[i] + '\n' + treebank[i+1] + '\n'
