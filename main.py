@@ -60,16 +60,27 @@ def read_connlu(treebank):
                 print(treebank[i+1])
 
         except IndexError:
-            # print()
             pass
 
+        debups = open("bare_adj.txt", "a+")
+        redup_mods = open("bare_adj_modifiers.txt", "a+")
 
-        # try:
-            # print(columns[4])
-            # and not str(columns[7]) == 'compound:redup'
-            # not str(columns[1]).lower() == str(prev_columns[1].lower())\
-            #                     and
-            #  and str(columns[4]) == 'Adj'
+        for i in range(1):
+            debups.write('Number of instances: ' + str(w) + '\n\n')
+            debups.write(whole_text)
+            debups.close()
+
+            redup_mods.write('Number of pairs: ' + str(w2) + '\n\n')
+            redup_mods.write(adjectives)
+            redup_mods.close()
+
+
+    #     try:
+    #         print(columns[4])
+    #         and not str(columns[7]) == 'compound:redup'
+    #         not str(columns[1]).lower() == str(prev_columns[1].lower())\
+    #                             and
+    #          and str(columns[4]) == 'Adj'
     #         if str(columns[3]) == 'ADV' and \
     #                 str(columns[1]).lower().endswith('ken') and not str(columns[1]).lower().endswith('erken') \
     #                 and not str(columns[1]).lower().endswith('irken') and not str(columns[1]).lower().endswith('urken') and not str(columns[1]).lower().endswith('ırken') \
@@ -95,7 +106,6 @@ def read_connlu(treebank):
     #         # print()
     #         pass
     #
-    # # print(w)
     # debups = open("yken_adj.txt", "w+")
     # redup_mods = open("yken_adj_modifiers.txt", "w+")
     # # print(whole_text)
@@ -138,10 +148,8 @@ def read_connlu(treebank):
     #             print(treebank[i - 1])
     #             print(treebank[i])
     #     except IndexError:
-    #         # print()
     #         pass
     #
-    # # # print(w)
     # debups = open("dup_adj.txt", "a+")
     # redup_mods = open("dup_adj_modifiers.txt", "a+")
     #
@@ -154,8 +162,7 @@ def read_connlu(treebank):
     #     redup_mods.write(adjectives)
     #     redup_mods.close()
 
-    #
-    # # print(w)
+
     #     try:
     #         if str(columns[4]) == 'Adj' and \
     #                 str(next_columns[1]).lower() == 'olarak':
@@ -173,7 +180,6 @@ def read_connlu(treebank):
     #             print(treebank[i+1])
     #
     #     except IndexError:
-    #         # print()
     #         pass
     #
     # debups = open("olarak_adj.txt", "a+")
@@ -188,58 +194,6 @@ def read_connlu(treebank):
     #     redup_mods.write(adjectives)
     #     redup_mods.close()
 
-    # print(w)
-    debups = open("bare_adj.txt", "a+")
-    redup_mods = open("bare_adj_modifiers.txt", "a+")
-
-    for i in range(1):
-        debups.write('Number of instances: ' + str(w) + '\n\n')
-        debups.write(whole_text)
-        debups.close()
-
-        redup_mods.write('Number of pairs: ' + str(w2) + '\n\n')
-        redup_mods.write(adjectives)
-        redup_mods.close()
-
-        # if treebank[i-1].__contains__('Adj') and not treebank[i-1].__contains__('NAdj') and not treebank[i].__contains__('NOUN')\
-        #         and not treebank[i].__contains__('Noun'):
-        #     var = True
-        #     print(sentence)
-        #     print(treebank[i-1])
-        #     print(treebank[i])
-        # if treebank[i-1].__contains__('NOUN') and not treebank[i-1].__contains__('Adj') and not treebank[i].__contains__('NOUN')\
-        #         and treebank[i].__contains__('Adj'):
-        #     var = True
-        #     print(sentence)
-        #     print(treebank[i-1])
-        #     print(treebank[i])
-
-        # if str(treebank[i]).__contains__('ADV') and str(treebank[i]).__contains__('Adj') and not str(treebank[i]).__contains__('NAdj'):
-        #     var = True
-        #     a += 1
-        #     print(sentence)
-        #     print(treebank[i])
-        #
-        # if str(treebank[i]).__contains__('ADJ') and str(treebank[i]).__contains__('conj'):
-        #     var = True
-        #     print(sentence)
-        #     print(treebank[i])
-        # if str(treebank[i]).__contains__('ADJ') and str(treebank[i]).__contains__('xcomp'):
-        #     var = True
-        #     print(sentence)
-        #     print(treebank[i])
-
-
-    # print(a)
-    # print(sentences)
-
-    # treebank_sent = open("treebank_sentences.txt", "w+")
-    # for i in range(1):
-    #     print(sentence)
-    #     treebank_sent.write(sentence)
-    #     treebank_sent.close()
-
-# Press the green button in the gutter to run the script.
 def main():
     path = './annotated books'
     folder_paths=[]
